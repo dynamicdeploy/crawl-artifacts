@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T12:36:41.758808",
+    "crawler_type": "github",
+    "filename": "github_20250818_193633_014904.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_193633_014904",
+    "url": "https://github.com/YunoHost/yunohost",
+    "title": "GitHub Repository: yunohost",
+    "description": "YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2565, Language: Python",
+    "metadata": {
+      "author": "YunoHost",
+      "stars": 2565,
+      "forks": 308,
+      "language": "Python",
+      "topics": [
+        "python",
+        "self-hosted",
+        "self-hosting",
+        "selfhosted",
+        "yunohost"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:36:27Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "YunoHost",
+      "last_activity": "2025-08-18T19:36:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2565,
+        "forks": 308,
+        "watchers": 2565,
+        "size_kb": 21576,
+        "language": "Python",
+        "topics": [
+          "python",
+          "self-hosted",
+          "self-hosting",
+          "selfhosted",
+          "yunohost"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-18T19:36:33.014908+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
