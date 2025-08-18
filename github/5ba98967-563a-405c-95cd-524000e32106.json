@@ -1,0 +1,54 @@
+{
+  "export_metadata": {
+    "export_date": "2025-08-18T10:18:28.997217",
+    "category": "github",
+    "filename": "5ba98967-563a-405c-95cd-524000e32106.json",
+    "source_collection": "test_sample_5_artifacts.json"
+  },
+  "artifact": {
+    "id": "5ba98967-563a-405c-95cd-524000e32106",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture#vertical-slice-architecture",
+    "title": "Vertical Slice Architecture - Architecture Pattern Guide",
+    "description": "The vertical slice architecture is a technique that helps us build maintainable applications by separating the application around features or vertical slices.",
+    "artifact_type": "architectural_pattern",
+    "source_category": "open_source",
+    "content": "Comprehensive guide and resources for Vertical Slice Architecture including articles, videos, examples, and best practices from the awesome-software-architecture repository",
+    "content_hash": "0c28de170c07e1ef799306035c249c0e19c4a345a35ec1fc53aef7cbb1d5a1f0",
+    "discovered_date": "2025-08-03T10:30:12.751528",
+    "metadata": {
+      "author": "mehdihadeli",
+      "pattern_type": "vertical_slice_architecture",
+      "topics": [
+        "vertical-slice-architecture",
+        "architecture-patterns",
+        "software-design"
+      ],
+      "language": "en",
+      "source_repository": "awesome-software-architecture"
+    },
+    "source_info": {
+      "domain": "github.com",
+      "collection_method": "manual_browsing"
+    },
+    "content_analysis": {
+      "has_architecture_content": true,
+      "content_score": 1,
+      "found_keywords": [
+        "architecture"
+      ],
+      "artifact_types": [
+        "architectural_pattern",
+        "documentation_files",
+        "architecture_files",
+        "code"
+      ],
+      "url_analysis": {
+        "domain": "github.com",
+        "path_indicators": [
+          "architecture"
+        ],
+        "likely_content_type": "github_repository"
+      }
+    }
+  }
+}
