@@ -1,0 +1,61 @@
+{
+  "export_metadata": {
+    "export_date": "2025-08-18T10:18:26.652216",
+    "category": "github",
+    "filename": "d8d1584f-d597-443d-ab9b-5919264a7c58.json",
+    "source_collection": "test_sample_5_artifacts.json"
+  },
+  "artifact": {
+    "id": "d8d1584f-d597-443d-ab9b-5919264a7c58",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "title": "Awesome Software Architecture - Comprehensive Curated List",
+    "description": "A curated list of 9.5k+ starred awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "Comprehensive collection covering Software Architecture, Actor Model, Clean Architecture, Onion Architecture, Hexagonal Architecture, Vertical Slice Architecture, Event Driven Architecture, Service Oriented Architecture, Domain Driven Design, CQRS, Microservices, Modular Monolith, Design Patterns, Cloud Patterns, Systems Design, and more",
+    "content_hash": "b5b9e25b930136b778bfce258ced362cbee41a94f9b6b802373cedaec35fc8dc",
+    "discovered_date": "2025-08-03T10:30:12.750001",
+    "metadata": {
+      "author": "mehdihadeli",
+      "stars": 9500,
+      "forks": 798,
+      "topics": [
+        "software-architecture",
+        "design-patterns",
+        "microservices",
+        "ddd",
+        "clean-architecture",
+        "event-driven-architecture",
+        "system-design"
+      ],
+      "language": "en",
+      "repository_type": "awesome-list",
+      "last_updated": "2024-11-16"
+    },
+    "source_info": {
+      "domain": "github.com",
+      "collection_method": "manual_browsing"
+    },
+    "content_analysis": {
+      "has_architecture_content": true,
+      "content_score": 3,
+      "found_keywords": [
+        "architecture",
+        "microservices",
+        "cloud"
+      ],
+      "artifact_types": [
+        "code",
+        "code_repository",
+        "architecture_files"
+      ],
+      "url_analysis": {
+        "domain": "github.com",
+        "path_indicators": [
+          "architecture"
+        ],
+        "likely_content_type": "github_repository"
+      }
+    }
+  }
+}
