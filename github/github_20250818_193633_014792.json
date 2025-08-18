@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T12:36:40.834128",
+    "crawler_type": "github",
+    "filename": "github_20250818_193633_014792.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_193633_014792",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "title": "GitHub Repository: azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5030, Language: Python",
+    "metadata": {
+      "author": "Azure",
+      "stars": 5030,
+      "forks": 3073,
+      "language": "Python",
+      "topics": [
+        "azure",
+        "azure-sdk",
+        "hacktoberfest",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:33:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Azure",
+      "last_activity": "2025-08-18T19:33:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5030,
+        "forks": 3073,
+        "watchers": 5030,
+        "size_kb": 755404,
+        "language": "Python",
+        "topics": [
+          "azure",
+          "azure-sdk",
+          "hacktoberfest",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-18T19:36:33.014796+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
