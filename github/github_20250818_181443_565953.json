@@ -1,0 +1,32 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T11:14:46.555725",
+    "crawler_type": "github",
+    "filename": "github_20250818_181443_565953.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_181443_565953",
+    "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example",
+    "title": "GitHub Repository: evolutionary-architecture-by-example",
+    "description": "Examples of Clean, Onion, Hexagonal architecture with Tactical Domain-Driven Design",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "High-quality GitHub repository containing software architecture examples and patterns. Stars: 1200",
+    "metadata": {
+      "author": "evolutionary-architecture",
+      "stars": 1200,
+      "topics": [
+        "clean-architecture",
+        "ddd",
+        "hexagonal-architecture"
+      ],
+      "repository_type": "github",
+      "is_curated": true,
+      "language": "en"
+    },
+    "crawled_at": "2025-08-18T18:14:43.565957+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
