@@ -1,0 +1,34 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T10:50:06.422660",
+    "crawler_type": "github",
+    "filename": "github_20250818_175006_362907.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_175006_362907",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "title": "GitHub Repository: awesome-software-architecture",
+    "description": "A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "High-quality GitHub repository containing software architecture examples and patterns. Stars: 9500",
+    "metadata": {
+      "author": "mehdihadeli",
+      "stars": 9500,
+      "topics": [
+        "software-architecture",
+        "design-patterns",
+        "microservices",
+        "ddd",
+        "clean-architecture"
+      ],
+      "repository_type": "github",
+      "is_curated": true,
+      "language": "en"
+    },
+    "crawled_at": "2025-08-18T17:50:06.362931+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
