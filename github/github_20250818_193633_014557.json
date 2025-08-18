@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T12:36:38.807158",
+    "crawler_type": "github",
+    "filename": "github_20250818_193633_014557.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_193633_014557",
+    "url": "https://github.com/searxng/searxng",
+    "title": "GitHub Repository: searxng",
+    "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21239, Language: Python",
+    "metadata": {
+      "author": "searxng",
+      "stars": 21239,
+      "forks": 2159,
+      "language": "Python",
+      "topics": [
+        "hacktoberfest",
+        "metasearch",
+        "metasearch-engine",
+        "python",
+        "search",
+        "searxng"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:33:33Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "searxng",
+      "last_activity": "2025-08-18T19:33:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21239,
+        "forks": 2159,
+        "watchers": 21239,
+        "size_kb": 95184,
+        "language": "Python",
+        "topics": [
+          "hacktoberfest",
+          "metasearch",
+          "metasearch-engine",
+          "python",
+          "search",
+          "searxng"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-18T19:36:33.014561+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
