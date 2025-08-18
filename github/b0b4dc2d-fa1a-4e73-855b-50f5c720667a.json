@@ -1,0 +1,54 @@
+{
+  "export_metadata": {
+    "export_date": "2025-08-18T10:18:24.601810",
+    "category": "github",
+    "filename": "b0b4dc2d-fa1a-4e73-855b-50f5c720667a.json",
+    "source_collection": "test_sample_5_artifacts.json"
+  },
+  "artifact": {
+    "id": "b0b4dc2d-fa1a-4e73-855b-50f5c720667a",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture#hexagonal-architecture",
+    "title": "Hexagonal Architecture - Architecture Pattern Guide",
+    "description": "The Hexagonal Architecture or Ports and Adapters architecture, introduced by Alistair Cockburn and it's an architectural pattern that allows input by users or external systems to arrive into the Application at a Port via an Adapter",
+    "artifact_type": "architectural_pattern",
+    "source_category": "open_source",
+    "content": "Comprehensive guide and resources for Hexagonal Architecture including articles, videos, examples, and best practices from the awesome-software-architecture repository",
+    "content_hash": "61544ebd527b2336e4a658bedea9b911e4d2a2bb19fdb9c0044fe07b5ed6e787",
+    "discovered_date": "2025-08-03T10:30:12.751501",
+    "metadata": {
+      "author": "mehdihadeli",
+      "pattern_type": "hexagonal_architecture",
+      "topics": [
+        "hexagonal-architecture",
+        "architecture-patterns",
+        "software-design"
+      ],
+      "language": "en",
+      "source_repository": "awesome-software-architecture"
+    },
+    "source_info": {
+      "domain": "github.com",
+      "collection_method": "manual_browsing"
+    },
+    "content_analysis": {
+      "has_architecture_content": true,
+      "content_score": 1,
+      "found_keywords": [
+        "architecture"
+      ],
+      "artifact_types": [
+        "architectural_pattern",
+        "documentation_files",
+        "architecture_files",
+        "code"
+      ],
+      "url_analysis": {
+        "domain": "github.com",
+        "path_indicators": [
+          "architecture"
+        ],
+        "likely_content_type": "github_repository"
+      }
+    }
+  }
+}
