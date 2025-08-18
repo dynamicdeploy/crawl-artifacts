@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T12:36:39.898016",
+    "crawler_type": "github",
+    "filename": "github_20250818_193633_014672.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_193633_014672",
+    "url": "https://github.com/semgrep/semgrep",
+    "title": "GitHub Repository: semgrep",
+    "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12526, Language: OCaml",
+    "metadata": {
+      "author": "semgrep",
+      "stars": 12526,
+      "forks": 758,
+      "language": "OCaml",
+      "topics": [
+        "c",
+        "go",
+        "java",
+        "javascript",
+        "python",
+        "r2c",
+        "ruby",
+        "sast",
+        "semgrep",
+        "static-analysis",
+        "static-code-analysis",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:35:35Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "semgrep",
+      "last_activity": "2025-08-18T19:35:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12526,
+        "forks": 758,
+        "watchers": 12526,
+        "size_kb": 92291,
+        "language": "OCaml",
+        "topics": [
+          "c",
+          "go",
+          "java",
+          "javascript",
+          "python",
+          "r2c",
+          "ruby",
+          "sast",
+          "semgrep",
+          "static-analysis",
+          "static-code-analysis",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-18T19:36:33.014677+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
