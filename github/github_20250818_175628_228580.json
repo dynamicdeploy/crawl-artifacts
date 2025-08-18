@@ -1,0 +1,32 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T10:56:32.524379",
+    "crawler_type": "github",
+    "filename": "github_20250818_175628_228580.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_175628_228580",
+    "url": "https://github.com/ByteByteGoHq/system-design-101",
+    "title": "GitHub Repository: system-design-101",
+    "description": "Explain complex systems using visuals and simple terms",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "High-quality GitHub repository containing software architecture examples and patterns. Stars: 63000",
+    "metadata": {
+      "author": "ByteByteGoHq",
+      "stars": 63000,
+      "topics": [
+        "system-design",
+        "interview-prep",
+        "distributed-systems"
+      ],
+      "repository_type": "github",
+      "is_curated": true,
+      "language": "en"
+    },
+    "crawled_at": "2025-08-18T17:56:28.228583+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
