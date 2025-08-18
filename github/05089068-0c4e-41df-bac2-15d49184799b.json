@@ -1,0 +1,54 @@
+{
+  "export_metadata": {
+    "export_date": "2025-08-18T10:18:27.716886",
+    "category": "github",
+    "filename": "05089068-0c4e-41df-bac2-15d49184799b.json",
+    "source_collection": "test_sample_5_artifacts.json"
+  },
+  "artifact": {
+    "id": "05089068-0c4e-41df-bac2-15d49184799b",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture#onion-architecture",
+    "title": "Onion Architecture - Architecture Pattern Guide",
+    "description": "The Onion architecture, introduced by Jeffrey Palermo, and it is a form of layered architecture and we can visualize these layers as concentric circles.",
+    "artifact_type": "architectural_pattern",
+    "source_category": "open_source",
+    "content": "Comprehensive guide and resources for Onion Architecture including articles, videos, examples, and best practices from the awesome-software-architecture repository",
+    "content_hash": "e212f10c51a11ad59c082181e177741c1df9b3ad7f2c4a943764f9cc2d9384ec",
+    "discovered_date": "2025-08-03T10:30:12.751459",
+    "metadata": {
+      "author": "mehdihadeli",
+      "pattern_type": "onion_architecture",
+      "topics": [
+        "onion-architecture",
+        "architecture-patterns",
+        "software-design"
+      ],
+      "language": "en",
+      "source_repository": "awesome-software-architecture"
+    },
+    "source_info": {
+      "domain": "github.com",
+      "collection_method": "manual_browsing"
+    },
+    "content_analysis": {
+      "has_architecture_content": true,
+      "content_score": 1,
+      "found_keywords": [
+        "architecture"
+      ],
+      "artifact_types": [
+        "architectural_pattern",
+        "documentation_files",
+        "architecture_files",
+        "code"
+      ],
+      "url_analysis": {
+        "domain": "github.com",
+        "path_indicators": [
+          "architecture"
+        ],
+        "likely_content_type": "github_repository"
+      }
+    }
+  }
+}
