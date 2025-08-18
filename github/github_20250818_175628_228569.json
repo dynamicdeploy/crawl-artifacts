@@ -1,0 +1,33 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T10:56:30.475773",
+    "crawler_type": "github",
+    "filename": "github_20250818_175628_228569.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250818_175628_228569",
+    "url": "https://github.com/android/architecture-samples",
+    "title": "GitHub Repository: architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "High-quality GitHub repository containing software architecture examples and patterns. Stars: 45200",
+    "metadata": {
+      "author": "android",
+      "stars": 45200,
+      "topics": [
+        "android",
+        "architecture",
+        "mvvm",
+        "clean-architecture"
+      ],
+      "repository_type": "github",
+      "is_curated": true,
+      "language": "en"
+    },
+    "crawled_at": "2025-08-18T17:56:28.228572+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
