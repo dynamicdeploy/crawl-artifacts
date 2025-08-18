@@ -1,0 +1,54 @@
+{
+  "export_metadata": {
+    "export_date": "2025-08-18T10:18:25.674142",
+    "category": "github",
+    "filename": "afce5d86-0372-44f8-9532-2797bf94c86f.json",
+    "source_collection": "test_sample_5_artifacts.json"
+  },
+  "artifact": {
+    "id": "afce5d86-0372-44f8-9532-2797bf94c86f",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture#clean-architecture",
+    "title": "Clean Architecture - Architecture Pattern Guide",
+    "description": "The Clean Architecture is the system architecture guideline proposed by Robert C. Martin (Uncle Bob) derived from many architectural guidelines like Hexagonal Architecture, Onion Architecture, etc...",
+    "artifact_type": "architectural_pattern",
+    "source_category": "open_source",
+    "content": "Comprehensive guide and resources for Clean Architecture including articles, videos, examples, and best practices from the awesome-software-architecture repository",
+    "content_hash": "38e81ef4327b5de8dec317a7d56990c61348c5ece3b688c409476e168b364f54",
+    "discovered_date": "2025-08-03T10:30:12.751418",
+    "metadata": {
+      "author": "mehdihadeli",
+      "pattern_type": "clean_architecture",
+      "topics": [
+        "clean-architecture",
+        "architecture-patterns",
+        "software-design"
+      ],
+      "language": "en",
+      "source_repository": "awesome-software-architecture"
+    },
+    "source_info": {
+      "domain": "github.com",
+      "collection_method": "manual_browsing"
+    },
+    "content_analysis": {
+      "has_architecture_content": true,
+      "content_score": 1,
+      "found_keywords": [
+        "architecture"
+      ],
+      "artifact_types": [
+        "architectural_pattern",
+        "documentation_files",
+        "architecture_files",
+        "code"
+      ],
+      "url_analysis": {
+        "domain": "github.com",
+        "path_indicators": [
+          "architecture"
+        ],
+        "likely_content_type": "github_repository"
+      }
+    }
+  }
+}
