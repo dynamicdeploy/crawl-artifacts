@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:09.044795",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_259785.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_259785",
+    "url": "https://github.com/jj-vcs/jj",
+    "title": "GitHub Repository: jj",
+    "description": "A Git-compatible VCS that is both simple and powerful",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 18838, Language: Rust",
+    "metadata": {
+      "author": "jj-vcs",
+      "stars": 18838,
+      "forks": 643,
+      "language": "Rust",
+      "topics": [
+        "cli",
+        "git",
+        "jj",
+        "jujutsu",
+        "mercurial",
+        "vcs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:22Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jj-vcs",
+      "last_activity": "2025-08-19T06:42:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 18838,
+        "forks": 643,
+        "watchers": 18838,
+        "size_kb": 52741,
+        "language": "Rust",
+        "topics": [
+          "cli",
+          "git",
+          "jj",
+          "jujutsu",
+          "mercurial",
+          "vcs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.259795+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
