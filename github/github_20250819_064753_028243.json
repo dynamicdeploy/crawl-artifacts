@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:05.745685",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_028243.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_028243",
+    "url": "https://github.com/enaqx/awesome-react",
+    "title": "GitHub Repository: awesome-react",
+    "description": "A collection of awesome things regarding React ecosystem",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 69456, Language: None",
+    "metadata": {
+      "author": "enaqx",
+      "stars": 69456,
+      "forks": 7403,
+      "language": "en",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "javascript",
+        "react",
+        "react-apps",
+        "react-native",
+        "react-tutorial",
+        "samples",
+        "tutorial",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:34:00Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "enaqx",
+      "last_activity": "2025-08-19T05:34:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 69456,
+        "forks": 7403,
+        "watchers": 69456,
+        "size_kb": 2576,
+        "language": null,
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "javascript",
+          "react",
+          "react-apps",
+          "react-native",
+          "react-tutorial",
+          "samples",
+          "tutorial",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.028246+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
