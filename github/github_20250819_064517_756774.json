@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:49.853203",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_756774.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_756774",
+    "url": "https://github.com/codecentric/spring-boot-admin",
+    "title": "GitHub Repository: spring-boot-admin",
+    "description": "Admin UI for administration of spring boot applications",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12658, Language: Java",
+    "metadata": {
+      "author": "codecentric",
+      "stars": 12658,
+      "forks": 3096,
+      "language": "Java",
+      "topics": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-boot-admin",
+        "spring-cloud"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:39Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "codecentric",
+      "last_activity": "2025-08-19T06:43:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12658,
+        "forks": 3096,
+        "watchers": 12658,
+        "size_kb": 82838,
+        "language": "Java",
+        "topics": [
+          "java",
+          "spring",
+          "spring-boot",
+          "spring-boot-admin",
+          "spring-cloud"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.756778+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
