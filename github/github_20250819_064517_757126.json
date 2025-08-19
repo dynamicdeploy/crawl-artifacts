@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:52.869536",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_757126.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_757126",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "title": "GitHub Repository: OpenMetadata",
+    "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7339, Language: TypeScript",
+    "metadata": {
+      "author": "open-metadata",
+      "stars": 7339,
+      "forks": 1377,
+      "language": "TypeScript",
+      "topics": [
+        "data-catalog",
+        "data-collaboration",
+        "data-contracts",
+        "data-discovery",
+        "data-governance",
+        "data-lineage",
+        "data-observability",
+        "data-profiling",
+        "data-quality",
+        "data-quality-checks",
+        "data-validation",
+        "datadiscovery",
+        "dataengineering",
+        "dataquality",
+        "mcp",
+        "mcp-server",
+        "metadata",
+        "metadata-management",
+        "snowflake"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "open-metadata",
+      "last_activity": "2025-08-19T06:44:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7339,
+        "forks": 1377,
+        "watchers": 7339,
+        "size_kb": 2842850,
+        "language": "TypeScript",
+        "topics": [
+          "data-catalog",
+          "data-collaboration",
+          "data-contracts",
+          "data-discovery",
+          "data-governance",
+          "data-lineage",
+          "data-observability",
+          "data-profiling",
+          "data-quality",
+          "data-quality-checks",
+          "data-validation",
+          "datadiscovery",
+          "dataengineering",
+          "dataquality",
+          "mcp",
+          "mcp-server",
+          "metadata",
+          "metadata-management",
+          "snowflake"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.757130+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
