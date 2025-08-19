@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:39.756156",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_654213.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_654213",
+    "url": "https://github.com/salmito/leda",
+    "title": "GitHub Repository: leda",
+    "description": "Leda is a SEDA (Staged Event-Driven Architecture) implementation in Lua.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 28, Language: Lua",
+    "metadata": {
+      "author": "salmito",
+      "stars": 28,
+      "forks": 0,
+      "language": "Lua",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-18T18:34:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "salmito",
+      "last_activity": "2025-06-18T18:34:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 28,
+        "forks": 0,
+        "watchers": 28,
+        "size_kb": 31236,
+        "language": "Lua",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.654216+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
