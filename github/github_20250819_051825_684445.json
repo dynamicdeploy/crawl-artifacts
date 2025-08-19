@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:06.838049",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_684445.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_684445",
+    "url": "https://github.com/luisobo/clean-architecture",
+    "title": "GitHub Repository: clean-architecture",
+    "description": "An example of a Clean Architecture for an iOS app",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 140, Language: Objective-C",
+    "metadata": {
+      "author": "luisobo",
+      "stars": 140,
+      "forks": 20,
+      "language": "Objective-C",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:02:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "luisobo",
+      "last_activity": "2025-08-18T19:02:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 140,
+        "forks": 20,
+        "watchers": 140,
+        "size_kb": 145,
+        "language": "Objective-C",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.684449+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
