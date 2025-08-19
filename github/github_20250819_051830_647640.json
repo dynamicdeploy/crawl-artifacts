@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:01.807408",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_647640.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_647640",
+    "url": "https://github.com/Armando1514/Event-Driven-Microservices-Advanced",
+    "title": "GitHub Repository: Event-Driven-Microservices-Advanced",
+    "description": "Event-Driven Architecture for a microservices-based system with a clean architecture + Domain Driven Design (DDD) + CQRS pattern + Saga pattern + Outbox pattern + CDC.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 121, Language: Java",
+    "metadata": {
+      "author": "Armando1514",
+      "stars": 121,
+      "forks": 43,
+      "language": "Java",
+      "topics": [
+        "change-data-capture",
+        "clean-architecture",
+        "cqrs-pattern",
+        "docker",
+        "domain-driven-design",
+        "event-driven-architecture",
+        "helm",
+        "kafka",
+        "kubernetes",
+        "microservices",
+        "outbox-pattern",
+        "saga-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-26T05:23:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Armando1514",
+      "last_activity": "2025-07-26T05:23:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 121,
+        "forks": 43,
+        "watchers": 121,
+        "size_kb": 21728,
+        "language": "Java",
+        "topics": [
+          "change-data-capture",
+          "clean-architecture",
+          "cqrs-pattern",
+          "docker",
+          "domain-driven-design",
+          "event-driven-architecture",
+          "helm",
+          "kafka",
+          "kubernetes",
+          "microservices",
+          "outbox-pattern",
+          "saga-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.647643+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
