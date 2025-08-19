@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:41.332461",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_405872.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_405872",
+    "url": "https://github.com/streetwriters/notesnook",
+    "title": "GitHub Repository: notesnook",
+    "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12458, Language: TypeScript",
+    "metadata": {
+      "author": "streetwriters",
+      "stars": 12458,
+      "forks": 812,
+      "language": "TypeScript",
+      "topics": [
+        "asp-net-core",
+        "dotnet-core",
+        "electron",
+        "foss",
+        "hacktoberfest",
+        "note-managment",
+        "note-taking",
+        "note-taking-app",
+        "notebook",
+        "notes",
+        "notes-app",
+        "open-source",
+        "opensource",
+        "privacy",
+        "productivity",
+        "react",
+        "react-native",
+        "reactjs",
+        "self-hosted"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:52:34Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "streetwriters",
+      "last_activity": "2025-08-19T04:52:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12458,
+        "forks": 812,
+        "watchers": 12458,
+        "size_kb": 264023,
+        "language": "TypeScript",
+        "topics": [
+          "asp-net-core",
+          "dotnet-core",
+          "electron",
+          "foss",
+          "hacktoberfest",
+          "note-managment",
+          "note-taking",
+          "note-taking-app",
+          "notebook",
+          "notes",
+          "notes-app",
+          "open-source",
+          "opensource",
+          "privacy",
+          "productivity",
+          "react",
+          "react-native",
+          "reactjs",
+          "self-hosted"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.405875+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
