@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:23.485199",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_617035.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_617035",
+    "url": "https://github.com/CodelyTV/typescript-ddd-skeleton",
+    "title": "GitHub Repository: typescript-ddd-skeleton",
+    "description": "🔷✨ TypeScript DDD Skeleton: Bootstrap your new TypeScript project applying Hexagonal Architecture and Domain-Driven Design patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 466, Language: TypeScript",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 466,
+      "forks": 54,
+      "language": "TypeScript",
+      "topics": [
+        "codely",
+        "codelytv",
+        "course",
+        "cqrs",
+        "ddd",
+        "ddd-architecture",
+        "ddd-cqrs",
+        "ddd-example",
+        "domain-driven-design",
+        "hexagonal-architecture",
+        "mongodb",
+        "node",
+        "node-js",
+        "nodejs",
+        "postgresql",
+        "software-architecture",
+        "ts",
+        "typeorm",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T18:01:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-08-13T18:01:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 466,
+        "forks": 54,
+        "watchers": 466,
+        "size_kb": 251,
+        "language": "TypeScript",
+        "topics": [
+          "codely",
+          "codelytv",
+          "course",
+          "cqrs",
+          "ddd",
+          "ddd-architecture",
+          "ddd-cqrs",
+          "ddd-example",
+          "domain-driven-design",
+          "hexagonal-architecture",
+          "mongodb",
+          "node",
+          "node-js",
+          "nodejs",
+          "postgresql",
+          "software-architecture",
+          "ts",
+          "typeorm",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.617041+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
