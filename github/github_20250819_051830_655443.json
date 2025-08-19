@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:48.455416",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_655443.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_655443",
+    "url": "https://github.com/derberg/Documenting-Event-Driven-Architectures---Workshop-Script",
+    "title": "GitHub Repository: Documenting-Event-Driven-Architectures---Workshop-Script",
+    "description": "This is a script for workshop about documenting EDA with AsyncAPI",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21, Language: None",
+    "metadata": {
+      "author": "derberg",
+      "stars": 21,
+      "forks": 5,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-01-12T16:09:46Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "derberg",
+      "last_activity": "2025-01-12T16:09:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21,
+        "forks": 5,
+        "watchers": 21,
+        "size_kb": 6257,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.655447+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
