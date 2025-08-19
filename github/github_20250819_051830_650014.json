@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:19.724613",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_650014.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_650014",
+    "url": "https://github.com/clue/reactphp-eventsource",
+    "title": "GitHub Repository: reactphp-eventsource",
+    "description": "Instant real-time updates. Lightweight EventSource client receiving live messages via HTML5 Server-Sent Events (SSE). Fast stream processing built on top of ReactPHP's event-driven architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 55, Language: PHP",
+    "metadata": {
+      "author": "clue",
+      "stars": 55,
+      "forks": 13,
+      "language": "PHP",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-02T00:54:34Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "clue",
+      "last_activity": "2025-07-02T00:54:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 55,
+        "forks": 13,
+        "watchers": 55,
+        "size_kb": 83,
+        "language": "PHP",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.650017+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
