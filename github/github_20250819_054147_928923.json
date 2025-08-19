@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:31.706662",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_928923.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_928923",
+    "url": "https://github.com/freebsd/freebsd-ports",
+    "title": "GitHub Repository: freebsd-ports",
+    "description": "FreeBSD ports tree (read-only mirror)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1077, Language: Makefile",
+    "metadata": {
+      "author": "freebsd",
+      "stars": 1077,
+      "forks": 803,
+      "language": "Makefile",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:40:13Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "freebsd",
+      "last_activity": "2025-08-19T05:40:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1077,
+        "forks": 803,
+        "watchers": 1077,
+        "size_kb": 2508804,
+        "language": "Makefile",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.928926+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
