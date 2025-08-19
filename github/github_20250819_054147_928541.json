@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:28.519903",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_928541.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_928541",
+    "url": "https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono",
+    "title": "GitHub Repository: Fusion-JetBrainsMapleMono",
+    "description": "JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1564, Language: None",
+    "metadata": {
+      "author": "SpaceTimee",
+      "stars": 1564,
+      "forks": 19,
+      "language": "en",
+      "topics": [
+        "font",
+        "fusion",
+        "github-actions",
+        "github-workflows",
+        "jetbrains-mono",
+        "jetbrainsmaplemono",
+        "maple-font",
+        "maple-mono"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:39:57Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "SpaceTimee",
+      "last_activity": "2025-08-19T05:39:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1564,
+        "forks": 19,
+        "watchers": 1564,
+        "size_kb": 143744,
+        "language": null,
+        "topics": [
+          "font",
+          "fusion",
+          "github-actions",
+          "github-workflows",
+          "jetbrains-mono",
+          "jetbrainsmaplemono",
+          "maple-font",
+          "maple-mono"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.928544+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
