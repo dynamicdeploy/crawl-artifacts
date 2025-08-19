@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:19.352503",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_686440.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_686440",
+    "url": "https://github.com/claudiosw/python-clean-architecture-example",
+    "title": "GitHub Repository: python-clean-architecture-example",
+    "description": "This project is a Python Clean Architecture example that uses Flask, SQLAlchemy and PostgreSQL",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 98, Language: Python",
+    "metadata": {
+      "author": "claudiosw",
+      "stars": 98,
+      "forks": 13,
+      "language": "Python",
+      "topics": [
+        "clean-architecture",
+        "flask",
+        "postgresql",
+        "python",
+        "sqlalchemy"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-09T17:03:05Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "claudiosw",
+      "last_activity": "2025-08-09T17:03:05Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 98,
+        "forks": 13,
+        "watchers": 98,
+        "size_kb": 3016,
+        "language": "Python",
+        "topics": [
+          "clean-architecture",
+          "flask",
+          "postgresql",
+          "python",
+          "sqlalchemy"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.686446+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
