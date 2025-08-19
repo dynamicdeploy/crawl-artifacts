@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:37:29.950156",
+    "crawler_type": "github",
+    "filename": "github_20250819_063649_125814.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_063649_125814",
+    "url": "https://github.com/ccamara/awesome-architecture",
+    "title": "GitHub Repository: awesome-architecture",
+    "description": "A curated list of awesome Architecture software, libraries, resources and shiny things",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22, Language: Python",
+    "metadata": {
+      "author": "ccamara",
+      "stars": 22,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-04T03:22:02Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ccamara",
+      "last_activity": "2025-07-04T03:22:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22,
+        "forks": 8,
+        "watchers": 22,
+        "size_kb": 11,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T06:36:49.125817+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
