@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:32:02.184732",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_623114.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_623114",
+    "url": "https://github.com/Azure-Samples/cosmos-db-design-patterns",
+    "title": "GitHub Repository: cosmos-db-design-patterns",
+    "description": "A collection of design pattern samples for building applications and services with Azure Cosmos DB for NoSQL.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 213, Language: C#",
+    "metadata": {
+      "author": "Azure-Samples",
+      "stars": 213,
+      "forks": 45,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "azure",
+        "cosmos-db",
+        "csharp",
+        "design",
+        "patterns"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-29T08:40:58Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "Azure-Samples",
+      "last_activity": "2025-06-29T08:40:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 213,
+        "forks": 45,
+        "watchers": 213,
+        "size_kb": 3809,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "azure",
+          "cosmos-db",
+          "csharp",
+          "design",
+          "patterns"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.623118+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
