@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:19:55.368373",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_929149.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_929149",
+    "url": "https://github.com/humank/genai-demo",
+    "title": "GitHub Repository: genai-demo",
+    "description": "This project is a tutorial for demonstrating the implementation of various tactical patterns in Domain-Driven Design (DDD). It uses an e-commerce order system as an example to showcase how to apply DDD concepts and patterns in a real-world application.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 24, Language: Java",
+    "metadata": {
+      "author": "humank",
+      "stars": 24,
+      "forks": 8,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T10:49:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "humank",
+      "last_activity": "2025-08-15T10:49:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 24,
+        "forks": 8,
+        "watchers": 24,
+        "size_kb": 13532,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.929153+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
