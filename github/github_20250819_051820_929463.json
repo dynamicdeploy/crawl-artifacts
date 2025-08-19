@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:19:58.434079",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_929463.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_929463",
+    "url": "https://github.com/hoangsonww/Banking-System-Simulator",
+    "title": "GitHub Repository: Banking-System-Simulator",
+    "description": "🏦 This repository features a Banking System Simulator developed in C. It simulates basic banking operations such as account creation, deposits, withdrawals, and account inquiries, offering a practical example of system design and management for developers exploring financial applications programming.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 23, Language: C",
+    "metadata": {
+      "author": "hoangsonww",
+      "stars": 23,
+      "forks": 12,
+      "language": "C",
+      "topics": [
+        "algorithms",
+        "bank",
+        "bank-account",
+        "banking",
+        "banking-applications",
+        "banking-system",
+        "banking-system-demo",
+        "c",
+        "simulation",
+        "simulator"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-31T04:04:03Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hoangsonww",
+      "last_activity": "2025-05-31T04:04:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 23,
+        "forks": 12,
+        "watchers": 23,
+        "size_kb": 6,
+        "language": "C",
+        "topics": [
+          "algorithms",
+          "bank",
+          "bank-account",
+          "banking",
+          "banking-applications",
+          "banking-system",
+          "banking-system-demo",
+          "c",
+          "simulation",
+          "simulator"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.929467+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
