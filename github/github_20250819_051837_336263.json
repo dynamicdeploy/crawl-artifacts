@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:13.539674",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_336263.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_336263",
+    "url": "https://github.com/hawkins6423/TriggerPattern",
+    "title": "GitHub Repository: TriggerPattern",
+    "description": "Example of the Trigger Pattern with CQRS",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3, Language: F#",
+    "metadata": {
+      "author": "hawkins6423",
+      "stars": 3,
+      "forks": 0,
+      "language": "F#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2015-12-27T11:14:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hawkins6423",
+      "last_activity": "2015-12-27T11:14:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3,
+        "forks": 0,
+        "watchers": 3,
+        "size_kb": 22,
+        "language": "F#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.336270+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
