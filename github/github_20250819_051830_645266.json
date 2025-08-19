@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:38.873421",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_645266.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_645266",
+    "url": "https://github.com/gvolpe/trading",
+    "title": "GitHub Repository: trading",
+    "description": "💱 Trading application written in Scala 3 that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 646, Language: Scala",
+    "metadata": {
+      "author": "gvolpe",
+      "stars": 646,
+      "forks": 75,
+      "language": "Scala",
+      "topics": [
+        "apache-kafka",
+        "apache-pulsar",
+        "cats-effect",
+        "eda",
+        "elm",
+        "elm-architecture",
+        "elm-lang",
+        "event-driven-architecture",
+        "fp",
+        "fs2",
+        "functional-programming",
+        "grafana",
+        "open-tracing",
+        "prometheus",
+        "scala",
+        "scala3",
+        "web-sockets",
+        "websockets"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T18:33:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "gvolpe",
+      "last_activity": "2025-08-14T18:33:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 646,
+        "forks": 75,
+        "watchers": 646,
+        "size_kb": 24695,
+        "language": "Scala",
+        "topics": [
+          "apache-kafka",
+          "apache-pulsar",
+          "cats-effect",
+          "eda",
+          "elm",
+          "elm-architecture",
+          "elm-lang",
+          "event-driven-architecture",
+          "fp",
+          "fs2",
+          "functional-programming",
+          "grafana",
+          "open-tracing",
+          "prometheus",
+          "scala",
+          "scala3",
+          "web-sockets",
+          "websockets"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.645269+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
