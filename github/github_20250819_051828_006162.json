@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:39.788397",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_006162.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_006162",
+    "url": "https://github.com/eclipse-ee4j/cargotracker",
+    "title": "GitHub Repository: cargotracker",
+    "description": "The project demonstrates how you can develop applications with Jakarta EE using widely adopted architectural best practices like Domain-Driven Design (DDD).",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 363, Language: JavaScript",
+    "metadata": {
+      "author": "eclipse-ee4j",
+      "stars": 363,
+      "forks": 162,
+      "language": "JavaScript",
+      "topics": [
+        "ddd",
+        "domain-driven-design",
+        "jakartaee",
+        "java",
+        "javaee"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:20:45Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "eclipse-ee4j",
+      "last_activity": "2025-08-13T11:20:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 363,
+        "forks": 162,
+        "watchers": 363,
+        "size_kb": 85042,
+        "language": "JavaScript",
+        "topics": [
+          "ddd",
+          "domain-driven-design",
+          "jakartaee",
+          "java",
+          "javaee"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.006607+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
