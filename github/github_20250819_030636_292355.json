@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:40.954930",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_292355.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_292355",
+    "url": "https://github.com/facebook/create-react-app",
+    "title": "GitHub Repository: create-react-app",
+    "description": "Set up a modern web app by running one command.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 103434, Language: JavaScript",
+    "metadata": {
+      "author": "facebook",
+      "stars": 103434,
+      "forks": 27066,
+      "language": "JavaScript",
+      "topics": [
+        "build-tools",
+        "react",
+        "zero-configuration"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T01:17:50Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "facebook",
+      "last_activity": "2025-08-19T01:17:50Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 103434,
+        "forks": 27066,
+        "watchers": 103434,
+        "size_kb": 25186,
+        "language": "JavaScript",
+        "topics": [
+          "build-tools",
+          "react",
+          "zero-configuration"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.292361+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
