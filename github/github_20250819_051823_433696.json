@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:23.031503",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_433696.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_433696",
+    "url": "https://github.com/Agentfy-io/Agentfy",
+    "title": "GitHub Repository: Agentfy",
+    "description": "🤖 Agentfy is a modular microservices architecture designed to process user requests and execute workflows across multiple social media platforms.  ASK ONCE, LET THE AGENT DO THE REST!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 200, Language: Python",
+    "metadata": {
+      "author": "Agentfy-io",
+      "stars": 200,
+      "forks": 38,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T03:53:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Agentfy-io",
+      "last_activity": "2025-08-13T03:53:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 200,
+        "forks": 38,
+        "watchers": 200,
+        "size_kb": 37663,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.433699+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
