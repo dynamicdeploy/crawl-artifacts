@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:39.528869",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_169532.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_169532",
+    "url": "https://github.com/mkejeiri/Domain-Driven-Design",
+    "title": "GitHub Repository: Domain-Driven-Design",
+    "description": "Nhibernate, Onion Architecture, Rich domain model, WPF, HILO, events driven design...",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 77, Language: C#",
+    "metadata": {
+      "author": "mkejeiri",
+      "stars": 77,
+      "forks": 14,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-16T19:28:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mkejeiri",
+      "last_activity": "2025-08-16T19:28:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 77,
+        "forks": 14,
+        "watchers": 77,
+        "size_kb": 63364,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.169536+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
