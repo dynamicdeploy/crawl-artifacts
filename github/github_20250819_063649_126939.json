@@ -1,0 +1,55 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:37:41.342907",
+    "crawler_type": "github",
+    "filename": "github_20250819_063649_126939.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_063649_126939",
+    "url": "https://github.com/drveillard/software-architecture",
+    "title": "GitHub Repository: software-architecture",
+    "description": "A collection of awesome software, libraries and frameworks, design and architecture principles, books and videos, important resources and best practices about Software Development & Architecture. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: None",
+    "metadata": {
+      "author": "drveillard",
+      "stars": 2,
+      "forks": 0,
+      "language": "en",
+      "topics": [
+        "software-development"
+      ],
+      "repository_type": "github",
+      "last_updated": "2022-11-17T19:25:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "drveillard",
+      "last_activity": "2022-11-17T19:25:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 257,
+        "language": null,
+        "topics": [
+          "software-development"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:36:49.126942+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
