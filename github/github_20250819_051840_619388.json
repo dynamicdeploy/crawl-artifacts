@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:41.327489",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_619388.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_619388",
+    "url": "https://github.com/jakubkinst/Android-ViewModelBinding",
+    "title": "GitHub Repository: Android-ViewModelBinding",
+    "description": "A lightweight library aiming to speed up Android app development by leveraging the new Android Data Binding together with the Model-View-ViewModel design pattern.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 293, Language: Java",
+    "metadata": {
+      "author": "jakubkinst",
+      "stars": 293,
+      "forks": 31,
+      "language": "Java",
+      "topics": [
+        "android",
+        "architecture",
+        "binding",
+        "mvvm",
+        "viewmodel"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-01-22T07:37:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jakubkinst",
+      "last_activity": "2025-01-22T07:37:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 293,
+        "forks": 31,
+        "watchers": 293,
+        "size_kb": 569,
+        "language": "Java",
+        "topics": [
+          "android",
+          "architecture",
+          "binding",
+          "mvvm",
+          "viewmodel"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.619402+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
