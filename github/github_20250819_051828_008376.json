@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:45.773832",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_008376.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_008376",
+    "url": "https://github.com/henriquelourente/Domain-Driven-Design-Sample",
+    "title": "GitHub Repository: Domain-Driven-Design-Sample",
+    "description": "ASP.NET Core sample with DDD concepts ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 318, Language: C#",
+    "metadata": {
+      "author": "henriquelourente",
+      "stars": 318,
+      "forks": 44,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "elasticsearch",
+        "entity-framework-core",
+        "rabbitmq",
+        "xunit"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T18:33:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "henriquelourente",
+      "last_activity": "2025-08-15T18:33:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 318,
+        "forks": 44,
+        "watchers": 318,
+        "size_kb": 125,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "elasticsearch",
+          "entity-framework-core",
+          "rabbitmq",
+          "xunit"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.008393+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
