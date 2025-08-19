@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:08:01.262529",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_290495.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_290495",
+    "url": "https://github.com/apache/apisix-dashboard",
+    "title": "GitHub Repository: apisix-dashboard",
+    "description": "Dashboard for Apache APISIX",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1110, Language: TypeScript",
+    "metadata": {
+      "author": "apache",
+      "stars": 1110,
+      "forks": 564,
+      "language": "TypeScript",
+      "topics": [
+        "api",
+        "api-management",
+        "apisix",
+        "dashboard",
+        "devops"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:06:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "apache",
+      "last_activity": "2025-08-19T03:06:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1110,
+        "forks": 564,
+        "watchers": 1110,
+        "size_kb": 16792,
+        "language": "TypeScript",
+        "topics": [
+          "api",
+          "api-management",
+          "apisix",
+          "dashboard",
+          "devops"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.290500+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
