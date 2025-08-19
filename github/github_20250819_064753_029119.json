@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:15.466106",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_029119.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_029119",
+    "url": "https://github.com/fastrepl/hyprnote",
+    "title": "GitHub Repository: hyprnote",
+    "description": "Local-first AI Notepad for Private Meetings",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5346, Language: TypeScript",
+    "metadata": {
+      "author": "fastrepl",
+      "stars": 5346,
+      "forks": 284,
+      "language": "TypeScript",
+      "topics": [
+        "local-first",
+        "notetaking",
+        "open-source",
+        "react",
+        "rust",
+        "tauri",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:46:18Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "fastrepl",
+      "last_activity": "2025-08-19T06:46:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5346,
+        "forks": 284,
+        "watchers": 5346,
+        "size_kb": 266297,
+        "language": "TypeScript",
+        "topics": [
+          "local-first",
+          "notetaking",
+          "open-source",
+          "react",
+          "rust",
+          "tauri",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.029122+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
