@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:55.034177",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_293887.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_293887",
+    "url": "https://github.com/tinyplex/tinybase",
+    "title": "GitHub Repository: tinybase",
+    "description": "A reactive data store & sync engine.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 4664, Language: TypeScript",
+    "metadata": {
+      "author": "tinyplex",
+      "stars": 4664,
+      "forks": 116,
+      "language": "TypeScript",
+      "topics": [
+        "data",
+        "javascript",
+        "react",
+        "reactive",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:55:52Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "tinyplex",
+      "last_activity": "2025-08-19T02:55:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 4664,
+        "forks": 116,
+        "watchers": 4664,
+        "size_kb": 350055,
+        "language": "TypeScript",
+        "topics": [
+          "data",
+          "javascript",
+          "react",
+          "reactive",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.293890+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
