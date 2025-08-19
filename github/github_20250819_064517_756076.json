@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:43.554001",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_756076.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_756076",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "title": "GitHub Repository: dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 44874, Language: Java",
+    "metadata": {
+      "author": "dbeaver",
+      "stars": 44874,
+      "forks": 3802,
+      "language": "Java",
+      "topics": [
+        "ai",
+        "copilot",
+        "database",
+        "db2",
+        "dbeaver",
+        "erd",
+        "gui",
+        "java",
+        "jdbc",
+        "mysql",
+        "nosql",
+        "openai",
+        "oracle",
+        "postgresql",
+        "redshift",
+        "sql",
+        "sqlite",
+        "sqlserver"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dbeaver",
+      "last_activity": "2025-08-19T06:44:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 44874,
+        "forks": 3802,
+        "watchers": 44874,
+        "size_kb": 198672,
+        "language": "Java",
+        "topics": [
+          "ai",
+          "copilot",
+          "database",
+          "db2",
+          "dbeaver",
+          "erd",
+          "gui",
+          "java",
+          "jdbc",
+          "mysql",
+          "nosql",
+          "openai",
+          "oracle",
+          "postgresql",
+          "redshift",
+          "sql",
+          "sqlite",
+          "sqlserver"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.756079+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
