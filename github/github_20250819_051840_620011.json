@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:45.055103",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_620011.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_620011",
+    "url": "https://github.com/babaktaremi/Clean-Architecture-Template",
+    "title": "GitHub Repository: Clean-Architecture-Template",
+    "description": "🧹 Ready to develop template based on clean architecture principles. Supports ASP NET Core Identity integrated with JWE tokens, OTP authentication, stand alone plugin development, CQRS pattern using MediatR library and dynamic permission management system out of the box",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 273, Language: C#",
+    "metadata": {
+      "author": "babaktaremi",
+      "stars": 273,
+      "forks": 42,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "asp-net-core",
+        "aspnet-core",
+        "aspnetcorewebapi",
+        "clean-architecture",
+        "cleanarc",
+        "cleancode",
+        "cqrs-pattern",
+        "csharp-clean-code",
+        "ddd-aspnetcore",
+        "mediator-pattern",
+        "microsoft-clean-architecture",
+        "net7",
+        "netcore",
+        "plugin-architecture",
+        "solid-principles",
+        "template",
+        "unitofwork"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-03T10:28:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "babaktaremi",
+      "last_activity": "2025-08-03T10:28:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 273,
+        "forks": 42,
+        "watchers": 273,
+        "size_kb": 331,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "asp-net-core",
+          "aspnet-core",
+          "aspnetcorewebapi",
+          "clean-architecture",
+          "cleanarc",
+          "cleancode",
+          "cqrs-pattern",
+          "csharp-clean-code",
+          "ddd-aspnetcore",
+          "mediator-pattern",
+          "microsoft-clean-architecture",
+          "net7",
+          "netcore",
+          "plugin-architecture",
+          "solid-principles",
+          "template",
+          "unitofwork"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.620068+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
