@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:35.689564",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_618682.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_618682",
+    "url": "https://github.com/ShawnShiSS/clean-architecture-azure-cosmos-db",
+    "title": "GitHub Repository: clean-architecture-azure-cosmos-db",
+    "description": "A starting point to build a web API to work with Azure Cosmos DB using .NET 5 and Azure Cosmos DB .NET SDK V3, based on Clean Architecture and repository design pattern. Partition key is also implemented through the repository pattern.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 349, Language: C#",
+    "metadata": {
+      "author": "ShawnShiSS",
+      "stars": 349,
+      "forks": 97,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "asp-net-core-cosmos-db",
+        "azure-functions",
+        "clean-architecture",
+        "clean-architecture-cosmos-db",
+        "cosmos-db",
+        "cosmos-db-sdk-v3",
+        "dotnet5",
+        "material-ui",
+        "nswagstudio",
+        "partition-key",
+        "partitioning",
+        "react",
+        "repository-pattern",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-19T00:33:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ShawnShiSS",
+      "last_activity": "2025-07-19T00:33:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 349,
+        "forks": 97,
+        "watchers": 349,
+        "size_kb": 936,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "asp-net-core-cosmos-db",
+          "azure-functions",
+          "clean-architecture",
+          "clean-architecture-cosmos-db",
+          "cosmos-db",
+          "cosmos-db-sdk-v3",
+          "dotnet5",
+          "material-ui",
+          "nswagstudio",
+          "partition-key",
+          "partitioning",
+          "react",
+          "repository-pattern",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.618685+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
