@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:32.536104",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_339625.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_339625",
+    "url": "https://github.com/StevenBlack/hosts",
+    "title": "GitHub Repository: hosts",
+    "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 28696, Language: Python",
+    "metadata": {
+      "author": "StevenBlack",
+      "stars": 28696,
+      "forks": 2339,
+      "language": "Python",
+      "topics": [
+        "ad-blocker",
+        "anti-virus",
+        "curated-sources",
+        "gambling-filter",
+        "hosts",
+        "malware",
+        "porn-filter",
+        "pornblocker",
+        "privacy",
+        "protection",
+        "python",
+        "ransomware",
+        "security",
+        "social-media-filter",
+        "trojans",
+        "unified-hosts"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:33:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "StevenBlack",
+      "last_activity": "2025-08-19T05:33:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 28696,
+        "forks": 2339,
+        "watchers": 28696,
+        "size_kb": 1558988,
+        "language": "Python",
+        "topics": [
+          "ad-blocker",
+          "anti-virus",
+          "curated-sources",
+          "gambling-filter",
+          "hosts",
+          "malware",
+          "porn-filter",
+          "pornblocker",
+          "privacy",
+          "protection",
+          "python",
+          "ransomware",
+          "security",
+          "social-media-filter",
+          "trojans",
+          "unified-hosts"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.339634+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
