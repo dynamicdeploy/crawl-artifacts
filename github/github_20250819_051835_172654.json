@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:58.857754",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_172654.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_172654",
+    "url": "https://github.com/ferventurart/BancoCursoRESTful",
+    "title": "GitHub Repository: BancoCursoRESTful",
+    "description": "Codigo del Curso .NET Core API Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 25, Language: C#",
+    "metadata": {
+      "author": "ferventurart",
+      "stars": 25,
+      "forks": 8,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-21T20:43:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ferventurart",
+      "last_activity": "2025-07-21T20:43:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 25,
+        "forks": 8,
+        "watchers": 25,
+        "size_kb": 37,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.172659+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
