@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:03.230607",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_431303.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_431303",
+    "url": "https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications",
+    "title": "GitHub Repository: Architecture-of-ASP.NET-Core-Microservices-Applications",
+    "description": "Architecture of ASP.NET Core Microservices Applications",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 296, Language: C#",
+    "metadata": {
+      "author": "ivaylokenov",
+      "stars": 296,
+      "forks": 42,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-04-15T06:41:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ivaylokenov",
+      "last_activity": "2025-04-15T06:41:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 296,
+        "forks": 42,
+        "watchers": 296,
+        "size_kb": 3881,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.431306+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
