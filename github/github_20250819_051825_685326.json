@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:13.571777",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_685326.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_685326",
+    "url": "https://github.com/claygod/microservice",
+    "title": "GitHub Repository: microservice",
+    "description": "This library provides a simple microservice framework based on clean architecture principles with a working example implemented.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 119, Language: Go",
+    "metadata": {
+      "author": "claygod",
+      "stars": 119,
+      "forks": 17,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "framework",
+        "go",
+        "golang",
+        "microservice",
+        "microservices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T00:43:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "claygod",
+      "last_activity": "2025-08-14T00:43:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 119,
+        "forks": 17,
+        "watchers": 119,
+        "size_kb": 11516,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "framework",
+          "go",
+          "golang",
+          "microservice",
+          "microservices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.685330+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
