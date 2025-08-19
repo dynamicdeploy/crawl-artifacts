@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:12.038415",
+    "crawler_type": "github",
+    "filename": "github_20250819_064855_606060.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064855_606060",
+    "url": "https://github.com/Lissy93/web-check",
+    "title": "GitHub Repository: web-check",
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 26146, Language: TypeScript",
+    "metadata": {
+      "author": "Lissy93",
+      "stars": 26146,
+      "forks": 2086,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:35:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Lissy93",
+      "last_activity": "2025-08-19T05:35:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 26146,
+        "forks": 2086,
+        "watchers": 26146,
+        "size_kb": 27198,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T06:48:55.606068+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
