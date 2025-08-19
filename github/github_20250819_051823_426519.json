@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:28.421867",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_426519.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_426519",
+    "url": "https://github.com/VincentJouanne/nest-clean-architecture",
+    "title": "GitHub Repository: nest-clean-architecture",
+    "description": "🏛️   Nest.js clean architecture example following some DDD principles with use-cases written in functionnal programming.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 726, Language: TypeScript",
+    "metadata": {
+      "author": "VincentJouanne",
+      "stars": 726,
+      "forks": 81,
+      "language": "TypeScript",
+      "topics": [
+        "clean-architecture",
+        "cqrs",
+        "ddd",
+        "docker",
+        "end-to-end-testing",
+        "fp-ts",
+        "functional-programming",
+        "integration-testing",
+        "jest",
+        "microservices",
+        "nestjs",
+        "prisma",
+        "runtypes",
+        "tdd",
+        "typescript",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-16T22:54:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "VincentJouanne",
+      "last_activity": "2025-08-16T22:54:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 726,
+        "forks": 81,
+        "watchers": 726,
+        "size_kb": 1858,
+        "language": "TypeScript",
+        "topics": [
+          "clean-architecture",
+          "cqrs",
+          "ddd",
+          "docker",
+          "end-to-end-testing",
+          "fp-ts",
+          "functional-programming",
+          "integration-testing",
+          "jest",
+          "microservices",
+          "nestjs",
+          "prisma",
+          "runtypes",
+          "tdd",
+          "typescript",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.426522+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
