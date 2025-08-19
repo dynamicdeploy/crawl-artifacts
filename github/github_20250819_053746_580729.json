@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:38:38.215791",
+    "crawler_type": "github",
+    "filename": "github_20250819_053746_580729.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_053746_580729",
+    "url": "https://github.com/drveillard/monolith-architecture",
+    "title": "GitHub Repository: monolith-architecture",
+    "description": "A collection of awesome software, libraries and frameworks, design and architecture principles, books and videos, important resources and best practices about Monolith Architecture. Thanks to our daily readers and contributors",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: C#",
+    "metadata": {
+      "author": "drveillard",
+      "stars": 2,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "architecture-components",
+        "architecture-visualization",
+        "monolith-architecture",
+        "monolithic"
+      ],
+      "repository_type": "github",
+      "last_updated": "2022-10-04T20:39:48Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "drveillard",
+      "last_activity": "2022-10-04T20:39:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 1676,
+        "language": "C#",
+        "topics": [
+          "architecture-components",
+          "architecture-visualization",
+          "monolith-architecture",
+          "monolithic"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:37:46.580733+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
