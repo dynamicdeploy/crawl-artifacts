@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:40.317063",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_619134.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_619134",
+    "url": "https://github.com/RajashekarRaju/compose-actors",
+    "title": "GitHub Repository: compose-actors",
+    "description": ":robot: Android app built with jetpack :rocket: compose follows new revamped guide to app architecture. Implemented with State, Coroutines :curly_loop:, ViewModels, Repository pattern, Light/Dark theme :rainbow: MD3, Animations, Draw on canvas, Custom layouts, UI state handling, :cyclone: Image loading with coil, Palette :art: usage and dynamic theming etc.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 294, Language: Kotlin",
+    "metadata": {
+      "author": "RajashekarRaju",
+      "stars": 294,
+      "forks": 31,
+      "language": "Kotlin",
+      "topics": [
+        "android-application",
+        "animations",
+        "canvas-animation",
+        "coil-kotlin",
+        "compose-animation",
+        "coroutines",
+        "jetpack-components",
+        "jetpack-compose",
+        "jetpack-navigation",
+        "material-design-3",
+        "state",
+        "state-handling",
+        "textfield",
+        "viewmodel"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T01:13:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "RajashekarRaju",
+      "last_activity": "2025-08-18T01:13:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 294,
+        "forks": 31,
+        "watchers": 294,
+        "size_kb": 179533,
+        "language": "Kotlin",
+        "topics": [
+          "android-application",
+          "animations",
+          "canvas-animation",
+          "coil-kotlin",
+          "compose-animation",
+          "coroutines",
+          "jetpack-components",
+          "jetpack-compose",
+          "jetpack-navigation",
+          "material-design-3",
+          "state",
+          "state-handling",
+          "textfield",
+          "viewmodel"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.619137+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
