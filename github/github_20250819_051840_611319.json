@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:44.954048",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_611319.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_611319",
+    "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+    "title": "GitHub Repository: design-patterns-for-humans",
+    "description": "An ultra-simplified explanation to design patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 46740, Language: None",
+    "metadata": {
+      "author": "kamranahmedse",
+      "stars": 46740,
+      "forks": 5436,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "computer-science",
+        "design-patterns",
+        "engineering",
+        "principles",
+        "software-engineering"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:28:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "kamranahmedse",
+      "last_activity": "2025-08-19T03:28:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 46740,
+        "forks": 5436,
+        "watchers": 46740,
+        "size_kb": 149,
+        "language": null,
+        "topics": [
+          "architecture",
+          "computer-science",
+          "design-patterns",
+          "engineering",
+          "principles",
+          "software-engineering"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.611326+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
