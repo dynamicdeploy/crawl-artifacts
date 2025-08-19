@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:49.046395",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_681523.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_681523",
+    "url": "https://github.com/mp911de/CleanArchitecture",
+    "title": "GitHub Repository: CleanArchitecture",
+    "description": "CleanArchitecture Example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 232, Language: Java",
+    "metadata": {
+      "author": "mp911de",
+      "stars": 232,
+      "forks": 68,
+      "language": "Java",
+      "topics": [
+        "architecture",
+        "cleanarchitecture",
+        "hexagonal",
+        "java",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-03-04T00:24:11Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "mp911de",
+      "last_activity": "2025-03-04T00:24:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 232,
+        "forks": 68,
+        "watchers": 232,
+        "size_kb": 160,
+        "language": "Java",
+        "topics": [
+          "architecture",
+          "cleanarchitecture",
+          "hexagonal",
+          "java",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.681528+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
