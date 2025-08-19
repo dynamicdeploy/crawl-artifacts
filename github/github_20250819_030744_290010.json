@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:07:57.449539",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_290010.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_290010",
+    "url": "https://github.com/MattPD/cpplinks",
+    "title": "GitHub Repository: cpplinks",
+    "description": " A categorized list of C++ resources.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5065, Language: None",
+    "metadata": {
+      "author": "MattPD",
+      "stars": 5065,
+      "forks": 515,
+      "language": "en",
+      "topics": [
+        "assembly",
+        "c-plus-plus",
+        "compilers",
+        "computer-architecture",
+        "cplusplus",
+        "cpp",
+        "debugging"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:07:04Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MattPD",
+      "last_activity": "2025-08-19T03:07:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5065,
+        "forks": 515,
+        "watchers": 5065,
+        "size_kb": 5852,
+        "language": null,
+        "topics": [
+          "assembly",
+          "c-plus-plus",
+          "compilers",
+          "computer-architecture",
+          "cplusplus",
+          "cpp",
+          "debugging"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.290014+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
