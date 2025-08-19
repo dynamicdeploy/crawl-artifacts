@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:55.991393",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_293976.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_293976",
+    "url": "https://github.com/run-llama/LlamaIndexTS",
+    "title": "GitHub Repository: LlamaIndexTS",
+    "description": "Data framework for your LLM applications. Focus on server side solution",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2821, Language: TypeScript",
+    "metadata": {
+      "author": "run-llama",
+      "stars": 2821,
+      "forks": 467,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "chatbot",
+        "claude-ai",
+        "create-llama",
+        "embedding",
+        "groq-ai",
+        "javascript",
+        "llama",
+        "llama-index",
+        "llama3",
+        "llamaindex",
+        "llm",
+        "node",
+        "nodejs",
+        "openai",
+        "react",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:04:36Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "run-llama",
+      "last_activity": "2025-08-19T03:04:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2821,
+        "forks": 467,
+        "watchers": 2821,
+        "size_kb": 83003,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "chatbot",
+          "claude-ai",
+          "create-llama",
+          "embedding",
+          "groq-ai",
+          "javascript",
+          "llama",
+          "llama-index",
+          "llama3",
+          "llamaindex",
+          "llm",
+          "node",
+          "nodejs",
+          "openai",
+          "react",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.293979+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
