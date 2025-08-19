@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:43:58.753937",
+    "crawler_type": "github",
+    "filename": "github_20250819_054348_842728.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054348_842728",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "title": "GitHub Repository: free-programming-books-zh_CN",
+    "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 115008, Language: None",
+    "metadata": {
+      "author": "justjavac",
+      "stars": 115008,
+      "forks": 28355,
+      "language": "en",
+      "topics": [
+        "android",
+        "angular",
+        "books",
+        "free",
+        "ios",
+        "javascript",
+        "kotlin",
+        "pdf",
+        "programming",
+        "python",
+        "react",
+        "react-native",
+        "swift",
+        "vue"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:21:46Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "justjavac",
+      "last_activity": "2025-08-19T05:21:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 115008,
+        "forks": 28355,
+        "watchers": 115008,
+        "size_kb": 1059,
+        "language": null,
+        "topics": [
+          "android",
+          "angular",
+          "books",
+          "free",
+          "ios",
+          "javascript",
+          "kotlin",
+          "pdf",
+          "programming",
+          "python",
+          "react",
+          "react-native",
+          "swift",
+          "vue"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:43:48.842731+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
