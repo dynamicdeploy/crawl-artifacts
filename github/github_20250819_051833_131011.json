@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:16.202506",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_131011.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_131011",
+    "url": "https://github.com/jakubnabrdalik/hentai",
+    "title": "GitHub Repository: hentai",
+    "description": "Example of Hexagonal architecture with high cohesion modularization, CQRS and fast BDD tests in Java",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 228, Language: Java",
+    "metadata": {
+      "author": "jakubnabrdalik",
+      "stars": 228,
+      "forks": 50,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:16:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jakubnabrdalik",
+      "last_activity": "2025-08-13T11:16:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 228,
+        "forks": 50,
+        "watchers": 228,
+        "size_kb": 10128,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.131017+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
