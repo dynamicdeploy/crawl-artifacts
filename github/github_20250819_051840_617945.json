@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:30.369042",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_617945.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_617945",
+    "url": "https://github.com/MoIbrahim15/Android-Kotlin-MVI-CleanArchitecture",
+    "title": "GitHub Repository: Android-Kotlin-MVI-CleanArchitecture",
+    "description": "Android + Kotlin + Modularization + Gradle Depedency managment  + Gradle written in Kotlin DSL + Custom Gradle Plugin + MVVM + MVI + Clean Architecture + Repository Pattern + Coroutines + Flows + Koin + Retrofit2 + ROOM + Kotlin-Android-Extension + KtLints",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 386, Language: Kotlin",
+    "metadata": {
+      "author": "MoIbrahim15",
+      "stars": 386,
+      "forks": 41,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "clean-architecture",
+        "coroutines",
+        "custom-plugin",
+        "flows",
+        "koin",
+        "kotlin",
+        "kotlin-dsl",
+        "modularization",
+        "mvi",
+        "mvi-architecture",
+        "mvvm-architecture",
+        "navigation-architecture-component",
+        "navigation-component",
+        "networkboundresource",
+        "repository-pattern",
+        "retrofit",
+        "retrofit2",
+        "room",
+        "room-persistence-library"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T23:34:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MoIbrahim15",
+      "last_activity": "2025-08-18T23:34:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 386,
+        "forks": 41,
+        "watchers": 386,
+        "size_kb": 613,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "clean-architecture",
+          "coroutines",
+          "custom-plugin",
+          "flows",
+          "koin",
+          "kotlin",
+          "kotlin-dsl",
+          "modularization",
+          "mvi",
+          "mvi-architecture",
+          "mvvm-architecture",
+          "navigation-architecture-component",
+          "navigation-component",
+          "networkboundresource",
+          "repository-pattern",
+          "retrofit",
+          "retrofit2",
+          "room",
+          "room-persistence-library"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.617949+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
