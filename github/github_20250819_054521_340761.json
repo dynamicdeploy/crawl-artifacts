@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:43.182823",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_340761.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_340761",
+    "url": "https://github.com/gitleaks/gitleaks",
+    "title": "GitHub Repository: gitleaks",
+    "description": "Find secrets with Gitleaks 🔑",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22979, Language: Go",
+    "metadata": {
+      "author": "gitleaks",
+      "stars": 22979,
+      "forks": 1757,
+      "language": "Go",
+      "topics": [
+        "ai-powered",
+        "ci-cd",
+        "cicd",
+        "cli",
+        "data-loss-prevention",
+        "devsecops",
+        "dlp",
+        "git",
+        "gitleaks",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "llm",
+        "llm-inference",
+        "llm-training",
+        "open-source",
+        "secret",
+        "security",
+        "security-tools"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T01:46:16Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "gitleaks",
+      "last_activity": "2025-08-19T01:46:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22979,
+        "forks": 1757,
+        "watchers": 22979,
+        "size_kb": 6160,
+        "language": "Go",
+        "topics": [
+          "ai-powered",
+          "ci-cd",
+          "cicd",
+          "cli",
+          "data-loss-prevention",
+          "devsecops",
+          "dlp",
+          "git",
+          "gitleaks",
+          "go",
+          "golang",
+          "hacktoberfest",
+          "llm",
+          "llm-inference",
+          "llm-training",
+          "open-source",
+          "secret",
+          "security",
+          "security-tools"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.340769+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
