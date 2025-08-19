@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:55.391486",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_612736.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_612736",
+    "url": "https://github.com/rafaelfgx/Architecture",
+    "title": "GitHub Repository: Architecture",
+    "description": ".NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3238, Language: C#",
+    "metadata": {
+      "author": "rafaelfgx",
+      "stars": 3238,
+      "forks": 813,
+      "language": "C#",
+      "topics": [
+        "angular",
+        "architecture",
+        "aspnet-core",
+        "aspnetcore",
+        "best-practices",
+        "c-charp",
+        "clean-architecture",
+        "clean-code",
+        "csharp",
+        "design-system",
+        "domain-driven-design",
+        "dot-net",
+        "dotnet",
+        "entity-framework",
+        "microservices",
+        "solid",
+        "system-design",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T11:39:00Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "rafaelfgx",
+      "last_activity": "2025-08-18T11:39:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3238,
+        "forks": 813,
+        "watchers": 3238,
+        "size_kb": 29,
+        "language": "C#",
+        "topics": [
+          "angular",
+          "architecture",
+          "aspnet-core",
+          "aspnetcore",
+          "best-practices",
+          "c-charp",
+          "clean-architecture",
+          "clean-code",
+          "csharp",
+          "design-system",
+          "domain-driven-design",
+          "dot-net",
+          "dotnet",
+          "entity-framework",
+          "microservices",
+          "solid",
+          "system-design",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.612740+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
