@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:58.351201",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_757655.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_757655",
+    "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
+    "title": "GitHub Repository: enhanced-FaaS-in-China",
+    "description": "提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2425, Language: Python",
+    "metadata": {
+      "author": "xingpingcn",
+      "stars": 2425,
+      "forks": 141,
+      "language": "Python",
+      "topics": [
+        "cf-ip",
+        "china-region",
+        "cloudflare",
+        "cname-record",
+        "netlify",
+        "selected-ip",
+        "vercel-serverless"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:04Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "xingpingcn",
+      "last_activity": "2025-08-19T06:43:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2425,
+        "forks": 141,
+        "watchers": 2425,
+        "size_kb": 17000,
+        "language": "Python",
+        "topics": [
+          "cf-ip",
+          "china-region",
+          "cloudflare",
+          "cname-record",
+          "netlify",
+          "selected-ip",
+          "vercel-serverless"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.757658+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
