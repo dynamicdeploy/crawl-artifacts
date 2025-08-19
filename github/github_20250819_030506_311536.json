@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:25.326963",
+    "crawler_type": "github",
+    "filename": "github_20250819_030506_311536.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030506_311536",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "title": "GitHub Repository: CS-Notes",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 181497, Language: None",
+    "metadata": {
+      "author": "CyC2018",
+      "stars": 181497,
+      "forks": 51173,
+      "language": "en",
+      "topics": [
+        "algorithm",
+        "computer-science",
+        "cpp",
+        "interview",
+        "java",
+        "leetcode",
+        "python",
+        "system-design"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:54:53Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "CyC2018",
+      "last_activity": "2025-08-19T02:54:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 181497,
+        "forks": 51173,
+        "watchers": 181497,
+        "size_kb": 116179,
+        "language": null,
+        "topics": [
+          "algorithm",
+          "computer-science",
+          "cpp",
+          "interview",
+          "java",
+          "leetcode",
+          "python",
+          "system-design"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:06.311540+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
