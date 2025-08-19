@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:43:00.657725",
+    "crawler_type": "github",
+    "filename": "github_20250819_064248_808054.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064248_808054",
+    "url": "https://github.com/facebook/react",
+    "title": "GitHub Repository: react",
+    "description": "The library for web and native user interfaces.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 238205, Language: JavaScript",
+    "metadata": {
+      "author": "facebook",
+      "stars": 238205,
+      "forks": 49149,
+      "language": "JavaScript",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:29:18Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "facebook",
+      "last_activity": "2025-08-19T06:29:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 238205,
+        "forks": 49149,
+        "watchers": 238205,
+        "size_kb": 1097124,
+        "language": "JavaScript",
+        "topics": [
+          "declarative",
+          "frontend",
+          "javascript",
+          "library",
+          "react",
+          "ui"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:42:48.808065+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
