@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:23.237227",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_338589.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_338589",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "title": "GitHub Repository: cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 69593, Language: None",
+    "metadata": {
+      "author": "Developer-Y",
+      "stars": 69593,
+      "forks": 9367,
+      "language": "en",
+      "topics": [
+        "algorithms",
+        "bioinformatics",
+        "computational-biology",
+        "computational-physics",
+        "computer-architecture",
+        "computer-science",
+        "computer-vision",
+        "database-systems",
+        "databases",
+        "deep-learning",
+        "embedded-systems",
+        "machine-learning",
+        "quantum-computing",
+        "reinforcement-learning",
+        "robotics",
+        "security",
+        "systems",
+        "web-development"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:30:28Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Developer-Y",
+      "last_activity": "2025-08-19T05:30:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 69593,
+        "forks": 9367,
+        "watchers": 69593,
+        "size_kb": 987,
+        "language": null,
+        "topics": [
+          "algorithms",
+          "bioinformatics",
+          "computational-biology",
+          "computational-physics",
+          "computer-architecture",
+          "computer-science",
+          "computer-vision",
+          "database-systems",
+          "databases",
+          "deep-learning",
+          "embedded-systems",
+          "machine-learning",
+          "quantum-computing",
+          "reinforcement-learning",
+          "robotics",
+          "security",
+          "systems",
+          "web-development"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.338593+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
