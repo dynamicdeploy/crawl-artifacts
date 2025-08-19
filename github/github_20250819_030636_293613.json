@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:51.802701",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_293613.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_293613",
+    "url": "https://github.com/simstudioai/sim",
+    "title": "GitHub Repository: sim",
+    "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7335, Language: TypeScript",
+    "metadata": {
+      "author": "simstudioai",
+      "stars": 7335,
+      "forks": 966,
+      "language": "TypeScript",
+      "topics": [
+        "agent-workflow",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "aiagents",
+        "anthropic",
+        "artificial-intelligence",
+        "automation",
+        "chatbot",
+        "deepseek",
+        "gemini",
+        "low-code",
+        "nextjs",
+        "no-code",
+        "openai",
+        "rag",
+        "react",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:43:43Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "simstudioai",
+      "last_activity": "2025-08-19T02:43:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7335,
+        "forks": 966,
+        "watchers": 7335,
+        "size_kb": 259308,
+        "language": "TypeScript",
+        "topics": [
+          "agent-workflow",
+          "agentic-workflow",
+          "agents",
+          "ai",
+          "aiagents",
+          "anthropic",
+          "artificial-intelligence",
+          "automation",
+          "chatbot",
+          "deepseek",
+          "gemini",
+          "low-code",
+          "nextjs",
+          "no-code",
+          "openai",
+          "rag",
+          "react",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.293616+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
