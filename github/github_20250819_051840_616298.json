@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:19.642796",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_616298.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_616298",
+    "url": "https://github.com/aspnetrun/run-aspnetcore-cqrs",
+    "title": "GitHub Repository: run-aspnetcore-cqrs",
+    "description": "Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD best practices. Download 100+ page eBook PDF from here ->",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 539, Language: C#",
+    "metadata": {
+      "author": "aspnetrun",
+      "stars": 539,
+      "forks": 101,
+      "language": "C#",
+      "topics": [
+        "angular",
+        "architecture",
+        "aspnet-core",
+        "aspnet-core-template",
+        "aspnet-core-webapi",
+        "aspnetcore",
+        "cqrs",
+        "cqrs-pattern",
+        "entity-framework"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-28T17:08:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aspnetrun",
+      "last_activity": "2025-06-28T17:08:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 539,
+        "forks": 101,
+        "watchers": 539,
+        "size_kb": 2563,
+        "language": "C#",
+        "topics": [
+          "angular",
+          "architecture",
+          "aspnet-core",
+          "aspnet-core-template",
+          "aspnet-core-webapi",
+          "aspnetcore",
+          "cqrs",
+          "cqrs-pattern",
+          "entity-framework"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.616306+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
