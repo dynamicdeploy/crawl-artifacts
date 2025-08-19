@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:03.523171",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_613739.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_613739",
+    "url": "https://github.com/Mahmoudz/Porto",
+    "title": "GitHub Repository: Porto",
+    "description": "Porto is a Modern Software Architectural Pattern that scales with your business!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1633, Language: None",
+    "metadata": {
+      "author": "Mahmoudz",
+      "stars": 1633,
+      "forks": 181,
+      "language": "en",
+      "topics": [
+        "architectural-patterns",
+        "architecture",
+        "backend",
+        "backend-architecture",
+        "backend-architecture-patterns",
+        "porto",
+        "porto-sap",
+        "portosap",
+        "software-architecture",
+        "webdevelopment"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T03:38:05Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Mahmoudz",
+      "last_activity": "2025-08-15T03:38:05Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1633,
+        "forks": 181,
+        "watchers": 1633,
+        "size_kb": 104412,
+        "language": null,
+        "topics": [
+          "architectural-patterns",
+          "architecture",
+          "backend",
+          "backend-architecture",
+          "backend-architecture-patterns",
+          "porto",
+          "porto-sap",
+          "portosap",
+          "software-architecture",
+          "webdevelopment"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.613743+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
