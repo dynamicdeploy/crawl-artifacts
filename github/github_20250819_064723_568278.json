@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:26.893169",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_568278.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_568278",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "title": "GitHub Repository: Python",
+    "description": "All Algorithms implemented in Python",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 204161, Language: Python",
+    "metadata": {
+      "author": "TheAlgorithms",
+      "stars": 204161,
+      "forks": 47319,
+      "language": "Python",
+      "topics": [
+        "algorithm",
+        "algorithm-competitions",
+        "algorithms-implemented",
+        "algos",
+        "community-driven",
+        "education",
+        "hacktoberfest",
+        "interview",
+        "learn",
+        "practice",
+        "python",
+        "searches",
+        "sorting-algorithms",
+        "sorts"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:13:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "TheAlgorithms",
+      "last_activity": "2025-08-19T06:13:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 204161,
+        "forks": 47319,
+        "watchers": 204161,
+        "size_kb": 15440,
+        "language": "Python",
+        "topics": [
+          "algorithm",
+          "algorithm-competitions",
+          "algorithms-implemented",
+          "algos",
+          "community-driven",
+          "education",
+          "hacktoberfest",
+          "interview",
+          "learn",
+          "practice",
+          "python",
+          "searches",
+          "sorting-algorithms",
+          "sorts"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.568282+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
