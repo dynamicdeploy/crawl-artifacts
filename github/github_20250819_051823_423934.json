@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:04.526651",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_423934.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_423934",
+    "url": "https://github.com/polarismesh/polaris",
+    "title": "GitHub Repository: polaris",
+    "description": "Service Discovery and Governance Platform for Microservice and Distributed Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2496, Language: Go",
+    "metadata": {
+      "author": "polarismesh",
+      "stars": 2496,
+      "forks": 403,
+      "language": "Go",
+      "topics": [
+        "authenticate",
+        "circuit-break",
+        "fault-tolerance",
+        "health-check",
+        "load-balance",
+        "microservice",
+        "polaris",
+        "polarismesh",
+        "rate-limit",
+        "service-discover",
+        "service-governance",
+        "service-register",
+        "servicemesh",
+        "traffic-control"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T16:11:10Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "polarismesh",
+      "last_activity": "2025-08-18T16:11:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2496,
+        "forks": 403,
+        "watchers": 2496,
+        "size_kb": 50683,
+        "language": "Go",
+        "topics": [
+          "authenticate",
+          "circuit-break",
+          "fault-tolerance",
+          "health-check",
+          "load-balance",
+          "microservice",
+          "polaris",
+          "polarismesh",
+          "rate-limit",
+          "service-discover",
+          "service-governance",
+          "service-register",
+          "servicemesh",
+          "traffic-control"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.423938+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
