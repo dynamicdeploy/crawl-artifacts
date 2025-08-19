@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:43.407621",
+    "crawler_type": "github",
+    "filename": "github_20250819_064628_217458.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064628_217458",
+    "url": "https://github.com/nestjs/cqrs",
+    "title": "GitHub Repository: cqrs",
+    "description": "A lightweight CQRS module for Nest framework (node.js) :balloon:",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 904, Language: TypeScript",
+    "metadata": {
+      "author": "nestjs",
+      "stars": 904,
+      "forks": 155,
+      "language": "TypeScript",
+      "topics": [
+        "cqrs",
+        "javascript",
+        "nest",
+        "nest-cqrs",
+        "nest-framework",
+        "nodejs",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T22:26:15Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nestjs",
+      "last_activity": "2025-08-18T22:26:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 904,
+        "forks": 155,
+        "watchers": 904,
+        "size_kb": 7289,
+        "language": "TypeScript",
+        "topics": [
+          "cqrs",
+          "javascript",
+          "nest",
+          "nest-cqrs",
+          "nest-framework",
+          "nodejs",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:46:28.217462+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
