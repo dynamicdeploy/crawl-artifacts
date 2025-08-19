@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:13.785623",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_615015.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_615015",
+    "url": "https://github.com/mspnp/cloud-design-patterns",
+    "title": "GitHub Repository: cloud-design-patterns",
+    "description": "Sample implementations for cloud design patterns found in the Azure Architecture Center.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 831, Language: C#",
+    "metadata": {
+      "author": "mspnp",
+      "stars": 831,
+      "forks": 303,
+      "language": "C#",
+      "topics": [
+        "azure",
+        "cloud",
+        "cost-optimization",
+        "design-patterns",
+        "operational-excellence",
+        "performance-efficiency",
+        "reliability",
+        "security"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T14:16:40Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "mspnp",
+      "last_activity": "2025-08-18T14:16:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 831,
+        "forks": 303,
+        "watchers": 831,
+        "size_kb": 13081,
+        "language": "C#",
+        "topics": [
+          "azure",
+          "cloud",
+          "cost-optimization",
+          "design-patterns",
+          "operational-excellence",
+          "performance-efficiency",
+          "reliability",
+          "security"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.615019+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
