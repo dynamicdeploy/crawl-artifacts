@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:59.234690",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_332895.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_332895",
+    "url": "https://github.com/t1agob/eventsourcing-qldb",
+    "title": "GitHub Repository: eventsourcing-qldb",
+    "description": "This is an example implementation of a System of Record for a Classified Ads platform. This example follows an Event Sourcing and CQRS (Command Query Responsibility Segregation) pattern using Amazon QLDB as an immutable append-only event store and source of truth.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 16, Language: TypeScript",
+    "metadata": {
+      "author": "t1agob",
+      "stars": 16,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "amazon-qldb",
+        "aws",
+        "aws-lambda",
+        "cqrs",
+        "dynamodb",
+        "eventsourcing",
+        "qldb"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-09-13T20:06:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "t1agob",
+      "last_activity": "2023-09-13T20:06:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 16,
+        "forks": 1,
+        "watchers": 16,
+        "size_kb": 2807,
+        "language": "TypeScript",
+        "topics": [
+          "amazon-qldb",
+          "aws",
+          "aws-lambda",
+          "cqrs",
+          "dynamodb",
+          "eventsourcing",
+          "qldb"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.332901+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
