@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:32.399005",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_527653.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_527653",
+    "url": "https://github.com/tianon/dockerfiles",
+    "title": "GitHub Repository: dockerfiles",
+    "description": "A semi-random collection of odds and ends.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1104, Language: Dockerfile",
+    "metadata": {
+      "author": "tianon",
+      "stars": 1104,
+      "forks": 225,
+      "language": "Dockerfile",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:38:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "tianon",
+      "last_activity": "2025-08-19T05:38:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1104,
+        "forks": 225,
+        "watchers": 1104,
+        "size_kb": 6087,
+        "language": "Dockerfile",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.527666+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
