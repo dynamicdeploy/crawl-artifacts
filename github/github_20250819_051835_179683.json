@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:39.743710",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_179683.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_179683",
+    "url": "https://github.com/alierguc/AwesomeChat",
+    "title": "GitHub Repository: AwesomeChat",
+    "description": ".Net Core 7.0 - Building Onion Architecture - SignalR - RabbitMQ - HealthCheck - ElasticSearch - ELK Stack Monitoring - ELK Stack Logging ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: C#",
+    "metadata": {
+      "author": "alierguc",
+      "stars": 8,
+      "forks": 2,
+      "language": "C#",
+      "topics": [
+        "apm",
+        "elasticsearch",
+        "entity-framework-core",
+        "filebeat-elasticsearch",
+        "heartbeat",
+        "identity",
+        "kibana",
+        "logging",
+        "mediatr",
+        "metricbeat",
+        "mongodb",
+        "monitoring",
+        "mssql",
+        "onion-architecture",
+        "rabbitmq",
+        "seq",
+        "serilog",
+        "signalr"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-31T12:52:28Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alierguc",
+      "last_activity": "2025-07-31T12:52:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 2,
+        "watchers": 8,
+        "size_kb": 39193,
+        "language": "C#",
+        "topics": [
+          "apm",
+          "elasticsearch",
+          "entity-framework-core",
+          "filebeat-elasticsearch",
+          "heartbeat",
+          "identity",
+          "kibana",
+          "logging",
+          "mediatr",
+          "metricbeat",
+          "mongodb",
+          "monitoring",
+          "mssql",
+          "onion-architecture",
+          "rabbitmq",
+          "seq",
+          "serilog",
+          "signalr"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.179688+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
