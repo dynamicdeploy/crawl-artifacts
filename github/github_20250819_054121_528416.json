@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:37.311259",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_528416.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_528416",
+    "url": "https://github.com/Archmonger/django-dbbackup",
+    "title": "GitHub Repository: django-dbbackup",
+    "description": "Management commands to help backup and restore your project database and media files",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1056, Language: Python",
+    "metadata": {
+      "author": "Archmonger",
+      "stars": 1056,
+      "forks": 224,
+      "language": "Python",
+      "topics": [
+        "backup",
+        "django",
+        "mongodb",
+        "mysql",
+        "postgresql",
+        "sqlite"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:36:56Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "Archmonger",
+      "last_activity": "2025-08-19T05:36:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1056,
+        "forks": 224,
+        "watchers": 1056,
+        "size_kb": 1471,
+        "language": "Python",
+        "topics": [
+          "backup",
+          "django",
+          "mongodb",
+          "mysql",
+          "postgresql",
+          "sqlite"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.528422+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
