@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:34:46.278007",
+    "crawler_type": "github",
+    "filename": "github_20250819_053419_136488.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_053419_136488",
+    "url": "https://github.com/zero-equals-false/awesome-programming-books",
+    "title": "GitHub Repository: awesome-programming-books",
+    "description": "📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2023, Language: None",
+    "metadata": {
+      "author": "zero-equals-false",
+      "stars": 2023,
+      "forks": 169,
+      "language": "en",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "books",
+        "learning-resources",
+        "programming"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T18:45:11Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "zero-equals-false",
+      "last_activity": "2025-08-17T18:45:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2023,
+        "forks": 169,
+        "watchers": 2023,
+        "size_kb": 40,
+        "language": null,
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "books",
+          "learning-resources",
+          "programming"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:34:19.136493+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
