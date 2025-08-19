@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:51.362259",
+    "crawler_type": "github",
+    "filename": "github_20250819_030548_713127.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030548_713127",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "title": "GitHub Repository: clean-code-javascript",
+    "description": "Clean Code concepts adapted for JavaScript",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 93361, Language: JavaScript",
+    "metadata": {
+      "author": "ryanmcdermott",
+      "stars": 93361,
+      "forks": 12445,
+      "language": "JavaScript",
+      "topics": [
+        "best-practices",
+        "clean-architecture",
+        "clean-code",
+        "composition",
+        "inheritance",
+        "javascript",
+        "principles"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T22:16:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ryanmcdermott",
+      "last_activity": "2025-08-18T22:16:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 93361,
+        "forks": 12445,
+        "watchers": 93361,
+        "size_kb": 520,
+        "language": "JavaScript",
+        "topics": [
+          "best-practices",
+          "clean-architecture",
+          "clean-code",
+          "composition",
+          "inheritance",
+          "javascript",
+          "principles"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:48.713146+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
