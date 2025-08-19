@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:13.053707",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_432328.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_432328",
+    "url": "https://github.com/hoangtien2k3/ecommerce-microservices",
+    "title": "GitHub Repository: ecommerce-microservices",
+    "description": "⚡️ Microservice Architecture with system for e-commerce project! Spring Boot microservices app with 🌀  Spring Cloud, Robust and resilient backend managing e-Commerce app... ❄️ Using Kafka Client, kafka server send message, Reactive Programming with WebFlux - Project Reactor.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 253, Language: Java",
+    "metadata": {
+      "author": "hoangtien2k3",
+      "stars": 253,
+      "forks": 115,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T10:40:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hoangtien2k3",
+      "last_activity": "2025-08-18T10:40:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 253,
+        "forks": 115,
+        "watchers": 253,
+        "size_kb": 6279,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.432331+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
