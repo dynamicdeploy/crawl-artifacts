@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:42.579369",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_180062.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_180062",
+    "url": "https://github.com/tahapek5454/ASP.NETCore-6-ECommerceAPI",
+    "title": "GitHub Repository: ASP.NETCore-6-ECommerceAPI",
+    "description": "The aim of project is coding full stack E Commerce project in onion architecture with ASP.NETCore 6  ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: C#",
+    "metadata": {
+      "author": "tahapek5454",
+      "stars": 8,
+      "forks": 1,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-03-02T07:52:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "tahapek5454",
+      "last_activity": "2025-03-02T07:52:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 1,
+        "watchers": 8,
+        "size_kb": 1223,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.180066+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
