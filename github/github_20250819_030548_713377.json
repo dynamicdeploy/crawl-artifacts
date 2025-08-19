@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:52.459339",
+    "crawler_type": "github",
+    "filename": "github_20250819_030548_713377.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030548_713377",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "title": "GitHub Repository: awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 64587, Language: None",
+    "metadata": {
+      "author": "binhnguyennus",
+      "stars": 64587,
+      "forks": 6558,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "backend",
+        "big-data",
+        "computer-science",
+        "design-patterns",
+        "devops",
+        "distributed-systems",
+        "interview",
+        "interview-practice",
+        "interview-questions",
+        "lists",
+        "machine-learning",
+        "programming",
+        "resources",
+        "scalability",
+        "system",
+        "system-design",
+        "web-development"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:24:59Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "binhnguyennus",
+      "last_activity": "2025-08-19T02:24:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 64587,
+        "forks": 6558,
+        "watchers": 64587,
+        "size_kb": 1557,
+        "language": null,
+        "topics": [
+          "architecture",
+          "awesome",
+          "awesome-list",
+          "backend",
+          "big-data",
+          "computer-science",
+          "design-patterns",
+          "devops",
+          "distributed-systems",
+          "interview",
+          "interview-practice",
+          "interview-questions",
+          "lists",
+          "machine-learning",
+          "programming",
+          "resources",
+          "scalability",
+          "system",
+          "system-design",
+          "web-development"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:48.713386+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
