@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:13.880996",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_174875.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_174875",
+    "url": "https://github.com/pocket7878/rust-onion-example",
+    "title": "GitHub Repository: rust-onion-example",
+    "description": "Rust layered architecture  example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13, Language: Rust",
+    "metadata": {
+      "author": "pocket7878",
+      "stars": 13,
+      "forks": 0,
+      "language": "Rust",
+      "topics": [
+        "ddd",
+        "layered-architecture",
+        "onion-architecture",
+        "rust"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-20T08:19:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "pocket7878",
+      "last_activity": "2025-04-20T08:19:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13,
+        "forks": 0,
+        "watchers": 13,
+        "size_kb": 83,
+        "language": "Rust",
+        "topics": [
+          "ddd",
+          "layered-architecture",
+          "onion-architecture",
+          "rust"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.174879+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
