@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:03.751285",
+    "crawler_type": "github",
+    "filename": "github_20250819_054348_843124.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054348_843124",
+    "url": "https://github.com/pytorch/pytorch",
+    "title": "GitHub Repository: pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 92491, Language: Python",
+    "metadata": {
+      "author": "pytorch",
+      "stars": 92491,
+      "forks": 25011,
+      "language": "Python",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:29:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "pytorch",
+      "last_activity": "2025-08-19T05:29:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 92491,
+        "forks": 25011,
+        "watchers": 92491,
+        "size_kb": 1093857,
+        "language": "Python",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:43:48.843127+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
