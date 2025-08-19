@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:54.094364",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_293798.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_293798",
+    "url": "https://github.com/stack-auth/stack-auth",
+    "title": "GitHub Repository: stack-auth",
+    "description": "Open-source Auth0/Clerk alternative",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6128, Language: TypeScript",
+    "metadata": {
+      "author": "stack-auth",
+      "stars": 6128,
+      "forks": 443,
+      "language": "TypeScript",
+      "topics": [
+        "auth",
+        "auth0",
+        "authentication",
+        "clerk",
+        "cognito",
+        "email-password",
+        "firebase-auth",
+        "keycloak",
+        "login",
+        "magic-link",
+        "nextjs",
+        "oauth",
+        "password",
+        "react",
+        "session-management",
+        "shadcn",
+        "signin",
+        "social-login",
+        "supabase-auth",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:45:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stack-auth",
+      "last_activity": "2025-08-19T02:45:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6128,
+        "forks": 443,
+        "watchers": 6128,
+        "size_kb": 40254,
+        "language": "TypeScript",
+        "topics": [
+          "auth",
+          "auth0",
+          "authentication",
+          "clerk",
+          "cognito",
+          "email-password",
+          "firebase-auth",
+          "keycloak",
+          "login",
+          "magic-link",
+          "nextjs",
+          "oauth",
+          "password",
+          "react",
+          "session-management",
+          "shadcn",
+          "signin",
+          "social-login",
+          "supabase-auth",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.293801+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
