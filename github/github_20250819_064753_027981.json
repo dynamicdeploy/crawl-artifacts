@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:02.572780",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_027981.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_027981",
+    "url": "https://github.com/storybookjs/storybook",
+    "title": "GitHub Repository: storybook",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 87542, Language: TypeScript",
+    "metadata": {
+      "author": "storybookjs",
+      "stars": 87542,
+      "forks": 9657,
+      "language": "TypeScript",
+      "topics": [
+        "angular",
+        "components",
+        "design-systems",
+        "documentation",
+        "html",
+        "javascript",
+        "react",
+        "react-native",
+        "stories",
+        "storybook",
+        "styleguide",
+        "svelte",
+        "testing",
+        "typescript",
+        "ui",
+        "vite",
+        "vue",
+        "web-components",
+        "webpack",
+        "workshop"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:39:35Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "storybookjs",
+      "last_activity": "2025-08-19T06:39:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 87542,
+        "forks": 9657,
+        "watchers": 87542,
+        "size_kb": 1041091,
+        "language": "TypeScript",
+        "topics": [
+          "angular",
+          "components",
+          "design-systems",
+          "documentation",
+          "html",
+          "javascript",
+          "react",
+          "react-native",
+          "stories",
+          "storybook",
+          "styleguide",
+          "svelte",
+          "testing",
+          "typescript",
+          "ui",
+          "vite",
+          "vue",
+          "web-components",
+          "webpack",
+          "workshop"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.027984+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
