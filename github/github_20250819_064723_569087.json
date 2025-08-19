@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:35.325385",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_569087.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_569087",
+    "url": "https://github.com/langchain-ai/langchain",
+    "title": "GitHub Repository: langchain",
+    "description": "🦜🔗 Build context-aware reasoning applications 🦜🔗",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 113769, Language: Jupyter Notebook",
+    "metadata": {
+      "author": "langchain-ai",
+      "stars": 113769,
+      "forks": 18643,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "anthropic",
+        "gemini",
+        "langchain",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:28Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "langchain-ai",
+      "last_activity": "2025-08-19T06:44:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 113769,
+        "forks": 18643,
+        "watchers": 113769,
+        "size_kb": 466336,
+        "language": "Jupyter Notebook",
+        "topics": [
+          "ai",
+          "anthropic",
+          "gemini",
+          "langchain",
+          "llm",
+          "openai",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.569090+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
