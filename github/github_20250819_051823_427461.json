@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:32.346384",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_427461.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_427461",
+    "url": "https://github.com/unlight/solution-architecture",
+    "title": "GitHub Repository: solution-architecture",
+    "description": "Solution Architecture links, articles, books, video lessons, etc.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 675, Language: None",
+    "metadata": {
+      "author": "unlight",
+      "stars": 675,
+      "forks": 276,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "microservices",
+        "solution-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-11T10:44:22Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "unlight",
+      "last_activity": "2025-08-11T10:44:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 675,
+        "forks": 276,
+        "watchers": 675,
+        "size_kb": 43,
+        "language": null,
+        "topics": [
+          "architecture",
+          "microservices",
+          "solution-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.427465+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
