@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:39.348275",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_619046.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_619046",
+    "url": "https://github.com/charlessolar/eShopOnContainersDDD",
+    "title": "GitHub Repository: eShopOnContainersDDD",
+    "description": "Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 321, Language: C#",
+    "metadata": {
+      "author": "charlessolar",
+      "stars": 321,
+      "forks": 45,
+      "language": "C#",
+      "topics": [
+        "backend",
+        "cqrs",
+        "cqrs-es",
+        "ddd",
+        "domain-driven-design",
+        "eventsourcing",
+        "eventstore",
+        "example",
+        "frontend",
+        "microservices",
+        "mobx",
+        "mobx-state-tree",
+        "netstandard",
+        "nservicebus",
+        "react",
+        "servicestack",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-26T21:48:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "charlessolar",
+      "last_activity": "2025-04-26T21:48:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 321,
+        "forks": 45,
+        "watchers": 321,
+        "size_kb": 5117,
+        "language": "C#",
+        "topics": [
+          "backend",
+          "cqrs",
+          "cqrs-es",
+          "ddd",
+          "domain-driven-design",
+          "eventsourcing",
+          "eventstore",
+          "example",
+          "frontend",
+          "microservices",
+          "mobx",
+          "mobx-state-tree",
+          "netstandard",
+          "nservicebus",
+          "react",
+          "servicestack",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.619049+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
