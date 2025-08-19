@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:14.006802",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_432414.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_432414",
+    "url": "https://github.com/ivanpaulovich/dotnet-new-caju",
+    "title": "GitHub Repository: dotnet-new-caju",
+    "description": "Learn Clean Architecture with .NET Core 3.0 :fire:",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 249, Language: C#",
+    "metadata": {
+      "author": "ivanpaulovich",
+      "stars": 249,
+      "forks": 34,
+      "language": "C#",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "cqrs",
+        "ddd",
+        "design-patterns",
+        "docker",
+        "domain-driven-design",
+        "dotnet-cli",
+        "dotnet-new",
+        "dotnet-template",
+        "event-driven",
+        "event-sourcing",
+        "evolutionary-architecture",
+        "hexagonal-architecture",
+        "kafka",
+        "microservices",
+        "mongodb",
+        "solid",
+        "tdd",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-31T14:48:53Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ivanpaulovich",
+      "last_activity": "2025-05-31T14:48:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 249,
+        "forks": 34,
+        "watchers": 249,
+        "size_kb": 5932,
+        "language": "C#",
+        "topics": [
+          "clean-architecture",
+          "clean-code",
+          "cqrs",
+          "ddd",
+          "design-patterns",
+          "docker",
+          "domain-driven-design",
+          "dotnet-cli",
+          "dotnet-new",
+          "dotnet-template",
+          "event-driven",
+          "event-sourcing",
+          "evolutionary-architecture",
+          "hexagonal-architecture",
+          "kafka",
+          "microservices",
+          "mongodb",
+          "solid",
+          "tdd",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.432417+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
