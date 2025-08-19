@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:06.951974",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_758337.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_758337",
+    "url": "https://github.com/aliyun/aliyun-openapi-python-sdk",
+    "title": "GitHub Repository: aliyun-openapi-python-sdk",
+    "description": "The Alibaba Cloud V1.0 SDK will soon enter the Basic Security Maintenance phase and is no longer recommended for use.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1040, Language: Python",
+    "metadata": {
+      "author": "aliyun",
+      "stars": 1040,
+      "forks": 582,
+      "language": "Python",
+      "topics": [
+        "python",
+        "sdk",
+        "v1"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:36Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "aliyun",
+      "last_activity": "2025-08-19T06:43:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1040,
+        "forks": 582,
+        "watchers": 1040,
+        "size_kb": 19503,
+        "language": "Python",
+        "topics": [
+          "python",
+          "sdk",
+          "v1"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.758340+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
