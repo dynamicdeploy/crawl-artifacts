@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:07.093304",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_259586.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_259586",
+    "url": "https://github.com/oracle/graal",
+    "title": "GitHub Repository: graal",
+    "description": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21027, Language: Java",
+    "metadata": {
+      "author": "oracle",
+      "stars": 21027,
+      "forks": 1728,
+      "language": "Java",
+      "topics": [
+        "aot",
+        "compiler",
+        "graalvm",
+        "java"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:46Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "oracle",
+      "last_activity": "2025-08-19T06:42:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21027,
+        "forks": 1728,
+        "watchers": 21027,
+        "size_kb": 453091,
+        "language": "Java",
+        "topics": [
+          "aot",
+          "compiler",
+          "graalvm",
+          "java"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.259589+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
