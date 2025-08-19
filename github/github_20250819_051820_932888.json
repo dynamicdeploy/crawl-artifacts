@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:15.577632",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_932888.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_932888",
+    "url": "https://github.com/mpaiva/wcag-tokens",
+    "title": "GitHub Repository: wcag-tokens",
+    "description": "We aim to offer a comprehensive set of utility tokens, guidelines, examples, and best practices to assist designers and developers in integrating these accessibility-focused tokens into their existing design systems, ensuring consistent and accessible digital interfaces.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12, Language: TypeScript",
+    "metadata": {
+      "author": "mpaiva",
+      "stars": 12,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-23T12:25:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mpaiva",
+      "last_activity": "2025-06-23T12:25:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12,
+        "forks": 0,
+        "watchers": 12,
+        "size_kb": 7280,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.932892+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
