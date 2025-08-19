@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:29.220007",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_177546.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_177546",
+    "url": "https://github.com/grimlor/OnionArchitecture",
+    "title": "GitHub Repository: OnionArchitecture",
+    "description": "Templify template for the Onion Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9, Language: JavaScript",
+    "metadata": {
+      "author": "grimlor",
+      "stars": 9,
+      "forks": 4,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-09-15T13:47:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "grimlor",
+      "last_activity": "2022-09-15T13:47:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9,
+        "forks": 4,
+        "watchers": 9,
+        "size_kb": 29816,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.177551+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
