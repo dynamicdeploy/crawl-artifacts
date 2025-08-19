@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:25.442037",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_338441.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_338441",
+    "url": "https://github.com/metehanyurtoglu/MediatRExample",
+    "title": "GitHub Repository: MediatRExample",
+    "description": "CQRS Design Pattern usage example with MediatR",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "metehanyurtoglu",
+      "stars": 1,
+      "forks": 0,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-06-18T07:57:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "metehanyurtoglu",
+      "last_activity": "2024-06-18T07:57:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 7,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.338446+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
