@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:40:14.943951",
+    "crawler_type": "github",
+    "filename": "github_20250819_063942_362524.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_063942_362524",
+    "url": "https://github.com/ChristoWolf/awesome-testing-blogs",
+    "title": "GitHub Repository: awesome-testing-blogs",
+    "description": "An awesome, curated list of various software testing related blogs and similar resources.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 97, Language: Markdown",
+    "metadata": {
+      "author": "ChristoWolf",
+      "stars": 97,
+      "forks": 8,
+      "language": "Markdown",
+      "topics": [
+        "architecture",
+        "automated",
+        "automated-testing",
+        "automation",
+        "automation-testing",
+        "awesome",
+        "awesome-list",
+        "blog",
+        "blogs",
+        "design",
+        "knowledge-base",
+        "qa",
+        "qa-automation",
+        "test",
+        "test-automation",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T20:56:26Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ChristoWolf",
+      "last_activity": "2025-08-15T20:56:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 97,
+        "forks": 8,
+        "watchers": 97,
+        "size_kb": 30,
+        "language": "Markdown",
+        "topics": [
+          "architecture",
+          "automated",
+          "automated-testing",
+          "automation",
+          "automation-testing",
+          "awesome",
+          "awesome-list",
+          "blog",
+          "blogs",
+          "design",
+          "knowledge-base",
+          "qa",
+          "qa-automation",
+          "test",
+          "test-automation",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:39:42.362529+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
