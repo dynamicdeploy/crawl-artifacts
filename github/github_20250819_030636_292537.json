@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:42.699545",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_292537.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_292537",
+    "url": "https://github.com/ant-design/ant-design",
+    "title": "GitHub Repository: ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 95692, Language: TypeScript",
+    "metadata": {
+      "author": "ant-design",
+      "stars": 95692,
+      "forks": 53315,
+      "language": "TypeScript",
+      "topics": [
+        "ant-design",
+        "antd",
+        "design-systems",
+        "react",
+        "typescript",
+        "ui-kit",
+        "ui-library"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:44:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ant-design",
+      "last_activity": "2025-08-19T02:44:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 95692,
+        "forks": 53315,
+        "watchers": 95692,
+        "size_kb": 233090,
+        "language": "TypeScript",
+        "topics": [
+          "ant-design",
+          "antd",
+          "design-systems",
+          "react",
+          "typescript",
+          "ui-kit",
+          "ui-library"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.292541+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
