@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:39:31.646061",
+    "crawler_type": "github",
+    "filename": "github_20250819_063907_403541.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_063907_403541",
+    "url": "https://github.com/mhadidg/software-architecture-books",
+    "title": "GitHub Repository: software-architecture-books",
+    "description": "A comprehensive list of books on Software Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10326, Language: None",
+    "metadata": {
+      "author": "mhadidg",
+      "stars": 10326,
+      "forks": 819,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "books",
+        "goodreads",
+        "software-architecture",
+        "software-design",
+        "software-engineering"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T07:07:37Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "mhadidg",
+      "last_activity": "2025-08-18T07:07:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10326,
+        "forks": 819,
+        "watchers": 10326,
+        "size_kb": 27,
+        "language": null,
+        "topics": [
+          "architecture",
+          "awesome",
+          "awesome-list",
+          "books",
+          "goodreads",
+          "software-architecture",
+          "software-design",
+          "software-engineering"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:39:07.403547+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
