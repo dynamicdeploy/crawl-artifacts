@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:57.418011",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_423087.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_423087",
+    "url": "https://github.com/evrone/go-clean-template",
+    "title": "GitHub Repository: go-clean-template",
+    "description": "Clean Architecture template for Golang services",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7011, Language: Go",
+    "metadata": {
+      "author": "evrone",
+      "stars": 7011,
+      "forks": 602,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "dependency-injection",
+        "example",
+        "go",
+        "golang",
+        "microservices",
+        "template"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T22:23:17Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "evrone",
+      "last_activity": "2025-08-18T22:23:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7011,
+        "forks": 602,
+        "watchers": 7011,
+        "size_kb": 1626,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "dependency-injection",
+          "example",
+          "go",
+          "golang",
+          "microservices",
+          "template"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.423091+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
