@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:43:05.995224",
+    "crawler_type": "github",
+    "filename": "github_20250819_054252_894716.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054252_894716",
+    "url": "https://github.com/OWASP/threat-dragon",
+    "title": "GitHub Repository: threat-dragon",
+    "description": "An open source threat modeling tool from OWASP",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1166, Language: JavaScript",
+    "metadata": {
+      "author": "OWASP",
+      "stars": 1166,
+      "forks": 307,
+      "language": "JavaScript",
+      "topics": [
+        "owasp",
+        "owasp-threat-dragon",
+        "sdlc",
+        "threat-dragon",
+        "threat-modeling"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:42:22Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "OWASP",
+      "last_activity": "2025-08-19T05:42:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1166,
+        "forks": 307,
+        "watchers": 1166,
+        "size_kb": 144982,
+        "language": "JavaScript",
+        "topics": [
+          "owasp",
+          "owasp-threat-dragon",
+          "sdlc",
+          "threat-dragon",
+          "threat-modeling"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:42:52.894720+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
