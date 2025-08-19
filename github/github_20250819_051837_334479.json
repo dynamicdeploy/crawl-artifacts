@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:07.428108",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_334479.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_334479",
+    "url": "https://github.com/bbranquinho/skip-the-dishes",
+    "title": "GitHub Repository: skip-the-dishes",
+    "description": "Project showing an example of Event Sourcing and CQRS patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6, Language: Kotlin",
+    "metadata": {
+      "author": "bbranquinho",
+      "stars": 6,
+      "forks": 1,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-08-04T06:13:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bbranquinho",
+      "last_activity": "2024-08-04T06:13:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6,
+        "forks": 1,
+        "watchers": 6,
+        "size_kb": 304,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.334486+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
