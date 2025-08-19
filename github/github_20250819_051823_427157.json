@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:29.372958",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_427157.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_427157",
+    "url": "https://github.com/awslabs/amazon-ecs-nodejs-microservices",
+    "title": "GitHub Repository: amazon-ecs-nodejs-microservices",
+    "description": "Reference architecture that shows how to take a Node.js application, containerize it, and deploy it as microservices on Amazon Elastic Container Service. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 685, Language: Shell",
+    "metadata": {
+      "author": "awslabs",
+      "stars": 685,
+      "forks": 495,
+      "language": "Shell",
+      "topics": [
+        "amazon-web-services",
+        "ecs",
+        "ecs-cluster",
+        "ecs-service",
+        "microservices",
+        "microservices-architecture",
+        "nodejs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-31T14:34:11Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "awslabs",
+      "last_activity": "2025-07-31T14:34:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 685,
+        "forks": 495,
+        "watchers": 685,
+        "size_kb": 452,
+        "language": "Shell",
+        "topics": [
+          "amazon-web-services",
+          "ecs",
+          "ecs-cluster",
+          "ecs-service",
+          "microservices",
+          "microservices-architecture",
+          "nodejs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.427162+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
