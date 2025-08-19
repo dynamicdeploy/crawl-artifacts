@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:54.363019",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_621577.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_621577",
+    "url": "https://github.com/iammukeshm/Dapper.WebApi",
+    "title": "GitHub Repository: Dapper.WebApi",
+    "description": "Let's Learn Dapper with ASP. NET Core! Here is an Implementation of Dapper in ASP.NET Core with Repository Pattern / Unit Of Work and a Clean Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 230, Language: C#",
+    "metadata": {
+      "author": "iammukeshm",
+      "stars": 230,
+      "forks": 53,
+      "language": "C#",
+      "topics": [
+        "dapper",
+        "dapper-crud",
+        "dapper-donet-core"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T05:57:03Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "iammukeshm",
+      "last_activity": "2025-08-07T05:57:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 230,
+        "forks": 53,
+        "watchers": 230,
+        "size_kb": 17,
+        "language": "C#",
+        "topics": [
+          "dapper",
+          "dapper-crud",
+          "dapper-donet-core"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.621581+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
