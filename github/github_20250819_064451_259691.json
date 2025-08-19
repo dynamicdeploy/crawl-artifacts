@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:08.130847",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_259691.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_259691",
+    "url": "https://github.com/canonical/snapd",
+    "title": "GitHub Repository: snapd",
+    "description": "The snapd and snap tools enable systems to work with .snap files.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1969, Language: Go",
+    "metadata": {
+      "author": "canonical",
+      "stars": 1969,
+      "forks": 622,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:36Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "canonical",
+      "last_activity": "2025-08-19T06:42:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1969,
+        "forks": 622,
+        "watchers": 1969,
+        "size_kb": 170391,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.259694+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
