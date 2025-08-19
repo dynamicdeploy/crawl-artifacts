@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:06.406202",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_018776.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_018776",
+    "url": "https://github.com/sandokandias/spring-boot-ddd",
+    "title": "GitHub Repository: spring-boot-ddd",
+    "description": "Spring boot with domain driven design",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 204, Language: Java",
+    "metadata": {
+      "author": "sandokandias",
+      "stars": 204,
+      "forks": 60,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:00:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sandokandias",
+      "last_activity": "2025-08-19T04:00:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 204,
+        "forks": 60,
+        "watchers": 204,
+        "size_kb": 150,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.018779+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
