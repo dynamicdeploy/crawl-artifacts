@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:57.378521",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_430775.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_430775",
+    "url": "https://github.com/RainbowForest/e-commerce-microservices",
+    "title": "GitHub Repository: e-commerce-microservices",
+    "description": "REST Microservices architecture for E-commerce with Spring boot, Cloud and multiple modules",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 330, Language: Java",
+    "metadata": {
+      "author": "RainbowForest",
+      "stars": 330,
+      "forks": 225,
+      "language": "Java",
+      "topics": [
+        "cloud",
+        "e-commerce",
+        "eureka",
+        "java",
+        "jpa-hibernate",
+        "microservices-architecture",
+        "nosql-database",
+        "redis",
+        "rest-api",
+        "session-management",
+        "shopping",
+        "shopping-cart",
+        "spring-boot",
+        "spring-mvc",
+        "sql",
+        "zuul-gateway"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-22T09:55:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "RainbowForest",
+      "last_activity": "2025-07-22T09:55:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 330,
+        "forks": 225,
+        "watchers": 330,
+        "size_kb": 134,
+        "language": "Java",
+        "topics": [
+          "cloud",
+          "e-commerce",
+          "eureka",
+          "java",
+          "jpa-hibernate",
+          "microservices-architecture",
+          "nosql-database",
+          "redis",
+          "rest-api",
+          "session-management",
+          "shopping",
+          "shopping-cart",
+          "spring-boot",
+          "spring-mvc",
+          "sql",
+          "zuul-gateway"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.430778+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
