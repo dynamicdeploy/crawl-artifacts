@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:04.478319",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_173628.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_173628",
+    "url": "https://github.com/JayKrishnareddy/OnionArchitecture",
+    "title": "GitHub Repository: OnionArchitecture",
+    "description": "Onion Architecture in ASP.NET Core 5.0 including Fluent API, Swagger, Dependency Injection, Unit of Work",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 19, Language: C#",
+    "metadata": {
+      "author": "JayKrishnareddy",
+      "stars": 19,
+      "forks": 7,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-10-04T16:35:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "JayKrishnareddy",
+      "last_activity": "2024-10-04T16:35:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 19,
+        "forks": 7,
+        "watchers": 19,
+        "size_kb": 27,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.173632+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
