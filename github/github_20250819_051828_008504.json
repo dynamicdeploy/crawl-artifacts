@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:46.672067",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_008504.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_008504",
+    "url": "https://github.com/dddplus/dddplus",
+    "title": "GitHub Repository: dddplus",
+    "description": "🔥  A lightweight DDD(Domain Driven Design) Enhancement Framework for complex business architecture！轻量级DDD增强框架！",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 318, Language: Java",
+    "metadata": {
+      "author": "dddplus",
+      "stars": 318,
+      "forks": 103,
+      "language": "Java",
+      "topics": [
+        "business-architecture",
+        "complex-business-architecture",
+        "ddd",
+        "ddd-architecture",
+        "dddplus",
+        "domain-driven-development",
+        "enterprise-architecture",
+        "extension",
+        "framework",
+        "java",
+        "productivity-tools",
+        "reverse-engineering"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:22:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dddplus",
+      "last_activity": "2025-08-13T11:22:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 318,
+        "forks": 103,
+        "watchers": 318,
+        "size_kb": 9469,
+        "language": "Java",
+        "topics": [
+          "business-architecture",
+          "complex-business-architecture",
+          "ddd",
+          "ddd-architecture",
+          "dddplus",
+          "domain-driven-development",
+          "enterprise-architecture",
+          "extension",
+          "framework",
+          "java",
+          "productivity-tools",
+          "reverse-engineering"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.008508+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
