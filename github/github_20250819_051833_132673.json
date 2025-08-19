@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:21.587774",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_132673.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_132673",
+    "url": "https://github.com/ivanpaulovich/event-sourcing-jambo",
+    "title": "GitHub Repository: event-sourcing-jambo",
+    "description": "An Hexagonal Architecture with DDD + Aggregates + Event Sourcing using .NET Core, Kafka e MongoDB (Blog Engine)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 190, Language: C#",
+    "metadata": {
+      "author": "ivanpaulovich",
+      "stars": 190,
+      "forks": 68,
+      "language": "C#",
+      "topics": [
+        "aggregate",
+        "bearer-authentication",
+        "cqrs",
+        "cqrs-es",
+        "ddd",
+        "ddd-architecture",
+        "domain-driven-design",
+        "dotnet-core",
+        "event-driven",
+        "event-sourcing",
+        "hexagonal-architecture",
+        "kafka",
+        "microservice",
+        "microservices",
+        "mongodb",
+        "optimistic-updates",
+        "service-bus",
+        "solid",
+        "solid-principles",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-12-07T14:12:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ivanpaulovich",
+      "last_activity": "2024-12-07T14:12:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 190,
+        "forks": 68,
+        "watchers": 190,
+        "size_kb": 80328,
+        "language": "C#",
+        "topics": [
+          "aggregate",
+          "bearer-authentication",
+          "cqrs",
+          "cqrs-es",
+          "ddd",
+          "ddd-architecture",
+          "domain-driven-design",
+          "dotnet-core",
+          "event-driven",
+          "event-sourcing",
+          "hexagonal-architecture",
+          "kafka",
+          "microservice",
+          "microservices",
+          "mongodb",
+          "optimistic-updates",
+          "service-bus",
+          "solid",
+          "solid-principles",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.132683+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
