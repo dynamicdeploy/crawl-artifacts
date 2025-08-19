@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:51.872386",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_331345.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_331345",
+    "url": "https://github.com/ddd-by-examples/library-php",
+    "title": "GitHub Repository: library-php",
+    "description": "WIP: A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 99, Language: PHP",
+    "metadata": {
+      "author": "ddd-by-examples",
+      "stars": 99,
+      "forks": 12,
+      "language": "PHP",
+      "topics": [
+        "aggregates",
+        "book-library",
+        "cqrs",
+        "domain-driven-design",
+        "events",
+        "php"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-11-22T11:20:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ddd-by-examples",
+      "last_activity": "2024-11-22T11:20:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 99,
+        "forks": 12,
+        "watchers": 99,
+        "size_kb": 382,
+        "language": "PHP",
+        "topics": [
+          "aggregates",
+          "book-library",
+          "cqrs",
+          "domain-driven-design",
+          "events",
+          "php"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.331357+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
