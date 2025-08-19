@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:32:12.347908",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_624362.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_624362",
+    "url": "https://github.com/Devinterview-io/api-design-interview-questions",
+    "title": "GitHub Repository: api-design-interview-questions",
+    "description": "🟣 API Design interview questions and answers to help you prepare for your next software architecture and design patterns interview in 2025.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 175, Language: None",
+    "metadata": {
+      "author": "Devinterview-io",
+      "stars": 175,
+      "forks": 44,
+      "language": "en",
+      "topics": [
+        "api-design",
+        "api-design-interview-questions",
+        "api-design-questions",
+        "api-design-tech-interview",
+        "coding-interview-questions",
+        "coding-interviews",
+        "design-patterns",
+        "programming-interview-questions",
+        "senior-developer-interview",
+        "software-architect-interview",
+        "software-architecture",
+        "software-architecture-interview",
+        "software-architecture-interview-questions",
+        "software-developer-interview",
+        "software-engineer-interview",
+        "software-engineering",
+        "system-architecture",
+        "system-design",
+        "technical-interview-questions"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T01:13:08Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Devinterview-io",
+      "last_activity": "2025-08-14T01:13:08Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 175,
+        "forks": 44,
+        "watchers": 175,
+        "size_kb": 45,
+        "language": null,
+        "topics": [
+          "api-design",
+          "api-design-interview-questions",
+          "api-design-questions",
+          "api-design-tech-interview",
+          "coding-interview-questions",
+          "coding-interviews",
+          "design-patterns",
+          "programming-interview-questions",
+          "senior-developer-interview",
+          "software-architect-interview",
+          "software-architecture",
+          "software-architecture-interview",
+          "software-architecture-interview-questions",
+          "software-developer-interview",
+          "software-engineer-interview",
+          "software-engineering",
+          "system-architecture",
+          "system-design",
+          "technical-interview-questions"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.624366+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
