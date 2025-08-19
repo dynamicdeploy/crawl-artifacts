@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:40.304084",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_405767.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_405767",
+    "url": "https://github.com/Automattic/wp-calypso",
+    "title": "GitHub Repository: wp-calypso",
+    "description": "The JavaScript and API powered WordPress.com",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12557, Language: TypeScript",
+    "metadata": {
+      "author": "Automattic",
+      "stars": 12557,
+      "forks": 2005,
+      "language": "TypeScript",
+      "topics": [
+        "es2015",
+        "es6",
+        "es6-javascript",
+        "javascript",
+        "nodejs",
+        "react",
+        "redux",
+        "wordpress"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:25:22Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "Automattic",
+      "last_activity": "2025-08-19T05:25:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12557,
+        "forks": 2005,
+        "watchers": 12557,
+        "size_kb": 957597,
+        "language": "TypeScript",
+        "topics": [
+          "es2015",
+          "es6",
+          "es6-javascript",
+          "javascript",
+          "nodejs",
+          "react",
+          "redux",
+          "wordpress"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.405771+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
