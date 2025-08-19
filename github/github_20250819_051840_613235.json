@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:59.421366",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_613235.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_613235",
+    "url": "https://github.com/microsoft/kernel-memory",
+    "title": "GitHub Repository: kernel-memory",
+    "description": "RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2047, Language: C#",
+    "metadata": {
+      "author": "microsoft",
+      "stars": 2047,
+      "forks": 378,
+      "language": "C#",
+      "topics": [
+        "indexing",
+        "llm",
+        "memory",
+        "rag",
+        "semantic-search"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T22:01:35Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "microsoft",
+      "last_activity": "2025-08-15T22:01:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2047,
+        "forks": 378,
+        "watchers": 2047,
+        "size_kb": 26872,
+        "language": "C#",
+        "topics": [
+          "indexing",
+          "llm",
+          "memory",
+          "rag",
+          "semantic-search"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.613239+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
