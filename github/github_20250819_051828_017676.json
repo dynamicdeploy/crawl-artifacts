@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:00.676364",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_017676.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_017676",
+    "url": "https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
+    "title": "GitHub Repository: Clean-Architecture-And-Domain-Driven-Design-Solution-Template",
+    "description": ".NET Core template in DDD and Clean Architecture approach.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 220, Language: C#",
+    "metadata": {
+      "author": "mikolaj-jankowski",
+      "stars": 220,
+      "forks": 22,
+      "language": "C#",
+      "topics": [
+        "aspire-dashboard",
+        "clean-architecture",
+        "cqrs",
+        "csharp",
+        "ddd-architecture",
+        "domain-driven-design",
+        "dotnet",
+        "dotnet-core",
+        "template",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T12:26:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mikolaj-jankowski",
+      "last_activity": "2025-08-17T12:26:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 220,
+        "forks": 22,
+        "watchers": 220,
+        "size_kb": 1826,
+        "language": "C#",
+        "topics": [
+          "aspire-dashboard",
+          "clean-architecture",
+          "cqrs",
+          "csharp",
+          "ddd-architecture",
+          "domain-driven-design",
+          "dotnet",
+          "dotnet-core",
+          "template",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.017682+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
