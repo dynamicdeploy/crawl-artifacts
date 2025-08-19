@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:50.457607",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_009240.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_009240",
+    "url": "https://github.com/PacktPublishing/Domain-Driven-Design-with-GoLang",
+    "title": "GitHub Repository: Domain-Driven-Design-with-GoLang",
+    "description": "Domain-Driven Design With Golang, published by Packt",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 291, Language: Go",
+    "metadata": {
+      "author": "PacktPublishing",
+      "stars": 291,
+      "forks": 77,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-29T20:51:58Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "PacktPublishing",
+      "last_activity": "2025-07-29T20:51:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 291,
+        "forks": 77,
+        "watchers": 291,
+        "size_kb": 1386,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.009250+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
