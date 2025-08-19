@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:35.814925",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_428065.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_428065",
+    "url": "https://github.com/0xb4lamx/nestjs-boilerplate-microservice",
+    "title": "GitHub Repository: nestjs-boilerplate-microservice",
+    "description": "Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 580, Language: TypeScript",
+    "metadata": {
+      "author": "0xb4lamx",
+      "stars": 580,
+      "forks": 71,
+      "language": "TypeScript",
+      "topics": [
+        "boilerplate",
+        "cqrs",
+        "ddd",
+        "eventsourcing",
+        "eventstore",
+        "graphql",
+        "hacktoberfest",
+        "microservice",
+        "nestjs",
+        "nodejs",
+        "saga",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T14:23:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "0xb4lamx",
+      "last_activity": "2025-08-15T14:23:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 580,
+        "forks": 71,
+        "watchers": 580,
+        "size_kb": 6513,
+        "language": "TypeScript",
+        "topics": [
+          "boilerplate",
+          "cqrs",
+          "ddd",
+          "eventsourcing",
+          "eventstore",
+          "graphql",
+          "hacktoberfest",
+          "microservice",
+          "nestjs",
+          "nodejs",
+          "saga",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.428068+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
