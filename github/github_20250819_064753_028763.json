@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:11.016478",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_028763.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_028763",
+    "url": "https://github.com/libnyanpasu/clash-nyanpasu",
+    "title": "GitHub Repository: clash-nyanpasu",
+    "description": "Clash Nyanpasu～(∠・ω< )⌒☆​",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11745, Language: Rust",
+    "metadata": {
+      "author": "libnyanpasu",
+      "stars": 11745,
+      "forks": 729,
+      "language": "Rust",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "clash-nyanpasu",
+        "clash-rs",
+        "material-you",
+        "mihomo",
+        "react",
+        "rust",
+        "tauri",
+        "tauri-app"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:40:40Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "libnyanpasu",
+      "last_activity": "2025-08-19T06:40:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11745,
+        "forks": 729,
+        "watchers": 11745,
+        "size_kb": 31127,
+        "language": "Rust",
+        "topics": [
+          "clash",
+          "clash-meta",
+          "clash-nyanpasu",
+          "clash-rs",
+          "material-you",
+          "mihomo",
+          "react",
+          "rust",
+          "tauri",
+          "tauri-app"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.028766+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
