@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:51.334830",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_389869.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_389869",
+    "url": "https://github.com/juicedata/juicefs",
+    "title": "GitHub Repository: juicefs",
+    "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12036, Language: Go",
+    "metadata": {
+      "author": "juicedata",
+      "stars": 12036,
+      "forks": 1065,
+      "language": "Go",
+      "topics": [
+        "bigdata",
+        "cloud-native",
+        "distributed-systems",
+        "filesystem",
+        "go",
+        "golang",
+        "hdfs",
+        "object-storage",
+        "posix",
+        "redis",
+        "s3",
+        "storage"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "juicedata",
+      "last_activity": "2025-08-19T06:49:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12036,
+        "forks": 1065,
+        "watchers": 12036,
+        "size_kb": 65737,
+        "language": "Go",
+        "topics": [
+          "bigdata",
+          "cloud-native",
+          "distributed-systems",
+          "filesystem",
+          "go",
+          "golang",
+          "hdfs",
+          "object-storage",
+          "posix",
+          "redis",
+          "s3",
+          "storage"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.389873+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
