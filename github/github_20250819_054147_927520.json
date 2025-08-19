@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:19.207973",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_927520.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_927520",
+    "url": "https://github.com/antiwork/gumroad",
+    "title": "GitHub Repository: gumroad",
+    "description": "Sell stuff and see what sticks",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6819, Language: Ruby",
+    "metadata": {
+      "author": "antiwork",
+      "stars": 6819,
+      "forks": 1185,
+      "language": "Ruby",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:39:11Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "antiwork",
+      "last_activity": "2025-08-19T05:39:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6819,
+        "forks": 1185,
+        "watchers": 6819,
+        "size_kb": 177078,
+        "language": "Ruby",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.927524+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
