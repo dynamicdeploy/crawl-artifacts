@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:58.314017",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_613114.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_613114",
+    "url": "https://github.com/nemanjarogic/DesignPatternsLibrary",
+    "title": "GitHub Repository: DesignPatternsLibrary",
+    "description": "A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2074, Language: C#",
+    "metadata": {
+      "author": "nemanjarogic",
+      "stars": 2074,
+      "forks": 218,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "csharp",
+        "design",
+        "design-patterns",
+        "designpatterns",
+        "dotnet",
+        "dotnet8",
+        "gof-patterns",
+        "oop",
+        "patterns",
+        "principles"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T08:39:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nemanjarogic",
+      "last_activity": "2025-08-18T08:39:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2074,
+        "forks": 218,
+        "watchers": 2074,
+        "size_kb": 6231,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "csharp",
+          "design",
+          "design-patterns",
+          "designpatterns",
+          "dotnet",
+          "dotnet8",
+          "gof-patterns",
+          "oop",
+          "patterns",
+          "principles"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.613118+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
