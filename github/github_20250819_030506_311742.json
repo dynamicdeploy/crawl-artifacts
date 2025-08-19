@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:27.260885",
+    "crawler_type": "github",
+    "filename": "github_20250819_030506_311742.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030506_311742",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "title": "GitHub Repository: AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 177879, Language: Python",
+    "metadata": {
+      "author": "Significant-Gravitas",
+      "stars": 177879,
+      "forks": 45943,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "gpt-4",
+        "llama-api",
+        "openai",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:04:51Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Significant-Gravitas",
+      "last_activity": "2025-08-19T03:04:51Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 177879,
+        "forks": 45943,
+        "watchers": 177879,
+        "size_kb": 273958,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "autonomous-agents",
+          "gpt-4",
+          "llama-api",
+          "openai",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:06.311745+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
