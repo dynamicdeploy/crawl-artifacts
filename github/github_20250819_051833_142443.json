@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:09.188087",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_142443.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_142443",
+    "url": "https://github.com/reod/heksy",
+    "title": "GitHub Repository: heksy",
+    "description": "Hexagonal architecture sample with TypeScript and node.js",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 66, Language: TypeScript",
+    "metadata": {
+      "author": "reod",
+      "stars": 66,
+      "forks": 11,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-04-17T20:04:56Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "reod",
+      "last_activity": "2024-04-17T20:04:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 66,
+        "forks": 11,
+        "watchers": 66,
+        "size_kb": 66,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.142448+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
