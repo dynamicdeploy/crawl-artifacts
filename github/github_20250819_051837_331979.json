@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:54.640107",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_331979.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_331979",
+    "url": "https://github.com/MetaArivu/Kafka-quickstart",
+    "title": "GitHub Repository: Kafka-quickstart",
+    "description": "Kafka Examples focusing on  Producer, Consumer, KStreams, KTable, Global KTable using Spring, Kafka Cluster Setup & Monitoring. Implementing  Event Sourcing and CQRS Design Pattern using Kafka",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 38, Language: Java",
+    "metadata": {
+      "author": "MetaArivu",
+      "stars": 38,
+      "forks": 17,
+      "language": "Java",
+      "topics": [
+        "cqrs",
+        "event-sourcing",
+        "global-ktable",
+        "kafka",
+        "kafka-admin",
+        "kafka-consumer",
+        "kafka-producer",
+        "kafka-prometheus",
+        "kafka-ssl",
+        "kstream",
+        "ktable",
+        "spring-kafka",
+        "spring-kafka-test"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-07-19T19:59:50Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MetaArivu",
+      "last_activity": "2024-07-19T19:59:50Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 38,
+        "forks": 17,
+        "watchers": 38,
+        "size_kb": 195978,
+        "language": "Java",
+        "topics": [
+          "cqrs",
+          "event-sourcing",
+          "global-ktable",
+          "kafka",
+          "kafka-admin",
+          "kafka-consumer",
+          "kafka-producer",
+          "kafka-prometheus",
+          "kafka-ssl",
+          "kstream",
+          "ktable",
+          "spring-kafka",
+          "spring-kafka-test"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.331985+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
