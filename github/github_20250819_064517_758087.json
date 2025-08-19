@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:03.642151",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_758087.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_758087",
+    "url": "https://github.com/superlinked/superlinked",
+    "title": "GitHub Repository: superlinked",
+    "description": "Superlinked is a Python framework for AI Engineers building high-performance search & recommendation applications that combine structured and unstructured data.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1310, Language: Jupyter Notebook",
+    "metadata": {
+      "author": "superlinked",
+      "stars": 1310,
+      "forks": 98,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-pipeline",
+        "deep-learning",
+        "embeddings",
+        "etl",
+        "information-retrieval",
+        "llm",
+        "ml",
+        "mlops",
+        "natural-language-processing",
+        "nlp",
+        "python",
+        "retrieval",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "vector-database",
+        "vector-search",
+        "vectorization"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:59Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "superlinked",
+      "last_activity": "2025-08-19T06:44:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1310,
+        "forks": 98,
+        "watchers": 1310,
+        "size_kb": 150734,
+        "language": "Jupyter Notebook",
+        "topics": [
+          "data-pipeline",
+          "deep-learning",
+          "embeddings",
+          "etl",
+          "information-retrieval",
+          "llm",
+          "ml",
+          "mlops",
+          "natural-language-processing",
+          "nlp",
+          "python",
+          "retrieval",
+          "retrieval-augmented-generation",
+          "semantic-search",
+          "vector-database",
+          "vector-search",
+          "vectorization"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.758090+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
