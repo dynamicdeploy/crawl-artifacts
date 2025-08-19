@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:31.552434",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_134908.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_134908",
+    "url": "https://github.com/alexislozano/pokedex",
+    "title": "GitHub Repository: pokedex",
+    "description": "Hexagonal architecture example in Rust",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 141, Language: Rust",
+    "metadata": {
+      "author": "alexislozano",
+      "stars": 141,
+      "forks": 16,
+      "language": "Rust",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-14T09:45:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alexislozano",
+      "last_activity": "2025-06-14T09:45:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 141,
+        "forks": 16,
+        "watchers": 141,
+        "size_kb": 33,
+        "language": "Rust",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.134914+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
