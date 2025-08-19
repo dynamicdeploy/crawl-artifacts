@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:17.379126",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_029796.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_029796",
+    "url": "https://github.com/imbhargav5/rooks",
+    "title": "GitHub Repository: rooks",
+    "description": " Essential React custom hooks ⚓ to super charge your components!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3335, Language: TypeScript",
+    "metadata": {
+      "author": "imbhargav5",
+      "stars": 3335,
+      "forks": 220,
+      "language": "TypeScript",
+      "topics": [
+        "hook",
+        "hooks",
+        "react",
+        "react-hook",
+        "react-hooks",
+        "reactjs",
+        "rooks",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:39:07Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "imbhargav5",
+      "last_activity": "2025-08-19T06:39:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3335,
+        "forks": 220,
+        "watchers": 3335,
+        "size_kb": 20545,
+        "language": "TypeScript",
+        "topics": [
+          "hook",
+          "hooks",
+          "react",
+          "react-hook",
+          "react-hooks",
+          "reactjs",
+          "rooks",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.029802+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
