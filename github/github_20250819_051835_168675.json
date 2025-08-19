@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:34.062555",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_168675.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_168675",
+    "url": "https://github.com/CodeMazeBlog/onion-architecture-aspnetcore",
+    "title": "GitHub Repository: onion-architecture-aspnetcore",
+    "description": "This repo contains the source code for the \"Onion Architecture in ASP.NET Core\" article on Code Maze",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 167, Language: C#",
+    "metadata": {
+      "author": "CodeMazeBlog",
+      "stars": 167,
+      "forks": 71,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-28T15:01:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "CodeMazeBlog",
+      "last_activity": "2025-05-28T15:01:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 167,
+        "forks": 71,
+        "watchers": 167,
+        "size_kb": 20,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.168678+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
