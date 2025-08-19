@@ -1,0 +1,33 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:32:17.950675",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_624971.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_624971",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "title": "GitHub Repository: system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "High-quality GitHub repository containing software architecture examples and patterns. Stars: 314000",
+    "metadata": {
+      "author": "donnemartin",
+      "stars": 314000,
+      "topics": [
+        "system-design",
+        "scalability",
+        "interview-prep",
+        "distributed-systems"
+      ],
+      "repository_type": "github",
+      "is_curated": true,
+      "language": "en"
+    },
+    "crawled_at": "2025-08-19T05:18:40.624975+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
