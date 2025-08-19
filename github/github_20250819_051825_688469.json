@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:30.515490",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_688469.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_688469",
+    "url": "https://github.com/lolevsky/Android-Clean-Architecture",
+    "title": "GitHub Repository: Android-Clean-Architecture",
+    "description": "Example project how to design Android application with clean architecture, MVP, RXJava and Dagger, create your next project to be more scalable and testable.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 70, Language: Java",
+    "metadata": {
+      "author": "lolevsky",
+      "stars": 70,
+      "forks": 15,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-01-09T11:59:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "lolevsky",
+      "last_activity": "2023-01-09T11:59:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 70,
+        "forks": 15,
+        "watchers": 70,
+        "size_kb": 18758,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.688477+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
