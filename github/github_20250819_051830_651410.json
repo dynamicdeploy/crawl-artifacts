@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:27.585366",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_651410.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_651410",
+    "url": "https://github.com/moonufo/galaxyLight",
+    "title": "GitHub Repository: galaxyLight",
+    "description": "欢迎大家完善本系统，结合目前事务处理的精华，我开发了太极分布式事务处理框架MOONWATER，采用可靠消息服务和重试、补偿处理机制，使用事件驱动、最终一致的事务模型，巧妙地运用数据库的事务处理能力，对服务操作结果进行判断，调用应用系统自身的事务处理功能，自动进行事务处理，从而有效地解决微服务的分布式事务处理问题。框架采用消息机制调用服务，速度快、灵活，通过使用缓存，解决服务调用的冥等性和消息的冥等性，在事务处理时，采用异步并行调用对应的服务，提高了性能。MOONWATER是一个非常优秀的框架，优势在于提高了应用的成功率，自动进行分布式事务处理，事务处理速度快，提高了数据的一致性，把对事务的处理由不可控变为可控，需要人工处理的故障可一键完成，简单快捷，实现事务处理的自动化，框架提供SDK，开发使用方便，高效实用，可以支持任何微服务架构的项目，而且可以运用于任何其他项目，是一个业界领先的世界级成果，可以简单有效地实现CQRS+Event Sourcing领域模型DDD架构开发，及其他方式的微服务开发，实现一个路由灵活、数据可靠传输、高可用、高性能、易扩展的消息服务架构。  With the essence of the current transaction, I developed a Tai Chi distributed transaction processing framework MOONWATER, using reliable message service and retry, compensation mechanism, transaction model using event driven, a final agreement, the transaction processing database skillfully, to judge the service operation result, transaction processing function call application system itself. Automatic transaction processing, so as to effectively solve the problem of distributed transaction processing and micro services. Using the framework of message mechanism to invoke the service, fast and flexible, through the use of cache, solve the service invocation of the news and Ming Ming etc., in transaction processing, using asynchronous parallel call the corresponding service, improve the performance of. MOONWATER is an excellent framework, enhances the success rate of application, automatically distributed transaction processing, transaction processing speed, improve the consistency of the data, the handling of affairs by uncontrollable is controllable, fault need manual processing can be a key to complete, simple and quick, automated transaction the SDK provides a framework for development, use convenient, efficient and practical, can support any micro service architecture of the project, but also can be used in any other project, is an industry leading world-class achievements, can simply and effectively realize the development of DDD architecture CQRS+Event Sourcing domain model, and other means of micro service development, implementation a flexible routing, reliable data transmission, high availability, high performance and easy to extend message service architecture.Welcome everyone to improve the system,",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 47, Language: Java",
+    "metadata": {
+      "author": "moonufo",
+      "stars": 47,
+      "forks": 33,
+      "language": "Java",
+      "topics": [
+        "distributed",
+        "java",
+        "message",
+        "rabbitmq",
+        "rest",
+        "spring-boot",
+        "springcloud",
+        "transition"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-02T09:33:09Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "moonufo",
+      "last_activity": "2025-04-02T09:33:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 47,
+        "forks": 33,
+        "watchers": 47,
+        "size_kb": 113,
+        "language": "Java",
+        "topics": [
+          "distributed",
+          "java",
+          "message",
+          "rabbitmq",
+          "rest",
+          "spring-boot",
+          "springcloud",
+          "transition"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.651415+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
