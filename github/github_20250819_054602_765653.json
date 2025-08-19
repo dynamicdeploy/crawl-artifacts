@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:46:20.564257",
+    "crawler_type": "github",
+    "filename": "github_20250819_054602_765653.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054602_765653",
+    "url": "https://github.com/rerun-io/rerun",
+    "title": "GitHub Repository: rerun",
+    "description": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9070, Language: Rust",
+    "metadata": {
+      "author": "rerun-io",
+      "stars": 9070,
+      "forks": 506,
+      "language": "Rust",
+      "topics": [
+        "computer-vision",
+        "cpp",
+        "multimodal",
+        "python",
+        "robotics",
+        "rust",
+        "visualization"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:45:12Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "rerun-io",
+      "last_activity": "2025-08-19T05:45:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9070,
+        "forks": 506,
+        "watchers": 9070,
+        "size_kb": 168663,
+        "language": "Rust",
+        "topics": [
+          "computer-vision",
+          "cpp",
+          "multimodal",
+          "python",
+          "robotics",
+          "rust",
+          "visualization"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:46:02.765657+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
