@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:31.171674",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_168232.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_168232",
+    "url": "https://github.com/pereiren/dotnet-template-onion",
+    "title": "GitHub Repository: dotnet-template-onion",
+    "description": "Onion Architecture with .NET 6/.NET Core and CQRS/Event Sourcing following a DDD approach",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 348, Language: C#",
+    "metadata": {
+      "author": "pereiren",
+      "stars": 348,
+      "forks": 81,
+      "language": "C#",
+      "topics": [
+        "api-demo",
+        "api-rest",
+        "boilerplate-application",
+        "boilerplate-template",
+        "clean-architecture",
+        "clean-architecture-boilerplate",
+        "clean-architecture-concepts",
+        "ddd",
+        "ddd-example",
+        "ddd-patterns",
+        "ddd-sample",
+        "demo-app",
+        "dotnet",
+        "dotnet-5",
+        "dotnet-core",
+        "hexagonal-architecture",
+        "microservices-architecture",
+        "onion-architecture",
+        "template"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T19:53:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "pereiren",
+      "last_activity": "2025-08-07T19:53:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 348,
+        "forks": 81,
+        "watchers": 348,
+        "size_kb": 477,
+        "language": "C#",
+        "topics": [
+          "api-demo",
+          "api-rest",
+          "boilerplate-application",
+          "boilerplate-template",
+          "clean-architecture",
+          "clean-architecture-boilerplate",
+          "clean-architecture-concepts",
+          "ddd",
+          "ddd-example",
+          "ddd-patterns",
+          "ddd-sample",
+          "demo-app",
+          "dotnet",
+          "dotnet-5",
+          "dotnet-core",
+          "hexagonal-architecture",
+          "microservices-architecture",
+          "onion-architecture",
+          "template"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.168236+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
