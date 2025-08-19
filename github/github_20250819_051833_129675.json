@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:10.644775",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_129675.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_129675",
+    "url": "https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture",
+    "title": "GitHub Repository: eslint-plugin-hexagonal-architecture",
+    "description": "A plugin that helps you to enforce hexagonal architecture best practises",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 309, Language: TypeScript",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 309,
+      "forks": 17,
+      "language": "TypeScript",
+      "topics": [
+        "eslint",
+        "eslint-plugin",
+        "hexagonal",
+        "hexagonal-architecture",
+        "javascript",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-14T14:40:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-07-14T14:40:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 309,
+        "forks": 17,
+        "watchers": 309,
+        "size_kb": 206,
+        "language": "TypeScript",
+        "topics": [
+          "eslint",
+          "eslint-plugin",
+          "hexagonal",
+          "hexagonal-architecture",
+          "javascript",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.129689+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
