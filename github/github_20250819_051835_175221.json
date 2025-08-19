@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:15.800321",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_175221.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_175221",
+    "url": "https://github.com/n-takehata/kotlin-onion-architecture-example-with-springboot-and-gradle",
+    "title": "GitHub Repository: kotlin-onion-architecture-example-with-springboot-and-gradle",
+    "description": "Gradleのマルチプロジェクトを使用し、KotlinとSpring Bootでオニオンアーキテクチャを実現したExample",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12, Language: Kotlin",
+    "metadata": {
+      "author": "n-takehata",
+      "stars": 12,
+      "forks": 4,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-01-20T06:42:00Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "n-takehata",
+      "last_activity": "2025-01-20T06:42:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12,
+        "forks": 4,
+        "watchers": 12,
+        "size_kb": 84,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.175225+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
