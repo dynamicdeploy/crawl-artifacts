@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:43:02.775474",
+    "crawler_type": "github",
+    "filename": "github_20250819_054252_894379.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054252_894379",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "title": "GitHub Repository: how-to-secure-anything",
+    "description": "How to systematically secure anything: a repository about security engineering",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10136, Language: None",
+    "metadata": {
+      "author": "veeral-patel",
+      "stars": 10136,
+      "forks": 704,
+      "language": "en",
+      "topics": [
+        "secure-design",
+        "secure-systems",
+        "security",
+        "security-architecture",
+        "security-assurance",
+        "security-engineering",
+        "threat-modeling"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T10:52:33Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "veeral-patel",
+      "last_activity": "2025-08-17T10:52:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10136,
+        "forks": 704,
+        "watchers": 10136,
+        "size_kb": 45025,
+        "language": null,
+        "topics": [
+          "secure-design",
+          "secure-systems",
+          "security",
+          "security-architecture",
+          "security-assurance",
+          "security-engineering",
+          "threat-modeling"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:42:52.894384+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
