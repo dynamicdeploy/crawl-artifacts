@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:19:49.517535",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_928171.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_928171",
+    "url": "https://github.com/ATHellboy/SampleProject-FightingGame",
+    "title": "GitHub Repository: SampleProject-FightingGame",
+    "description": "A sample project designed to demonstrate advanced C# coding practices and architectural expertise in Unity. This showcase serves as a practical example of my ability to build scalable and maintainable gameplay systems using SOLID principles and key design patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 33, Language: C#",
+    "metadata": {
+      "author": "ATHellboy",
+      "stars": 33,
+      "forks": 9,
+      "language": "C#",
+      "topics": [
+        "2d-game",
+        "architecture",
+        "architectures",
+        "clean-code",
+        "csharp",
+        "dependency-injection",
+        "fighting-game",
+        "game-development",
+        "gamedev",
+        "messagepipe",
+        "patterns",
+        "sample-code",
+        "sample-project",
+        "samplecode",
+        "scriptableobject",
+        "solid",
+        "state-machine",
+        "unity",
+        "unity3d",
+        "vcontainer"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-01T11:41:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ATHellboy",
+      "last_activity": "2025-08-01T11:41:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 33,
+        "forks": 9,
+        "watchers": 33,
+        "size_kb": 13758,
+        "language": "C#",
+        "topics": [
+          "2d-game",
+          "architecture",
+          "architectures",
+          "clean-code",
+          "csharp",
+          "dependency-injection",
+          "fighting-game",
+          "game-development",
+          "gamedev",
+          "messagepipe",
+          "patterns",
+          "sample-code",
+          "sample-project",
+          "samplecode",
+          "scriptableobject",
+          "solid",
+          "state-machine",
+          "unity",
+          "unity3d",
+          "vcontainer"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.928177+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
