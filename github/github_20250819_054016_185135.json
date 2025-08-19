@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:40:31.269716",
+    "crawler_type": "github",
+    "filename": "github_20250819_054016_185135.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054016_185135",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "title": "GitHub Repository: javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 193029, Language: JavaScript",
+    "metadata": {
+      "author": "trekhleb",
+      "stars": 193029,
+      "forks": 30846,
+      "language": "JavaScript",
+      "topics": [
+        "algorithm",
+        "algorithms",
+        "computer-science",
+        "data-structures",
+        "interview",
+        "interview-preparation",
+        "javascript",
+        "javascript-algorithms"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:18:31Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "trekhleb",
+      "last_activity": "2025-08-19T03:18:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 193029,
+        "forks": 30846,
+        "watchers": 193029,
+        "size_kb": 13564,
+        "language": "JavaScript",
+        "topics": [
+          "algorithm",
+          "algorithms",
+          "computer-science",
+          "data-structures",
+          "interview",
+          "interview-preparation",
+          "javascript",
+          "javascript-algorithms"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:40:16.185139+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
