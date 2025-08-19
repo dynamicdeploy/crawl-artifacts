@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:49.710433",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_611979.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_611979",
+    "url": "https://github.com/munificent/game-programming-patterns",
+    "title": "GitHub Repository: game-programming-patterns",
+    "description": "Source repo for the book",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 4360, Language: HTML",
+    "metadata": {
+      "author": "munificent",
+      "stars": 4360,
+      "forks": 507,
+      "language": "HTML",
+      "topics": [
+        "architecture",
+        "book",
+        "c-plus-plus",
+        "design-patterns",
+        "game-development",
+        "markdown",
+        "optimization"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T14:04:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "munificent",
+      "last_activity": "2025-08-17T14:04:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 4360,
+        "forks": 507,
+        "watchers": 4360,
+        "size_kb": 129223,
+        "language": "HTML",
+        "topics": [
+          "architecture",
+          "book",
+          "c-plus-plus",
+          "design-patterns",
+          "game-development",
+          "markdown",
+          "optimization"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.611983+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
