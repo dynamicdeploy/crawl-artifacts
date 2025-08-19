@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:12.856558",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_614893.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_614893",
+    "url": "https://github.com/burhanrashid52/YoutubeUX",
+    "title": "GitHub Repository: YoutubeUX",
+    "description": "With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 863, Language: Kotlin",
+    "metadata": {
+      "author": "burhanrashid52",
+      "stars": 863,
+      "forks": 139,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "animation",
+        "buildsrc",
+        "constraint-layout",
+        "dagger",
+        "fragments",
+        "google",
+        "kotlin",
+        "mvvm-architecture",
+        "ui",
+        "youtube"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-22T07:23:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "burhanrashid52",
+      "last_activity": "2025-07-22T07:23:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 863,
+        "forks": 139,
+        "watchers": 863,
+        "size_kb": 18274,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "animation",
+          "buildsrc",
+          "constraint-layout",
+          "dagger",
+          "fragments",
+          "google",
+          "kotlin",
+          "mvvm-architecture",
+          "ui",
+          "youtube"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.614897+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
