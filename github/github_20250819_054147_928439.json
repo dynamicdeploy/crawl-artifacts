@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:27.357661",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_928439.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_928439",
+    "url": "https://github.com/BurningC4/Chinese-IPTV",
+    "title": "GitHub Repository: Chinese-IPTV",
+    "description": "Chinese CCTV List (IPV4)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1620, Language: None",
+    "metadata": {
+      "author": "BurningC4",
+      "stars": 1620,
+      "forks": 172,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:41:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "BurningC4",
+      "last_activity": "2025-08-19T05:41:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1620,
+        "forks": 172,
+        "watchers": 1620,
+        "size_kb": 129937,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.928442+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
