@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:15.368685",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_026214.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_026214",
+    "url": "https://github.com/cesarcastrocuba/nlayerappv3",
+    "title": "GitHub Repository: nlayerappv3",
+    "description": "Domain Driven Design (DDD) N-LayeredArchitecture with .Net Core 2",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 155, Language: C#",
+    "metadata": {
+      "author": "cesarcastrocuba",
+      "stars": 155,
+      "forks": 53,
+      "language": "C#",
+      "topics": [
+        "architectural-patterns",
+        "asp-net-core",
+        "ddd",
+        "ddd-architecture",
+        "ddd-patterns",
+        "ddd-sample",
+        "domain-driven-design",
+        "dotnet-core",
+        "dotnetcore",
+        "nlayer",
+        "sample-code"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-27T08:12:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "cesarcastrocuba",
+      "last_activity": "2025-05-27T08:12:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 155,
+        "forks": 53,
+        "watchers": 155,
+        "size_kb": 205,
+        "language": "C#",
+        "topics": [
+          "architectural-patterns",
+          "asp-net-core",
+          "ddd",
+          "ddd-architecture",
+          "ddd-patterns",
+          "ddd-sample",
+          "domain-driven-design",
+          "dotnet-core",
+          "dotnetcore",
+          "nlayer",
+          "sample-code"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.026254+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
