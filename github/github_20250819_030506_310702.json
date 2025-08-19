@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:18.910241",
+    "crawler_type": "github",
+    "filename": "github_20250819_030506_310702.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030506_310702",
+    "url": "https://github.com/vuejs/vue",
+    "title": "GitHub Repository: vue",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 209276, Language: TypeScript",
+    "metadata": {
+      "author": "vuejs",
+      "stars": 209276,
+      "forks": 33740,
+      "language": "TypeScript",
+      "topics": [
+        "framework",
+        "frontend",
+        "javascript",
+        "vue"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:29:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "vuejs",
+      "last_activity": "2025-08-19T02:29:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 209276,
+        "forks": 33740,
+        "watchers": 209276,
+        "size_kb": 32152,
+        "language": "TypeScript",
+        "topics": [
+          "framework",
+          "frontend",
+          "javascript",
+          "vue"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:06.310706+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
