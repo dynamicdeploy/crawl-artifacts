@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:35.669616",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_340167.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_340167",
+    "url": "https://github.com/franklintarter/asp-net-core-cqrs",
+    "title": "GitHub Repository: asp-net-core-cqrs",
+    "description": "A demo app to show an example of patterns and tools to do CQRS in Asp.Net Core",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "franklintarter",
+      "stars": 1,
+      "forks": 1,
+      "language": "C#",
+      "topics": [
+        "aspnetcore",
+        "cqrs",
+        "ddd",
+        "dotnetcore",
+        "entity-framework-core"
+      ],
+      "repository_type": "github",
+      "last_updated": "2021-02-10T21:15:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "franklintarter",
+      "last_activity": "2021-02-10T21:15:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 1,
+        "watchers": 1,
+        "size_kb": 50,
+        "language": "C#",
+        "topics": [
+          "aspnetcore",
+          "cqrs",
+          "ddd",
+          "dotnetcore",
+          "entity-framework-core"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.340172+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
