@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:30.745996",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_404697.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_404697",
+    "url": "https://github.com/apache/superset",
+    "title": "GitHub Repository: superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 67627, Language: TypeScript",
+    "metadata": {
+      "author": "apache",
+      "stars": 67627,
+      "forks": 15518,
+      "language": "TypeScript",
+      "topics": [
+        "analytics",
+        "apache",
+        "apache-superset",
+        "asf",
+        "bi",
+        "business-analytics",
+        "business-intelligence",
+        "data-analysis",
+        "data-analytics",
+        "data-engineering",
+        "data-science",
+        "data-visualization",
+        "data-viz",
+        "flask",
+        "python",
+        "react",
+        "sql-editor",
+        "superset"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:16:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "apache",
+      "last_activity": "2025-08-19T04:16:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 67627,
+        "forks": 15518,
+        "watchers": 67627,
+        "size_kb": 787176,
+        "language": "TypeScript",
+        "topics": [
+          "analytics",
+          "apache",
+          "apache-superset",
+          "asf",
+          "bi",
+          "business-analytics",
+          "business-intelligence",
+          "data-analysis",
+          "data-analytics",
+          "data-engineering",
+          "data-science",
+          "data-visualization",
+          "data-viz",
+          "flask",
+          "python",
+          "react",
+          "sql-editor",
+          "superset"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.404700+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
