@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:11.093765",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_142782.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_142782",
+    "url": "https://github.com/alicanli1995/clean-hexagonal-architecture-kafka-saga-outbox",
+    "title": "GitHub Repository: clean-hexagonal-architecture-kafka-saga-outbox",
+    "description": "Food Ordering Project with Clean and Hexagonal Architecture With Kafka Messaging System And Outbox Table",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 64, Language: Java",
+    "metadata": {
+      "author": "alicanli1995",
+      "stars": 64,
+      "forks": 29,
+      "language": "Java",
+      "topics": [
+        "clean-architecture",
+        "cqrs",
+        "event-driven",
+        "event-sourcing",
+        "kafka",
+        "microservices",
+        "outbox-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T19:08:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alicanli1995",
+      "last_activity": "2025-08-13T19:08:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 64,
+        "forks": 29,
+        "watchers": 64,
+        "size_kb": 76672,
+        "language": "Java",
+        "topics": [
+          "clean-architecture",
+          "cqrs",
+          "event-driven",
+          "event-sourcing",
+          "kafka",
+          "microservices",
+          "outbox-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.142787+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
