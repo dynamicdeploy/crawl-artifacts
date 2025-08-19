@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:03.507611",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_423833.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_423833",
+    "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example",
+    "title": "GitHub Repository: evolutionary-architecture-by-example",
+    "description": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2563, Language: C#",
+    "metadata": {
+      "author": "evolutionary-architecture",
+      "stars": 2563,
+      "forks": 363,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:03:54Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "evolutionary-architecture",
+      "last_activity": "2025-08-18T19:03:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2563,
+        "forks": 363,
+        "watchers": 2563,
+        "size_kb": 8759,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.423837+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
