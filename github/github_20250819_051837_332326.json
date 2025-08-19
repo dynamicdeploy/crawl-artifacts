@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:56.379103",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_332326.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_332326",
+    "url": "https://github.com/vladotesanovic/cqrs",
+    "title": "GitHub Repository: cqrs",
+    "description": "Example app implementing CQRS pattern and Event Driven programming using Nest.js",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 31, Language: TypeScript",
+    "metadata": {
+      "author": "vladotesanovic",
+      "stars": 31,
+      "forks": 9,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-02-12T09:11:48Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "vladotesanovic",
+      "last_activity": "2024-02-12T09:11:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 31,
+        "forks": 9,
+        "watchers": 31,
+        "size_kb": 948,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.332333+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
