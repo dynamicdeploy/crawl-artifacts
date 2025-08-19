@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:44.351343",
+    "crawler_type": "github",
+    "filename": "github_20250819_064628_217560.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064628_217560",
+    "url": "https://github.com/zarusz/SlimMessageBus",
+    "title": "GitHub Repository: SlimMessageBus",
+    "description": "Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 561, Language: C#",
+    "metadata": {
+      "author": "zarusz",
+      "stars": 561,
+      "forks": 80,
+      "language": "C#",
+      "topics": [
+        "apache-kafka",
+        "avro",
+        "azure",
+        "azure-event-hubs",
+        "azure-service-bus",
+        "bus",
+        "c-sharp",
+        "ddd",
+        "dotnet",
+        "kafka",
+        "message-bus",
+        "messaging",
+        "mqtt",
+        "pub-sub",
+        "rabbitmq",
+        "redis",
+        "request-response"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:02Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "zarusz",
+      "last_activity": "2025-08-19T06:42:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 561,
+        "forks": 80,
+        "watchers": 561,
+        "size_kb": 22383,
+        "language": "C#",
+        "topics": [
+          "apache-kafka",
+          "avro",
+          "azure",
+          "azure-event-hubs",
+          "azure-service-bus",
+          "bus",
+          "c-sharp",
+          "ddd",
+          "dotnet",
+          "kafka",
+          "message-bus",
+          "messaging",
+          "mqtt",
+          "pub-sub",
+          "rabbitmq",
+          "redis",
+          "request-response"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:46:28.217563+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
