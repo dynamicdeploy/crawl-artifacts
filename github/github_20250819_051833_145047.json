@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:23.399004",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_145047.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_145047",
+    "url": "https://github.com/albertllousas/functional-domain-driven-design",
+    "title": "GitHub Repository: functional-domain-driven-design",
+    "description": "A pragmatic and balanced approach to combine DDD, FP, hexagonal architecture with Kotlin",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 54, Language: Kotlin",
+    "metadata": {
+      "author": "albertllousas",
+      "stars": 54,
+      "forks": 8,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-22T15:01:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "albertllousas",
+      "last_activity": "2025-07-22T15:01:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 54,
+        "forks": 8,
+        "watchers": 54,
+        "size_kb": 15214,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.145052+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
