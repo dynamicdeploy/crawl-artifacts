@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:20.545509",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_403350.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_403350",
+    "url": "https://github.com/vercel/next.js",
+    "title": "GitHub Repository: next.js",
+    "description": "The React Framework",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 133852, Language: JavaScript",
+    "metadata": {
+      "author": "vercel",
+      "stars": 133852,
+      "forks": 29110,
+      "language": "JavaScript",
+      "topics": [
+        "blog",
+        "browser",
+        "compiler",
+        "components",
+        "hybrid",
+        "nextjs",
+        "node",
+        "react",
+        "server-rendering",
+        "ssg",
+        "static",
+        "static-site-generator",
+        "universal",
+        "vercel"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:32:20Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "vercel",
+      "last_activity": "2025-08-19T05:32:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 133852,
+        "forks": 29110,
+        "watchers": 133852,
+        "size_kb": 2320191,
+        "language": "JavaScript",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.403355+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
