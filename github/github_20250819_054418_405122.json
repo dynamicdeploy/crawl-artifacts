@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:34.612087",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_405122.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_405122",
+    "url": "https://github.com/SigNoz/signoz",
+    "title": "GitHub Repository: signoz",
+    "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 23189, Language: TypeScript",
+    "metadata": {
+      "author": "SigNoz",
+      "stars": 23189,
+      "forks": 1671,
+      "language": "TypeScript",
+      "topics": [
+        "apm",
+        "application-monitoring",
+        "distributed-tracing",
+        "go",
+        "good-first-issue",
+        "jaeger",
+        "log",
+        "logs",
+        "metrics",
+        "monitoring",
+        "nextjs",
+        "observability",
+        "open-source",
+        "opentelemetry",
+        "prometheus",
+        "react",
+        "reactjs",
+        "self-hosted",
+        "tracing",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:25:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "SigNoz",
+      "last_activity": "2025-08-19T05:25:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 23189,
+        "forks": 1671,
+        "watchers": 23189,
+        "size_kb": 98864,
+        "language": "TypeScript",
+        "topics": [
+          "apm",
+          "application-monitoring",
+          "distributed-tracing",
+          "go",
+          "good-first-issue",
+          "jaeger",
+          "log",
+          "logs",
+          "metrics",
+          "monitoring",
+          "nextjs",
+          "observability",
+          "open-source",
+          "opentelemetry",
+          "prometheus",
+          "react",
+          "reactjs",
+          "self-hosted",
+          "tracing",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.405126+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
