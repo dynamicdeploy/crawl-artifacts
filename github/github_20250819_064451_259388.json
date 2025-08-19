@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:05.002660",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_259388.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_259388",
+    "url": "https://github.com/umbraco/Umbraco-CMS",
+    "title": "GitHub Repository: Umbraco-CMS",
+    "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 4922, Language: C#",
+    "metadata": {
+      "author": "umbraco",
+      "stars": 4922,
+      "forks": 2799,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "cms",
+        "csharp",
+        "dotnet-core",
+        "hacktoberfest",
+        "umbraco",
+        "umbraco-cms"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:56Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "umbraco",
+      "last_activity": "2025-08-19T06:42:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 4922,
+        "forks": 2799,
+        "watchers": 4922,
+        "size_kb": 420983,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "cms",
+          "csharp",
+          "dotnet-core",
+          "hacktoberfest",
+          "umbraco",
+          "umbraco-cms"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.259392+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
