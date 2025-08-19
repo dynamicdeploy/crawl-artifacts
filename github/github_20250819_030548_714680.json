@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:57.184992",
+    "crawler_type": "github",
+    "filename": "github_20250819_030548_714680.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030548_714680",
+    "url": "https://github.com/kumahq/kuma",
+    "title": "GitHub Repository: kuma",
+    "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3861, Language: Go",
+    "metadata": {
+      "author": "kumahq",
+      "stars": 3861,
+      "forks": 348,
+      "language": "Go",
+      "topics": [
+        "apis",
+        "cloud-native",
+        "cncf",
+        "connectivity",
+        "control-plane",
+        "controlplane",
+        "envoy",
+        "envoyproxy",
+        "golang",
+        "kong",
+        "kubernetes",
+        "kuma",
+        "mesh",
+        "microservices",
+        "networking",
+        "service-mesh",
+        "servicemesh",
+        "sidecar-proxy"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:51:29Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "kumahq",
+      "last_activity": "2025-08-19T02:51:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3861,
+        "forks": 348,
+        "watchers": 3861,
+        "size_kb": 341246,
+        "language": "Go",
+        "topics": [
+          "apis",
+          "cloud-native",
+          "cncf",
+          "connectivity",
+          "control-plane",
+          "controlplane",
+          "envoy",
+          "envoyproxy",
+          "golang",
+          "kong",
+          "kubernetes",
+          "kuma",
+          "mesh",
+          "microservices",
+          "networking",
+          "service-mesh",
+          "servicemesh",
+          "sidecar-proxy"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:48.714689+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
