@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:32:16.247721",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_624805.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_624805",
+    "url": "https://github.com/bitaemi/rxjs-reactive-patterns",
+    "title": "GitHub Repository: rxjs-reactive-patterns",
+    "description": "Course Notes, Implementation for RxJs & Reactive Patterns Angular Architecture (Observer, Observable, Store ... ), Clean Code, StoryBook",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 160, Language: TypeScript",
+    "metadata": {
+      "author": "bitaemi",
+      "stars": 160,
+      "forks": 18,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-16T14:00:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bitaemi",
+      "last_activity": "2025-08-16T14:00:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 160,
+        "forks": 18,
+        "watchers": 160,
+        "size_kb": 4077,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.624809+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
