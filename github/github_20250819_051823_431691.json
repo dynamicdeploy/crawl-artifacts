@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:06.232479",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_431691.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_431691",
+    "url": "https://github.com/viettranx/micro-clean-architecture-service-demo",
+    "title": "GitHub Repository: micro-clean-architecture-service-demo",
+    "description": "A demo microservice with Clean Architecture in practice",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 286, Language: Go",
+    "metadata": {
+      "author": "viettranx",
+      "stars": 286,
+      "forks": 100,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T11:34:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "viettranx",
+      "last_activity": "2025-08-14T11:34:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 286,
+        "forks": 100,
+        "watchers": 286,
+        "size_kb": 982,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.431695+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
