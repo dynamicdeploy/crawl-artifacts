@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:53.222372",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_390058.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_390058",
+    "url": "https://github.com/VisActor/VTable",
+    "title": "GitHub Repository: VTable",
+    "description": "VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3007, Language: TypeScript",
+    "metadata": {
+      "author": "VisActor",
+      "stars": 3007,
+      "forks": 380,
+      "language": "TypeScript",
+      "topics": [
+        "canvas-table",
+        "data-analysis",
+        "data-visualization",
+        "database",
+        "datagrid",
+        "grid",
+        "javascript-table",
+        "javescript",
+        "list-table",
+        "list-tree",
+        "online-excel",
+        "pivot-chart",
+        "pivot-grid",
+        "pivot-tables",
+        "react-table",
+        "sparklines",
+        "spreadsheet",
+        "tree-table",
+        "visualization",
+        "vue-table"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "VisActor",
+      "last_activity": "2025-08-19T06:49:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3007,
+        "forks": 380,
+        "watchers": 3007,
+        "size_kb": 158912,
+        "language": "TypeScript",
+        "topics": [
+          "canvas-table",
+          "data-analysis",
+          "data-visualization",
+          "database",
+          "datagrid",
+          "grid",
+          "javascript-table",
+          "javescript",
+          "list-table",
+          "list-tree",
+          "online-excel",
+          "pivot-chart",
+          "pivot-grid",
+          "pivot-tables",
+          "react-table",
+          "sparklines",
+          "spreadsheet",
+          "tree-table",
+          "visualization",
+          "vue-table"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.390061+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
