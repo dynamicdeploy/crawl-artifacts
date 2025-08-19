@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:40.375656",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_388836.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_388836",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "title": "GitHub Repository: free-programming-books",
+    "description": ":books: Freely available programming books",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 365338, Language: Python",
+    "metadata": {
+      "author": "EbookFoundation",
+      "stars": 365338,
+      "forks": 63922,
+      "language": "Python",
+      "topics": [
+        "books",
+        "education",
+        "hacktoberfest",
+        "list",
+        "resource"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:01Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "EbookFoundation",
+      "last_activity": "2025-08-19T06:42:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 365338,
+        "forks": 63922,
+        "watchers": 365338,
+        "size_kb": 19603,
+        "language": "Python",
+        "topics": [
+          "books",
+          "education",
+          "hacktoberfest",
+          "list",
+          "resource"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.388840+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
