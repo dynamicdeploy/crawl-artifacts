@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:38.161294",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_528524.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_528524",
+    "url": "https://github.com/fishjar/kiss-translator",
+    "title": "GitHub Repository: kiss-translator",
+    "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7022, Language: JavaScript",
+    "metadata": {
+      "author": "fishjar",
+      "stars": 7022,
+      "forks": 272,
+      "language": "JavaScript",
+      "topics": [
+        "extension",
+        "translate",
+        "translation",
+        "translator",
+        "userscript",
+        "userscripts"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:36:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "fishjar",
+      "last_activity": "2025-08-19T05:36:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7022,
+        "forks": 272,
+        "watchers": 7022,
+        "size_kb": 13543,
+        "language": "JavaScript",
+        "topics": [
+          "extension",
+          "translate",
+          "translation",
+          "translator",
+          "userscript",
+          "userscripts"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.528529+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
