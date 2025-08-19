@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:41.246927",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_935868.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_935868",
+    "url": "https://github.com/know-prashant/frontend-system-design",
+    "title": "GitHub Repository: frontend-system-design",
+    "description": "A curated list of different frontend system design examples to prepare for you next interview",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: JavaScript",
+    "metadata": {
+      "author": "know-prashant",
+      "stars": 8,
+      "forks": 1,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-12-08T16:16:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "know-prashant",
+      "last_activity": "2024-12-08T16:16:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 1,
+        "watchers": 8,
+        "size_kb": 358,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.935872+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
