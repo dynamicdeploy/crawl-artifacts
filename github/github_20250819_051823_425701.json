@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:19.763882",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_425701.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_425701",
+    "url": "https://github.com/sitewhere/sitewhere",
+    "title": "GitHub Repository: sitewhere",
+    "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1027, Language: Java",
+    "metadata": {
+      "author": "sitewhere",
+      "stars": 1027,
+      "forks": 382,
+      "language": "Java",
+      "topics": [
+        "android",
+        "arduino",
+        "aws",
+        "device-management",
+        "helm",
+        "integration",
+        "internet-of-things",
+        "iot",
+        "iot-framework",
+        "iot-platform",
+        "java",
+        "kafka",
+        "kubernetes",
+        "microservices",
+        "mqtt",
+        "open-source",
+        "platform",
+        "raspberry-pi",
+        "sitewhere",
+        "zookeeper"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T06:54:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sitewhere",
+      "last_activity": "2025-08-15T06:54:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1027,
+        "forks": 382,
+        "watchers": 1027,
+        "size_kb": 55960,
+        "language": "Java",
+        "topics": [
+          "android",
+          "arduino",
+          "aws",
+          "device-management",
+          "helm",
+          "integration",
+          "internet-of-things",
+          "iot",
+          "iot-framework",
+          "iot-platform",
+          "java",
+          "kafka",
+          "kubernetes",
+          "microservices",
+          "mqtt",
+          "open-source",
+          "platform",
+          "raspberry-pi",
+          "sitewhere",
+          "zookeeper"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.425704+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
