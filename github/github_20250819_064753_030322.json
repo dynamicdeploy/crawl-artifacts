@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:21.470458",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_030322.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_030322",
+    "url": "https://github.com/enzeberg/tonzhon-music",
+    "title": "GitHub Repository: tonzhon-music",
+    "description": "铜钟 (Tonzhon): https://tonzhon.whamon.com : 只有音乐, 无广告和社交; 简洁纯粹, 资源丰富, 体验独特！(铜钟已将域名从 tonzhon.com 更新为 tonzhon.whamon.com，现在的 tonzhon.com 不是正版的铜钟)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1232, Language: JavaScript",
+    "metadata": {
+      "author": "enzeberg",
+      "stars": 1232,
+      "forks": 191,
+      "language": "JavaScript",
+      "topics": [
+        "antd",
+        "music",
+        "music-player",
+        "nodejs",
+        "react",
+        "react-router",
+        "redux",
+        "webapp",
+        "webpack"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:29:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "enzeberg",
+      "last_activity": "2025-08-19T06:29:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1232,
+        "forks": 191,
+        "watchers": 1232,
+        "size_kb": 2110,
+        "language": "JavaScript",
+        "topics": [
+          "antd",
+          "music",
+          "music-player",
+          "nodejs",
+          "react",
+          "react-router",
+          "redux",
+          "webapp",
+          "webpack"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.030329+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
