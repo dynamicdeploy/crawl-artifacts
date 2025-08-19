@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:55.253112",
+    "crawler_type": "github",
+    "filename": "github_20250819_030548_714240.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030548_714240",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "title": "GitHub Repository: pipedream",
+    "description": "Connect APIs, remarkably fast.  Free for developers.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10434, Language: JavaScript",
+    "metadata": {
+      "author": "PipedreamHQ",
+      "stars": 10434,
+      "forks": 5451,
+      "language": "JavaScript",
+      "topics": [
+        "apis",
+        "automation",
+        "bash",
+        "cli",
+        "data-flow",
+        "event-sourcing",
+        "eventsourcing",
+        "golang",
+        "integration-flow",
+        "integrations",
+        "ipaas",
+        "low-code",
+        "low-code-development-platform",
+        "nodejs",
+        "python",
+        "serverless",
+        "typescript",
+        "workflow",
+        "workflows"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:47:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "PipedreamHQ",
+      "last_activity": "2025-08-19T02:47:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10434,
+        "forks": 5451,
+        "watchers": 10434,
+        "size_kb": 628892,
+        "language": "JavaScript",
+        "topics": [
+          "apis",
+          "automation",
+          "bash",
+          "cli",
+          "data-flow",
+          "event-sourcing",
+          "eventsourcing",
+          "golang",
+          "integration-flow",
+          "integrations",
+          "ipaas",
+          "low-code",
+          "low-code-development-platform",
+          "nodejs",
+          "python",
+          "serverless",
+          "typescript",
+          "workflow",
+          "workflows"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:48.714250+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
