@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:51.622970",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_646589.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_646589",
+    "url": "https://github.com/diego3g/flowly",
+    "title": "GitHub Repository: flowly",
+    "description": "Flowly helps you document your event driven architecture across your team.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 219, Language: TypeScript",
+    "metadata": {
+      "author": "diego3g",
+      "stars": 219,
+      "forks": 31,
+      "language": "TypeScript",
+      "topics": [
+        "clerk",
+        "nextjs13",
+        "shadcn-ui",
+        "tailwindcss"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-17T19:56:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "diego3g",
+      "last_activity": "2025-06-17T19:56:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 219,
+        "forks": 31,
+        "watchers": 219,
+        "size_kb": 477,
+        "language": "TypeScript",
+        "topics": [
+          "clerk",
+          "nextjs13",
+          "shadcn-ui",
+          "tailwindcss"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.646592+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
