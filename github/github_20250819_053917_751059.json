@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:39:27.261020",
+    "crawler_type": "github",
+    "filename": "github_20250819_053917_751059.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_053917_751059",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "title": "GitHub Repository: awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 242530, Language: None",
+    "metadata": {
+      "author": "awesome-selfhosted",
+      "stars": 242530,
+      "forks": 11233,
+      "language": "en",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy",
+        "self-hosted",
+        "selfhosted"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:36:08Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "awesome-selfhosted",
+      "last_activity": "2025-08-19T05:36:08Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 242530,
+        "forks": 11233,
+        "watchers": 242530,
+        "size_kb": 16583,
+        "language": null,
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "cloud",
+          "free-software",
+          "hosting",
+          "privacy",
+          "self-hosted",
+          "selfhosted"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:39:17.751070+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
