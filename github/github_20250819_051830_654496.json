@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:41.605383",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_654496.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_654496",
+    "url": "https://github.com/TSignalDev/tsignal-python",
+    "title": "GitHub Repository: tsignal-python",
+    "description": "A Python Signal-Slot library inspired by Qt, featuring thread-safe communication, async support, and automatic connection type detection. Perfect for decoupled event-driven architecture and thread synchronization.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 25, Language: Python",
+    "metadata": {
+      "author": "TSignalDev",
+      "stars": 25,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "decorator",
+        "event-driven",
+        "event-handling",
+        "ipc",
+        "pubsub",
+        "python",
+        "signal-slot",
+        "thread-safe"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-10T11:16:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "TSignalDev",
+      "last_activity": "2025-07-10T11:16:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 25,
+        "forks": 0,
+        "watchers": 25,
+        "size_kb": 169,
+        "language": "Python",
+        "topics": [
+          "asyncio",
+          "decorator",
+          "event-driven",
+          "event-handling",
+          "ipc",
+          "pubsub",
+          "python",
+          "signal-slot",
+          "thread-safe"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.654499+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
