@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:40.386122",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_340464.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_340464",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "title": "GitHub Repository: nuclei",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 24390, Language: Go",
+    "metadata": {
+      "author": "projectdiscovery",
+      "stars": 24390,
+      "forks": 2857,
+      "language": "Go",
+      "topics": [
+        "attack-surface",
+        "cve-scanner",
+        "dast",
+        "hacktoberfest",
+        "nuclei-engine",
+        "security",
+        "security-scanner",
+        "subdomain-takeover",
+        "vulnerability-assessment",
+        "vulnerability-detection",
+        "vulnerability-scanner"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:06:00Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "projectdiscovery",
+      "last_activity": "2025-08-19T02:06:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 24390,
+        "forks": 2857,
+        "watchers": 24390,
+        "size_kb": 41315,
+        "language": "Go",
+        "topics": [
+          "attack-surface",
+          "cve-scanner",
+          "dast",
+          "hacktoberfest",
+          "nuclei-engine",
+          "security",
+          "security-scanner",
+          "subdomain-takeover",
+          "vulnerability-assessment",
+          "vulnerability-detection",
+          "vulnerability-scanner"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.340470+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
