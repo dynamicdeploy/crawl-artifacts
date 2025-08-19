@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:49.426989",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_389692.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_389692",
+    "url": "https://github.com/localstack/localstack",
+    "title": "GitHub Repository: localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 60146, Language: Python",
+    "metadata": {
+      "author": "localstack",
+      "stars": 60146,
+      "forks": 4226,
+      "language": "Python",
+      "topics": [
+        "aws",
+        "cloud",
+        "continuous-integration",
+        "developer-tools",
+        "localstack",
+        "python",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:08Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "localstack",
+      "last_activity": "2025-08-19T06:49:08Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 60146,
+        "forks": 4226,
+        "watchers": 60146,
+        "size_kb": 56335,
+        "language": "Python",
+        "topics": [
+          "aws",
+          "cloud",
+          "continuous-integration",
+          "developer-tools",
+          "localstack",
+          "python",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.389695+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
