@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:40.616046",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_680391.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_680391",
+    "url": "https://github.com/naeemaei/golang-clean-web-api",
+    "title": "GitHub Repository: golang-clean-web-api",
+    "description": "Golang Clean architecture REST API example with a comprehensive real project. It uses docker,  docker compose, redis, elasticsearch, kibana, filebeat, postgresql, prometheus, grafana. also use gin, gorm, viper, zerolog, zap, validator, dynamic search, swagger and JWT ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 317, Language: Go",
+    "metadata": {
+      "author": "naeemaei",
+      "stars": 317,
+      "forks": 61,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "docker",
+        "docker-compose",
+        "elasticsearch",
+        "example-project",
+        "filebeat",
+        "gin",
+        "go",
+        "go-api",
+        "go-rest-api",
+        "golang",
+        "golang-api",
+        "golang-examples",
+        "kibana",
+        "postgresql",
+        "redis",
+        "rest-api",
+        "swagger",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T08:22:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "naeemaei",
+      "last_activity": "2025-08-18T08:22:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 317,
+        "forks": 61,
+        "watchers": 317,
+        "size_kb": 19245,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "docker",
+          "docker-compose",
+          "elasticsearch",
+          "example-project",
+          "filebeat",
+          "gin",
+          "go",
+          "go-api",
+          "go-rest-api",
+          "golang",
+          "golang-api",
+          "golang-examples",
+          "kibana",
+          "postgresql",
+          "redis",
+          "rest-api",
+          "swagger",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.680396+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
