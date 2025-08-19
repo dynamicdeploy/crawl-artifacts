@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:05.437343",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_173743.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_173743",
+    "url": "https://github.com/MohamedNacer/ASP-MVC5-Enterprise-application-Architecture-Example",
+    "title": "GitHub Repository: ASP-MVC5-Enterprise-application-Architecture-Example",
+    "description": "Enterprise application architecture guide using Onion architecture, ASP.net MVC 5, ASP.net Web API 2, AngularJS 1.3, Entity Framework 6, Autofac Automapper, Bootstrap, Google Material Design. made by  @Francis M. Austria",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 19, Language: CSS",
+    "metadata": {
+      "author": "MohamedNacer",
+      "stars": 19,
+      "forks": 15,
+      "language": "CSS",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-10-20T08:01:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MohamedNacer",
+      "last_activity": "2022-10-20T08:01:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 19,
+        "forks": 15,
+        "watchers": 19,
+        "size_kb": 2651,
+        "language": "CSS",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.173747+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
