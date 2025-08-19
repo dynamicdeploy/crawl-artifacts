@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:33.845973",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_339730.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_339730",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "title": "GitHub Repository: nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 28181, Language: JavaScript",
+    "metadata": {
+      "author": "digitalocean",
+      "stars": 28181,
+      "forks": 2070,
+      "language": "JavaScript",
+      "topics": [
+        "cdn",
+        "digitalocean",
+        "digitalocean-community-tools",
+        "drupal",
+        "gzip",
+        "hacktoberfest",
+        "hsts",
+        "http2",
+        "https",
+        "letsencrypt",
+        "nginx",
+        "nginx-configs",
+        "nginx-configuration",
+        "php-fpm",
+        "rate-limiting",
+        "security",
+        "security-headers",
+        "ssl",
+        "ssl-certificate",
+        "wordpress"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T22:47:45Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "digitalocean",
+      "last_activity": "2025-08-18T22:47:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 28181,
+        "forks": 2070,
+        "watchers": 28181,
+        "size_kb": 9520,
+        "language": "JavaScript",
+        "topics": [
+          "cdn",
+          "digitalocean",
+          "digitalocean-community-tools",
+          "drupal",
+          "gzip",
+          "hacktoberfest",
+          "hsts",
+          "http2",
+          "https",
+          "letsencrypt",
+          "nginx",
+          "nginx-configs",
+          "nginx-configuration",
+          "php-fpm",
+          "rate-limiting",
+          "security",
+          "security-headers",
+          "ssl",
+          "ssl-certificate",
+          "wordpress"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.339733+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
