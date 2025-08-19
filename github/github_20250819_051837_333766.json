@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:03.732709",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_333766.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_333766",
+    "url": "https://github.com/awakelife93/msa-ddd-with-event-sourcing-cqrs-pattern",
+    "title": "GitHub Repository: msa-ddd-with-event-sourcing-cqrs-pattern",
+    "description": "An example project implementing Microservices, DDD Architecture, Event Sourcing, and the CQRS pattern.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: TypeScript",
+    "metadata": {
+      "author": "awakelife93",
+      "stars": 8,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [
+        "bull",
+        "bullmq",
+        "cqrs",
+        "cqrs-pattern",
+        "ddd",
+        "ddd-architecture",
+        "design-patterns",
+        "domain-driven-design",
+        "event-driven",
+        "event-sourcing",
+        "event-sourcing-and-cqrs",
+        "microservice",
+        "microservice-architecture",
+        "mongodb",
+        "mysql",
+        "nodejs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-22T09:46:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "awakelife93",
+      "last_activity": "2025-07-22T09:46:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 3,
+        "watchers": 8,
+        "size_kb": 153,
+        "language": "TypeScript",
+        "topics": [
+          "bull",
+          "bullmq",
+          "cqrs",
+          "cqrs-pattern",
+          "ddd",
+          "ddd-architecture",
+          "design-patterns",
+          "domain-driven-design",
+          "event-driven",
+          "event-sourcing",
+          "event-sourcing-and-cqrs",
+          "microservice",
+          "microservice-architecture",
+          "mongodb",
+          "mysql",
+          "nodejs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.333773+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
