@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:53.509660",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_621471.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_621471",
+    "url": "https://github.com/EISK/eisk.webapi",
+    "title": "GitHub Repository: eisk.webapi",
+    "description": "Project based on latest .NET (v6.0) technologies for building scalable web api, along with clean architecture patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 231, Language: C#",
+    "metadata": {
+      "author": "EISK",
+      "stars": 231,
+      "forks": 56,
+      "language": "C#",
+      "topics": [
+        "api",
+        "asp-net-core",
+        "aspnet",
+        "aspnet-core",
+        "aspnet-web-api",
+        "aspnet6",
+        "aspnetcore",
+        "aspnetwebapi",
+        "azure",
+        "c-sharp",
+        "dotnet",
+        "dotnet6",
+        "ef6",
+        "entity-framework",
+        "entity-framework-core",
+        "vs2022",
+        "web-api",
+        "webapi",
+        "webapi-sample"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-05T19:54:02Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "EISK",
+      "last_activity": "2025-08-05T19:54:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 231,
+        "forks": 56,
+        "watchers": 231,
+        "size_kb": 16464,
+        "language": "C#",
+        "topics": [
+          "api",
+          "asp-net-core",
+          "aspnet",
+          "aspnet-core",
+          "aspnet-web-api",
+          "aspnet6",
+          "aspnetcore",
+          "aspnetwebapi",
+          "azure",
+          "c-sharp",
+          "dotnet",
+          "dotnet6",
+          "ef6",
+          "entity-framework",
+          "entity-framework-core",
+          "vs2022",
+          "web-api",
+          "webapi",
+          "webapi-sample"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.621475+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
