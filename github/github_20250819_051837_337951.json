@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:22.397597",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_337951.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_337951",
+    "url": "https://github.com/KishorNaik/Sol_Minimal_Web_API_MediatR_CQRS",
+    "title": "GitHub Repository: Sol_Minimal_Web_API_MediatR_CQRS",
+    "description": "A Simple example of Minimal Web API using MediatR and CQRS pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: C#",
+    "metadata": {
+      "author": "KishorNaik",
+      "stars": 2,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "dotnet-core",
+        "minimal-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2021-11-14T14:35:11Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "KishorNaik",
+      "last_activity": "2021-11-14T14:35:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 1330,
+        "language": "C#",
+        "topics": [
+          "dotnet-core",
+          "minimal-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.337956+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
