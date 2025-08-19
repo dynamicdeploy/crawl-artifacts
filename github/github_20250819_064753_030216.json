@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:20.344343",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_030216.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_030216",
+    "url": "https://github.com/JetBrains/kotlin-wrappers",
+    "title": "GitHub Repository: kotlin-wrappers",
+    "description": "Kotlin wrappers for popular JavaScript libraries",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1519, Language: Kotlin",
+    "metadata": {
+      "author": "JetBrains",
+      "stars": 1519,
+      "forks": 178,
+      "language": "Kotlin",
+      "topics": [
+        "css",
+        "kotlin",
+        "kotlin-js",
+        "react",
+        "react-router-dom",
+        "styled-components"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:24:18Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "JetBrains",
+      "last_activity": "2025-08-19T06:24:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1519,
+        "forks": 178,
+        "watchers": 1519,
+        "size_kb": 34350,
+        "language": "Kotlin",
+        "topics": [
+          "css",
+          "kotlin",
+          "kotlin-js",
+          "react",
+          "react-router-dom",
+          "styled-components"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.030221+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
