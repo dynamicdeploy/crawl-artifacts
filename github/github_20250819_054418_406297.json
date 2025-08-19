@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:45.063300",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_406297.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_406297",
+    "url": "https://github.com/OneKeyHQ/app-monorepo",
+    "title": "GitHub Repository: app-monorepo",
+    "description": "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2005, Language: TypeScript",
+    "metadata": {
+      "author": "OneKeyHQ",
+      "stars": 2005,
+      "forks": 422,
+      "language": "TypeScript",
+      "topics": [
+        "android",
+        "bitcoin",
+        "blockchain",
+        "crypto",
+        "defi",
+        "electron",
+        "ethereum",
+        "expo",
+        "ios",
+        "mobile",
+        "native",
+        "near",
+        "react",
+        "react-native",
+        "redux",
+        "solana",
+        "universal",
+        "wallet",
+        "web"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:27:53Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "OneKeyHQ",
+      "last_activity": "2025-08-19T05:27:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2005,
+        "forks": 422,
+        "watchers": 2005,
+        "size_kb": 401643,
+        "language": "TypeScript",
+        "topics": [
+          "android",
+          "bitcoin",
+          "blockchain",
+          "crypto",
+          "defi",
+          "electron",
+          "ethereum",
+          "expo",
+          "ios",
+          "mobile",
+          "native",
+          "near",
+          "react",
+          "react-native",
+          "redux",
+          "solana",
+          "universal",
+          "wallet",
+          "web"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.406301+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
