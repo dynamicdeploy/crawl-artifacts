@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:10.951439",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_648508.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_648508",
+    "url": "https://github.com/meta-magic/microservice_workshop",
+    "title": "GitHub Repository: microservice_workshop",
+    "description": "Microservices Architecture Workshop focuses on helping the developers / architects to understand the key Architecture paradigms with hands on section. The course helps the developers from Monolithic App mindset to a Microservices based App development. It also helps the developers with hands on development experience with key Microservices infrastructure technologies like Eureka, Ribbon, Zuul, Kafka etc., and key Architecture styles likes Domain Driven Design, Event Sourcing and CQRS, Functional Reactive Programming, Microservice messaging.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 75, Language: Java",
+    "metadata": {
+      "author": "meta-magic",
+      "stars": 75,
+      "forks": 60,
+      "language": "Java",
+      "topics": [
+        "cqrs",
+        "ddd",
+        "distributed-transactions",
+        "event-sourcing-and-cqrs",
+        "kafka",
+        "microservice",
+        "microservices-architecture-styles",
+        "scalability",
+        "service-mesh",
+        "spring-cloud"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T07:52:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "meta-magic",
+      "last_activity": "2025-08-17T07:52:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 75,
+        "forks": 60,
+        "watchers": 75,
+        "size_kb": 52638,
+        "language": "Java",
+        "topics": [
+          "cqrs",
+          "ddd",
+          "distributed-transactions",
+          "event-sourcing-and-cqrs",
+          "kafka",
+          "microservice",
+          "microservices-architecture-styles",
+          "scalability",
+          "service-mesh",
+          "spring-cloud"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.648511+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
