@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:01.607726",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_757915.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_757915",
+    "url": "https://github.com/garden-co/jazz",
+    "title": "GitHub Repository: jazz",
+    "description": "A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1967, Language: TypeScript",
+    "metadata": {
+      "author": "garden-co",
+      "stars": 1967,
+      "forks": 76,
+      "language": "TypeScript",
+      "topics": [
+        "crdt",
+        "crdts",
+        "database",
+        "end-to-end-encryption",
+        "local-first",
+        "offline-first",
+        "react",
+        "reactive",
+        "state-management",
+        "sync"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:07Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "garden-co",
+      "last_activity": "2025-08-19T06:44:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1967,
+        "forks": 76,
+        "watchers": 1967,
+        "size_kb": 66572,
+        "language": "TypeScript",
+        "topics": [
+          "crdt",
+          "crdts",
+          "database",
+          "end-to-end-encryption",
+          "local-first",
+          "offline-first",
+          "react",
+          "reactive",
+          "state-management",
+          "sync"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.757918+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
