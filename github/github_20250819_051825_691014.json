@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:47.338746",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_691014.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_691014",
+    "url": "https://github.com/henriqueweiand/nestjs-ecommerce",
+    "title": "GitHub Repository: nestjs-ecommerce",
+    "description": "Example to exercise clean architecture with different databases + cache layer + DDD",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 42, Language: TypeScript",
+    "metadata": {
+      "author": "henriqueweiand",
+      "stars": 42,
+      "forks": 11,
+      "language": "TypeScript",
+      "topics": [
+        "cache",
+        "clean-architecture",
+        "ddd",
+        "e2e-tests",
+        "github-actions",
+        "jest",
+        "mongodb",
+        "mongoose",
+        "nestjs",
+        "postgresql",
+        "prisma",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-24T10:04:23Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "henriqueweiand",
+      "last_activity": "2025-07-24T10:04:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 42,
+        "forks": 11,
+        "watchers": 42,
+        "size_kb": 486,
+        "language": "TypeScript",
+        "topics": [
+          "cache",
+          "clean-architecture",
+          "ddd",
+          "e2e-tests",
+          "github-actions",
+          "jest",
+          "mongodb",
+          "mongoose",
+          "nestjs",
+          "postgresql",
+          "prisma",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.691018+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
