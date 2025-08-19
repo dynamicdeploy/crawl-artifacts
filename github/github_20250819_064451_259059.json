@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:02.013663",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_259059.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_259059",
+    "url": "https://github.com/mongodb/mongo",
+    "title": "GitHub Repository: mongo",
+    "description": "The MongoDB Database",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 27440, Language: C++",
+    "metadata": {
+      "author": "mongodb",
+      "stars": 27440,
+      "forks": 5674,
+      "language": "C++",
+      "topics": [
+        "c-plus-plus",
+        "database",
+        "mongodb",
+        "nosql"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:11Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mongodb",
+      "last_activity": "2025-08-19T06:43:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 27440,
+        "forks": 5674,
+        "watchers": 27440,
+        "size_kb": 1208665,
+        "language": "C++",
+        "topics": [
+          "c-plus-plus",
+          "database",
+          "mongodb",
+          "nosql"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.259067+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
