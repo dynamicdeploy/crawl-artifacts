@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:31.286403",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_618069.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_618069",
+    "url": "https://github.com/boyney123/awesome-event-patterns",
+    "title": "GitHub Repository: awesome-event-patterns",
+    "description": "Personal collection of links, videos and things to help with event architecture event patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 383, Language: None",
+    "metadata": {
+      "author": "boyney123",
+      "stars": 383,
+      "forks": 18,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-29T11:42:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "boyney123",
+      "last_activity": "2025-07-29T11:42:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 383,
+        "forks": 18,
+        "watchers": 383,
+        "size_kb": 36,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.618074+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
