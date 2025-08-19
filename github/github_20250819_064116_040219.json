@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:42:00.198104",
+    "crawler_type": "github",
+    "filename": "github_20250819_064116_040219.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064116_040219",
+    "url": "https://github.com/paulveillard/cybersecurity-zero-trust-architecture",
+    "title": "GitHub Repository: cybersecurity-zero-trust-architecture",
+    "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Zero Trust Architecture in Cybersecurity.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7, Language: None",
+    "metadata": {
+      "author": "paulveillard",
+      "stars": 7,
+      "forks": 3,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-04T16:46:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "paulveillard",
+      "last_activity": "2025-08-04T16:46:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7,
+        "forks": 3,
+        "watchers": 7,
+        "size_kb": 27,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T06:41:16.040222+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
