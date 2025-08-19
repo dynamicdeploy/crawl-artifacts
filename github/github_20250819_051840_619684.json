@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:42.244386",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_619684.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_619684",
+    "url": "https://github.com/neozhu/CleanArchitectureCodeGenerator",
+    "title": "GitHub Repository: CleanArchitectureCodeGenerator",
+    "description": "Generate the application features code class that conforms to the CQRS design pattern  in the Application project - Visual Studio.net 2022 Extensions plugin",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 280, Language: C#",
+    "metadata": {
+      "author": "neozhu",
+      "stars": 280,
+      "forks": 91,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-18T11:29:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "neozhu",
+      "last_activity": "2025-07-18T11:29:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 280,
+        "forks": 91,
+        "watchers": 280,
+        "size_kb": 7660,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.619692+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
