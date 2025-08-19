@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:36.347242",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_569178.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_569178",
+    "url": "https://github.com/langgenius/dify",
+    "title": "GitHub Repository: dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 111351, Language: TypeScript",
+    "metadata": {
+      "author": "langgenius",
+      "stars": 111351,
+      "forks": 17007,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "gemini",
+        "genai",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "workflow"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:33:03Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "langgenius",
+      "last_activity": "2025-08-19T06:33:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 111351,
+        "forks": 17007,
+        "watchers": 111351,
+        "size_kb": 111912,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "automation",
+          "gemini",
+          "genai",
+          "gpt",
+          "gpt-4",
+          "llm",
+          "low-code",
+          "mcp",
+          "nextjs",
+          "no-code",
+          "openai",
+          "orchestration",
+          "python",
+          "rag",
+          "workflow"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.569181+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
