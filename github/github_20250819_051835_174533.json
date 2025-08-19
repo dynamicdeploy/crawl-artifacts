@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:10.989444",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_174533.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_174533",
+    "url": "https://github.com/MarneeDear/saturn-example",
+    "title": "GitHub Repository: saturn-example",
+    "description": "An example web application using Saturn, F#, and onion architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 14, Language: F#",
+    "metadata": {
+      "author": "MarneeDear",
+      "stars": 14,
+      "forks": 2,
+      "language": "F#",
+      "topics": [
+        "asp-net",
+        "cas",
+        "fsharp",
+        "fsharp-samples",
+        "onion-architecture",
+        "saturn",
+        "saturn-samples",
+        "single-sign-on",
+        "template",
+        "webapp"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-12-14T06:31:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MarneeDear",
+      "last_activity": "2023-12-14T06:31:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 14,
+        "forks": 2,
+        "watchers": 14,
+        "size_kb": 6758,
+        "language": "F#",
+        "topics": [
+          "asp-net",
+          "cas",
+          "fsharp",
+          "fsharp-samples",
+          "onion-architecture",
+          "saturn",
+          "saturn-samples",
+          "single-sign-on",
+          "template",
+          "webapp"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.174536+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
