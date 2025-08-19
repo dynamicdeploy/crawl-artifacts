@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:44:56.768626",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_258352.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_258352",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "title": "GitHub Repository: aptos-core",
+    "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6335, Language: Rust",
+    "metadata": {
+      "author": "aptos-labs",
+      "stars": 6335,
+      "forks": 3815,
+      "language": "Rust",
+      "topics": [
+        "aptos",
+        "blockchain",
+        "blockchain-network",
+        "move",
+        "smart-contracts"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:36Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "aptos-labs",
+      "last_activity": "2025-08-19T06:43:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6335,
+        "forks": 3815,
+        "watchers": 6335,
+        "size_kb": 407699,
+        "language": "Rust",
+        "topics": [
+          "aptos",
+          "blockchain",
+          "blockchain-network",
+          "move",
+          "smart-contracts"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.258362+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
