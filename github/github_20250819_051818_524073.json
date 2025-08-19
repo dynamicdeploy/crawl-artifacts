@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:18:49.074453",
+    "crawler_type": "github",
+    "filename": "github_20250819_051818_524073.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051818_524073",
+    "url": "https://github.com/paulveillard/cybersecurity-architecture",
+    "title": "GitHub Repository: cybersecurity-architecture",
+    "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Software  & Systems Architecture in Cybersecurity",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 61, Language: None",
+    "metadata": {
+      "author": "paulveillard",
+      "stars": 61,
+      "forks": 17,
+      "language": "en",
+      "topics": [
+        "cybersecurity-education",
+        "design-patterns",
+        "design-thinking",
+        "designer",
+        "high-availability",
+        "high-performance-computing",
+        "metrics",
+        "performance-monitoring",
+        "scalability",
+        "scale",
+        "scale-up",
+        "secure-backup",
+        "secure-boot",
+        "secure-by-default",
+        "secure-by-design",
+        "secure-coding",
+        "secure-computation",
+        "secure-storage",
+        "security-in-artificial-intelligence",
+        "software-engineering"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T13:39:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "paulveillard",
+      "last_activity": "2025-08-14T13:39:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 61,
+        "forks": 17,
+        "watchers": 61,
+        "size_kb": 2463,
+        "language": null,
+        "topics": [
+          "cybersecurity-education",
+          "design-patterns",
+          "design-thinking",
+          "designer",
+          "high-availability",
+          "high-performance-computing",
+          "metrics",
+          "performance-monitoring",
+          "scalability",
+          "scale",
+          "scale-up",
+          "secure-backup",
+          "secure-boot",
+          "secure-by-default",
+          "secure-by-design",
+          "secure-coding",
+          "secure-computation",
+          "secure-storage",
+          "security-in-artificial-intelligence",
+          "software-engineering"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:18.524077+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
