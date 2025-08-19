@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:27.982959",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_134268.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_134268",
+    "url": "https://github.com/SvenWoltmann/hexagonal-architecture-java",
+    "title": "GitHub Repository: hexagonal-architecture-java",
+    "description": "This repository contains a sample Java REST application implemented according to hexagonal architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 153, Language: Java",
+    "metadata": {
+      "author": "SvenWoltmann",
+      "stars": 153,
+      "forks": 55,
+      "language": "Java",
+      "topics": [
+        "hexagonal-architecture",
+        "hexagonal-architectures",
+        "java",
+        "ports-and-adapters"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-11T21:39:30Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "SvenWoltmann",
+      "last_activity": "2025-08-11T21:39:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 153,
+        "forks": 55,
+        "watchers": 153,
+        "size_kb": 1144,
+        "language": "Java",
+        "topics": [
+          "hexagonal-architecture",
+          "hexagonal-architectures",
+          "java",
+          "ports-and-adapters"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.134274+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
