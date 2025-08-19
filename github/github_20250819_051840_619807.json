@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:43.184827",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_619807.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_619807",
+    "url": "https://github.com/pedrohperalta/Articles-iOS-VIPER",
+    "title": "GitHub Repository: Articles-iOS-VIPER",
+    "description": "Demo app for VIPER design pattern implementation",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 273, Language: Swift",
+    "metadata": {
+      "author": "pedrohperalta",
+      "stars": 273,
+      "forks": 51,
+      "language": "Swift",
+      "topics": [
+        "architecture",
+        "rxswift",
+        "swift-3",
+        "viper"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-23T09:16:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "pedrohperalta",
+      "last_activity": "2025-04-23T09:16:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 273,
+        "forks": 51,
+        "watchers": 273,
+        "size_kb": 268,
+        "language": "Swift",
+        "topics": [
+          "architecture",
+          "rxswift",
+          "swift-3",
+          "viper"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.619813+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
