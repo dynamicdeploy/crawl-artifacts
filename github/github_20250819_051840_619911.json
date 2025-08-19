@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:44.190468",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_619911.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_619911",
+    "url": "https://github.com/INNVTV/NetCore-Clean-Architecture",
+    "title": "GitHub Repository: NetCore-Clean-Architecture",
+    "description": ".Net Core starter project for clean architecture showcasing use of the CQRS pattern, MediatR and custom Middleware for cross-cutting concerns, micro-service communications with REST/OpenAPI, Swagger, Webhooks and gRPC endpoints, CosmosDB for data and Serilog for logging.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 273, Language: C#",
+    "metadata": {
+      "author": "INNVTV",
+      "stars": 273,
+      "forks": 69,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-25T21:52:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "INNVTV",
+      "last_activity": "2025-07-25T21:52:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 273,
+        "forks": 69,
+        "watchers": 273,
+        "size_kb": 2914,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.619915+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
