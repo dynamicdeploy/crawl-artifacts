@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:04.190279",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_431391.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_431391",
+    "url": "https://github.com/kumuluz/kumuluzee",
+    "title": "GitHub Repository: kumuluzee",
+    "description": "Lightweight open-source framework for developing microservices using standard Java EE technologies and migrating Java EE to cloud-native architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 293, Language: Java",
+    "metadata": {
+      "author": "kumuluz",
+      "stars": 293,
+      "forks": 69,
+      "language": "Java",
+      "topics": [
+        "cloud-native",
+        "cloud-native-architectures",
+        "cloud-native-microservices",
+        "jakartaee",
+        "java",
+        "javaee",
+        "kumuluzee",
+        "microprofile",
+        "microservice-framework",
+        "microservices",
+        "uberjar"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:13:22Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "kumuluz",
+      "last_activity": "2025-08-13T11:13:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 293,
+        "forks": 69,
+        "watchers": 293,
+        "size_kb": 1958,
+        "language": "Java",
+        "topics": [
+          "cloud-native",
+          "cloud-native-architectures",
+          "cloud-native-microservices",
+          "jakartaee",
+          "java",
+          "javaee",
+          "kumuluzee",
+          "microprofile",
+          "microservice-framework",
+          "microservices",
+          "uberjar"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.431394+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
