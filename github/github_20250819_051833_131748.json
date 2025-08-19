@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:19.850003",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_131748.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_131748",
+    "url": "https://github.com/dustinsand/hex-arch-kotlin-spring-boot",
+    "title": "GitHub Repository: hex-arch-kotlin-spring-boot",
+    "description": "Reference JVM multi module project for a reactive micro service and lambda using a hexagonal architecture, DDD, Kotlin, Spring Boot, Quarkus, Lambda, Gradle.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 194, Language: Kotlin",
+    "metadata": {
+      "author": "dustinsand",
+      "stars": 194,
+      "forks": 28,
+      "language": "Kotlin",
+      "topics": [
+        "boot",
+        "ddd",
+        "gradle",
+        "hexagonal-architecture",
+        "hexagonal-architectures",
+        "jooq",
+        "kotlin",
+        "kotlin-flow",
+        "kts",
+        "lambda",
+        "microservice",
+        "multiproject",
+        "ports-and-adapters",
+        "quarkus",
+        "r2dbc",
+        "reactive",
+        "resilience4j",
+        "spring",
+        "spring-boot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-31T19:06:56Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dustinsand",
+      "last_activity": "2025-07-31T19:06:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 194,
+        "forks": 28,
+        "watchers": 194,
+        "size_kb": 338,
+        "language": "Kotlin",
+        "topics": [
+          "boot",
+          "ddd",
+          "gradle",
+          "hexagonal-architecture",
+          "hexagonal-architectures",
+          "jooq",
+          "kotlin",
+          "kotlin-flow",
+          "kts",
+          "lambda",
+          "microservice",
+          "multiproject",
+          "ports-and-adapters",
+          "quarkus",
+          "r2dbc",
+          "reactive",
+          "resilience4j",
+          "spring",
+          "spring-boot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.131754+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
