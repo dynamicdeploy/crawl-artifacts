@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:41.457449",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_755887.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_755887",
+    "url": "https://github.com/microsoft/vscode",
+    "title": "GitHub Repository: vscode",
+    "description": "Visual Studio Code",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 175870, Language: TypeScript",
+    "metadata": {
+      "author": "microsoft",
+      "stars": 175870,
+      "forks": 34450,
+      "language": "TypeScript",
+      "topics": [
+        "editor",
+        "electron",
+        "microsoft",
+        "typescript",
+        "visual-studio-code"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:27:19Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "microsoft",
+      "last_activity": "2025-08-19T06:27:19Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 175870,
+        "forks": 34450,
+        "watchers": 175870,
+        "size_kb": 1053442,
+        "language": "TypeScript",
+        "topics": [
+          "editor",
+          "electron",
+          "microsoft",
+          "typescript",
+          "visual-studio-code"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.755890+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
