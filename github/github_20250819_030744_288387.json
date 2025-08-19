@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:07:44.306189",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_288387.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_288387",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "title": "GitHub Repository: freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 425999, Language: TypeScript",
+    "metadata": {
+      "author": "freeCodeCamp",
+      "stars": 425999,
+      "forks": 41228,
+      "language": "TypeScript",
+      "topics": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education",
+        "freecodecamp",
+        "hacktoberfest",
+        "javascript",
+        "learn-to-code",
+        "math",
+        "nodejs",
+        "nonprofits",
+        "programming",
+        "react",
+        "teachers"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:05:26Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "freeCodeCamp",
+      "last_activity": "2025-08-19T03:05:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 425999,
+        "forks": 41228,
+        "watchers": 425999,
+        "size_kb": 511313,
+        "language": "TypeScript",
+        "topics": [
+          "careers",
+          "certification",
+          "community",
+          "curriculum",
+          "d3",
+          "education",
+          "freecodecamp",
+          "hacktoberfest",
+          "javascript",
+          "learn-to-code",
+          "math",
+          "nodejs",
+          "nonprofits",
+          "programming",
+          "react",
+          "teachers"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.288400+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
