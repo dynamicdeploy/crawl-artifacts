@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:56.175924",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_027427.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_027427",
+    "url": "https://github.com/facebook/react-native",
+    "title": "GitHub Repository: react-native",
+    "description": "A framework for building native applications using React",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 123466, Language: C++",
+    "metadata": {
+      "author": "facebook",
+      "stars": 123466,
+      "forks": 24818,
+      "language": "C++",
+      "topics": [
+        "android",
+        "app-framework",
+        "cross-platform",
+        "ios",
+        "mobile",
+        "mobile-development",
+        "react",
+        "react-native"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:54:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "facebook",
+      "last_activity": "2025-08-19T05:54:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 123466,
+        "forks": 24818,
+        "watchers": 123466,
+        "size_kb": 932386,
+        "language": "C++",
+        "topics": [
+          "android",
+          "app-framework",
+          "cross-platform",
+          "ios",
+          "mobile",
+          "mobile-development",
+          "react",
+          "react-native"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.027431+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
