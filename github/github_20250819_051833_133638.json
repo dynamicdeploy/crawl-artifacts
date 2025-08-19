@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:25.208161",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_133638.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_133638",
+    "url": "https://github.com/CanerPatir/aspnet-core-clean-arch",
+    "title": "GitHub Repository: aspnet-core-clean-arch",
+    "description": "It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 171, Language: C#",
+    "metadata": {
+      "author": "CanerPatir",
+      "stars": 171,
+      "forks": 35,
+      "language": "C#",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "ddd-architecture",
+        "ddd-sample",
+        "dotnet-core",
+        "hexagonal-architecture",
+        "microservice",
+        "mongodb",
+        "onion-architecture",
+        "port-and-adapters",
+        "tdd"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-03-11T19:46:13Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CanerPatir",
+      "last_activity": "2025-03-11T19:46:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 171,
+        "forks": 35,
+        "watchers": 171,
+        "size_kb": 216,
+        "language": "C#",
+        "topics": [
+          "clean-architecture",
+          "clean-code",
+          "ddd-architecture",
+          "ddd-sample",
+          "dotnet-core",
+          "hexagonal-architecture",
+          "microservice",
+          "mongodb",
+          "onion-architecture",
+          "port-and-adapters",
+          "tdd"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.133644+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
