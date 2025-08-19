@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:35:06.007221",
+    "crawler_type": "github",
+    "filename": "github_20250819_053419_138747.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_053419_138747",
+    "url": "https://github.com/XiaomingX/awesome-design-patterns",
+    "title": "GitHub Repository: awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3, Language: None",
+    "metadata": {
+      "author": "XiaomingX",
+      "stars": 3,
+      "forks": 0,
+      "language": "en",
+      "topics": [
+        "android",
+        "awesome-lists",
+        "cloud-computing",
+        "design-pattern",
+        "ios",
+        "lists"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-14T04:47:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "XiaomingX",
+      "last_activity": "2025-05-14T04:47:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3,
+        "forks": 0,
+        "watchers": 3,
+        "size_kb": 10,
+        "language": null,
+        "topics": [
+          "android",
+          "awesome-lists",
+          "cloud-computing",
+          "design-pattern",
+          "ios",
+          "lists"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:34:19.138751+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
