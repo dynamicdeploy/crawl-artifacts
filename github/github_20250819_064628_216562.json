@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:33.942126",
+    "crawler_type": "github",
+    "filename": "github_20250819_064628_216562.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064628_216562",
+    "url": "https://github.com/abpframework/abp",
+    "title": "GitHub Repository: abp",
+    "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13708, Language: C#",
+    "metadata": {
+      "author": "abpframework",
+      "stars": 13708,
+      "forks": 3599,
+      "language": "C#",
+      "topics": [
+        "abp",
+        "angular",
+        "architecture",
+        "aspnet",
+        "aspnet-core",
+        "aspnetcore",
+        "blazor",
+        "c-sharp",
+        "csharp",
+        "domain-driven-design",
+        "dotnet-core",
+        "framework",
+        "modular-monolith",
+        "multi-tenancy",
+        "saas"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:38:54Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "abpframework",
+      "last_activity": "2025-08-19T06:38:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13708,
+        "forks": 3599,
+        "watchers": 13708,
+        "size_kb": 1768191,
+        "language": "C#",
+        "topics": [
+          "abp",
+          "angular",
+          "architecture",
+          "aspnet",
+          "aspnet-core",
+          "aspnetcore",
+          "blazor",
+          "c-sharp",
+          "csharp",
+          "domain-driven-design",
+          "dotnet-core",
+          "framework",
+          "modular-monolith",
+          "multi-tenancy",
+          "saas"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:46:28.216566+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
