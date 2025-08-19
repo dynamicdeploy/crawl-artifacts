@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:46.024210",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_406404.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_406404",
+    "url": "https://github.com/redwoodjs/sdk",
+    "title": "GitHub Repository: sdk",
+    "description": "A React Framework for Cloudflare.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1021, Language: TypeScript",
+    "metadata": {
+      "author": "redwoodjs",
+      "stars": 1021,
+      "forks": 53,
+      "language": "TypeScript",
+      "topics": [
+        "cloudflare",
+        "react",
+        "react-server-components",
+        "realtime",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:59:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "redwoodjs",
+      "last_activity": "2025-08-19T04:59:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1021,
+        "forks": 53,
+        "watchers": 1021,
+        "size_kb": 85147,
+        "language": "TypeScript",
+        "topics": [
+          "cloudflare",
+          "react",
+          "react-server-components",
+          "realtime",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.406408+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
