@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:18:54.131014",
+    "crawler_type": "github",
+    "filename": "github_20250819_051818_524533.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051818_524533",
+    "url": "https://github.com/olalonde/awesome-microservice-archs",
+    "title": "GitHub Repository: awesome-microservice-archs",
+    "description": "Examples of real world software built with a microservice architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 30, Language: None",
+    "metadata": {
+      "author": "olalonde",
+      "stars": 30,
+      "forks": 5,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-20T18:24:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "olalonde",
+      "last_activity": "2025-02-20T18:24:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 30,
+        "forks": 5,
+        "watchers": 30,
+        "size_kb": 7,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:18.524537+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
