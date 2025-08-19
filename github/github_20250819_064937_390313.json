@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:55.209898",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_390313.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_390313",
+    "url": "https://github.com/spatie/regex",
+    "title": "GitHub Repository: regex",
+    "description": "A sane interface for php's built in preg_* functions",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1117, Language: PHP",
+    "metadata": {
+      "author": "spatie",
+      "stars": 1117,
+      "forks": 47,
+      "language": "PHP",
+      "topics": [
+        "hacktoberfest",
+        "php",
+        "regex",
+        "regular-expression"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:13Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "spatie",
+      "last_activity": "2025-08-19T06:49:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1117,
+        "forks": 47,
+        "watchers": 1117,
+        "size_kb": 91,
+        "language": "PHP",
+        "topics": [
+          "hacktoberfest",
+          "php",
+          "regex",
+          "regular-expression"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.390317+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
