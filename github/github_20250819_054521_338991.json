@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:26.401154",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_338991.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_338991",
+    "url": "https://github.com/x64dbg/x64dbg",
+    "title": "GitHub Repository: x64dbg",
+    "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 46707, Language: C++",
+    "metadata": {
+      "author": "x64dbg",
+      "stars": 46707,
+      "forks": 2588,
+      "language": "C++",
+      "topics": [
+        "binary-analysis",
+        "ctf",
+        "cybersecurity",
+        "debugger",
+        "debugging",
+        "disassembler",
+        "dynamic-analysis",
+        "exploit-development",
+        "hacking",
+        "malware-analysis",
+        "offensive-security",
+        "oscp",
+        "program-analysis",
+        "reverse-engineering",
+        "security",
+        "security-tools",
+        "windows",
+        "x64",
+        "x86",
+        "x86-64"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:33:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "x64dbg",
+      "last_activity": "2025-08-19T04:33:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 46707,
+        "forks": 2588,
+        "watchers": 46707,
+        "size_kb": 62661,
+        "language": "C++",
+        "topics": [
+          "binary-analysis",
+          "ctf",
+          "cybersecurity",
+          "debugger",
+          "debugging",
+          "disassembler",
+          "dynamic-analysis",
+          "exploit-development",
+          "hacking",
+          "malware-analysis",
+          "offensive-security",
+          "oscp",
+          "program-analysis",
+          "reverse-engineering",
+          "security",
+          "security-tools",
+          "windows",
+          "x64",
+          "x86",
+          "x86-64"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.338995+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
