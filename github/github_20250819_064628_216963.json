@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:38.173722",
+    "crawler_type": "github",
+    "filename": "github_20250819_064628_216963.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064628_216963",
+    "url": "https://github.com/deptrac/deptrac",
+    "title": "GitHub Repository: deptrac",
+    "description": "Keep your architecture clean.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2808, Language: PHP",
+    "metadata": {
+      "author": "deptrac",
+      "stars": 2808,
+      "forks": 141,
+      "language": "PHP",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "php"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:09:51Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "deptrac",
+      "last_activity": "2025-08-19T06:09:51Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2808,
+        "forks": 141,
+        "watchers": 2808,
+        "size_kb": 25274,
+        "language": "PHP",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "php"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:46:28.216967+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
