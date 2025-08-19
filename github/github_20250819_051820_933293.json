@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:19.427434",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_933293.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_933293",
+    "url": "https://github.com/terrazzoapp/dtcg-examples",
+    "title": "GitHub Repository: dtcg-examples",
+    "description": "Open source design systems, expressed as DTCG JSON",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: JavaScript",
+    "metadata": {
+      "author": "terrazzoapp",
+      "stars": 11,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-17T12:54:46Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "terrazzoapp",
+      "last_activity": "2025-07-17T12:54:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 0,
+        "watchers": 11,
+        "size_kb": 232,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.933298+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
