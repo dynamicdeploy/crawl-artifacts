@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:42.389641",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_389035.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_389035",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "title": "GitHub Repository: developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 334074, Language: TypeScript",
+    "metadata": {
+      "author": "kamranahmedse",
+      "stars": 334074,
+      "forks": 42592,
+      "language": "TypeScript",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap",
+        "devops-roadmap",
+        "frontend-roadmap",
+        "go-roadmap",
+        "java-roadmap",
+        "javascript-roadmap",
+        "nodejs-roadmap",
+        "python-roadmap",
+        "qa-roadmap",
+        "react-roadmap",
+        "roadmap",
+        "software-architect-roadmap",
+        "vue-roadmap"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "kamranahmedse",
+      "last_activity": "2025-08-19T06:43:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 334074,
+        "forks": 42592,
+        "watchers": 334074,
+        "size_kb": 308226,
+        "language": "TypeScript",
+        "topics": [
+          "angular-roadmap",
+          "backend-roadmap",
+          "blockchain-roadmap",
+          "computer-science",
+          "dba-roadmap",
+          "developer-roadmap",
+          "devops-roadmap",
+          "frontend-roadmap",
+          "go-roadmap",
+          "java-roadmap",
+          "javascript-roadmap",
+          "nodejs-roadmap",
+          "python-roadmap",
+          "qa-roadmap",
+          "react-roadmap",
+          "roadmap",
+          "software-architect-roadmap",
+          "vue-roadmap"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.389039+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
