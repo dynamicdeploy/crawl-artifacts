@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:05.609809",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_424033.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_424033",
+    "url": "https://github.com/phongnguyend/Practical.CleanArchitecture",
+    "title": "GitHub Repository: Practical.CleanArchitecture",
+    "description": "Full-stack .Net 9 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 20, React 19, Vue 3.5, BFF with YARP, NextJs 15, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, EF Core, OpenTelemetry, SignalR, Background Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ..",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2314, Language: C#",
+    "metadata": {
+      "author": "phongnguyend",
+      "stars": 2314,
+      "forks": 582,
+      "language": "C#",
+      "topics": [
+        "angular",
+        "aws",
+        "azure",
+        "blazor",
+        "clean-architecture",
+        "cqrs",
+        "devops",
+        "docker",
+        "domain-driven-design",
+        "kafka",
+        "kubernetes",
+        "microservices",
+        "oauth2",
+        "opentelemetry",
+        "owasp",
+        "rabbitmq",
+        "reactjs",
+        "signalr",
+        "vuejs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:33:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "phongnguyend",
+      "last_activity": "2025-08-19T04:33:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2314,
+        "forks": 582,
+        "watchers": 2314,
+        "size_kb": 74973,
+        "language": "C#",
+        "topics": [
+          "angular",
+          "aws",
+          "azure",
+          "blazor",
+          "clean-architecture",
+          "cqrs",
+          "devops",
+          "docker",
+          "domain-driven-design",
+          "kafka",
+          "kubernetes",
+          "microservices",
+          "oauth2",
+          "opentelemetry",
+          "owasp",
+          "rabbitmq",
+          "reactjs",
+          "signalr",
+          "vuejs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.424037+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
