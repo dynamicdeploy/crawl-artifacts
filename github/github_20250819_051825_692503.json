@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:57.925782",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_692503.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_692503",
+    "url": "https://github.com/Adrianns/flutter_clean_architecture",
+    "title": "GitHub Repository: flutter_clean_architecture",
+    "description": "Repository with examples and good practices",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 32, Language: Dart",
+    "metadata": {
+      "author": "Adrianns",
+      "stars": 32,
+      "forks": 2,
+      "language": "Dart",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-15T10:28:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Adrianns",
+      "last_activity": "2025-06-15T10:28:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 32,
+        "forks": 2,
+        "watchers": 32,
+        "size_kb": 327,
+        "language": "Dart",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.692507+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
