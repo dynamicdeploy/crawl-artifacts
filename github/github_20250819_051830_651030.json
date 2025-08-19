@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:25.721388",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_651030.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_651030",
+    "url": "https://github.com/aekoky/ExpenseTracker",
+    "title": "GitHub Repository: ExpenseTracker",
+    "description": "ExpenseTracker is a modular, event-sourced .NET Core application designed to manage personal finances. It uses Clean Architecture, Domain-Driven Design (DDD), and Event Sourcing to deliver a scalable and maintainable system.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 48, Language: C#",
+    "metadata": {
+      "author": "aekoky",
+      "stars": 48,
+      "forks": 11,
+      "language": "C#",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "event-driven",
+        "event-sourcing",
+        "kong",
+        "martendb",
+        "net",
+        "postgres",
+        "redis",
+        "swagger"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-06T16:56:50Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aekoky",
+      "last_activity": "2025-07-06T16:56:50Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 48,
+        "forks": 11,
+        "watchers": 48,
+        "size_kb": 203,
+        "language": "C#",
+        "topics": [
+          "docker",
+          "docker-compose",
+          "event-driven",
+          "event-sourcing",
+          "kong",
+          "martendb",
+          "net",
+          "postgres",
+          "redis",
+          "swagger"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.651052+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
