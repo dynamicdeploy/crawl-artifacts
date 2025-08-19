@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:40.630500",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_169650.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_169650",
+    "url": "https://github.com/AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication",
+    "title": "GitHub Repository: Dotnet6.GraphQL4.WebApplication",
+    "description": "This project exemplifies the implementation and dockerization of a simple Razor Web MVC Core consuming a full GraphQL 4 Web API, build in a .NET 6 multi-layer project, considering development best practices, like SOLID and DRY, applying Domain-Driven concepts in a Onion Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 75, Language: C#",
+    "metadata": {
+      "author": "AntonioFalcaoJr",
+      "stars": 75,
+      "forks": 25,
+      "language": "C#",
+      "topics": [
+        "asp-core-mvc",
+        "asp-net-core",
+        "asp-net-core-5",
+        "asp-net-mvc5",
+        "ddd",
+        "dotnet",
+        "dotnet6",
+        "dry",
+        "efcore",
+        "efcore6",
+        "graphql",
+        "graphql-api",
+        "graphql-dotnet",
+        "graphql-server",
+        "onion-architecture",
+        "solid",
+        "web-mvc",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-08T04:28:00Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AntonioFalcaoJr",
+      "last_activity": "2025-04-08T04:28:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 75,
+        "forks": 25,
+        "watchers": 75,
+        "size_kb": 4738,
+        "language": "C#",
+        "topics": [
+          "asp-core-mvc",
+          "asp-net-core",
+          "asp-net-core-5",
+          "asp-net-mvc5",
+          "ddd",
+          "dotnet",
+          "dotnet6",
+          "dry",
+          "efcore",
+          "efcore6",
+          "graphql",
+          "graphql-api",
+          "graphql-dotnet",
+          "graphql-server",
+          "onion-architecture",
+          "solid",
+          "web-mvc",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.169654+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
