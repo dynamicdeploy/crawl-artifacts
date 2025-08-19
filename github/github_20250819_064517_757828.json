@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:00.501370",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_757828.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_757828",
+    "url": "https://github.com/dongyubin/IPTV",
+    "title": "GitHub Repository: IPTV",
+    "description": "2025年8月更新直播源，五星、腾讯、爱奇艺体育直播源、咪咕、五大联赛直播源、F1直播源，港澳台、IPTV电视直播源、APTV电视直播源、IPTV直播软件、中国、台港澳、海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6，TVBox接口，福利节目源，IPTV检查工具、电视家替代APP",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2082, Language: None",
+    "metadata": {
+      "author": "dongyubin",
+      "stars": 2082,
+      "forks": 160,
+      "language": "en",
+      "topics": [
+        "aptv",
+        "free-iptv",
+        "iptv",
+        "iptv-channels",
+        "iptv-m3u",
+        "iptv-player",
+        "iptv-playlist"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:45:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dongyubin",
+      "last_activity": "2025-08-19T06:45:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2082,
+        "forks": 160,
+        "watchers": 2082,
+        "size_kb": 287,
+        "language": null,
+        "topics": [
+          "aptv",
+          "free-iptv",
+          "iptv",
+          "iptv-channels",
+          "iptv-m3u",
+          "iptv-player",
+          "iptv-playlist"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.757831+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
