@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:40:09.820181",
+    "crawler_type": "github",
+    "filename": "github_20250819_063942_362069.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_063942_362069",
+    "url": "https://github.com/korfuri/awesome-monorepo",
+    "title": "GitHub Repository: awesome-monorepo",
+    "description": "A curated list of awesome Monorepo tools, software and architectures.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5631, Language: None",
+    "metadata": {
+      "author": "korfuri",
+      "stars": 5631,
+      "forks": 249,
+      "language": "en",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "monorepo"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T01:14:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "korfuri",
+      "last_activity": "2025-08-17T01:14:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5631,
+        "forks": 249,
+        "watchers": 5631,
+        "size_kb": 92,
+        "language": null,
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "monorepo"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:39:42.362074+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
