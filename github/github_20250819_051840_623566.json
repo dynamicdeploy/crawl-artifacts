@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:32:05.694348",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_623566.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_623566",
+    "url": "https://github.com/iammukeshm/RepositoryPattern.WebApi",
+    "title": "GitHub Repository: RepositoryPattern.WebApi",
+    "description": "We will go through everything you will need to know about Repository Pattern in ASP.NET Core, Generic Repository Patterns, Unit of Work and related topics. We will build a project right from scratch where we implement a clean architecture to access data. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 185, Language: C#",
+    "metadata": {
+      "author": "iammukeshm",
+      "stars": 185,
+      "forks": 59,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "entity-framework-core",
+        "repository-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-10T23:27:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "iammukeshm",
+      "last_activity": "2025-08-10T23:27:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 185,
+        "forks": 59,
+        "watchers": 185,
+        "size_kb": 18,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "entity-framework-core",
+          "repository-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.623569+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
