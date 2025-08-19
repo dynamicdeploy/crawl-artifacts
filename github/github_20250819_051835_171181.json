@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:53.228432",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_171181.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_171181",
+    "url": "https://github.com/iammukeshm/RazorCRUD.jQueryAJAX",
+    "title": "GitHub Repository: RazorCRUD.jQueryAJAX",
+    "description": "Razor Page CRUD in ASP.NET Core with Onion Architecture, Razor Partial Views, jQuery Datatable, jQuery AJAX , Repository Pattern, Unit Of Work, Bootstrap Modal and much more!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 44, Language: CSS",
+    "metadata": {
+      "author": "iammukeshm",
+      "stars": 44,
+      "forks": 27,
+      "language": "CSS",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-01-13T06:36:10Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "iammukeshm",
+      "last_activity": "2025-01-13T06:36:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 44,
+        "forks": 27,
+        "watchers": 44,
+        "size_kb": 887,
+        "language": "CSS",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.171185+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
