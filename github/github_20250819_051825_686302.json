@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:18.435448",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_686302.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_686302",
+    "url": "https://github.com/cesmejia/SwiftUI-Clean-Architecture-example-with-unit-tests",
+    "title": "GitHub Repository: SwiftUI-Clean-Architecture-example-with-unit-tests",
+    "description": "SwiftUI Clean Architecture example with unit tests",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 99, Language: Swift",
+    "metadata": {
+      "author": "cesmejia",
+      "stars": 99,
+      "forks": 10,
+      "language": "Swift",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-12T04:58:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "cesmejia",
+      "last_activity": "2025-08-12T04:58:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 99,
+        "forks": 10,
+        "watchers": 99,
+        "size_kb": 54,
+        "language": "Swift",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.686309+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
