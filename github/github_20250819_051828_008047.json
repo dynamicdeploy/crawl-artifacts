@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:43.927830",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_008047.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_008047",
+    "url": "https://github.com/eyazici90/go-ddd",
+    "title": "GitHub Repository: go-ddd",
+    "description": "Practical implementation of Domain Driven Design in go",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 331, Language: Go",
+    "metadata": {
+      "author": "eyazici90",
+      "stars": 331,
+      "forks": 36,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T06:16:15Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "eyazici90",
+      "last_activity": "2025-08-15T06:16:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 331,
+        "forks": 36,
+        "watchers": 331,
+        "size_kb": 452,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.008053+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
