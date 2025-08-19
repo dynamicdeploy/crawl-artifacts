@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:28.141369",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_678555.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_678555",
+    "url": "https://github.com/mattia-battiston/clean-architecture-example",
+    "title": "GitHub Repository: clean-architecture-example",
+    "description": "Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1736, Language: Java",
+    "metadata": {
+      "author": "mattia-battiston",
+      "stars": 1736,
+      "forks": 396,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:14:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mattia-battiston",
+      "last_activity": "2025-08-13T11:14:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1736,
+        "forks": 396,
+        "watchers": 1736,
+        "size_kb": 897,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.678560+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
