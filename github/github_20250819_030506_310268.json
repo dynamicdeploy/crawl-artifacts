@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:14.882279",
+    "crawler_type": "github",
+    "filename": "github_20250819_030506_310268.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030506_310268",
+    "url": "https://github.com/vinta/awesome-python",
+    "title": "GitHub Repository: awesome-python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 255666, Language: Python",
+    "metadata": {
+      "author": "vinta",
+      "stars": 255666,
+      "forks": 26149,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "collections",
+        "python",
+        "python-framework",
+        "python-library",
+        "python-resources"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:54:33Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "vinta",
+      "last_activity": "2025-08-19T02:54:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 255666,
+        "forks": 26149,
+        "watchers": 255666,
+        "size_kb": 6839,
+        "language": "Python",
+        "topics": [
+          "awesome",
+          "collections",
+          "python",
+          "python-framework",
+          "python-library",
+          "python-resources"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:06.310271+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
