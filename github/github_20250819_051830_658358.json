@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:57.101107",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_658358.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_658358",
+    "url": "https://github.com/SAP-samples/s4hana-cloud-extension-process-automation",
+    "title": "GitHub Repository: s4hana-cloud-extension-process-automation",
+    "description": "The main intent of this scenario is to put an event-driven architecture into action by automating business processes through SAP Build Process Automation and also by building an extension application on SAP Business Technology Platform using SAP Cloud Application Programming Model (CAP) which consumes and further processes the SAP S/4HANA On-pre...",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 20, Language: JavaScript",
+    "metadata": {
+      "author": "SAP-samples",
+      "stars": 20,
+      "forks": 7,
+      "language": "JavaScript",
+      "topics": [
+        "cloud-foundry",
+        "enablement",
+        "event-mesh",
+        "process-automation",
+        "s4hana",
+        "sample",
+        "sap-cap"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-24T04:21:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "SAP-samples",
+      "last_activity": "2025-07-24T04:21:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 20,
+        "forks": 7,
+        "watchers": 20,
+        "size_kb": 131228,
+        "language": "JavaScript",
+        "topics": [
+          "cloud-foundry",
+          "enablement",
+          "event-mesh",
+          "process-automation",
+          "s4hana",
+          "sample",
+          "sap-cap"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.658365+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
