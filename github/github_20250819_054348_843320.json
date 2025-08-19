@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:05.729438",
+    "crawler_type": "github",
+    "filename": "github_20250819_054348_843320.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054348_843320",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "title": "GitHub Repository: ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 85880, Language: Python",
+    "metadata": {
+      "author": "comfyanonymous",
+      "stars": 85880,
+      "forks": 9520,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:37:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "comfyanonymous",
+      "last_activity": "2025-08-19T05:37:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 85880,
+        "forks": 9520,
+        "watchers": 85880,
+        "size_kb": 73944,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:43:48.843323+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
