@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:35.372197",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_528113.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_528113",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "title": "GitHub Repository: new-pac",
+    "description": "翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 67124, Language: Python",
+    "metadata": {
+      "author": "Alvin9999",
+      "stars": 67124,
+      "forks": 10266,
+      "language": "Python",
+      "topics": [
+        "brook",
+        "clash",
+        "fanqiang",
+        "free-ss",
+        "free-ssr",
+        "hysteria",
+        "naiveproxy",
+        "shadowsocks",
+        "shadowsocksr",
+        "sing-box",
+        "ss",
+        "ssr",
+        "trojan",
+        "v2ray",
+        "vless",
+        "vmess",
+        "vpn",
+        "xray",
+        "youtube"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:37:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Alvin9999",
+      "last_activity": "2025-08-19T05:37:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 67124,
+        "forks": 10266,
+        "watchers": 67124,
+        "size_kb": 10048,
+        "language": "Python",
+        "topics": [
+          "brook",
+          "clash",
+          "fanqiang",
+          "free-ss",
+          "free-ssr",
+          "hysteria",
+          "naiveproxy",
+          "shadowsocks",
+          "shadowsocksr",
+          "sing-box",
+          "ss",
+          "ssr",
+          "trojan",
+          "v2ray",
+          "vless",
+          "vmess",
+          "vpn",
+          "xray",
+          "youtube"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.528117+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
