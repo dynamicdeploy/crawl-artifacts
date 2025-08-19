@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:07:59.401170",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_290199.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_290199",
+    "url": "https://github.com/binance/binance-spot-api-docs",
+    "title": "GitHub Repository: binance-spot-api-docs",
+    "description": "Official Documentation for the Binance Spot APIs and Streams ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 4451, Language: None",
+    "metadata": {
+      "author": "binance",
+      "stars": 4451,
+      "forks": 1438,
+      "language": "en",
+      "topics": [
+        "binance-api",
+        "documentation",
+        "fix-api",
+        "rest-api",
+        "sbe",
+        "spot",
+        "testnet",
+        "websocket"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:07:18Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "binance",
+      "last_activity": "2025-08-19T03:07:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 4451,
+        "forks": 1438,
+        "watchers": 4451,
+        "size_kb": 3133,
+        "language": null,
+        "topics": [
+          "binance-api",
+          "documentation",
+          "fix-api",
+          "rest-api",
+          "sbe",
+          "spot",
+          "testnet",
+          "websocket"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.290202+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
