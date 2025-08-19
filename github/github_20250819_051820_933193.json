@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:18.529424",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_933193.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_933193",
+    "url": "https://github.com/Brew-Brew/rollup-ts-design-system",
+    "title": "GitHub Repository: rollup-ts-design-system",
+    "description": "example of rollup.js + ts + storybook design system ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: TypeScript",
+    "metadata": {
+      "author": "Brew-Brew",
+      "stars": 11,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-07-07T07:11:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Brew-Brew",
+      "last_activity": "2024-07-07T07:11:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 1,
+        "watchers": 11,
+        "size_kb": 1506,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.933197+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
