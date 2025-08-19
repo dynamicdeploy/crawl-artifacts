@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:02.805174",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_141083.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_141083",
+    "url": "https://github.com/Haraj-backend/hex-monscape",
+    "title": "GitHub Repository: hex-monscape",
+    "description": "Build a simple turn-based game to learn how to write production code using Hexagonal Architecture. Onboarding reference for Haraj Solutions Team.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 79, Language: Go",
+    "metadata": {
+      "author": "Haraj-backend",
+      "stars": 79,
+      "forks": 15,
+      "language": "Go",
+      "topics": [
+        "getting-started",
+        "go",
+        "golang-examples",
+        "hexagonal-architecture",
+        "learning-resources",
+        "onboarding",
+        "reference-implementation",
+        "saudi-arabia",
+        "vue3",
+        "web-game"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-02T04:52:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Haraj-backend",
+      "last_activity": "2025-07-02T04:52:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 79,
+        "forks": 15,
+        "watchers": 79,
+        "size_kb": 7274,
+        "language": "Go",
+        "topics": [
+          "getting-started",
+          "go",
+          "golang-examples",
+          "hexagonal-architecture",
+          "learning-resources",
+          "onboarding",
+          "reference-implementation",
+          "saudi-arabia",
+          "vue3",
+          "web-game"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.141087+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
