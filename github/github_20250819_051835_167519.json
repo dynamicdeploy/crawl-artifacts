@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:25.226721",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_167519.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_167519",
+    "url": "https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core",
+    "title": "GitHub Repository: Onion-architecture-ASP.NET-Core",
+    "description": "WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET 8!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 918, Language: C#",
+    "metadata": {
+      "author": "Amitpnk",
+      "stars": 918,
+      "forks": 161,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "aspnetcore",
+        "c-sharp",
+        "clean-architecture",
+        "cqrs-pattern",
+        "csharp",
+        "entity-framework",
+        "entity-framework-core",
+        "integration-testing",
+        "mediator-pattern",
+        "nunit3",
+        "onion",
+        "onion-architecture",
+        "repository",
+        "repository-pattern",
+        "unit-testing",
+        "whiteapp"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T04:15:51Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Amitpnk",
+      "last_activity": "2025-08-17T04:15:51Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 918,
+        "forks": 161,
+        "watchers": 918,
+        "size_kb": 2993,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "aspnetcore",
+          "c-sharp",
+          "clean-architecture",
+          "cqrs-pattern",
+          "csharp",
+          "entity-framework",
+          "entity-framework-core",
+          "integration-testing",
+          "mediator-pattern",
+          "nunit3",
+          "onion",
+          "onion-architecture",
+          "repository",
+          "repository-pattern",
+          "unit-testing",
+          "whiteapp"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.167525+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
