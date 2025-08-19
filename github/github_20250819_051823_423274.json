@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:59.471178",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_423274.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_423274",
+    "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+    "title": "GitHub Repository: GenerativeAIExamples",
+    "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3349, Language: Jupyter Notebook",
+    "metadata": {
+      "author": "NVIDIA",
+      "stars": 3349,
+      "forks": 809,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T16:41:36Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "NVIDIA",
+      "last_activity": "2025-08-18T16:41:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3349,
+        "forks": 809,
+        "watchers": 3349,
+        "size_kb": 97465,
+        "language": "Jupyter Notebook",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.423278+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
