@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:19.044199",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_433313.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_433313",
+    "url": "https://github.com/datawire/bakerstreet",
+    "title": "GitHub Repository: bakerstreet",
+    "description": "Baker Street is a HAProxy based routing engine for microservice architectures",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 225, Language: Python",
+    "metadata": {
+      "author": "datawire",
+      "stars": 225,
+      "forks": 18,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-04T12:52:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "datawire",
+      "last_activity": "2025-08-04T12:52:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 225,
+        "forks": 18,
+        "watchers": 225,
+        "size_kb": 628,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.433317+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
