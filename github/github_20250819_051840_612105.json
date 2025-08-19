@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:50.660252",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_612105.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_612105",
+    "url": "https://github.com/cheatsnake/backend-cheats",
+    "title": "GitHub Repository: backend-cheats",
+    "description": "📃 White paper for Backend developers",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3722, Language: None",
+    "metadata": {
+      "author": "cheatsnake",
+      "stars": 3722,
+      "forks": 368,
+      "language": "en",
+      "topics": [
+        "architectural-patterns",
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "backend",
+        "backend-development",
+        "cheat-sheets",
+        "cheatsheet",
+        "databases",
+        "development",
+        "helpful",
+        "internet",
+        "knowledge-sharing",
+        "language-learning",
+        "operating-system-learning",
+        "patterns",
+        "roadmap",
+        "security",
+        "teaching-materials"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:52:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "cheatsnake",
+      "last_activity": "2025-08-19T03:52:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3722,
+        "forks": 368,
+        "watchers": 3722,
+        "size_kb": 10513,
+        "language": null,
+        "topics": [
+          "architectural-patterns",
+          "architecture",
+          "awesome",
+          "awesome-list",
+          "backend",
+          "backend-development",
+          "cheat-sheets",
+          "cheatsheet",
+          "databases",
+          "development",
+          "helpful",
+          "internet",
+          "knowledge-sharing",
+          "language-learning",
+          "operating-system-learning",
+          "patterns",
+          "roadmap",
+          "security",
+          "teaching-materials"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.612111+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
