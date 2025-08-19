@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:07.248131",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_142169.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_142169",
+    "url": "https://github.com/acoronadoc/java-springboot-hexagonal-architecture-sample",
+    "title": "GitHub Repository: java-springboot-hexagonal-architecture-sample",
+    "description": "Hexagonal architecture sample using Java and Springboot",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 69, Language: Java",
+    "metadata": {
+      "author": "acoronadoc",
+      "stars": 69,
+      "forks": 37,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T08:51:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "acoronadoc",
+      "last_activity": "2025-08-07T08:51:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 69,
+        "forks": 37,
+        "watchers": 69,
+        "size_kb": 6,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.142174+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
