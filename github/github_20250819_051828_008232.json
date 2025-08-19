@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:44.829849",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_008232.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_008232",
+    "url": "https://github.com/asc-lab/better-code-with-ddd",
+    "title": "GitHub Repository: better-code-with-ddd",
+    "description": "This repository contains code that accompanies presentation ASC LAB team gave at meetup about “Creating better code with Domain Driven Design”.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 320, Language: C#",
+    "metadata": {
+      "author": "asc-lab",
+      "stars": 320,
+      "forks": 64,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-09T19:34:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "asc-lab",
+      "last_activity": "2025-07-09T19:34:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 320,
+        "forks": 64,
+        "watchers": 320,
+        "size_kb": 239,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.008240+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
