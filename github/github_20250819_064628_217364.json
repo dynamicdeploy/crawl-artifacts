@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:42.382350",
+    "crawler_type": "github",
+    "filename": "github_20250819_064628_217364.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064628_217364",
+    "url": "https://github.com/stacklok/toolhive",
+    "title": "GitHub Repository: toolhive",
+    "description": "ToolHive makes deploying MCP servers easy, secure and fun",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 999, Language: Go",
+    "metadata": {
+      "author": "stacklok",
+      "stars": 999,
+      "forks": 94,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-security",
+        "aicodeassistant",
+        "golang",
+        "kubernetes",
+        "mcp",
+        "mcp-security",
+        "mcp-servers",
+        "mcp-tools",
+        "model-context-protocol",
+        "security"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:46:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stacklok",
+      "last_activity": "2025-08-19T06:46:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 999,
+        "forks": 94,
+        "watchers": 999,
+        "size_kb": 7502,
+        "language": "Go",
+        "topics": [
+          "ai",
+          "ai-security",
+          "aicodeassistant",
+          "golang",
+          "kubernetes",
+          "mcp",
+          "mcp-security",
+          "mcp-servers",
+          "mcp-tools",
+          "model-context-protocol",
+          "security"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:46:28.217373+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
