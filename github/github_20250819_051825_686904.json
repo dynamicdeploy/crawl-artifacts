@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:22.202868",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_686904.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_686904",
+    "url": "https://github.com/developersancho/CleanArchitectureMVVM",
+    "title": "GitHub Repository: CleanArchitectureMVVM",
+    "description": "Example of Clean Architecture of Android app using MVVM, Koin, Coroutines, Retrofit, Room, Solid Principle, DRY, KISS, OOP",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 93, Language: Kotlin",
+    "metadata": {
+      "author": "developersancho",
+      "stars": 93,
+      "forks": 14,
+      "language": "Kotlin",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "corutines",
+        "dry",
+        "gradle-kotlin-dsl",
+        "jetpack-android",
+        "kiss-principle",
+        "koin",
+        "kotlin",
+        "kotlin-android",
+        "kotlin-extensions",
+        "modular-architecture",
+        "mvvm-architecture",
+        "oop-principles",
+        "retrofit2",
+        "room",
+        "solid-principles",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T06:04:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "developersancho",
+      "last_activity": "2025-08-14T06:04:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 93,
+        "forks": 14,
+        "watchers": 93,
+        "size_kb": 339,
+        "language": "Kotlin",
+        "topics": [
+          "clean-architecture",
+          "clean-code",
+          "corutines",
+          "dry",
+          "gradle-kotlin-dsl",
+          "jetpack-android",
+          "kiss-principle",
+          "koin",
+          "kotlin",
+          "kotlin-android",
+          "kotlin-extensions",
+          "modular-architecture",
+          "mvvm-architecture",
+          "oop-principles",
+          "retrofit2",
+          "room",
+          "solid-principles",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.686909+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
