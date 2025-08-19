@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:46.104952",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_137943.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_137943",
+    "url": "https://github.com/ledmonster/ddd-python-inject",
+    "title": "GitHub Repository: ddd-python-inject",
+    "description": "DDD, CQRS and Hexagonal Architecture example using inject package",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 116, Language: Python",
+    "metadata": {
+      "author": "ledmonster",
+      "stars": 116,
+      "forks": 10,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-01-25T08:04:59Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ledmonster",
+      "last_activity": "2025-01-25T08:04:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 116,
+        "forks": 10,
+        "watchers": 116,
+        "size_kb": 105,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.137959+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
