@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:06.665876",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_931390.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_931390",
+    "url": "https://github.com/TharunKumarReddyPolu/LLD-Handbook-for-Coding-Interviews",
+    "title": "GitHub Repository: LLD-Handbook-for-Coding-Interviews",
+    "description": "This handbook is a curated compilation of Low-Level Design (LLD) principles, object-oriented design patterns, and system modeling techniques frequently tested in software engineering interviews. Each topic includes core concepts, real-world examples, design trade-offs, along with links to practice resources and common pitfalls to avoid.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 16, Language: None",
+    "metadata": {
+      "author": "TharunKumarReddyPolu",
+      "stars": 16,
+      "forks": 8,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T17:16:13Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "TharunKumarReddyPolu",
+      "last_activity": "2025-08-18T17:16:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 16,
+        "forks": 8,
+        "watchers": 16,
+        "size_kb": 81,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.931394+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
