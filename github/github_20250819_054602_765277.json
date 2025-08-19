@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:46:16.424163",
+    "crawler_type": "github",
+    "filename": "github_20250819_054602_765277.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054602_765277",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "title": "GitHub Repository: MaaAssistantArknights",
+    "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 17648, Language: C++",
+    "metadata": {
+      "author": "MaaAssistantArknights",
+      "stars": 17648,
+      "forks": 2279,
+      "language": "C++",
+      "topics": [
+        "arknights",
+        "computer-vision",
+        "maa"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:45:49Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "MaaAssistantArknights",
+      "last_activity": "2025-08-19T05:45:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 17648,
+        "forks": 2279,
+        "watchers": 17648,
+        "size_kb": 881935,
+        "language": "C++",
+        "topics": [
+          "arknights",
+          "computer-vision",
+          "maa"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:46:02.765281+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
