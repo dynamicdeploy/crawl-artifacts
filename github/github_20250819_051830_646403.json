@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:49.746050",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_646403.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_646403",
+    "url": "https://github.com/mehdihadeli/Go-MediatR",
+    "title": "GitHub Repository: Go-MediatR",
+    "description": "🚃 A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 251, Language: Go",
+    "metadata": {
+      "author": "mehdihadeli",
+      "stars": 251,
+      "forks": 16,
+      "language": "Go",
+      "topics": [
+        "cqrs",
+        "go",
+        "golang",
+        "golang-package",
+        "mediator",
+        "mediator-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T15:47:09Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "mehdihadeli",
+      "last_activity": "2025-08-14T15:47:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 251,
+        "forks": 16,
+        "watchers": 251,
+        "size_kb": 157,
+        "language": "Go",
+        "topics": [
+          "cqrs",
+          "go",
+          "golang",
+          "golang-package",
+          "mediator",
+          "mediator-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.646407+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
