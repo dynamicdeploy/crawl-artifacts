@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:53.328714",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_422631.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_422631",
+    "url": "https://github.com/jhipster/generator-jhipster",
+    "title": "GitHub Repository: generator-jhipster",
+    "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22042, Language: TypeScript",
+    "metadata": {
+      "author": "jhipster",
+      "stars": 22042,
+      "forks": 4096,
+      "language": "TypeScript",
+      "topics": [
+        "angular",
+        "cloud",
+        "docker",
+        "generator",
+        "hacktoberfest",
+        "java",
+        "jhipster",
+        "kubernetes",
+        "react",
+        "spring-boot",
+        "webpack",
+        "yeoman-generator"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:49:03Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "jhipster",
+      "last_activity": "2025-08-18T19:49:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22042,
+        "forks": 4096,
+        "watchers": 22042,
+        "size_kb": 177986,
+        "language": "TypeScript",
+        "topics": [
+          "angular",
+          "cloud",
+          "docker",
+          "generator",
+          "hacktoberfest",
+          "java",
+          "jhipster",
+          "kubernetes",
+          "react",
+          "spring-boot",
+          "webpack",
+          "yeoman-generator"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.422639+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
