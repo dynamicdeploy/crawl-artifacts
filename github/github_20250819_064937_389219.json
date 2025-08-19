@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:44.300630",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_389219.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_389219",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "title": "GitHub Repository: system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 316461, Language: Python",
+    "metadata": {
+      "author": "donnemartin",
+      "stars": 316461,
+      "forks": 51846,
+      "language": "Python",
+      "topics": [
+        "design",
+        "design-patterns",
+        "design-system",
+        "development",
+        "interview",
+        "interview-practice",
+        "interview-questions",
+        "programming",
+        "python",
+        "system",
+        "web",
+        "web-application",
+        "webapp"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:22:56Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "donnemartin",
+      "last_activity": "2025-08-19T06:22:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 316461,
+        "forks": 51846,
+        "watchers": 316461,
+        "size_kb": 11239,
+        "language": "Python",
+        "topics": [
+          "design",
+          "design-patterns",
+          "design-system",
+          "development",
+          "interview",
+          "interview-practice",
+          "interview-questions",
+          "programming",
+          "python",
+          "system",
+          "web",
+          "web-application",
+          "webapp"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.389222+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
