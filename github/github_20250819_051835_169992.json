@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:43.433245",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_169992.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_169992",
+    "url": "https://github.com/Fcakiroglu16/OnionArchitecture",
+    "title": "GitHub Repository: OnionArchitecture",
+    "description": "Onion Arcitecture + CQRS example project",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 69, Language: C#",
+    "metadata": {
+      "author": "Fcakiroglu16",
+      "stars": 69,
+      "forks": 15,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-29T15:07:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Fcakiroglu16",
+      "last_activity": "2025-05-29T15:07:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 69,
+        "forks": 15,
+        "watchers": 69,
+        "size_kb": 67,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.169996+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
