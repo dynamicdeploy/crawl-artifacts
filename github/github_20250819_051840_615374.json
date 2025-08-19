@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:16.709382",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_615374.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_615374",
+    "url": "https://github.com/odaridavid/Clean-MVVM-ArchComponents",
+    "title": "GitHub Repository: Clean-MVVM-ArchComponents",
+    "description": "👽 Built with MVVM pattern, Koin , Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 687, Language: Kotlin",
+    "metadata": {
+      "author": "odaridavid",
+      "stars": 687,
+      "forks": 111,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-architecture",
+        "architecture-components",
+        "clean",
+        "clean-architecture",
+        "coroutines",
+        "espresso",
+        "firebase",
+        "junit",
+        "koin",
+        "kotlin",
+        "kotlin-flow",
+        "motionlayout",
+        "mvvm",
+        "mvvm-architecture",
+        "retrofit2",
+        "robolectric",
+        "tdd"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T04:53:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "odaridavid",
+      "last_activity": "2025-08-13T04:53:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 687,
+        "forks": 111,
+        "watchers": 687,
+        "size_kb": 17690,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-architecture",
+          "architecture-components",
+          "clean",
+          "clean-architecture",
+          "coroutines",
+          "espresso",
+          "firebase",
+          "junit",
+          "koin",
+          "kotlin",
+          "kotlin-flow",
+          "motionlayout",
+          "mvvm",
+          "mvvm-architecture",
+          "retrofit2",
+          "robolectric",
+          "tdd"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.615378+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
