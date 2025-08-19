@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:07.280392",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_173963.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_173963",
+    "url": "https://github.com/AbdullahOztuurkk/CleanDapper",
+    "title": "GitHub Repository: CleanDapper",
+    "description": "Dapper Application in .Net Core With Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 17, Language: C#",
+    "metadata": {
+      "author": "AbdullahOztuurkk",
+      "stars": 17,
+      "forks": 4,
+      "language": "C#",
+      "topics": [
+        "automapper",
+        "clean-architecture",
+        "cqrs",
+        "dapper",
+        "ddd",
+        "fluentvalidation",
+        "mediatr",
+        "nunit",
+        "onion-architecture",
+        "swagger",
+        "tdd"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-07-09T06:45:09Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AbdullahOztuurkk",
+      "last_activity": "2024-07-09T06:45:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 17,
+        "forks": 4,
+        "watchers": 17,
+        "size_kb": 76,
+        "language": "C#",
+        "topics": [
+          "automapper",
+          "clean-architecture",
+          "cqrs",
+          "dapper",
+          "ddd",
+          "fluentvalidation",
+          "mediatr",
+          "nunit",
+          "onion-architecture",
+          "swagger",
+          "tdd"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.173967+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
