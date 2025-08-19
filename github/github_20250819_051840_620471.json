@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:46.810878",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_620471.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_620471",
+    "url": "https://github.com/UnityTechnologies/PaddleGameSO",
+    "title": "GitHub Repository: PaddleGameSO",
+    "description": "A demo project to showcase design patterns and game architecture using ScriptableObjects",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 260, Language: C#",
+    "metadata": {
+      "author": "UnityTechnologies",
+      "stars": 260,
+      "forks": 42,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-16T17:34:10Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "UnityTechnologies",
+      "last_activity": "2025-08-16T17:34:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 260,
+        "forks": 42,
+        "watchers": 260,
+        "size_kb": 41090,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.620486+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
