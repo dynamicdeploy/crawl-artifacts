@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:56.248157",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_390402.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_390402",
+    "url": "https://github.com/AlexWan/OsEngine",
+    "title": "GitHub Repository: OsEngine",
+    "description": "Open Source algo trading platform",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 863, Language: C#",
+    "metadata": {
+      "author": "AlexWan",
+      "stars": 863,
+      "forks": 391,
+      "language": "C#",
+      "topics": [
+        "algo-trading-software",
+        "algo-trading-strategies",
+        "algorithmic-trading",
+        "arbitrage",
+        "binance",
+        "binance-bots",
+        "bitmex-bot",
+        "bot",
+        "cryptotrading",
+        "high-frequency-trading",
+        "moex-bot",
+        "os-engine",
+        "osengine",
+        "quik-bot",
+        "trading",
+        "trading-algorithms",
+        "trading-bot",
+        "trading-platform",
+        "trading-strategies"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:27Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AlexWan",
+      "last_activity": "2025-08-19T06:49:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 863,
+        "forks": 391,
+        "watchers": 863,
+        "size_kb": 2083674,
+        "language": "C#",
+        "topics": [
+          "algo-trading-software",
+          "algo-trading-strategies",
+          "algorithmic-trading",
+          "arbitrage",
+          "binance",
+          "binance-bots",
+          "bitmex-bot",
+          "bot",
+          "cryptotrading",
+          "high-frequency-trading",
+          "moex-bot",
+          "os-engine",
+          "osengine",
+          "quik-bot",
+          "trading",
+          "trading-algorithms",
+          "trading-bot",
+          "trading-platform",
+          "trading-strategies"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.390405+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
