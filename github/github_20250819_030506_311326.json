@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:05:23.554434",
+    "crawler_type": "github",
+    "filename": "github_20250819_030506_311326.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030506_311326",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "title": "GitHub Repository: You-Dont-Know-JS",
+    "description": "A book series (2 published editions) on the JS language.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 182979, Language: None",
+    "metadata": {
+      "author": "getify",
+      "stars": 182979,
+      "forks": 33653,
+      "language": "en",
+      "topics": [
+        "async",
+        "book",
+        "book-series",
+        "closures",
+        "education",
+        "es2015",
+        "es6",
+        "javascript",
+        "learn-to-code",
+        "programming",
+        "prototypes",
+        "training-materials",
+        "training-providers"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T01:43:47Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "getify",
+      "last_activity": "2025-08-19T01:43:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 182979,
+        "forks": 33653,
+        "watchers": 182979,
+        "size_kb": 15060,
+        "language": null,
+        "topics": [
+          "async",
+          "book",
+          "book-series",
+          "closures",
+          "education",
+          "es2015",
+          "es6",
+          "javascript",
+          "learn-to-code",
+          "programming",
+          "prototypes",
+          "training-materials",
+          "training-providers"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:05:06.311329+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
