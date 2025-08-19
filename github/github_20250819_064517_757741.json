@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:59.398651",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_757741.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_757741",
+    "url": "https://github.com/huangjunsen0406/py-xiaozhi",
+    "title": "GitHub Repository: py-xiaozhi",
+    "description": "python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2275, Language: Python",
+    "metadata": {
+      "author": "huangjunsen0406",
+      "stars": 2275,
+      "forks": 449,
+      "language": "Python",
+      "topics": [
+        "esp32",
+        "esp32-s3",
+        "mcp",
+        "mcp-server",
+        "xiaozhi-esp32"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "huangjunsen0406",
+      "last_activity": "2025-08-19T06:43:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2275,
+        "forks": 449,
+        "watchers": 2275,
+        "size_kb": 55216,
+        "language": "Python",
+        "topics": [
+          "esp32",
+          "esp32-s3",
+          "mcp",
+          "mcp-server",
+          "xiaozhi-esp32"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.757743+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
