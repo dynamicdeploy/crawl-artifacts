@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:29.200089",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_339101.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_339101",
+    "url": "https://github.com/JavaCoDED78/banking-cqrs-app",
+    "title": "GitHub Repository: banking-cqrs-app",
+    "description": "Banking app example for CQRS and Event-Sourcing pattern.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: Java",
+    "metadata": {
+      "author": "JavaCoDED78",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "cqrs",
+        "debezium",
+        "docker",
+        "event-sourcing",
+        "jwt",
+        "kafka",
+        "liquibase",
+        "postgresql",
+        "spring-boot",
+        "spring-jpa",
+        "spring-security",
+        "spring-web"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-03T06:00:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "JavaCoDED78",
+      "last_activity": "2025-04-03T06:00:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 438,
+        "language": "Java",
+        "topics": [
+          "cqrs",
+          "debezium",
+          "docker",
+          "event-sourcing",
+          "jwt",
+          "kafka",
+          "liquibase",
+          "postgresql",
+          "spring-boot",
+          "spring-jpa",
+          "spring-security",
+          "spring-web"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.339106+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
