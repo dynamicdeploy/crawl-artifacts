@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:32.101044",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_178380.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_178380",
+    "url": "https://github.com/morsiu/Journeys",
+    "title": "GitHub Repository: Journeys",
+    "description": "Playground for DDD, CQRS, ES and Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9, Language: C#",
+    "metadata": {
+      "author": "morsiu",
+      "stars": 9,
+      "forks": 3,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-08-28T11:50:09Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "morsiu",
+      "last_activity": "2023-08-28T11:50:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9,
+        "forks": 3,
+        "watchers": 9,
+        "size_kb": 1448,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.178384+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
