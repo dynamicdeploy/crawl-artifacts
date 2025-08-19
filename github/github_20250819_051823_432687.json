@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:15.967922",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_432687.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_432687",
+    "url": "https://github.com/agelenler/food-ordering-system",
+    "title": "GitHub Repository: food-ordering-system",
+    "description": "Food ordering system application in Udemy course: Microservices: Clean Architecture, DDD, SAGA, Outbox & Kafka",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 243, Language: Java",
+    "metadata": {
+      "author": "agelenler",
+      "stars": 243,
+      "forks": 161,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T14:45:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "agelenler",
+      "last_activity": "2025-08-18T14:45:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 243,
+        "forks": 161,
+        "watchers": 243,
+        "size_kb": 77166,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.432691+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
