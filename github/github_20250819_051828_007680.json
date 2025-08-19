@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:41.814861",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_007680.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_007680",
+    "url": "https://github.com/draphyz/DDD",
+    "title": "GitHub Repository: DDD",
+    "description": "Domain-Driven Design example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 353, Language: C#",
+    "metadata": {
+      "author": "draphyz",
+      "stars": 353,
+      "forks": 39,
+      "language": "C#",
+      "topics": [
+        "cqrs",
+        "ddd",
+        "domain-driven-design",
+        "hexagonal-architecture",
+        "onion-architecture",
+        "ports-and-adapters"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-21T08:35:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "draphyz",
+      "last_activity": "2025-07-21T08:35:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 353,
+        "forks": 39,
+        "watchers": 353,
+        "size_kb": 1586,
+        "language": "C#",
+        "topics": [
+          "cqrs",
+          "ddd",
+          "domain-driven-design",
+          "hexagonal-architecture",
+          "onion-architecture",
+          "ports-and-adapters"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.007687+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
