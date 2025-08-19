@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:32.189374",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_618194.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_618194",
+    "url": "https://github.com/wednesday-solutions/flutter_template",
+    "title": "GitHub Repository: flutter_template",
+    "description": "A Flutter template application showcasing - Clean architecture, Responsive design, State management, Decoupled widgets using the connector pattern, Dependency Injection, Widget, Unit, Golden and E2E testing, Navigation, Localization, Material 3 dynamic theming, Continuous Integration and Continuous Deployment.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 381, Language: Dart",
+    "metadata": {
+      "author": "wednesday-solutions",
+      "stars": 381,
+      "forks": 80,
+      "language": "Dart",
+      "topics": [
+        "autoroute",
+        "clean-architecture",
+        "dart",
+        "dio",
+        "e2e-tests",
+        "flutter",
+        "flutter-boilerplate",
+        "flutter-starter",
+        "flutter-template",
+        "getit",
+        "github-actions",
+        "golden-tests",
+        "material-design",
+        "material-you",
+        "responsive-design",
+        "riverpod",
+        "template",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-26T01:38:48Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "wednesday-solutions",
+      "last_activity": "2025-07-26T01:38:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 381,
+        "forks": 80,
+        "watchers": 381,
+        "size_kb": 2119,
+        "language": "Dart",
+        "topics": [
+          "autoroute",
+          "clean-architecture",
+          "dart",
+          "dio",
+          "e2e-tests",
+          "flutter",
+          "flutter-boilerplate",
+          "flutter-starter",
+          "flutter-template",
+          "getit",
+          "github-actions",
+          "golden-tests",
+          "material-design",
+          "material-you",
+          "responsive-design",
+          "riverpod",
+          "template",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.618198+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
