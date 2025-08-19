@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:01.770419",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_140931.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_140931",
+    "url": "https://github.com/Amitpnk/Hexagonal-architecture-ASP.NET-Core",
+    "title": "GitHub Repository: Hexagonal-architecture-ASP.NET-Core",
+    "description": "App generator API solution template which is built on Hexagnonal Architecture with all essential feature using .NET Core",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 81, Language: C#",
+    "metadata": {
+      "author": "Amitpnk",
+      "stars": 81,
+      "forks": 29,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "aspnetcore",
+        "c-sharp",
+        "csharp",
+        "entity-framework-core",
+        "hexagonal-architecture",
+        "integration-testing",
+        "nunit3",
+        "repository",
+        "repository-pattern",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-01T11:55:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Amitpnk",
+      "last_activity": "2025-08-01T11:55:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 81,
+        "forks": 29,
+        "watchers": 81,
+        "size_kb": 455,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "aspnetcore",
+          "c-sharp",
+          "csharp",
+          "entity-framework-core",
+          "hexagonal-architecture",
+          "integration-testing",
+          "nunit3",
+          "repository",
+          "repository-pattern",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.140936+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
