@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:32.967900",
+    "crawler_type": "github",
+    "filename": "github_20250819_064628_216348.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064628_216348",
+    "url": "https://github.com/Kong/insomnia",
+    "title": "GitHub Repository: insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 36944, Language: TypeScript",
+    "metadata": {
+      "author": "Kong",
+      "stars": 36944,
+      "forks": 2112,
+      "language": "TypeScript",
+      "topics": [
+        "api",
+        "api-client",
+        "api-design",
+        "curl",
+        "electron-app",
+        "graphql",
+        "grpc",
+        "http-client",
+        "rest-api",
+        "websockets"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:21:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Kong",
+      "last_activity": "2025-08-19T06:21:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 36944,
+        "forks": 2112,
+        "watchers": 36944,
+        "size_kb": 136971,
+        "language": "TypeScript",
+        "topics": [
+          "api",
+          "api-client",
+          "api-design",
+          "curl",
+          "electron-app",
+          "graphql",
+          "grpc",
+          "http-client",
+          "rest-api",
+          "websockets"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:46:28.216356+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
