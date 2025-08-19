@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:08:04.095593",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_290805.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_290805",
+    "url": "https://github.com/rust-lang/crates.io-index",
+    "title": "GitHub Repository: crates.io-index",
+    "description": "Registry index for crates.io",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 648, Language: Tcl",
+    "metadata": {
+      "author": "rust-lang",
+      "stars": 648,
+      "forks": 251,
+      "language": "Tcl",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:07:39Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "rust-lang",
+      "last_activity": "2025-08-19T03:07:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 648,
+        "forks": 251,
+        "watchers": 648,
+        "size_kb": 848808,
+        "language": "Tcl",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.290809+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
