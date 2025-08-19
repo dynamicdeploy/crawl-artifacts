@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:00.715821",
+    "crawler_type": "github",
+    "filename": "github_20250819_051827_967802.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051827_967802",
+    "url": "https://github.com/heynickc/awesome-ddd",
+    "title": "GitHub Repository: awesome-ddd",
+    "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11770, Language: None",
+    "metadata": {
+      "author": "heynickc",
+      "stars": 11770,
+      "forks": 1379,
+      "language": "en",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T14:23:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "heynickc",
+      "last_activity": "2025-08-18T14:23:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11770,
+        "forks": 1379,
+        "watchers": 11770,
+        "size_kb": 551,
+        "language": null,
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "list"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:27.967814+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
