@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:34.406273",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_528010.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_528010",
+    "url": "https://github.com/calcom/cal.com",
+    "title": "GitHub Repository: cal.com",
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 37607, Language: TypeScript",
+    "metadata": {
+      "author": "calcom",
+      "stars": 37607,
+      "forks": 10274,
+      "language": "TypeScript",
+      "topics": [
+        "next-auth",
+        "nextjs",
+        "open-source",
+        "postgresql",
+        "prisma",
+        "t3-stack",
+        "tailwindcss",
+        "trpc",
+        "turborepo",
+        "typescript",
+        "zod"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:37:18Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "calcom",
+      "last_activity": "2025-08-19T05:37:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 37607,
+        "forks": 10274,
+        "watchers": 37607,
+        "size_kb": 1148300,
+        "language": "TypeScript",
+        "topics": [
+          "next-auth",
+          "nextjs",
+          "open-source",
+          "postgresql",
+          "prisma",
+          "t3-stack",
+          "tailwindcss",
+          "trpc",
+          "turborepo",
+          "typescript",
+          "zod"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.528013+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
