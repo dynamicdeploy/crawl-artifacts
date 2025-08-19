@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:14.831661",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_425137.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_425137",
+    "url": "https://github.com/MarioCarrion/todo-api-microservice-example",
+    "title": "GitHub Repository: todo-api-microservice-example",
+    "description": "Go microservice tutorial project using Domain Driven Design and Onion Architecture!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1277, Language: Go",
+    "metadata": {
+      "author": "MarioCarrion",
+      "stars": 1277,
+      "forks": 176,
+      "language": "Go",
+      "topics": [
+        "domain-driven-design",
+        "golang",
+        "microservices",
+        "onion-architecture",
+        "tutorial"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T13:40:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MarioCarrion",
+      "last_activity": "2025-08-18T13:40:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1277,
+        "forks": 176,
+        "watchers": 1277,
+        "size_kb": 4977,
+        "language": "Go",
+        "topics": [
+          "domain-driven-design",
+          "golang",
+          "microservices",
+          "onion-architecture",
+          "tutorial"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.425141+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
