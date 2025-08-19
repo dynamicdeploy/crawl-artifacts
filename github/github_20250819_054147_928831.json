@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:30.607236",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_928831.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_928831",
+    "url": "https://github.com/kantord/SeaGOAT",
+    "title": "GitHub Repository: SeaGOAT",
+    "description": "local-first semantic code search engine",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1181, Language: Python",
+    "metadata": {
+      "author": "kantord",
+      "stars": 1181,
+      "forks": 75,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-project",
+        "code-search",
+        "code-search-engine",
+        "embeddings",
+        "grep",
+        "grep-like",
+        "hacktoberfest",
+        "hacktoberfest2023",
+        "llm",
+        "regular-expression",
+        "ripgrep",
+        "vector-database",
+        "vector-embeddings"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:41:32Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "kantord",
+      "last_activity": "2025-08-19T05:41:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1181,
+        "forks": 75,
+        "watchers": 1181,
+        "size_kb": 20749,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-project",
+          "code-search",
+          "code-search-engine",
+          "embeddings",
+          "grep",
+          "grep-like",
+          "hacktoberfest",
+          "hacktoberfest2023",
+          "llm",
+          "regular-expression",
+          "ripgrep",
+          "vector-database",
+          "vector-embeddings"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.928834+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
