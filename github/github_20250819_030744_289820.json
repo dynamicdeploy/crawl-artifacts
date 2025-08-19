@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:07:56.544333",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_289820.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_289820",
+    "url": "https://github.com/electerm/electerm",
+    "title": "GitHub Repository: electerm",
+    "description": "📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12810, Language: JavaScript",
+    "metadata": {
+      "author": "electerm",
+      "stars": 12810,
+      "forks": 1054,
+      "language": "JavaScript",
+      "topics": [
+        "electerm",
+        "electron",
+        "file-manager",
+        "ftp",
+        "linux-app",
+        "macos-app",
+        "open-source",
+        "rdp",
+        "serialport",
+        "sftp",
+        "ssh",
+        "telnet",
+        "terminal",
+        "vnc",
+        "windows-app"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:06:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "electerm",
+      "last_activity": "2025-08-19T03:06:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12810,
+        "forks": 1054,
+        "watchers": 12810,
+        "size_kb": 31239,
+        "language": "JavaScript",
+        "topics": [
+          "electerm",
+          "electron",
+          "file-manager",
+          "ftp",
+          "linux-app",
+          "macos-app",
+          "open-source",
+          "rdp",
+          "serialport",
+          "sftp",
+          "ssh",
+          "telnet",
+          "terminal",
+          "vnc",
+          "windows-app"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.289825+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
