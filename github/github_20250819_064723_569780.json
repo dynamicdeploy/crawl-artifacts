@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:42.416318",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_569780.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_569780",
+    "url": "https://github.com/home-assistant/core",
+    "title": "GitHub Repository: core",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 80806, Language: Python",
+    "metadata": {
+      "author": "home-assistant",
+      "stars": 80806,
+      "forks": 34720,
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "hacktoberfest",
+        "home-automation",
+        "internet-of-things",
+        "iot",
+        "mqtt",
+        "python",
+        "raspberry-pi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:33:32Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "home-assistant",
+      "last_activity": "2025-08-19T06:33:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 80806,
+        "forks": 34720,
+        "watchers": 80806,
+        "size_kb": 735717,
+        "language": "Python",
+        "topics": [
+          "asyncio",
+          "hacktoberfest",
+          "home-automation",
+          "internet-of-things",
+          "iot",
+          "mqtt",
+          "python",
+          "raspberry-pi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.569784+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
