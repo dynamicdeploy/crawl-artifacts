@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:50.265809",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_170756.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_170756",
+    "url": "https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture",
+    "title": "GitHub Repository: MY.OnionArchitecture",
+    "description": "Türkçe kaynağa destek olması amacıyla mini makaleler ve uygulama örnekleri ile oluşturulmuş bir Onion Architecture Projesidir.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 54, Language: C#",
+    "metadata": {
+      "author": "yilmazmustafayilmaz",
+      "stars": 54,
+      "forks": 2,
+      "language": "C#",
+      "topics": [
+        "authentication",
+        "authorization",
+        "clean-architecture",
+        "clean-code",
+        "cqrs-pattern",
+        "design-patterns",
+        "fluent-api",
+        "fluent-validation",
+        "global-exception-handling",
+        "json-web-token",
+        "mediator-pattern",
+        "net-core-6",
+        "object-oriented-programming",
+        "onion-architecture",
+        "signalr",
+        "signalr-core",
+        "solid",
+        "web-api-core"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-01-15T18:48:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "yilmazmustafayilmaz",
+      "last_activity": "2025-01-15T18:48:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 54,
+        "forks": 2,
+        "watchers": 54,
+        "size_kb": 816,
+        "language": "C#",
+        "topics": [
+          "authentication",
+          "authorization",
+          "clean-architecture",
+          "clean-code",
+          "cqrs-pattern",
+          "design-patterns",
+          "fluent-api",
+          "fluent-validation",
+          "global-exception-handling",
+          "json-web-token",
+          "mediator-pattern",
+          "net-core-6",
+          "object-oriented-programming",
+          "onion-architecture",
+          "signalr",
+          "signalr-core",
+          "solid",
+          "web-api-core"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.170759+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
