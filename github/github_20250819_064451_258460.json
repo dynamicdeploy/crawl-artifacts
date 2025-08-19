@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:44:57.798696",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_258460.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_258460",
+    "url": "https://github.com/Yoast/wordpress-seo",
+    "title": "GitHub Repository: wordpress-seo",
+    "description": "Yoast SEO for WordPress",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1867, Language: JavaScript",
+    "metadata": {
+      "author": "Yoast",
+      "stars": 1867,
+      "forks": 928,
+      "language": "JavaScript",
+      "topics": [
+        "breadcrumbs",
+        "metadata",
+        "opengraph",
+        "php",
+        "plugin",
+        "seo",
+        "wordpress",
+        "xml-sitemap",
+        "yoast",
+        "yoast-seo"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Yoast",
+      "last_activity": "2025-08-19T06:43:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1867,
+        "forks": 928,
+        "watchers": 1867,
+        "size_kb": 951123,
+        "language": "JavaScript",
+        "topics": [
+          "breadcrumbs",
+          "metadata",
+          "opengraph",
+          "php",
+          "plugin",
+          "seo",
+          "wordpress",
+          "xml-sitemap",
+          "yoast",
+          "yoast-seo"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.258464+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
