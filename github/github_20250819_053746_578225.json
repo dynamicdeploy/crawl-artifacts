@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:38:16.396753",
+    "crawler_type": "github",
+    "filename": "github_20250819_053746_578225.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_053746_578225",
+    "url": "https://github.com/mitevpi/awesome-bim",
+    "title": "GitHub Repository: awesome-bim",
+    "description": "A curated collection of useful BIM (Building Information Modeling) resources, libraries, software and frameworks for AEC research, application development, data analysis, and general computation.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 162, Language: None",
+    "metadata": {
+      "author": "mitevpi",
+      "stars": 162,
+      "forks": 21,
+      "language": "en",
+      "topics": [
+        "aec",
+        "architecture",
+        "autodesk",
+        "autodesk-forge",
+        "bim",
+        "bim-applications",
+        "bim360",
+        "csharp",
+        "design",
+        "design-computation",
+        "python",
+        "resources",
+        "revit",
+        "revit-addins",
+        "revit-api",
+        "template",
+        "tutorial"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-22T00:40:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mitevpi",
+      "last_activity": "2025-07-22T00:40:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 162,
+        "forks": 21,
+        "watchers": 162,
+        "size_kb": 6715,
+        "language": null,
+        "topics": [
+          "aec",
+          "architecture",
+          "autodesk",
+          "autodesk-forge",
+          "bim",
+          "bim-applications",
+          "bim360",
+          "csharp",
+          "design",
+          "design-computation",
+          "python",
+          "resources",
+          "revit",
+          "revit-addins",
+          "revit-api",
+          "template",
+          "tutorial"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:37:46.578233+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
