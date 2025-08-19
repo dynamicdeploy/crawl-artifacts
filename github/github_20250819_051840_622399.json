@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:58.217722",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_622399.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_622399",
+    "url": "https://github.com/codeshow/003-arquitetura-flask",
+    "title": "GitHub Repository: 003-arquitetura-flask",
+    "description": "Arquitetura definitiva para projetos Flask",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 220, Language: Python",
+    "metadata": {
+      "author": "codeshow",
+      "stars": 220,
+      "forks": 66,
+      "language": "Python",
+      "topics": [
+        "architecture",
+        "flask",
+        "patterns",
+        "python",
+        "web-application"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T03:01:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "codeshow",
+      "last_activity": "2025-08-07T03:01:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 220,
+        "forks": 66,
+        "watchers": 220,
+        "size_kb": 18,
+        "language": "Python",
+        "topics": [
+          "architecture",
+          "flask",
+          "patterns",
+          "python",
+          "web-application"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.622412+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
