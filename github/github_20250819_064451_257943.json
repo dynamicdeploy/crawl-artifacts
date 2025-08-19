@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:44:53.430321",
+    "crawler_type": "github",
+    "filename": "github_20250819_064451_257943.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064451_257943",
+    "url": "https://github.com/discourse/discourse",
+    "title": "GitHub Repository: discourse",
+    "description": "A platform for community discussion. Free, open, simple.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 44839, Language: Ruby",
+    "metadata": {
+      "author": "discourse",
+      "stars": 44839,
+      "forks": 8624,
+      "language": "Ruby",
+      "topics": [
+        "discourse",
+        "ember",
+        "forum",
+        "javascript",
+        "postgresql",
+        "rails",
+        "ruby"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:43:41Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "discourse",
+      "last_activity": "2025-08-19T06:43:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 44839,
+        "forks": 8624,
+        "watchers": 44839,
+        "size_kb": 781993,
+        "language": "Ruby",
+        "topics": [
+          "discourse",
+          "ember",
+          "forum",
+          "javascript",
+          "postgresql",
+          "rails",
+          "ruby"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:44:51.257959+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
