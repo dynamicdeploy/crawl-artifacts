@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:34.053270",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_178623.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_178623",
+    "url": "https://github.com/yusufkalyoncu/OnionArchitecture",
+    "title": "GitHub Repository: OnionArchitecture",
+    "description": "ASP.NET 8 Onion Architecture base project",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: C#",
+    "metadata": {
+      "author": "yusufkalyoncu",
+      "stars": 8,
+      "forks": 2,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-10-24T22:45:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "yusufkalyoncu",
+      "last_activity": "2024-10-24T22:45:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 2,
+        "watchers": 8,
+        "size_kb": 91,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.178627+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
