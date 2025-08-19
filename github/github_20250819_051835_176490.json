@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:23.599031",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_176490.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_176490",
+    "url": "https://github.com/yogyogi/Onion-Architecture-in-ASP.NET-Core-with-CQRS",
+    "title": "GitHub Repository: Onion-Architecture-in-ASP.NET-Core-with-CQRS",
+    "description": "Onion Architecture in ASP.NET Core with CQRS",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10, Language: C#",
+    "metadata": {
+      "author": "yogyogi",
+      "stars": 10,
+      "forks": 5,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "cqrs",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-04-04T04:41:43Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "yogyogi",
+      "last_activity": "2024-04-04T04:41:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10,
+        "forks": 5,
+        "watchers": 10,
+        "size_kb": 20264,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "cqrs",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.176494+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
