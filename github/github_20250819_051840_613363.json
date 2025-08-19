@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:00.466591",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_613363.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_613363",
+    "url": "https://github.com/Habrador/Unity-Programming-Patterns",
+    "title": "GitHub Repository: Unity-Programming-Patterns",
+    "description": "Implementations of programming design patterns in Unity with examples in C# when to use them.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2031, Language: C#",
+    "metadata": {
+      "author": "Habrador",
+      "stars": 2031,
+      "forks": 269,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "command-pattern",
+        "computer-science",
+        "design-patterns",
+        "factory-pattern",
+        "flyweight-pattern",
+        "game-programming-pattern",
+        "object-pool",
+        "object-pool-pattern",
+        "observer-pattern",
+        "principles",
+        "prototype-pattern",
+        "singleton-pattern",
+        "software-engineering",
+        "spatial-partitioning",
+        "state-pattern",
+        "subclass-sandbox-pattern",
+        "type-object-pattern",
+        "unity",
+        "unity3d"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-03T14:09:58Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Habrador",
+      "last_activity": "2025-08-03T14:09:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2031,
+        "forks": 269,
+        "watchers": 2031,
+        "size_kb": 1363,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "command-pattern",
+          "computer-science",
+          "design-patterns",
+          "factory-pattern",
+          "flyweight-pattern",
+          "game-programming-pattern",
+          "object-pool",
+          "object-pool-pattern",
+          "observer-pattern",
+          "principles",
+          "prototype-pattern",
+          "singleton-pattern",
+          "software-engineering",
+          "spatial-partitioning",
+          "state-pattern",
+          "subclass-sandbox-pattern",
+          "type-object-pattern",
+          "unity",
+          "unity3d"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.613367+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
