@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:43.451914",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_569875.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_569875",
+    "url": "https://github.com/3b1b/manim",
+    "title": "GitHub Repository: manim",
+    "description": "Animation engine for explanatory math videos",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 79622, Language: Python",
+    "metadata": {
+      "author": "3b1b",
+      "stars": 79622,
+      "forks": 6832,
+      "language": "Python",
+      "topics": [
+        "3b1b-videos",
+        "animation",
+        "explanatory-math-videos",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:45:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "3b1b",
+      "last_activity": "2025-08-19T06:45:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 79622,
+        "forks": 6832,
+        "watchers": 79622,
+        "size_kb": 76584,
+        "language": "Python",
+        "topics": [
+          "3b1b-videos",
+          "animation",
+          "explanatory-math-videos",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.569878+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
