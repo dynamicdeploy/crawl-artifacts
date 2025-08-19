@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:51.548388",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_621240.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_621240",
+    "url": "https://github.com/coffeeandcloud/angular-clean-architecture",
+    "title": "GitHub Repository: angular-clean-architecture",
+    "description": "This repository demonstrates a basic way how to implement the clean architecture pattern introduced by Uncle Bob to web apps like Angular.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 240, Language: TypeScript",
+    "metadata": {
+      "author": "coffeeandcloud",
+      "stars": 240,
+      "forks": 86,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-23T21:48:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "coffeeandcloud",
+      "last_activity": "2025-07-23T21:48:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 240,
+        "forks": 86,
+        "watchers": 240,
+        "size_kb": 134,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.621244+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
