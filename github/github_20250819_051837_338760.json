@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:27.353740",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_338760.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_338760",
+    "url": "https://github.com/stephanel/netcore-cqrs-example",
+    "title": "GitHub Repository: netcore-cqrs-example",
+    "description": "An example of CQS pattern implementation",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "stephanel",
+      "stars": 1,
+      "forks": 0,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-09-12T14:59:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stephanel",
+      "last_activity": "2022-09-12T14:59:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 23,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.338781+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
