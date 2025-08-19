@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:37.765912",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_179369.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_179369",
+    "url": "https://github.com/tamtam-fitness/aws-lambda-fastapi-onion-architecture-template",
+    "title": "GitHub Repository: aws-lambda-fastapi-onion-architecture-template",
+    "description": "This is a template for creating a FastAPI application with Onion Architecture and deploy it to AWS Lambda.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: Python",
+    "metadata": {
+      "author": "tamtam-fitness",
+      "stars": 8,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-09T12:58:48Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "tamtam-fitness",
+      "last_activity": "2025-06-09T12:58:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 0,
+        "watchers": 8,
+        "size_kb": 100,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.179373+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
