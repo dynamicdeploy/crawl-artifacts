@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:14.106692",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_029028.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_029028",
+    "url": "https://github.com/sanity-io/sanity",
+    "title": "GitHub Repository: sanity",
+    "description": "Sanity Studio – Rapidly configure content workspaces powered by structured content",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5770, Language: TypeScript",
+    "metadata": {
+      "author": "sanity-io",
+      "stars": 5770,
+      "forks": 489,
+      "language": "TypeScript",
+      "topics": [
+        "cms",
+        "headless",
+        "react",
+        "reactjs",
+        "real-time",
+        "realtime"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:34:04Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sanity-io",
+      "last_activity": "2025-08-19T06:34:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5770,
+        "forks": 489,
+        "watchers": 5770,
+        "size_kb": 134287,
+        "language": "TypeScript",
+        "topics": [
+          "cms",
+          "headless",
+          "react",
+          "reactjs",
+          "real-time",
+          "realtime"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.029031+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
