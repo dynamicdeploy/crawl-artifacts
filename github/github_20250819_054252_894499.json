@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:43:03.705582",
+    "crawler_type": "github",
+    "filename": "github_20250819_054252_894499.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054252_894499",
+    "url": "https://github.com/vdaas/vald",
+    "title": "GitHub Repository: vald",
+    "description": "Vald.  A Highly Scalable Distributed Vector Search Engine",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1631, Language: Go",
+    "metadata": {
+      "author": "vdaas",
+      "stars": 1631,
+      "forks": 87,
+      "language": "Go",
+      "topics": [
+        "anng",
+        "approximate-nearest-neighbor-search",
+        "cloud",
+        "cloud-native",
+        "distributed-systems",
+        "golang",
+        "hacktoberfest",
+        "high-dimensional-data",
+        "high-performance",
+        "image-search",
+        "image-search-engine",
+        "kubernetes",
+        "microservices",
+        "nearest-neighbor-search",
+        "ngt",
+        "similarity-search",
+        "vald",
+        "vector",
+        "vector-search-engine"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:34:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "vdaas",
+      "last_activity": "2025-08-19T05:34:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1631,
+        "forks": 87,
+        "watchers": 1631,
+        "size_kb": 86931,
+        "language": "Go",
+        "topics": [
+          "anng",
+          "approximate-nearest-neighbor-search",
+          "cloud",
+          "cloud-native",
+          "distributed-systems",
+          "golang",
+          "hacktoberfest",
+          "high-dimensional-data",
+          "high-performance",
+          "image-search",
+          "image-search-engine",
+          "kubernetes",
+          "microservices",
+          "nearest-neighbor-search",
+          "ngt",
+          "similarity-search",
+          "vald",
+          "vector",
+          "vector-search-engine"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:42:52.894504+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
