@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:16.238220",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_336826.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_336826",
+    "url": "https://github.com/AAGAMY/CQRSPostApp",
+    "title": "GitHub Repository: CQRSPostApp",
+    "description": "CQRSPostApp is example using CQRS Pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: C#",
+    "metadata": {
+      "author": "AAGAMY",
+      "stars": 2,
+      "forks": 0,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-01-15T10:20:31Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "AAGAMY",
+      "last_activity": "2024-01-15T10:20:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 26,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.336866+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
