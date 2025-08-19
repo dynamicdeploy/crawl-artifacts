@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:54.234221",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_390144.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_390144",
+    "url": "https://github.com/konstruktoid/hardening",
+    "title": "GitHub Repository: hardening",
+    "description": "Hardening Ubuntu. Systemd edition.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1474, Language: Shell",
+    "metadata": {
+      "author": "konstruktoid",
+      "stars": 1474,
+      "forks": 337,
+      "language": "Shell",
+      "topics": [
+        "hacktoberfest",
+        "hardening",
+        "information-security",
+        "security",
+        "security-automation",
+        "security-compliance",
+        "security-hardening",
+        "security-tools",
+        "shell",
+        "systemd",
+        "ubuntu",
+        "ubuntu-server"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "konstruktoid",
+      "last_activity": "2025-08-19T06:49:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1474,
+        "forks": 337,
+        "watchers": 1474,
+        "size_kb": 8750,
+        "language": "Shell",
+        "topics": [
+          "hacktoberfest",
+          "hardening",
+          "information-security",
+          "security",
+          "security-automation",
+          "security-compliance",
+          "security-hardening",
+          "security-tools",
+          "shell",
+          "systemd",
+          "ubuntu",
+          "ubuntu-server"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.390147+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
