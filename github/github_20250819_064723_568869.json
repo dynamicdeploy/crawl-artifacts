@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:33.379749",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_568869.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_568869",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "title": "GitHub Repository: yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 122952, Language: Python",
+    "metadata": {
+      "author": "yt-dlp",
+      "stars": 122952,
+      "forks": 9798,
+      "language": "Python",
+      "topics": [
+        "cli",
+        "downloader",
+        "python",
+        "sponsorblock",
+        "youtube-dl",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:29:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "yt-dlp",
+      "last_activity": "2025-08-19T06:29:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 122952,
+        "forks": 9798,
+        "watchers": 122952,
+        "size_kb": 56166,
+        "language": "Python",
+        "topics": [
+          "cli",
+          "downloader",
+          "python",
+          "sponsorblock",
+          "youtube-dl",
+          "youtube-downloader",
+          "yt-dlp"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.568875+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
