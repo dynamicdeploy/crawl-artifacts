@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:05.825230",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_758255.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_758255",
+    "url": "https://github.com/ZhiXuanWang/cf-speed-dns",
+    "title": "GitHub Repository: cf-speed-dns",
+    "description": "CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1089, Language: Python",
+    "metadata": {
+      "author": "ZhiXuanWang",
+      "stars": 1089,
+      "forks": 302,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:45:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ZhiXuanWang",
+      "last_activity": "2025-08-19T06:45:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1089,
+        "forks": 302,
+        "watchers": 1089,
+        "size_kb": 37947,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.758258+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
