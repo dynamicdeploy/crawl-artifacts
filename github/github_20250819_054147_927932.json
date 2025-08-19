@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:22.210387",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_927932.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_927932",
+    "url": "https://github.com/caelestia-dots/shell",
+    "title": "GitHub Repository: shell",
+    "description": "‼️ No waybar here ‼️",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3724, Language: QML",
+    "metadata": {
+      "author": "caelestia-dots",
+      "stars": 3724,
+      "forks": 187,
+      "language": "QML",
+      "topics": [
+        "caelestia",
+        "dotfiles",
+        "hyprland",
+        "hyprland-rice",
+        "linux",
+        "qt6",
+        "quickshell",
+        "rice",
+        "wayland"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:39:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "caelestia-dots",
+      "last_activity": "2025-08-19T05:39:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3724,
+        "forks": 187,
+        "watchers": 3724,
+        "size_kb": 1659,
+        "language": "QML",
+        "topics": [
+          "caelestia",
+          "dotfiles",
+          "hyprland",
+          "hyprland-rice",
+          "linux",
+          "qt6",
+          "quickshell",
+          "rice",
+          "wayland"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.927935+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
