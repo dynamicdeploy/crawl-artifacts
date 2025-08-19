@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:17.771728",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_175449.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_175449",
+    "url": "https://github.com/Simofatt/onion-architecture",
+    "title": "GitHub Repository: onion-architecture",
+    "description": "Onion architecture for .NET Applications, with MudBlazor implementation, Localizer, UI, ApiClient",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: C#",
+    "metadata": {
+      "author": "Simofatt",
+      "stars": 11,
+      "forks": 4,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-04-23T19:49:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Simofatt",
+      "last_activity": "2025-04-23T19:49:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 4,
+        "watchers": 11,
+        "size_kb": 87895,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.175452+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
