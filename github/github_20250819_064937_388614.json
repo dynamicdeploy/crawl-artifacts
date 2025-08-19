@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:38.412129",
+    "crawler_type": "github",
+    "filename": "github_20250819_064937_388614.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064937_388614",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "title": "GitHub Repository: build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 411816, Language: Markdown",
+    "metadata": {
+      "author": "codecrafters-io",
+      "stars": 411816,
+      "forks": 38624,
+      "language": "Markdown",
+      "topics": [
+        "awesome-list",
+        "free",
+        "programming",
+        "tutorial-code",
+        "tutorial-exercises",
+        "tutorials"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:49:24Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "codecrafters-io",
+      "last_activity": "2025-08-19T06:49:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 411816,
+        "forks": 38624,
+        "watchers": 411816,
+        "size_kb": 1079,
+        "language": "Markdown",
+        "topics": [
+          "awesome-list",
+          "free",
+          "programming",
+          "tutorial-code",
+          "tutorial-exercises",
+          "tutorials"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:49:37.388621+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
