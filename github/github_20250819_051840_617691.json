@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:28.416924",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_617691.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_617691",
+    "url": "https://github.com/eleev/swift-design-patterns",
+    "title": "GitHub Repository: swift-design-patterns",
+    "description": "🚀 The ultimate collection of Software Design Patterns & Principles with examples [38/79 Patterns]. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 400, Language: Swift",
+    "metadata": {
+      "author": "eleev",
+      "stars": 400,
+      "forks": 49,
+      "language": "Swift",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "concurrency",
+        "concurrency-patterns",
+        "design-patterns",
+        "design-principles",
+        "designpatterns",
+        "educational-materials",
+        "gang-of-four",
+        "gof-patterns",
+        "ios-architecture",
+        "mvc",
+        "mvvm",
+        "observer-pattern",
+        "solid",
+        "solid-principles",
+        "swift",
+        "swift-designpattern",
+        "swift-patterns",
+        "viper"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-27T16:14:59Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "eleev",
+      "last_activity": "2025-07-27T16:14:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 400,
+        "forks": 49,
+        "watchers": 400,
+        "size_kb": 710,
+        "language": "Swift",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "concurrency",
+          "concurrency-patterns",
+          "design-patterns",
+          "design-principles",
+          "designpatterns",
+          "educational-materials",
+          "gang-of-four",
+          "gof-patterns",
+          "ios-architecture",
+          "mvc",
+          "mvvm",
+          "observer-pattern",
+          "solid",
+          "solid-principles",
+          "swift",
+          "swift-designpattern",
+          "swift-patterns",
+          "viper"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.617695+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
