@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:49.410716",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_655570.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_655570",
+    "url": "https://github.com/pilloPl/edatraps",
+    "title": "GitHub Repository: edatraps",
+    "description": "Code for my webinar called \"Event-Driven Architecture Traps\", link to the talk: https://www.brighttalk.com/webcast/14893/333978/event-driven-architecture-traps",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21, Language: Java",
+    "metadata": {
+      "author": "pilloPl",
+      "stars": 21,
+      "forks": 2,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-04-14T16:15:34Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "pilloPl",
+      "last_activity": "2025-04-14T16:15:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21,
+        "forks": 2,
+        "watchers": 21,
+        "size_kb": 91,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.655574+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
