@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:55.500602",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_332153.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_332153",
+    "url": "https://github.com/SpringBootCourses/cqrs-banking-app",
+    "title": "GitHub Repository: cqrs-banking-app",
+    "description": "Banking app example for CQRS and Event-Sourcing pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 33, Language: Java",
+    "metadata": {
+      "author": "SpringBootCourses",
+      "stars": 33,
+      "forks": 5,
+      "language": "Java",
+      "topics": [
+        "apache-kafka",
+        "cqrs",
+        "debezium",
+        "event-sourcing",
+        "spring-boot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-24T15:43:27Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "SpringBootCourses",
+      "last_activity": "2025-07-24T15:43:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 33,
+        "forks": 5,
+        "watchers": 33,
+        "size_kb": 340,
+        "language": "Java",
+        "topics": [
+          "apache-kafka",
+          "cqrs",
+          "debezium",
+          "event-sourcing",
+          "spring-boot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.332161+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
