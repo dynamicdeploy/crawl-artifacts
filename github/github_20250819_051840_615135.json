@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:14.908286",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_615135.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_615135",
+    "url": "https://github.com/radianttap/Coordinator",
+    "title": "GitHub Repository: Coordinator",
+    "description": "Implementation of Coordinators app design pattern.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 718, Language: Swift",
+    "metadata": {
+      "author": "radianttap",
+      "stars": 718,
+      "forks": 48,
+      "language": "Swift",
+      "topics": [
+        "architecture",
+        "design-patterns",
+        "ios-lib",
+        "swift"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-11T20:02:15Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "radianttap",
+      "last_activity": "2025-07-11T20:02:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 718,
+        "forks": 48,
+        "watchers": 718,
+        "size_kb": 12696,
+        "language": "Swift",
+        "topics": [
+          "architecture",
+          "design-patterns",
+          "ios-lib",
+          "swift"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.615139+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
