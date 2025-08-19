@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:43.567783",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_292628.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_292628",
+    "url": "https://github.com/shadcn-ui/ui",
+    "title": "GitHub Repository: ui",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 93163, Language: TypeScript",
+    "metadata": {
+      "author": "shadcn-ui",
+      "stars": 93163,
+      "forks": 6518,
+      "language": "TypeScript",
+      "topics": [
+        "components",
+        "nextjs",
+        "radix-ui",
+        "react",
+        "shadcn",
+        "tailwindcss",
+        "ui"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:44:58Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "shadcn-ui",
+      "last_activity": "2025-08-19T02:44:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 93163,
+        "forks": 6518,
+        "watchers": 93163,
+        "size_kb": 36765,
+        "language": "TypeScript",
+        "topics": [
+          "components",
+          "nextjs",
+          "radix-ui",
+          "react",
+          "shadcn",
+          "tailwindcss",
+          "ui"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.292632+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
