@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:48.891754",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_756666.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_756666",
+    "url": "https://github.com/sgl-project/sglang",
+    "title": "GitHub Repository: sglang",
+    "description": "SGLang is a fast serving framework for large language models and vision language models.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 17008, Language: Python",
+    "metadata": {
+      "author": "sgl-project",
+      "stars": 17008,
+      "forks": 2653,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-r1",
+        "deepseek-v3",
+        "inference",
+        "kimi",
+        "llama",
+        "llama3",
+        "llama4",
+        "llama5",
+        "llava",
+        "llm",
+        "llm-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen3",
+        "transformer",
+        "vlm"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:45:05Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sgl-project",
+      "last_activity": "2025-08-19T06:45:05Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 17008,
+        "forks": 2653,
+        "watchers": 17008,
+        "size_kb": 31459,
+        "language": "Python",
+        "topics": [
+          "blackwell",
+          "cuda",
+          "deepseek",
+          "deepseek-r1",
+          "deepseek-v3",
+          "inference",
+          "kimi",
+          "llama",
+          "llama3",
+          "llama4",
+          "llama5",
+          "llava",
+          "llm",
+          "llm-serving",
+          "moe",
+          "openai",
+          "pytorch",
+          "qwen3",
+          "transformer",
+          "vlm"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.756670+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
