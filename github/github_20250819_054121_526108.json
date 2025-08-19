@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:21.646697",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_526108.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_526108",
+    "url": "https://github.com/TriliumNext/Trilium",
+    "title": "GitHub Repository: Trilium",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 30292, Language: TypeScript",
+    "metadata": {
+      "author": "TriliumNext",
+      "stars": 30292,
+      "forks": 2029,
+      "language": "TypeScript",
+      "topics": [
+        "electron",
+        "electron-app",
+        "knowledge-base",
+        "knowledge-graph",
+        "knowledge-management",
+        "knowledge-management-graph",
+        "local-first",
+        "note-managment",
+        "note-taker",
+        "note-taking",
+        "notebook",
+        "notes",
+        "notes-app",
+        "personal-knowledge-base",
+        "personal-wiki",
+        "scriptable",
+        "self-hosted",
+        "self-hosting",
+        "wiki"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:40:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "TriliumNext",
+      "last_activity": "2025-08-19T05:40:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 30292,
+        "forks": 2029,
+        "watchers": 30292,
+        "size_kb": 390874,
+        "language": "TypeScript",
+        "topics": [
+          "electron",
+          "electron-app",
+          "knowledge-base",
+          "knowledge-graph",
+          "knowledge-management",
+          "knowledge-management-graph",
+          "local-first",
+          "note-managment",
+          "note-taker",
+          "note-taking",
+          "notebook",
+          "notes",
+          "notes-app",
+          "personal-knowledge-base",
+          "personal-wiki",
+          "scriptable",
+          "self-hosted",
+          "self-hosting",
+          "wiki"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.526127+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
