@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:23:11.606677",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_685067.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_685067",
+    "url": "https://github.com/AdamHavlicek/fastapi-todo-ddd",
+    "title": "GitHub Repository: fastapi-todo-ddd",
+    "description": "FastAPI Python DDD and Clean Architecture Example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 121, Language: Python",
+    "metadata": {
+      "author": "AdamHavlicek",
+      "stars": 121,
+      "forks": 22,
+      "language": "Python",
+      "topics": [
+        "clean-architecture",
+        "ddd-architecture",
+        "fastapi",
+        "fastapi-sqlalchemy",
+        "python3",
+        "python310",
+        "sqlalchemy"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:06:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AdamHavlicek",
+      "last_activity": "2025-08-19T03:06:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 121,
+        "forks": 22,
+        "watchers": 121,
+        "size_kb": 190,
+        "language": "Python",
+        "topics": [
+          "clean-architecture",
+          "ddd-architecture",
+          "fastapi",
+          "fastapi-sqlalchemy",
+          "python3",
+          "python310",
+          "sqlalchemy"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.685070+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
