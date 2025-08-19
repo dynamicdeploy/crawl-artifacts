@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:26.407237",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_338603.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_338603",
+    "url": "https://github.com/alexandrehtrb/CqrsExample",
+    "title": "GitHub Repository: CqrsExample",
+    "description": "An example of CQRS architectural pattern on ASP.NET Core.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "alexandrehtrb",
+      "stars": 1,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "api",
+        "api-testing",
+        "asp-net-core",
+        "cqrs",
+        "cqrs-pattern",
+        "ddd",
+        "domain-driven-design",
+        "dotnet",
+        "dotnet-core",
+        "feature-folders",
+        "nativeaot",
+        "notification-pattern",
+        "nullable-reference-types",
+        "structured-logging",
+        "swagger-documentation",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-24T18:19:08Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "alexandrehtrb",
+      "last_activity": "2025-07-24T18:19:08Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 118,
+        "language": "C#",
+        "topics": [
+          "api",
+          "api-testing",
+          "asp-net-core",
+          "cqrs",
+          "cqrs-pattern",
+          "ddd",
+          "domain-driven-design",
+          "dotnet",
+          "dotnet-core",
+          "feature-folders",
+          "nativeaot",
+          "notification-pattern",
+          "nullable-reference-types",
+          "structured-logging",
+          "swagger-documentation",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.338608+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
