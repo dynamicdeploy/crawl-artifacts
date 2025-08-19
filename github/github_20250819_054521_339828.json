@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:34.758075",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_339828.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_339828",
+    "url": "https://github.com/aquasecurity/trivy",
+    "title": "GitHub Repository: trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 27939, Language: Go",
+    "metadata": {
+      "author": "aquasecurity",
+      "stars": 27939,
+      "forks": 2678,
+      "language": "Go",
+      "topics": [
+        "containers",
+        "devsecops",
+        "docker",
+        "go",
+        "golang",
+        "hacktoberfest",
+        "iac",
+        "infrastructure-as-code",
+        "kubernetes",
+        "misconfiguration",
+        "security",
+        "security-tools",
+        "vulnerability",
+        "vulnerability-detection",
+        "vulnerability-scanners"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:08:00Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aquasecurity",
+      "last_activity": "2025-08-19T02:08:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 27939,
+        "forks": 2678,
+        "watchers": 27939,
+        "size_kb": 916532,
+        "language": "Go",
+        "topics": [
+          "containers",
+          "devsecops",
+          "docker",
+          "go",
+          "golang",
+          "hacktoberfest",
+          "iac",
+          "infrastructure-as-code",
+          "kubernetes",
+          "misconfiguration",
+          "security",
+          "security-tools",
+          "vulnerability",
+          "vulnerability-detection",
+          "vulnerability-scanners"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.339839+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
