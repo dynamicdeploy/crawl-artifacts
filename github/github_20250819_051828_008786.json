@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:48.524785",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_008786.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_008786",
+    "url": "https://github.com/netcorepal/netcorepal-cloud-framework",
+    "title": "GitHub Repository: netcorepal-cloud-framework",
+    "description": "一个基于ASP.NET Core实现的整洁领域驱动设计落地战术框架。  A tactical framework for Clean Domain-Driven Design based on ASP.NET Core.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 304, Language: C#",
+    "metadata": {
+      "author": "netcorepal",
+      "stars": 304,
+      "forks": 73,
+      "language": "C#",
+      "topics": [
+        "clean-code",
+        "clean-ddd",
+        "cqrs",
+        "csharp",
+        "ddd",
+        "domain-driven-design",
+        "dotnet",
+        "event-driven",
+        "testable"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T07:53:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "netcorepal",
+      "last_activity": "2025-08-18T07:53:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 304,
+        "forks": 73,
+        "watchers": 304,
+        "size_kb": 5614,
+        "language": "C#",
+        "topics": [
+          "clean-code",
+          "clean-ddd",
+          "cqrs",
+          "csharp",
+          "ddd",
+          "domain-driven-design",
+          "dotnet",
+          "event-driven",
+          "testable"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.008791+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
