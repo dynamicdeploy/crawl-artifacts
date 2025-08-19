@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:10.029282",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_648415.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_648415",
+    "url": "https://github.com/event-driven-dotnet/EventDriven.ReferenceArchitecture",
+    "title": "GitHub Repository: EventDriven.ReferenceArchitecture",
+    "description": "Reference architecture for using EventDriven abstractions and libraries for Domain Driven Design (DDD), Command-Query Responsibility Segregation (CQRS) and Event Driven Architecture (EDA).",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 75, Language: C#",
+    "metadata": {
+      "author": "event-driven-dotnet",
+      "stars": 75,
+      "forks": 13,
+      "language": "C#",
+      "topics": [
+        "cqrs",
+        "ddd",
+        "domain-driven-design",
+        "eda",
+        "event-bus",
+        "event-driven",
+        "microservices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-21T07:12:23Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "event-driven-dotnet",
+      "last_activity": "2025-07-21T07:12:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 75,
+        "forks": 13,
+        "watchers": 75,
+        "size_kb": 517,
+        "language": "C#",
+        "topics": [
+          "cqrs",
+          "ddd",
+          "domain-driven-design",
+          "eda",
+          "event-bus",
+          "event-driven",
+          "microservices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.648418+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
