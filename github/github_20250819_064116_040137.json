@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:41:59.156923",
+    "crawler_type": "github",
+    "filename": "github_20250819_064116_040137.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064116_040137",
+    "url": "https://github.com/drveillard/distributed-systems-architecture",
+    "title": "GitHub Repository: distributed-systems-architecture",
+    "description": "A collection of awesome software, libraries and frameworks, design and architecture principles, books and videos, important resources and best practices about Distributed Systems & Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12, Language: None",
+    "metadata": {
+      "author": "drveillard",
+      "stars": 12,
+      "forks": 3,
+      "language": "en",
+      "topics": [
+        "architecture-components",
+        "design-patterns",
+        "design-systems",
+        "design-tools",
+        "distributed",
+        "distributed-algorithm",
+        "distributed-application-development",
+        "distributed-applications",
+        "distributed-architectures",
+        "distributed-computing",
+        "distributed-database",
+        "distributed-systems",
+        "distributed-tracing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-14T00:25:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "drveillard",
+      "last_activity": "2025-06-14T00:25:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12,
+        "forks": 3,
+        "watchers": 12,
+        "size_kb": 67,
+        "language": null,
+        "topics": [
+          "architecture-components",
+          "design-patterns",
+          "design-systems",
+          "design-tools",
+          "distributed",
+          "distributed-algorithm",
+          "distributed-application-development",
+          "distributed-applications",
+          "distributed-architectures",
+          "distributed-computing",
+          "distributed-database",
+          "distributed-systems",
+          "distributed-tracing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:41:16.040140+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
