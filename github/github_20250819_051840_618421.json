@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:33.924895",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_618421.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_618421",
+    "url": "https://github.com/daxnet/Apworks",
+    "title": "GitHub Repository: Apworks",
+    "description": "Apworks is a flexible, scalable, configurable and efficient .NET based application development framework that helps software developers to easily build enterprise applications by applying either Classic Layering or Command-Query Responsibility Segregation (CQRS) architectural patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 370, Language: C#",
+    "metadata": {
+      "author": "daxnet",
+      "stars": 370,
+      "forks": 135,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-30T20:48:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "daxnet",
+      "last_activity": "2025-07-30T20:48:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 370,
+        "forks": 135,
+        "watchers": 370,
+        "size_kb": 20403,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.618424+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
