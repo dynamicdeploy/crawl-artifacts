@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:46:04.662141",
+    "crawler_type": "github",
+    "filename": "github_20250819_054602_763965.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054602_763965",
+    "url": "https://github.com/sindresorhus/awesome",
+    "title": "GitHub Repository: awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 393001, Language: None",
+    "metadata": {
+      "author": "sindresorhus",
+      "stars": 393001,
+      "forks": 31249,
+      "language": "en",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources",
+        "unicorns"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:44:56Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sindresorhus",
+      "last_activity": "2025-08-19T05:44:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 393001,
+        "forks": 31249,
+        "watchers": 393001,
+        "size_kb": 1500,
+        "language": null,
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "lists",
+          "resources",
+          "unicorns"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:46:02.763970+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
