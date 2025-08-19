@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:29.782158",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_134580.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_134580",
+    "url": "https://github.com/AkbaraliShaikh/denti",
+    "title": "GitHub Repository: denti",
+    "description": "This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 149, Language: Go",
+    "metadata": {
+      "author": "AkbaraliShaikh",
+      "stars": 149,
+      "forks": 26,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "ddd-architecture",
+        "ddd-sample",
+        "dig",
+        "gin-gonic",
+        "go",
+        "golang",
+        "gorm",
+        "hexagonal-architecture",
+        "zap"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-05T22:02:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AkbaraliShaikh",
+      "last_activity": "2025-08-05T22:02:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 149,
+        "forks": 26,
+        "watchers": 149,
+        "size_kb": 1870,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "ddd-architecture",
+          "ddd-sample",
+          "dig",
+          "gin-gonic",
+          "go",
+          "golang",
+          "gorm",
+          "hexagonal-architecture",
+          "zap"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.134586+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
