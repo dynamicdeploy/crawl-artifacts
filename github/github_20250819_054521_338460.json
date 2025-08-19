@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:22.319162",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_338460.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_338460",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "title": "GitHub Repository: Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 96458, Language: None",
+    "metadata": {
+      "author": "Hack-with-Github",
+      "stars": 96458,
+      "forks": 9483,
+      "language": "en",
+      "topics": [
+        "android",
+        "awesome",
+        "bug-bounty",
+        "fuzzing",
+        "hacking",
+        "penetration-testing",
+        "pentesting-windows",
+        "reverse-engineering",
+        "security"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:40:15Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "Hack-with-Github",
+      "last_activity": "2025-08-19T05:40:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 96458,
+        "forks": 9483,
+        "watchers": 96458,
+        "size_kb": 160,
+        "language": null,
+        "topics": [
+          "android",
+          "awesome",
+          "bug-bounty",
+          "fuzzing",
+          "hacking",
+          "penetration-testing",
+          "pentesting-windows",
+          "reverse-engineering",
+          "security"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.338471+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
