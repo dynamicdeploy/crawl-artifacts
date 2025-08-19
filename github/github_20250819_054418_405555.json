@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:38.298531",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_405555.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_405555",
+    "url": "https://github.com/dyad-sh/dyad",
+    "title": "GitHub Repository: dyad",
+    "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13338, Language: TypeScript",
+    "metadata": {
+      "author": "dyad-sh",
+      "stars": 13338,
+      "forks": 1283,
+      "language": "TypeScript",
+      "topics": [
+        "ai-app-builder",
+        "anthropic",
+        "artificial-intelligence",
+        "bolt",
+        "deepseek",
+        "gemini",
+        "generative-ai",
+        "github",
+        "llm",
+        "llms",
+        "lovable",
+        "nextjs",
+        "ollama",
+        "openai",
+        "qwen",
+        "react",
+        "typescript",
+        "v0",
+        "vercel"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:27:23Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dyad-sh",
+      "last_activity": "2025-08-19T05:27:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13338,
+        "forks": 1283,
+        "watchers": 13338,
+        "size_kb": 20985,
+        "language": "TypeScript",
+        "topics": [
+          "ai-app-builder",
+          "anthropic",
+          "artificial-intelligence",
+          "bolt",
+          "deepseek",
+          "gemini",
+          "generative-ai",
+          "github",
+          "llm",
+          "llms",
+          "lovable",
+          "nextjs",
+          "ollama",
+          "openai",
+          "qwen",
+          "react",
+          "typescript",
+          "v0",
+          "vercel"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.405559+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
