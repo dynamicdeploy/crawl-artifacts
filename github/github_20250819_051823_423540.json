@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:01.598451",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_423540.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_423540",
+    "url": "https://github.com/aspnetrun/run-aspnetcore-microservices",
+    "title": "GitHub Repository: run-aspnetcore-microservices",
+    "description": "Microservices on .NET platforms used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation with using latest features of .NET 8 and C# 12",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3060, Language: C#",
+    "metadata": {
+      "author": "aspnetrun",
+      "stars": 3060,
+      "forks": 1655,
+      "language": "C#",
+      "topics": [
+        "api-gateway",
+        "aspnet-core",
+        "aspnet-web-api",
+        "aspnetcore-microservices",
+        "clean-architecture",
+        "cqrs-pattern",
+        "docker",
+        "event-driven",
+        "event-sourcing",
+        "eventbus",
+        "mediator-pattern",
+        "micorservices",
+        "microservices-architecture",
+        "mongodb",
+        "ocelot-gateway",
+        "rabbitmq",
+        "redis",
+        "rest-api",
+        "sql-server",
+        "swagger"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:59:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aspnetrun",
+      "last_activity": "2025-08-18T19:59:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3060,
+        "forks": 1655,
+        "watchers": 3060,
+        "size_kb": 2876,
+        "language": "C#",
+        "topics": [
+          "api-gateway",
+          "aspnet-core",
+          "aspnet-web-api",
+          "aspnetcore-microservices",
+          "clean-architecture",
+          "cqrs-pattern",
+          "docker",
+          "event-driven",
+          "event-sourcing",
+          "eventbus",
+          "mediator-pattern",
+          "micorservices",
+          "microservices-architecture",
+          "mongodb",
+          "ocelot-gateway",
+          "rabbitmq",
+          "redis",
+          "rest-api",
+          "sql-server",
+          "swagger"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.423545+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
