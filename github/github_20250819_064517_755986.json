@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:42.486113",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_755986.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_755986",
+    "url": "https://github.com/lobehub/lobe-chat",
+    "title": "GitHub Repository: lobe-chat",
+    "description": "🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 64607, Language: TypeScript",
+    "metadata": {
+      "author": "lobehub",
+      "stars": 64607,
+      "forks": 13399,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "artifacts",
+        "chat",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "deepseek-r1",
+        "function-calling",
+        "gemini",
+        "gpt",
+        "knowledge-base",
+        "mcp",
+        "nextjs",
+        "ollama",
+        "openai",
+        "rag"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:59Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "lobehub",
+      "last_activity": "2025-08-19T06:44:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 64607,
+        "forks": 13399,
+        "watchers": 64607,
+        "size_kb": 458666,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai",
+          "artifacts",
+          "chat",
+          "chatgpt",
+          "claude",
+          "deepseek",
+          "deepseek-r1",
+          "function-calling",
+          "gemini",
+          "gpt",
+          "knowledge-base",
+          "mcp",
+          "nextjs",
+          "ollama",
+          "openai",
+          "rag"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.755989+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
