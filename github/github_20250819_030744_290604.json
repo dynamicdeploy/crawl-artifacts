@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:08:02.231791",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_290604.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_290604",
+    "url": "https://github.com/PaPerseller/chn-iplist",
+    "title": "GitHub Repository: chn-iplist",
+    "description": "Chnroutes rules for routers、Shadowrocket、Quantumult、acl、v2rayNG、v2rayN、pac、v2rayA、dae、RouterOS、v2ray、sing-box config file.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1074, Language: RouterOS Script",
+    "metadata": {
+      "author": "PaPerseller",
+      "stars": 1074,
+      "forks": 165,
+      "language": "RouterOS Script",
+      "topics": [
+        "acl",
+        "chn-ip",
+        "chnroutes",
+        "dae",
+        "loon",
+        "pac",
+        "quantumult",
+        "routeros",
+        "rules",
+        "shadowrocket",
+        "sing-box",
+        "v2ray",
+        "v2raya",
+        "v2rayn",
+        "v2rayng",
+        "xray"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:06:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "PaPerseller",
+      "last_activity": "2025-08-19T03:06:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1074,
+        "forks": 165,
+        "watchers": 1074,
+        "size_kb": 2531,
+        "language": "RouterOS Script",
+        "topics": [
+          "acl",
+          "chn-ip",
+          "chnroutes",
+          "dae",
+          "loon",
+          "pac",
+          "quantumult",
+          "routeros",
+          "rules",
+          "shadowrocket",
+          "sing-box",
+          "v2ray",
+          "v2raya",
+          "v2rayn",
+          "v2rayng",
+          "xray"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.290608+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
