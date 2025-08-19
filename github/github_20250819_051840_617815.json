@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:29.333965",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_617815.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_617815",
+    "url": "https://github.com/bmadone/senior-software-engineer",
+    "title": "GitHub Repository: senior-software-engineer",
+    "description": "Collection of articles, books, and recommendations for senior-level interviews and assessments",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 397, Language: None",
+    "metadata": {
+      "author": "bmadone",
+      "stars": 397,
+      "forks": 57,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "cd",
+        "ci",
+        "codequality",
+        "interview",
+        "paradigms",
+        "patterns",
+        "sdlc",
+        "security",
+        "software-engineering",
+        "solid"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T11:48:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bmadone",
+      "last_activity": "2025-08-18T11:48:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 397,
+        "forks": 57,
+        "watchers": 397,
+        "size_kb": 2014,
+        "language": null,
+        "topics": [
+          "architecture",
+          "cd",
+          "ci",
+          "codequality",
+          "interview",
+          "paradigms",
+          "patterns",
+          "sdlc",
+          "security",
+          "software-engineering",
+          "solid"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.617820+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
