@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:30.390723",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_427274.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_427274",
+    "url": "https://github.com/rahulsahay19/eShopping",
+    "title": "GitHub Repository: eShopping",
+    "description": "Clean Architecture Microservices example of .Net Core",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 683, Language: SCSS",
+    "metadata": {
+      "author": "rahulsahay19",
+      "stars": 683,
+      "forks": 343,
+      "language": "SCSS",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-29T02:31:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "rahulsahay19",
+      "last_activity": "2025-07-29T02:31:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 683,
+        "forks": 343,
+        "watchers": 683,
+        "size_kb": 14634,
+        "language": "SCSS",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.427279+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
