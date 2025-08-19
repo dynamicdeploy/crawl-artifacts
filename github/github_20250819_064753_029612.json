@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:16.520313",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_029612.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_029612",
+    "url": "https://github.com/reown-com/appkit",
+    "title": "GitHub Repository: appkit",
+    "description": "The full stack toolkit to build onchain app UX",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5219, Language: TypeScript",
+    "metadata": {
+      "author": "reown-com",
+      "stars": 5219,
+      "forks": 1521,
+      "language": "TypeScript",
+      "topics": [
+        "dapps",
+        "ethereum",
+        "integration",
+        "plugin",
+        "react",
+        "wallet",
+        "walletconnect",
+        "widget"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:46:51Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "reown-com",
+      "last_activity": "2025-08-19T06:46:51Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5219,
+        "forks": 1521,
+        "watchers": 5219,
+        "size_kb": 139223,
+        "language": "TypeScript",
+        "topics": [
+          "dapps",
+          "ethereum",
+          "integration",
+          "plugin",
+          "react",
+          "wallet",
+          "walletconnect",
+          "widget"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.029626+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
