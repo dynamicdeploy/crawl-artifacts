@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:34.687064",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_340015.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_340015",
+    "url": "https://github.com/candem15/OnionArchitecture.CQRS.MediatR.App",
+    "title": "GitHub Repository: OnionArchitecture.CQRS.MediatR.App",
+    "description": "A brief application example of CQRS with Onion(Clean) Architecture alongside MediatR pattern.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "candem15",
+      "stars": 1,
+      "forks": 1,
+      "language": "C#",
+      "topics": [
+        "clean-architecture",
+        "cqrs",
+        "mediatr",
+        "onion-architecture",
+        "restful-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2022-10-05T23:56:05Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "candem15",
+      "last_activity": "2022-10-05T23:56:05Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 1,
+        "watchers": 1,
+        "size_kb": 19,
+        "language": "C#",
+        "topics": [
+          "clean-architecture",
+          "cqrs",
+          "mediatr",
+          "onion-architecture",
+          "restful-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.340020+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
