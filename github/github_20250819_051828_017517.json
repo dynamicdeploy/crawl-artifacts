@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:59.702729",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_017517.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_017517",
+    "url": "https://github.com/kstry/kstry-core",
+    "title": "GitHub Repository: kstry-core",
+    "description": "Kstry是可视化、流程编排、并发、模块化、组件化、业务隔离、微服务整合、服务化、领域驱动等相关框架，业务架构设计必备 项目主页：http://kstry.cn  Kstry is visualization, process orchestration, concurrency, modularization, componentization, business isolation, microservice integration, servitization, domain-driven and other related frameworks, business architecture design must Project home page: http://kstry.cn",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 221, Language: Java",
+    "metadata": {
+      "author": "kstry",
+      "stars": 221,
+      "forks": 43,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:22:19Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "kstry",
+      "last_activity": "2025-08-13T11:22:19Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 221,
+        "forks": 43,
+        "watchers": 221,
+        "size_kb": 7907,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.017523+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
