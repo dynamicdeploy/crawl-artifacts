@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:43:00.827505",
+    "crawler_type": "github",
+    "filename": "github_20250819_054252_894074.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054252_894074",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "title": "GitHub Repository: nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10635, Language: JavaScript",
+    "metadata": {
+      "author": "projectdiscovery",
+      "stars": 10635,
+      "forks": 2974,
+      "language": "JavaScript",
+      "topics": [
+        "bugbounty",
+        "exploit-development",
+        "exploits",
+        "fingerprint",
+        "hacktoberfest",
+        "nuclei",
+        "nuclei-checks",
+        "nuclei-templates",
+        "security",
+        "vulnerability-detection"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:36:34Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "projectdiscovery",
+      "last_activity": "2025-08-19T05:36:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10635,
+        "forks": 2974,
+        "watchers": 10635,
+        "size_kb": 236115,
+        "language": "JavaScript",
+        "topics": [
+          "bugbounty",
+          "exploit-development",
+          "exploits",
+          "fingerprint",
+          "hacktoberfest",
+          "nuclei",
+          "nuclei-checks",
+          "nuclei-templates",
+          "security",
+          "vulnerability-detection"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:42:52.894078+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
