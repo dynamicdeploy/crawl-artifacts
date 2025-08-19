@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:20.489490",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_144609.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_144609",
+    "url": "https://github.com/basaransuleyman/Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin",
+    "title": "GitHub Repository: Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin",
+    "description": "Compose-Feature-Based-Multi-Module-Clean-Architecture-Android-Kotlin",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 57, Language: Kotlin",
+    "metadata": {
+      "author": "basaransuleyman",
+      "stars": 57,
+      "forks": 10,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "channels",
+        "clean-architecture",
+        "cleanarchitecture",
+        "compose",
+        "compose-navigation",
+        "compose-ui",
+        "coroutines",
+        "hexagonal-architecture",
+        "jetpack",
+        "jetpack-compose",
+        "multimodule",
+        "multimodule-android-app",
+        "multimodule-kotlin-app",
+        "mvi",
+        "mvvm",
+        "mvvm-architecture",
+        "navigation",
+        "navigation-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-12T19:14:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "basaransuleyman",
+      "last_activity": "2025-08-12T19:14:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 57,
+        "forks": 10,
+        "watchers": 57,
+        "size_kb": 357,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "channels",
+          "clean-architecture",
+          "cleanarchitecture",
+          "compose",
+          "compose-navigation",
+          "compose-ui",
+          "coroutines",
+          "hexagonal-architecture",
+          "jetpack",
+          "jetpack-compose",
+          "multimodule",
+          "multimodule-android-app",
+          "multimodule-kotlin-app",
+          "mvi",
+          "mvvm",
+          "mvvm-architecture",
+          "navigation",
+          "navigation-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.144616+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
