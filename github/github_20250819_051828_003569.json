@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:35.818810",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_003569.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_003569",
+    "url": "https://github.com/TanvirArjel/CleanArchitecture",
+    "title": "GitHub Repository: CleanArchitecture",
+    "description": "This repository contains the implementation of domain-driven design and clear architecture in ASP.NET Core.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 385, Language: C#",
+    "metadata": {
+      "author": "TanvirArjel",
+      "stars": 385,
+      "forks": 53,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-05T09:49:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "TanvirArjel",
+      "last_activity": "2025-08-05T09:49:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 385,
+        "forks": 53,
+        "watchers": 385,
+        "size_kb": 4401,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.003573+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
