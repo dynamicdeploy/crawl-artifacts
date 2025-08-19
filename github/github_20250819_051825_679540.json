@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:34.963914",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_679540.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_679540",
+    "url": "https://github.com/Enforcer/clean-architecture",
+    "title": "GitHub Repository: clean-architecture",
+    "description": "Example project showing off clean/hexagonal architecture concepts in Python",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 546, Language: Python",
+    "metadata": {
+      "author": "Enforcer",
+      "stars": 546,
+      "forks": 54,
+      "language": "Python",
+      "topics": [
+        "clean-architecture",
+        "ddd",
+        "hexagonal-architecture",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-11T09:53:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Enforcer",
+      "last_activity": "2025-08-11T09:53:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 546,
+        "forks": 54,
+        "watchers": 546,
+        "size_kb": 1163,
+        "language": "Python",
+        "topics": [
+          "clean-architecture",
+          "ddd",
+          "hexagonal-architecture",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.679545+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
