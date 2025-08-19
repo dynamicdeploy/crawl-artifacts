@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:50.057690",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_330897.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_330897",
+    "url": "https://github.com/ivan-borovets/fastapi-clean-example",
+    "title": "GitHub Repository: fastapi-clean-example",
+    "description": "Framework-agnostic backend example using FastAPI. Implements Clean Architecture and CQRS with DDD-inspired patterns, featuring DIP (low coupling), DI (no globals), contextual RBAC, and session-based auth (cookies)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 229, Language: Python",
+    "metadata": {
+      "author": "ivan-borovets",
+      "stars": 229,
+      "forks": 23,
+      "language": "Python",
+      "topics": [
+        "alembic",
+        "api",
+        "architecture",
+        "clean-architecture",
+        "cqrs",
+        "crud",
+        "dependency-injection",
+        "fastapi",
+        "fastapi-auth",
+        "fastapi-crud",
+        "fastapi-example",
+        "fastapi-template",
+        "hexagonal-architecture",
+        "onion-architecture",
+        "python",
+        "python-clean-architecture",
+        "restful-api",
+        "sqlalchemy",
+        "unit-of-work",
+        "uv"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T00:15:53Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ivan-borovets",
+      "last_activity": "2025-08-18T00:15:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 229,
+        "forks": 23,
+        "watchers": 229,
+        "size_kb": 2167,
+        "language": "Python",
+        "topics": [
+          "alembic",
+          "api",
+          "architecture",
+          "clean-architecture",
+          "cqrs",
+          "crud",
+          "dependency-injection",
+          "fastapi",
+          "fastapi-auth",
+          "fastapi-crud",
+          "fastapi-example",
+          "fastapi-template",
+          "hexagonal-architecture",
+          "onion-architecture",
+          "python",
+          "python-clean-architecture",
+          "restful-api",
+          "sqlalchemy",
+          "unit-of-work",
+          "uv"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.330908+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
