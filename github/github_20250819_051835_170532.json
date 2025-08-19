@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:48.342760",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_170532.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_170532",
+    "url": "https://github.com/chetanvihite/OnionArchitecture.Sample",
+    "title": "GitHub Repository: OnionArchitecture.Sample",
+    "description": "sample solution to demonstrate Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 56, Language: JavaScript",
+    "metadata": {
+      "author": "chetanvihite",
+      "stars": 56,
+      "forks": 15,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-03-22T12:41:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "chetanvihite",
+      "last_activity": "2023-03-22T12:41:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 56,
+        "forks": 15,
+        "watchers": 56,
+        "size_kb": 20936,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.170535+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
