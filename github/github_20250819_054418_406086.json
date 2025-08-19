@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:43.279290",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_406086.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_406086",
+    "url": "https://github.com/plasmicapp/plasmic",
+    "title": "GitHub Repository: plasmic",
+    "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6244, Language: TypeScript",
+    "metadata": {
+      "author": "plasmicapp",
+      "stars": 6244,
+      "forks": 578,
+      "language": "TypeScript",
+      "topics": [
+        "builder",
+        "cms",
+        "design",
+        "design-systems",
+        "design-tools",
+        "drag-drop",
+        "frontend",
+        "gatsby",
+        "headless",
+        "headless-cms",
+        "jamstack",
+        "lowcode",
+        "nextjs",
+        "nocode",
+        "page-builder",
+        "react",
+        "ui-builder",
+        "wysiwyg"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:35:13Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "plasmicapp",
+      "last_activity": "2025-08-19T05:35:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6244,
+        "forks": 578,
+        "watchers": 6244,
+        "size_kb": 245723,
+        "language": "TypeScript",
+        "topics": [
+          "builder",
+          "cms",
+          "design",
+          "design-systems",
+          "design-tools",
+          "drag-drop",
+          "frontend",
+          "gatsby",
+          "headless",
+          "headless-cms",
+          "jamstack",
+          "lowcode",
+          "nextjs",
+          "nocode",
+          "page-builder",
+          "react",
+          "ui-builder",
+          "wysiwyg"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.406089+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
