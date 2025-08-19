@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:23.452293",
+    "crawler_type": "github",
+    "filename": "github_20250819_051827_994995.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051827_994995",
+    "url": "https://github.com/node-ts/ddd",
+    "title": "GitHub Repository: ddd",
+    "description": "A Domain Driven Design framework for software simplicity in node",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 595, Language: TypeScript",
+    "metadata": {
+      "author": "node-ts",
+      "stars": 595,
+      "forks": 38,
+      "language": "TypeScript",
+      "topics": [
+        "ddd",
+        "ddd-architecture",
+        "ddd-example",
+        "ddd-patterns",
+        "ddd-sample",
+        "distributed-systems",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T04:03:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "node-ts",
+      "last_activity": "2025-08-17T04:03:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 595,
+        "forks": 38,
+        "watchers": 595,
+        "size_kb": 641,
+        "language": "TypeScript",
+        "topics": [
+          "ddd",
+          "ddd-architecture",
+          "ddd-example",
+          "ddd-patterns",
+          "ddd-sample",
+          "distributed-systems",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:27.995007+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
