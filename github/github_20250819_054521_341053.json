@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:46.259721",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_341053.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_341053",
+    "url": "https://github.com/radareorg/radare2",
+    "title": "GitHub Repository: radare2",
+    "description": "UNIX-like reverse engineering framework and command-line toolset",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22123, Language: C",
+    "metadata": {
+      "author": "radareorg",
+      "stars": 22123,
+      "forks": 3101,
+      "language": "C",
+      "topics": [
+        "binary-analysis",
+        "c",
+        "commandline",
+        "disassembler",
+        "forensics",
+        "hacktoberfest",
+        "malware-analysis",
+        "radare2",
+        "reverse-engineering",
+        "security"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T22:27:52Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "radareorg",
+      "last_activity": "2025-08-18T22:27:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22123,
+        "forks": 3101,
+        "watchers": 22123,
+        "size_kb": 188231,
+        "language": "C",
+        "topics": [
+          "binary-analysis",
+          "c",
+          "commandline",
+          "disassembler",
+          "forensics",
+          "hacktoberfest",
+          "malware-analysis",
+          "radare2",
+          "reverse-engineering",
+          "security"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.341065+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
