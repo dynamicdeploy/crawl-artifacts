@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:51.796327",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_757021.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_757021",
+    "url": "https://github.com/keystonejs/keystone",
+    "title": "GitHub Repository: keystone",
+    "description": "The superpowered headless CMS for Node.js — built with GraphQL and React",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9660, Language: TypeScript",
+    "metadata": {
+      "author": "keystonejs",
+      "stars": 9660,
+      "forks": 1228,
+      "language": "TypeScript",
+      "topics": [
+        "cms",
+        "cms-framework",
+        "graphql",
+        "keystonejs",
+        "nodejs",
+        "react"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:45:11Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "keystonejs",
+      "last_activity": "2025-08-19T06:45:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9660,
+        "forks": 1228,
+        "watchers": 9660,
+        "size_kb": 379934,
+        "language": "TypeScript",
+        "topics": [
+          "cms",
+          "cms-framework",
+          "graphql",
+          "keystonejs",
+          "nodejs",
+          "react"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.757025+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
