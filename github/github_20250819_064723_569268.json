@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:47:37.397654",
+    "crawler_type": "github",
+    "filename": "github_20250819_064723_569268.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064723_569268",
+    "url": "https://github.com/nvbn/thefuck",
+    "title": "GitHub Repository: thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 93556, Language: Python",
+    "metadata": {
+      "author": "nvbn",
+      "stars": 93556,
+      "forks": 3746,
+      "language": "Python",
+      "topics": [
+        "python",
+        "shell"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:47:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nvbn",
+      "last_activity": "2025-08-19T05:47:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 93556,
+        "forks": 3746,
+        "watchers": 93556,
+        "size_kb": 4043,
+        "language": "Python",
+        "topics": [
+          "python",
+          "shell"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:23.569279+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
