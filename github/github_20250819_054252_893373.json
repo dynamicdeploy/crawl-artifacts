@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:54.836640",
+    "crawler_type": "github",
+    "filename": "github_20250819_054252_893373.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054252_893373",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "title": "GitHub Repository: nodebestpractices",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 103947, Language: Dockerfile",
+    "metadata": {
+      "author": "goldbergyoni",
+      "stars": 103947,
+      "forks": 10578,
+      "language": "Dockerfile",
+      "topics": [
+        "best-practices",
+        "es6",
+        "eslint",
+        "express",
+        "expressjs",
+        "javascript",
+        "jest",
+        "microservices",
+        "mocha",
+        "node-js",
+        "nodejs",
+        "nodejs-development",
+        "npm",
+        "rest",
+        "style-guide",
+        "styleguide",
+        "testing",
+        "types"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:57:54Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "goldbergyoni",
+      "last_activity": "2025-08-19T02:57:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 103947,
+        "forks": 10578,
+        "watchers": 103947,
+        "size_kb": 69535,
+        "language": "Dockerfile",
+        "topics": [
+          "best-practices",
+          "es6",
+          "eslint",
+          "express",
+          "expressjs",
+          "javascript",
+          "jest",
+          "microservices",
+          "mocha",
+          "node-js",
+          "nodejs",
+          "nodejs-development",
+          "npm",
+          "rest",
+          "style-guide",
+          "styleguide",
+          "testing",
+          "types"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:42:52.893378+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
