@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:43:05.085930",
+    "crawler_type": "github",
+    "filename": "github_20250819_054252_894611.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054252_894611",
+    "url": "https://github.com/igorescodro/alkaa",
+    "title": "GitHub Repository: alkaa",
+    "description": "Kotlin multiplatform app to manage your tasks",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1498, Language: Kotlin",
+    "metadata": {
+      "author": "igorescodro",
+      "stars": 1498,
+      "forks": 149,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-testing",
+        "clean-architecture",
+        "compose-ios",
+        "compose-multiplatform",
+        "coroutines-android",
+        "dynamic-delivery",
+        "hexagonal-architecture",
+        "ios",
+        "jetpack-compose",
+        "kmp",
+        "kotlin",
+        "kotlin-multiplatform",
+        "kotlin-multiplatform-mobile",
+        "kotlin-multiplatform-sample",
+        "modularization"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T01:43:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "igorescodro",
+      "last_activity": "2025-08-19T01:43:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1498,
+        "forks": 149,
+        "watchers": 1498,
+        "size_kb": 5546,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-testing",
+          "clean-architecture",
+          "compose-ios",
+          "compose-multiplatform",
+          "coroutines-android",
+          "dynamic-delivery",
+          "hexagonal-architecture",
+          "ios",
+          "jetpack-compose",
+          "kmp",
+          "kotlin",
+          "kotlin-multiplatform",
+          "kotlin-multiplatform-mobile",
+          "kotlin-multiplatform-sample",
+          "modularization"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:42:52.894615+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
