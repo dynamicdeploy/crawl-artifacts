@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:05.464949",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_141619.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_141619",
+    "url": "https://github.com/weltraumpirat/hexagonal_ddd",
+    "title": "GitHub Repository: hexagonal_ddd",
+    "description": "Variations of DDD with hexagonal architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 74, Language: Java",
+    "metadata": {
+      "author": "weltraumpirat",
+      "stars": 74,
+      "forks": 6,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T14:58:19Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "weltraumpirat",
+      "last_activity": "2025-08-18T14:58:19Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 74,
+        "forks": 6,
+        "watchers": 74,
+        "size_kb": 2314,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.141623+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
