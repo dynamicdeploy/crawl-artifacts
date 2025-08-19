@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:28.437651",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_339200.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_339200",
+    "url": "https://github.com/QuivrHQ/quivr",
+    "title": "GitHub Repository: quivr",
+    "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 38304, Language: Python",
+    "metadata": {
+      "author": "QuivrHQ",
+      "stars": 38304,
+      "forks": 3673,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:44:23Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "QuivrHQ",
+      "last_activity": "2025-08-19T04:44:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 38304,
+        "forks": 3673,
+        "watchers": 38304,
+        "size_kb": 130685,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.339209+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
