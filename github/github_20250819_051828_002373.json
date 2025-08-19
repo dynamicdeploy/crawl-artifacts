@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:24:31.240473",
+    "crawler_type": "github",
+    "filename": "github_20250819_051828_002373.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051828_002373",
+    "url": "https://github.com/charlessolar/Aggregates.NET",
+    "title": "GitHub Repository: Aggregates.NET",
+    "description": ".NET event sourced domain driven design model via NServiceBus and GetEventStore",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 440, Language: C#",
+    "metadata": {
+      "author": "charlessolar",
+      "stars": 440,
+      "forks": 60,
+      "language": "C#",
+      "topics": [
+        "cqrs",
+        "ddd",
+        "eventsourcing",
+        "eventstore",
+        "microservices",
+        "nservicebus"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-30T16:14:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "charlessolar",
+      "last_activity": "2025-05-30T16:14:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 440,
+        "forks": 60,
+        "watchers": 440,
+        "size_kb": 15188,
+        "language": "C#",
+        "topics": [
+          "cqrs",
+          "ddd",
+          "eventsourcing",
+          "eventstore",
+          "microservices",
+          "nservicebus"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:28.002397+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
