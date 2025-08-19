@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:53.677134",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_331776.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_331776",
+    "url": "https://github.com/bartstc/booking-app",
+    "title": "GitHub Repository: booking-app",
+    "description": "A comprehensive Domain Driven Design example with microservices and various tactical patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 54, Language: TypeScript",
+    "metadata": {
+      "author": "bartstc",
+      "stars": 54,
+      "forks": 8,
+      "language": "TypeScript",
+      "topics": [
+        "aggregate",
+        "amqp",
+        "chakra-ui",
+        "cqrs",
+        "csharp",
+        "ddd",
+        "ddd-architecture",
+        "docker",
+        "domain-driven-design",
+        "dotnet",
+        "event-driven-architecture",
+        "microservices",
+        "nestjs",
+        "nodejs",
+        "postgres",
+        "rabbitmq",
+        "react",
+        "react-query",
+        "swagger",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T19:18:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bartstc",
+      "last_activity": "2025-08-13T19:18:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 54,
+        "forks": 8,
+        "watchers": 54,
+        "size_kb": 8546,
+        "language": "TypeScript",
+        "topics": [
+          "aggregate",
+          "amqp",
+          "chakra-ui",
+          "cqrs",
+          "csharp",
+          "ddd",
+          "ddd-architecture",
+          "docker",
+          "domain-driven-design",
+          "dotnet",
+          "event-driven-architecture",
+          "microservices",
+          "nestjs",
+          "nodejs",
+          "postgres",
+          "rabbitmq",
+          "react",
+          "react-query",
+          "swagger",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.331784+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
