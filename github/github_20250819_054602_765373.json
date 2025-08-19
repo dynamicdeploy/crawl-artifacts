@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:46:17.363668",
+    "crawler_type": "github",
+    "filename": "github_20250819_054602_765373.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054602_765373",
+    "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
+    "title": "GitHub Repository: New-Grad-Positions",
+    "description": "A collection of full time roles in SWE, Quant, and PM for new grads.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 14330, Language: None",
+    "metadata": {
+      "author": "SimplifyJobs",
+      "stars": 14330,
+      "forks": 1170,
+      "language": "en",
+      "topics": [
+        "applications",
+        "coderquad",
+        "college",
+        "fulltime",
+        "hacktoberfest",
+        "jobs",
+        "newgrad",
+        "position",
+        "posting",
+        "university"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:45:34Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "SimplifyJobs",
+      "last_activity": "2025-08-19T05:45:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 14330,
+        "forks": 1170,
+        "watchers": 14330,
+        "size_kb": 10119,
+        "language": null,
+        "topics": [
+          "applications",
+          "coderquad",
+          "college",
+          "fulltime",
+          "hacktoberfest",
+          "jobs",
+          "newgrad",
+          "position",
+          "posting",
+          "university"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:46:02.765377+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
