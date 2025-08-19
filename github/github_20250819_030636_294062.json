@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:06:56.935775",
+    "crawler_type": "github",
+    "filename": "github_20250819_030636_294062.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030636_294062",
+    "url": "https://github.com/module-federation/core",
+    "title": "GitHub Repository: core",
+    "description": "Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2132, Language: JavaScript",
+    "metadata": {
+      "author": "module-federation",
+      "stars": 2132,
+      "forks": 359,
+      "language": "JavaScript",
+      "topics": [
+        "module-federation",
+        "nextjs",
+        "node",
+        "react",
+        "typescript",
+        "webpack"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T02:25:30Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "module-federation",
+      "last_activity": "2025-08-19T02:25:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2132,
+        "forks": 359,
+        "watchers": 2132,
+        "size_kb": 273620,
+        "language": "JavaScript",
+        "topics": [
+          "module-federation",
+          "nextjs",
+          "node",
+          "react",
+          "typescript",
+          "webpack"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:06:36.294065+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
