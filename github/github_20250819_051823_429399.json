@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:43.509419",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_429399.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_429399",
+    "url": "https://github.com/mudigal-technologies/microservices-sample",
+    "title": "GitHub Repository: microservices-sample",
+    "description": "Sample project to create an application using microservices architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 434, Language: Java",
+    "metadata": {
+      "author": "mudigal-technologies",
+      "stars": 434,
+      "forks": 374,
+      "language": "Java",
+      "topics": [
+        "angular9",
+        "api-gateway",
+        "consul",
+        "docker",
+        "docker-compose",
+        "dockerfile",
+        "elasticsearch",
+        "h2",
+        "java",
+        "kibana",
+        "logback",
+        "logstash",
+        "microservices-architecture",
+        "mysql",
+        "rabbitmq",
+        "spring-boot",
+        "springboot-webflux",
+        "springboot-webflux-mongodb",
+        "springboot2",
+        "zuul"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:14:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mudigal-technologies",
+      "last_activity": "2025-08-13T11:14:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 434,
+        "forks": 374,
+        "watchers": 434,
+        "size_kb": 13185,
+        "language": "Java",
+        "topics": [
+          "angular9",
+          "api-gateway",
+          "consul",
+          "docker",
+          "docker-compose",
+          "dockerfile",
+          "elasticsearch",
+          "h2",
+          "java",
+          "kibana",
+          "logback",
+          "logstash",
+          "microservices-architecture",
+          "mysql",
+          "rabbitmq",
+          "spring-boot",
+          "springboot-webflux",
+          "springboot-webflux-mongodb",
+          "springboot2",
+          "zuul"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.429403+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
