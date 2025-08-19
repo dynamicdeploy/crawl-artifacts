@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:36.881241",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_135864.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_135864",
+    "url": "https://github.com/jaguililla/hexagonal_spring",
+    "title": "GitHub Repository: hexagonal_spring",
+    "description": "Spring template for a REST service designed with Hexagonal architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 130, Language: Java",
+    "metadata": {
+      "author": "jaguililla",
+      "stars": 130,
+      "forks": 13,
+      "language": "Java",
+      "topics": [
+        "archunit",
+        "clean-architecture",
+        "docker",
+        "docker-compose",
+        "gatling",
+        "hexagonal-architecture",
+        "java",
+        "kafka",
+        "paketo-buildpack",
+        "pitest",
+        "postgres",
+        "spring-boot",
+        "testcontainers"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T16:33:00Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "jaguililla",
+      "last_activity": "2025-08-17T16:33:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 130,
+        "forks": 13,
+        "watchers": 130,
+        "size_kb": 200,
+        "language": "Java",
+        "topics": [
+          "archunit",
+          "clean-architecture",
+          "docker",
+          "docker-compose",
+          "gatling",
+          "hexagonal-architecture",
+          "java",
+          "kafka",
+          "paketo-buildpack",
+          "pitest",
+          "postgres",
+          "spring-boot",
+          "testcontainers"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.135869+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
