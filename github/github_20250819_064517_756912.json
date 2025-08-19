@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:45:50.873879",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_756912.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_756912",
+    "url": "https://github.com/TanStack/router",
+    "title": "GitHub Repository: router",
+    "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10854, Language: TypeScript",
+    "metadata": {
+      "author": "TanStack",
+      "stars": 10854,
+      "forks": 1151,
+      "language": "TypeScript",
+      "topics": [
+        "framework",
+        "fullstack",
+        "javascript",
+        "react",
+        "route",
+        "router",
+        "routing",
+        "rpc",
+        "search",
+        "searchparams",
+        "server-functions",
+        "ssr",
+        "state-management",
+        "typesafe",
+        "typescript",
+        "url"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:00Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "TanStack",
+      "last_activity": "2025-08-19T06:44:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10854,
+        "forks": 1151,
+        "watchers": 10854,
+        "size_kb": 37401,
+        "language": "TypeScript",
+        "topics": [
+          "framework",
+          "fullstack",
+          "javascript",
+          "react",
+          "route",
+          "router",
+          "routing",
+          "rpc",
+          "search",
+          "searchparams",
+          "server-functions",
+          "ssr",
+          "state-management",
+          "typesafe",
+          "typescript",
+          "url"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.756916+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
