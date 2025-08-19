@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:25:43.023356",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_645665.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_645665",
+    "url": "https://github.com/ecotoneframework/ecotone",
+    "title": "GitHub Repository: ecotone",
+    "description": "Ecotone shifts the focus to the business code. In order to make it happen, enables Message-Driven Architecture with DDD, CQRS, Event Sourcing in PHP.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 543, Language: PHP",
+    "metadata": {
+      "author": "ecotoneframework",
+      "stars": 543,
+      "forks": 23,
+      "language": "PHP",
+      "topics": [
+        "cqrs",
+        "ddd",
+        "ecotone",
+        "event-sourcing",
+        "laravel",
+        "php",
+        "symfony"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T20:07:41Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ecotoneframework",
+      "last_activity": "2025-08-18T20:07:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 543,
+        "forks": 23,
+        "watchers": 543,
+        "size_kb": 6329,
+        "language": "PHP",
+        "topics": [
+          "cqrs",
+          "ddd",
+          "ecotone",
+          "event-sourcing",
+          "laravel",
+          "php",
+          "symfony"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.645672+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
