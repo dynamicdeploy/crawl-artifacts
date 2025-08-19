@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:17.434208",
+    "crawler_type": "github",
+    "filename": "github_20250819_064855_606510.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064855_606510",
+    "url": "https://github.com/shieldfy/API-Security-Checklist",
+    "title": "GitHub Repository: API-Security-Checklist",
+    "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22985, Language: None",
+    "metadata": {
+      "author": "shieldfy",
+      "stars": 22985,
+      "forks": 2656,
+      "language": "en",
+      "topics": [
+        "api",
+        "jwt",
+        "oauth2",
+        "security"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T20:30:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "shieldfy",
+      "last_activity": "2025-08-18T20:30:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22985,
+        "forks": 2656,
+        "watchers": 22985,
+        "size_kb": 711,
+        "language": null,
+        "topics": [
+          "api",
+          "jwt",
+          "oauth2",
+          "security"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:48:55.606513+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
