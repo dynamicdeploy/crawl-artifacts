@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:20:22.277756",
+    "crawler_type": "github",
+    "filename": "github_20250819_051820_933605.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051820_933605",
+    "url": "https://github.com/Code-XYZxyz/real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing",
+    "title": "GitHub Repository: real-time-interferometric-measurement-control-for-photopolymer-additive-manufacturing",
+    "description": "This is a comprehensive MATLAB-based software platform developed for real-time measurement and feedback control of a custom mask-projection photopolymerization based additive manufacturing system (referred as \"ECPL\", i.e., Exposure Controlled Projection Lithography) using a lab-built interferometry (referred as \"ICM&M\", i.e., Interferometric Curing Monitoring and Measurement). A graphical user interface using the graphical user interface development environment (GUIDE) of MATLAB was created to implement the ICM&M method for the ECPL process. The software interfaces with the hardware of the ECPL system’s ultraviolet lamp and DMD, and the ICM&M system’s camera. It was designed to streamline the operation of the ECPL process with the aid of parallel computing that implements online both the ICM&M acquisition and measurement analysis as well as the feedback control method. The application logs the acquired interferogram video data, performs numerical computations for the ICM&M measurement algorithms and control law, saves the real-time data and measurement results for all voxels in the region of interest. Meanwhile, it displays interferogram frames and visualize the photocuring process without a substantial sacrifice in temporal performance of other key functions such as data acquisition and measurement & control analysis. The software could be extended to real-time process measurement and control for other additive manufacturing systems, for example, metal based additive manufacturing aided by in-situ thermal images analysis.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: Matlab",
+    "metadata": {
+      "author": "Code-XYZxyz",
+      "stars": 11,
+      "forks": 4,
+      "language": "Matlab",
+      "topics": [
+        "3d-printing",
+        "additive-manufacturing",
+        "camera",
+        "data-logging",
+        "data-visualization",
+        "feedback-controller",
+        "image-acquisition",
+        "in-situ",
+        "instrument-control",
+        "interferometry",
+        "lithography",
+        "photopolymerization",
+        "process-measurement",
+        "process-monitoring",
+        "real-time-video-streaming"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-08-27T10:59:33Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Code-XYZxyz",
+      "last_activity": "2024-08-27T10:59:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 4,
+        "watchers": 11,
+        "size_kb": 21564,
+        "language": "Matlab",
+        "topics": [
+          "3d-printing",
+          "additive-manufacturing",
+          "camera",
+          "data-logging",
+          "data-visualization",
+          "feedback-controller",
+          "image-acquisition",
+          "in-situ",
+          "instrument-control",
+          "interferometry",
+          "lithography",
+          "photopolymerization",
+          "process-measurement",
+          "process-monitoring",
+          "real-time-video-streaming"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:20.933609+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
