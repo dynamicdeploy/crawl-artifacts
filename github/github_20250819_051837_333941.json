@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:04.630386",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_333941.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_333941",
+    "url": "https://github.com/TomaszKandula/CosmosDbExampleWithCqrs",
+    "title": "GitHub Repository: CosmosDbExampleWithCqrs",
+    "description": "Cosmos DB with CQRS pattern example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7, Language: C#",
+    "metadata": {
+      "author": "TomaszKandula",
+      "stars": 7,
+      "forks": 1,
+      "language": "C#",
+      "topics": [
+        "cosmos-db",
+        "cqrs-pattern",
+        "flexibility",
+        "netcore31",
+        "nosql-databases",
+        "scale",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-09-26T16:42:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "TomaszKandula",
+      "last_activity": "2023-09-26T16:42:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7,
+        "forks": 1,
+        "watchers": 7,
+        "size_kb": 59,
+        "language": "C#",
+        "topics": [
+          "cosmos-db",
+          "cqrs-pattern",
+          "flexibility",
+          "netcore31",
+          "nosql-databases",
+          "scale",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.333947+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
