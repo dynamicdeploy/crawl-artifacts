@@ -1,0 +1,55 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:31:15.825050",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_615254.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_615254",
+    "url": "https://github.com/kaedea/android-mvp-pattern",
+    "title": "GitHub Repository: android-mvp-pattern",
+    "description": "An android simple but clear sample project for MVP pattern, including mvp usage with eventbus. @Deprecated, try google official solution: https://developer.android.com/topic/libraries/architecture/",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 693, Language: Java",
+    "metadata": {
+      "author": "kaedea",
+      "stars": 693,
+      "forks": 235,
+      "language": "Java",
+      "topics": [
+        "android-mvp"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T06:28:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "kaedea",
+      "last_activity": "2025-08-07T06:28:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 693,
+        "forks": 235,
+        "watchers": 693,
+        "size_kb": 7005,
+        "language": "Java",
+        "topics": [
+          "android-mvp"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.615258+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
