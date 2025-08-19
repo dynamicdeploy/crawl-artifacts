@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:41.538630",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_169770.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_169770",
+    "url": "https://github.com/josecuellar/Onion-DDD-Tooling-DotNET",
+    "title": "GitHub Repository: Onion-DDD-Tooling-DotNET",
+    "description": "Example using dotNET for Onion Architecture with DDD & Tooling (FluentValidation, MassTransit, RabbitMQ, MediatR). Using best practices & common best patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 72, Language: C#",
+    "metadata": {
+      "author": "josecuellar",
+      "stars": 72,
+      "forks": 26,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-07-09T00:10:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "josecuellar",
+      "last_activity": "2024-07-09T00:10:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 72,
+        "forks": 26,
+        "watchers": 72,
+        "size_kb": 1655,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.169774+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
