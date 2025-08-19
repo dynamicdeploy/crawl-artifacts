@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:16.940531",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_432818.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_432818",
+    "url": "https://github.com/k-bx/owlcloud",
+    "title": "GitHub Repository: owlcloud",
+    "description": "OwnCloud for owls done via The Microservice Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 236, Language: Haskell",
+    "metadata": {
+      "author": "k-bx",
+      "stars": 236,
+      "forks": 13,
+      "language": "Haskell",
+      "topics": [
+        "haskell",
+        "microservice",
+        "servant"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-02T20:29:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "k-bx",
+      "last_activity": "2025-07-02T20:29:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 236,
+        "forks": 13,
+        "watchers": 236,
+        "size_kb": 35,
+        "language": "Haskell",
+        "topics": [
+          "haskell",
+          "microservice",
+          "servant"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.432835+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
