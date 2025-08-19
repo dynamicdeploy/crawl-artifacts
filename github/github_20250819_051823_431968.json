@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:09.115037",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_431968.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_431968",
+    "url": "https://github.com/Calabonga/Microservice-Template",
+    "title": "GitHub Repository: Microservice-Template",
+    "description": "Templates for microservice architecture. Nimble Microservice Framework contains two modules. The first with OpenIddict and the second without OpenIddict. Templates are built on ASP.NET Core platform with different versions Core3.1, NET6, NET7 and NET8. You can create a new project extremely fast: in Visual Studio, Rider, dotnet CLI.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 277, Language: C#",
+    "metadata": {
+      "author": "Calabonga",
+      "stars": 277,
+      "forks": 55,
+      "language": "C#",
+      "topics": [
+        "arhitecture",
+        "asp",
+        "asp-net-core",
+        "demo",
+        "framework",
+        "microservice",
+        "nimble",
+        "service",
+        "solution",
+        "template",
+        "visual-studio"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-29T20:58:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Calabonga",
+      "last_activity": "2025-07-29T20:58:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 277,
+        "forks": 55,
+        "watchers": 277,
+        "size_kb": 28370,
+        "language": "C#",
+        "topics": [
+          "arhitecture",
+          "asp",
+          "asp-net-core",
+          "demo",
+          "framework",
+          "microservice",
+          "nimble",
+          "service",
+          "solution",
+          "template",
+          "visual-studio"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.431971+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
