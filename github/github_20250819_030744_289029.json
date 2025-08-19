@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:07:49.888757",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_289029.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_289029",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "title": "GitHub Repository: coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 324484, Language: None",
+    "metadata": {
+      "author": "jwasham",
+      "stars": 324484,
+      "forks": 79880,
+      "language": "en",
+      "topics": [
+        "algorithm",
+        "algorithms",
+        "coding-interview",
+        "coding-interviews",
+        "computer-science",
+        "data-structures",
+        "interview",
+        "interview-prep",
+        "interview-preparation",
+        "programming-interviews",
+        "software-engineering",
+        "study-plan"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T01:38:24Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "jwasham",
+      "last_activity": "2025-08-19T01:38:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 324484,
+        "forks": 79880,
+        "watchers": 324484,
+        "size_kb": 22600,
+        "language": null,
+        "topics": [
+          "algorithm",
+          "algorithms",
+          "coding-interview",
+          "coding-interviews",
+          "computer-science",
+          "data-structures",
+          "interview",
+          "interview-prep",
+          "interview-preparation",
+          "programming-interviews",
+          "software-engineering",
+          "study-plan"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.289033+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
