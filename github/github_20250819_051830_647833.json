@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:03.729032",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_647833.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_647833",
+    "url": "https://github.com/miliariadnane/demo-microservices",
+    "title": "GitHub Repository: demo-microservices",
+    "description": "E-commerce platform showcasing microservice architecture with Spring Cloud, Event-Driven Design, and Cloud-Native patterns. Features service discovery, API gateway, distributed tracing, message queuing, and OAuth2 security. Includes complete deployment guides for Docker, Kubernetes, and AWS.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 90, Language: Java",
+    "metadata": {
+      "author": "miliariadnane",
+      "stars": 90,
+      "forks": 37,
+      "language": "Java",
+      "topics": [
+        "amqp",
+        "api-gateway",
+        "apikey-manager",
+        "aws",
+        "aws-eks",
+        "docker",
+        "docker-compose",
+        "eureka-server",
+        "feign-client",
+        "git-actions",
+        "grafana-prometheus",
+        "k8s",
+        "oauth2-and-keycloak",
+        "postgresql-database",
+        "rabbitmq",
+        "resilience4j-circuitbreaker",
+        "service-discovery",
+        "zipkin-sleuth"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-05T12:22:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "miliariadnane",
+      "last_activity": "2025-08-05T12:22:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 90,
+        "forks": 37,
+        "watchers": 90,
+        "size_kb": 1473,
+        "language": "Java",
+        "topics": [
+          "amqp",
+          "api-gateway",
+          "apikey-manager",
+          "aws",
+          "aws-eks",
+          "docker",
+          "docker-compose",
+          "eureka-server",
+          "feign-client",
+          "git-actions",
+          "grafana-prometheus",
+          "k8s",
+          "oauth2-and-keycloak",
+          "postgresql-database",
+          "rabbitmq",
+          "resilience4j-circuitbreaker",
+          "service-discovery",
+          "zipkin-sleuth"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.647836+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
