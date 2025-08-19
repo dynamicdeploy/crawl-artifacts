@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:31.223695",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_678979.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_678979",
+    "url": "https://github.com/zhashkevych/go-clean-architecture",
+    "title": "GitHub Repository: go-clean-architecture",
+    "description": "👨‍💻 REST API example, built by following Uncle Bob’s clean architecture principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 733, Language: Go",
+    "metadata": {
+      "author": "zhashkevych",
+      "stars": 733,
+      "forks": 103,
+      "language": "Go",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "clean-code",
+        "docker",
+        "docker-compose",
+        "go",
+        "golang",
+        "golang-api",
+        "golang-api-examples",
+        "jwt",
+        "mongo",
+        "mongodb",
+        "rest-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T15:33:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "zhashkevych",
+      "last_activity": "2025-08-13T15:33:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 733,
+        "forks": 103,
+        "watchers": 733,
+        "size_kb": 73,
+        "language": "Go",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "clean-code",
+          "docker",
+          "docker-compose",
+          "go",
+          "golang",
+          "golang-api",
+          "golang-api-examples",
+          "jwt",
+          "mongo",
+          "mongodb",
+          "rest-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.678983+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
