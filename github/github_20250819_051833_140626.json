@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:27:59.923298",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_140626.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_140626",
+    "url": "https://github.com/bastean/codexgo",
+    "title": "GitHub Repository: codexgo",
+    "description": "Example CRUD project applying Hexagonal Architecture, DDD, EDA, CQRS, BDD, CI, and more... in Go.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 85, Language: Go",
+    "metadata": {
+      "author": "bastean",
+      "stars": 85,
+      "forks": 8,
+      "language": "Go",
+      "topics": [
+        "badgerdb",
+        "codexgo",
+        "fomantic-ui",
+        "gin",
+        "go",
+        "mongodb",
+        "rabbitmq",
+        "templ"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-28T01:27:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bastean",
+      "last_activity": "2025-07-28T01:27:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 85,
+        "forks": 8,
+        "watchers": 85,
+        "size_kb": 5703,
+        "language": "Go",
+        "topics": [
+          "badgerdb",
+          "codexgo",
+          "fomantic-ui",
+          "gin",
+          "go",
+          "mongodb",
+          "rabbitmq",
+          "templ"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.140631+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
