@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:49:05.780034",
+    "crawler_type": "github",
+    "filename": "github_20250819_064855_605499.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064855_605499",
+    "url": "https://github.com/trailofbits/algo",
+    "title": "GitHub Repository: algo",
+    "description": "Set up a personal VPN in the cloud",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 29669, Language: Python",
+    "metadata": {
+      "author": "trailofbits",
+      "stars": 29669,
+      "forks": 2353,
+      "language": "Python",
+      "topics": [
+        "ansible",
+        "encryption",
+        "ikev2",
+        "ipsec",
+        "security",
+        "ssh-tunnel",
+        "strongswan",
+        "vpn",
+        "vpn-client",
+        "vpn-server",
+        "wireguard"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:44:53Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "trailofbits",
+      "last_activity": "2025-08-19T06:44:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 29669,
+        "forks": 2353,
+        "watchers": 29669,
+        "size_kb": 3590,
+        "language": "Python",
+        "topics": [
+          "ansible",
+          "encryption",
+          "ikev2",
+          "ipsec",
+          "security",
+          "ssh-tunnel",
+          "strongswan",
+          "vpn",
+          "vpn-client",
+          "vpn-server",
+          "wireguard"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:48:55.605503+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
