@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T20:08:00.345844",
+    "crawler_type": "github",
+    "filename": "github_20250819_030744_290362.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_030744_290362",
+    "url": "https://github.com/pytorch/executorch",
+    "title": "GitHub Repository: executorch",
+    "description": "On-device AI across mobile, embedded and edge for PyTorch",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3150, Language: Python",
+    "metadata": {
+      "author": "pytorch",
+      "stars": 3150,
+      "forks": 647,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "embedded",
+        "gpu",
+        "machine-learning",
+        "mobile",
+        "neural-network",
+        "tensor"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:07:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "pytorch",
+      "last_activity": "2025-08-19T03:07:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3150,
+        "forks": 647,
+        "watchers": 3150,
+        "size_kb": 249392,
+        "language": "Python",
+        "topics": [
+          "deep-learning",
+          "embedded",
+          "gpu",
+          "machine-learning",
+          "mobile",
+          "neural-network",
+          "tensor"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T03:07:44.290371+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
