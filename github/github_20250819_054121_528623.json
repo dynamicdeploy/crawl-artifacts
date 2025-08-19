@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:39.052692",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_528623.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_528623",
+    "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
+    "title": "GitHub Repository: Summer2026-Internships",
+    "description": "Collection of Summer 2026 tech internships!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 40095, Language: None",
+    "metadata": {
+      "author": "SimplifyJobs",
+      "stars": 40095,
+      "forks": 3003,
+      "language": "en",
+      "topics": [
+        "internships",
+        "interview-preparation",
+        "jobs",
+        "university"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:36:47Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "SimplifyJobs",
+      "last_activity": "2025-08-19T05:36:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 40095,
+        "forks": 3003,
+        "watchers": 40095,
+        "size_kb": 424196,
+        "language": null,
+        "topics": [
+          "internships",
+          "interview-preparation",
+          "jobs",
+          "university"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.528629+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
