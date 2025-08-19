@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:19.872473",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_175696.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_175696",
+    "url": "https://github.com/ClearMeasure/onion-architecture-distributed",
+    "title": "GitHub Repository: onion-architecture-distributed",
+    "description": "Onion Architecture for distributed systems using NServiceBus",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: PowerShell",
+    "metadata": {
+      "author": "ClearMeasure",
+      "stars": 11,
+      "forks": 3,
+      "language": "PowerShell",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-11-13T00:59:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ClearMeasure",
+      "last_activity": "2022-11-13T00:59:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 3,
+        "watchers": 11,
+        "size_kb": 21444,
+        "language": "PowerShell",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.175701+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
