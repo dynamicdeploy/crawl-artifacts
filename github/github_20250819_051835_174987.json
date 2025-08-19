@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:14.838993",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_174987.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_174987",
+    "url": "https://github.com/cihatsolak/marketify-mini-ecommerce",
+    "title": "GitHub Repository: marketify-mini-ecommerce",
+    "description": "This project is a web API for an e-commerce application built using the Net7 Onion Architecture. It is designed to work as the backend for an Angular client application.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13, Language: C#",
+    "metadata": {
+      "author": "cihatsolak",
+      "stars": 13,
+      "forks": 3,
+      "language": "C#",
+      "topics": [
+        "angular15",
+        "e-commerce-project",
+        "entity-framework-core",
+        "net7",
+        "onion-architecture",
+        "postgresql"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T17:39:03Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "cihatsolak",
+      "last_activity": "2025-08-13T17:39:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13,
+        "forks": 3,
+        "watchers": 13,
+        "size_kb": 329,
+        "language": "C#",
+        "topics": [
+          "angular15",
+          "e-commerce-project",
+          "entity-framework-core",
+          "net7",
+          "onion-architecture",
+          "postgresql"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.174991+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
