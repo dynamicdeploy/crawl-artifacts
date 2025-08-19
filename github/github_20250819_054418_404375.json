@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:28.058005",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_404375.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_404375",
+    "url": "https://github.com/ChatGPTNextWeb/NextChat",
+    "title": "GitHub Repository: NextChat",
+    "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 85519, Language: TypeScript",
+    "metadata": {
+      "author": "ChatGPTNextWeb",
+      "stars": 85519,
+      "forks": 61077,
+      "language": "TypeScript",
+      "topics": [
+        "calclaude",
+        "chatgpt",
+        "claude",
+        "cross-platform",
+        "desktop",
+        "fe",
+        "gemini",
+        "gemini-pro",
+        "gemini-server",
+        "gemini-ultra",
+        "gpt-4o",
+        "groq",
+        "nextjs",
+        "ollama",
+        "react",
+        "tauri",
+        "tauri-app",
+        "vercel",
+        "webui"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:26:57Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ChatGPTNextWeb",
+      "last_activity": "2025-08-19T05:26:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 85519,
+        "forks": 61077,
+        "watchers": 85519,
+        "size_kb": 20624,
+        "language": "TypeScript",
+        "topics": [
+          "calclaude",
+          "chatgpt",
+          "claude",
+          "cross-platform",
+          "desktop",
+          "fe",
+          "gemini",
+          "gemini-pro",
+          "gemini-server",
+          "gemini-ultra",
+          "gpt-4o",
+          "groq",
+          "nextjs",
+          "ollama",
+          "react",
+          "tauri",
+          "tauri-app",
+          "vercel",
+          "webui"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.404379+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
