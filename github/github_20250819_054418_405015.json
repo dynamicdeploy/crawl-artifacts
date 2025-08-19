@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:33.614596",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_405015.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_405015",
+    "url": "https://github.com/PostHog/posthog",
+    "title": "GitHub Repository: posthog",
+    "description": "🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 28454, Language: Python",
+    "metadata": {
+      "author": "PostHog",
+      "stars": 28454,
+      "forks": 1862,
+      "language": "Python",
+      "topics": [
+        "ab-testing",
+        "ai-analytics",
+        "analytics",
+        "cdp",
+        "data-warehouse",
+        "experiments",
+        "feature-flags",
+        "javascript",
+        "product-analytics",
+        "python",
+        "react",
+        "session-replay",
+        "surveys",
+        "typescript",
+        "web-analytics"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:27:46Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "PostHog",
+      "last_activity": "2025-08-19T04:27:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 28454,
+        "forks": 1862,
+        "watchers": 28454,
+        "size_kb": 3067407,
+        "language": "Python",
+        "topics": [
+          "ab-testing",
+          "ai-analytics",
+          "analytics",
+          "cdp",
+          "data-warehouse",
+          "experiments",
+          "feature-flags",
+          "javascript",
+          "product-analytics",
+          "python",
+          "react",
+          "session-replay",
+          "surveys",
+          "typescript",
+          "web-analytics"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.405019+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
