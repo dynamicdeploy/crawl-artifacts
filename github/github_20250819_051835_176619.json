@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:24.518646",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_176619.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_176619",
+    "url": "https://github.com/fdeniz07/ETicaretAPI",
+    "title": "GitHub Repository: ETicaretAPI",
+    "description": "This project is a E-Commerce Project. ASP.NET Core 6 + Angular + Onion Architecture. - Trainer : Gencay Yildiz",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10, Language: C#",
+    "metadata": {
+      "author": "fdeniz07",
+      "stars": 10,
+      "forks": 5,
+      "language": "C#",
+      "topics": [
+        "asp-net-core-6",
+        "asp-net-core-identity",
+        "asynchronous-programming",
+        "azure-blob-storage",
+        "code-first",
+        "cqrs-pattern",
+        "docker",
+        "entity-framework-core",
+        "fluent-validation",
+        "generic-repository",
+        "jwt-authentication",
+        "mediatr",
+        "onion-architecture",
+        "seq",
+        "serilog",
+        "social-logins"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-01-14T21:32:56Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "fdeniz07",
+      "last_activity": "2025-01-14T21:32:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10,
+        "forks": 5,
+        "watchers": 10,
+        "size_kb": 2499,
+        "language": "C#",
+        "topics": [
+          "asp-net-core-6",
+          "asp-net-core-identity",
+          "asynchronous-programming",
+          "azure-blob-storage",
+          "code-first",
+          "cqrs-pattern",
+          "docker",
+          "entity-framework-core",
+          "fluent-validation",
+          "generic-repository",
+          "jwt-authentication",
+          "mediatr",
+          "onion-architecture",
+          "seq",
+          "serilog",
+          "social-logins"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.176624+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
