@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:35.970219",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_653051.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_653051",
+    "url": "https://github.com/chop-dbhi/eda",
+    "title": "GitHub Repository: eda",
+    "description": "eda is a library for implementing event-driven architectures.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 32, Language: Go",
+    "metadata": {
+      "author": "chop-dbhi",
+      "stars": 32,
+      "forks": 3,
+      "language": "Go",
+      "topics": [
+        "cqrs",
+        "domain-driven-design",
+        "event-driven",
+        "event-driven-architecture",
+        "event-sourcing",
+        "microservices",
+        "publish-subscribe"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-01-10T05:46:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "chop-dbhi",
+      "last_activity": "2024-01-10T05:46:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 32,
+        "forks": 3,
+        "watchers": 32,
+        "size_kb": 77,
+        "language": "Go",
+        "topics": [
+          "cqrs",
+          "domain-driven-design",
+          "event-driven",
+          "event-driven-architecture",
+          "event-sourcing",
+          "microservices",
+          "publish-subscribe"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.653055+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
