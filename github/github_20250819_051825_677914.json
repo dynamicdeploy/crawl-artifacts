@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:22:23.957712",
+    "crawler_type": "github",
+    "filename": "github_20250819_051825_677914.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051825_677914",
+    "url": "https://github.com/nalexn/clean-architecture-swiftui",
+    "title": "GitHub Repository: clean-architecture-swiftui",
+    "description": "SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6322, Language: Swift",
+    "metadata": {
+      "author": "nalexn",
+      "stars": 6322,
+      "forks": 778,
+      "language": "Swift",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "cleanarchitecture",
+        "demo",
+        "example-project",
+        "interactor",
+        "mvvm",
+        "sample",
+        "swift",
+        "swift-data",
+        "swift-testing",
+        "swiftdata",
+        "swiftui",
+        "swiftui-example",
+        "viewinspector"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T13:48:27Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "nalexn",
+      "last_activity": "2025-08-18T13:48:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6322,
+        "forks": 778,
+        "watchers": 6322,
+        "size_kb": 465,
+        "language": "Swift",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "cleanarchitecture",
+          "demo",
+          "example-project",
+          "interactor",
+          "mvvm",
+          "sample",
+          "swift",
+          "swift-data",
+          "swift-testing",
+          "swiftdata",
+          "swiftui",
+          "swiftui-example",
+          "viewinspector"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:25.677932+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
