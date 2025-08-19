@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:48:08.969707",
+    "crawler_type": "github",
+    "filename": "github_20250819_064753_028508.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064753_028508",
+    "url": "https://github.com/NervJS/taro",
+    "title": "GitHub Repository: taro",
+    "description": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 36822, Language: TypeScript",
+    "metadata": {
+      "author": "NervJS",
+      "stars": 36822,
+      "forks": 4861,
+      "language": "TypeScript",
+      "topics": [
+        "javascript",
+        "jquery",
+        "nerv",
+        "nervjs",
+        "react",
+        "react-native",
+        "reactjs",
+        "taro",
+        "typescript",
+        "vue",
+        "vue3",
+        "wechat",
+        "wechat-mini-program",
+        "weixin",
+        "wxapp"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:22:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "NervJS",
+      "last_activity": "2025-08-19T06:22:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 36822,
+        "forks": 4861,
+        "watchers": 36822,
+        "size_kb": 1584662,
+        "language": "TypeScript",
+        "topics": [
+          "javascript",
+          "jquery",
+          "nerv",
+          "nervjs",
+          "react",
+          "react-native",
+          "reactjs",
+          "taro",
+          "typescript",
+          "vue",
+          "vue3",
+          "wechat",
+          "wechat-mini-program",
+          "weixin",
+          "wxapp"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:47:53.028512+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
