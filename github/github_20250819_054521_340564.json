@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:45:41.298154",
+    "crawler_type": "github",
+    "filename": "github_20250819_054521_340564.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054521_340564",
+    "url": "https://github.com/keepassxreboot/keepassxc",
+    "title": "GitHub Repository: keepassxc",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 23930, Language: C++",
+    "metadata": {
+      "author": "keepassxreboot",
+      "stars": 23930,
+      "forks": 1607,
+      "language": "C++",
+      "topics": [
+        "cross-platform",
+        "hacktoberfest",
+        "keepass",
+        "keepassxc",
+        "linux",
+        "macos",
+        "password",
+        "password-manager",
+        "privacy",
+        "security",
+        "windows",
+        "yubikey"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:47:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "keepassxreboot",
+      "last_activity": "2025-08-19T04:47:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 23930,
+        "forks": 1607,
+        "watchers": 23930,
+        "size_kb": 72645,
+        "language": "C++",
+        "topics": [
+          "cross-platform",
+          "hacktoberfest",
+          "keepass",
+          "keepassxc",
+          "linux",
+          "macos",
+          "password",
+          "password-manager",
+          "privacy",
+          "security",
+          "windows",
+          "yubikey"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:45:21.340567+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
