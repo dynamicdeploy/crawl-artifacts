@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:35.594552",
+    "crawler_type": "github",
+    "filename": "github_20250819_054418_405228.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054418_405228",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "title": "GitHub Repository: CopilotKit",
+    "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22497, Language: TypeScript",
+    "metadata": {
+      "author": "CopilotKit",
+      "stars": 22497,
+      "forks": 3036,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "assistant",
+        "copilot",
+        "copilot-chat",
+        "hacktoberfest",
+        "langchain",
+        "langgraph",
+        "llm",
+        "nextjs",
+        "open-source",
+        "react",
+        "reactjs",
+        "ts",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:26:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "CopilotKit",
+      "last_activity": "2025-08-19T05:26:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22497,
+        "forks": 3036,
+        "watchers": 22497,
+        "size_kb": 639710,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "ai-agent",
+          "ai-assistant",
+          "assistant",
+          "copilot",
+          "copilot-chat",
+          "hacktoberfest",
+          "langchain",
+          "langgraph",
+          "llm",
+          "nextjs",
+          "open-source",
+          "react",
+          "reactjs",
+          "ts",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:44:18.405232+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
