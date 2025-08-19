@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:28:18.570822",
+    "crawler_type": "github",
+    "filename": "github_20250819_051833_143949.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051833_143949",
+    "url": "https://github.com/serfer2/flask-hexagonal-architecture-api",
+    "title": "GitHub Repository: flask-hexagonal-architecture-api",
+    "description": "Simple example of Python Flask API following SOLID and Hexagonal Architecture principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 60, Language: Python",
+    "metadata": {
+      "author": "serfer2",
+      "stars": 60,
+      "forks": 8,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-04-21T11:31:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "serfer2",
+      "last_activity": "2025-04-21T11:31:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 60,
+        "forks": 8,
+        "watchers": 60,
+        "size_kb": 280,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:33.143953+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
