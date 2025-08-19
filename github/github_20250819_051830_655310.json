@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:26:47.340915",
+    "crawler_type": "github",
+    "filename": "github_20250819_051830_655310.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051830_655310",
+    "url": "https://github.com/jaimeirazabal1/Proyecto-Sistema-de-Pedidos-con-Event-Driven-Architecture",
+    "title": "GitHub Repository: Proyecto-Sistema-de-Pedidos-con-Event-Driven-Architecture",
+    "description": "## Para mis estudiantes  Este proyecto es un ejemplo práctico de cómo implementar una **arquitectura basada en eventos** en el mundo real. Lo he diseñado pensando en que aprendan conceptos avanzados de backend mientras desarrollan una aplicación que podrían encontrar en cualquier empresa.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21, Language: TypeScript",
+    "metadata": {
+      "author": "jaimeirazabal1",
+      "stars": 21,
+      "forks": 9,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-12T15:18:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jaimeirazabal1",
+      "last_activity": "2025-08-12T15:18:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21,
+        "forks": 9,
+        "watchers": 21,
+        "size_kb": 23,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:30.655332+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
