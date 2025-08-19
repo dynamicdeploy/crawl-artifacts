@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:21:39.713086",
+    "crawler_type": "github",
+    "filename": "github_20250819_051823_428422.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051823_428422",
+    "url": "https://github.com/madmous/madClones",
+    "title": "GitHub Repository: madClones",
+    "description": "A collection of frameworks that I love with a strong focus on clean code, testing, software architecture/design and devops.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 509, Language: JavaScript",
+    "metadata": {
+      "author": "madmous",
+      "stars": 509,
+      "forks": 65,
+      "language": "JavaScript",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "expressjs",
+        "javascript",
+        "kubernetes",
+        "microservices",
+        "microservices-architecture",
+        "mongodb",
+        "nodejs",
+        "react",
+        "redux",
+        "trello-clone"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-15T06:20:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "madmous",
+      "last_activity": "2025-06-15T06:20:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 509,
+        "forks": 65,
+        "watchers": 509,
+        "size_kb": 6231,
+        "language": "JavaScript",
+        "topics": [
+          "docker",
+          "docker-compose",
+          "expressjs",
+          "javascript",
+          "kubernetes",
+          "microservices",
+          "microservices-architecture",
+          "mongodb",
+          "nodejs",
+          "react",
+          "redux",
+          "trello-clone"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:23.428425+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
