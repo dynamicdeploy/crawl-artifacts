@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T23:46:04.670436",
+    "crawler_type": "github",
+    "filename": "github_20250819_064517_758173.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_064517_758173",
+    "url": "https://github.com/robusta-dev/holmesgpt",
+    "title": "GitHub Repository: holmesgpt",
+    "description": "Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1184, Language: Python",
+    "metadata": {
+      "author": "robusta-dev",
+      "stars": 1184,
+      "forks": 146,
+      "language": "Python",
+      "topics": [
+        "aiops",
+        "chatbot",
+        "chatops",
+        "devops",
+        "devops-tools",
+        "incident",
+        "incident-management",
+        "incident-response",
+        "jira",
+        "kubernetes",
+        "llm",
+        "llm-agent",
+        "llm-framework",
+        "llms",
+        "monitoring",
+        "observability",
+        "prometheus",
+        "site-reliability-engineering",
+        "slack",
+        "sre"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:42:56Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "robusta-dev",
+      "last_activity": "2025-08-19T06:42:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1184,
+        "forks": 146,
+        "watchers": 1184,
+        "size_kb": 27551,
+        "language": "Python",
+        "topics": [
+          "aiops",
+          "chatbot",
+          "chatops",
+          "devops",
+          "devops-tools",
+          "incident",
+          "incident-management",
+          "incident-response",
+          "jira",
+          "kubernetes",
+          "llm",
+          "llm-agent",
+          "llm-framework",
+          "llms",
+          "monitoring",
+          "observability",
+          "prometheus",
+          "site-reliability-engineering",
+          "slack",
+          "sre"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T06:45:17.758175+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
