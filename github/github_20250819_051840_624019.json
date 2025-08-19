@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:32:09.485712",
+    "crawler_type": "github",
+    "filename": "github_20250819_051840_624019.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051840_624019",
+    "url": "https://github.com/hasura/3factor",
+    "title": "GitHub Repository: 3factor",
+    "description": "3factor app is an architecture pattern for modern fullstack apps. 3factor apps are fast to build and are highly scalable.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 182, Language: SCSS",
+    "metadata": {
+      "author": "hasura",
+      "stars": 182,
+      "forks": 17,
+      "language": "SCSS",
+      "topics": [
+        "3factor",
+        "architecture-pattern",
+        "async-serverless",
+        "event-handlers",
+        "realtime-graphql"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-02-04T02:08:48Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hasura",
+      "last_activity": "2025-02-04T02:08:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 182,
+        "forks": 17,
+        "watchers": 182,
+        "size_kb": 208,
+        "language": "SCSS",
+        "topics": [
+          "3factor",
+          "architecture-pattern",
+          "async-serverless",
+          "event-handlers",
+          "realtime-graphql"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:40.624023+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
