@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:44:04.850248",
+    "crawler_type": "github",
+    "filename": "github_20250819_054348_843216.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054348_843216",
+    "url": "https://github.com/fastapi/fastapi",
+    "title": "GitHub Repository: fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 88517, Language: Python",
+    "metadata": {
+      "author": "fastapi",
+      "stars": 88517,
+      "forks": 7748,
+      "language": "Python",
+      "topics": [
+        "api",
+        "async",
+        "asyncio",
+        "fastapi",
+        "framework",
+        "json",
+        "json-schema",
+        "openapi",
+        "openapi3",
+        "pydantic",
+        "python",
+        "python-types",
+        "python3",
+        "redoc",
+        "rest",
+        "starlette",
+        "swagger",
+        "swagger-ui",
+        "uvicorn",
+        "web"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:33:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "fastapi",
+      "last_activity": "2025-08-19T05:33:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 88517,
+        "forks": 7748,
+        "watchers": 88517,
+        "size_kb": 28008,
+        "language": "Python",
+        "topics": [
+          "api",
+          "async",
+          "asyncio",
+          "fastapi",
+          "framework",
+          "json",
+          "json-schema",
+          "openapi",
+          "openapi3",
+          "pydantic",
+          "python",
+          "python-types",
+          "python3",
+          "redoc",
+          "rest",
+          "starlette",
+          "swagger",
+          "swagger-ui",
+          "uvicorn",
+          "web"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:43:48.843228+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
