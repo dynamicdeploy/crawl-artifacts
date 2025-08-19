@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:46:21.516644",
+    "crawler_type": "github",
+    "filename": "github_20250819_054602_765745.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054602_765745",
+    "url": "https://github.com/LeeeSe/MessAuto",
+    "title": "GitHub Repository: MessAuto",
+    "description": "自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1516, Language: Rust",
+    "metadata": {
+      "author": "LeeeSe",
+      "stars": 1516,
+      "forks": 85,
+      "language": "Rust",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:45:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "LeeeSe",
+      "last_activity": "2025-08-19T05:45:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1516,
+        "forks": 85,
+        "watchers": 1516,
+        "size_kb": 15551,
+        "language": "Rust",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:46:02.765748+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
