@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:42:29.549777",
+    "crawler_type": "github",
+    "filename": "github_20250819_054147_928639.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054147_928639",
+    "url": "https://github.com/crewAIInc/crewAI-tools",
+    "title": "GitHub Repository: crewAI-tools",
+    "description": "Extend the capabilities of your CrewAI agents with Tools",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1207, Language: Python",
+    "metadata": {
+      "author": "crewAIInc",
+      "stars": 1207,
+      "forks": 434,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "aiagents",
+        "crewai",
+        "crewai-tools"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:41:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "crewAIInc",
+      "last_activity": "2025-08-19T05:41:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1207,
+        "forks": 434,
+        "watchers": 1207,
+        "size_kb": 5576,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "aiagents",
+          "crewai",
+          "crewai-tools"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:47.928642+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
