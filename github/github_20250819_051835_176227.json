@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:29:22.677443",
+    "crawler_type": "github",
+    "filename": "github_20250819_051835_176227.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051835_176227",
+    "url": "https://github.com/snebjorn/mvc-onion-template",
+    "title": "GitHub Repository: mvc-onion-template",
+    "description": "MVC template using Onion architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10, Language: JavaScript",
+    "metadata": {
+      "author": "snebjorn",
+      "stars": 10,
+      "forks": 7,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2017-02-22T17:50:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "snebjorn",
+      "last_activity": "2017-02-22T17:50:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10,
+        "forks": 7,
+        "watchers": 10,
+        "size_kb": 20057,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:35.176231+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
