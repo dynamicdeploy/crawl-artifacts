@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:24.421709",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_526525.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_526525",
+    "url": "https://github.com/llvm/llvm-project",
+    "title": "GitHub Repository: llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 34023, Language: LLVM",
+    "metadata": {
+      "author": "llvm",
+      "stars": 34023,
+      "forks": 14774,
+      "language": "LLVM",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:40:15Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "llvm",
+      "last_activity": "2025-08-19T05:40:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 34023,
+        "forks": 14774,
+        "watchers": 34023,
+        "size_kb": 2649238,
+        "language": "LLVM",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.526531+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
