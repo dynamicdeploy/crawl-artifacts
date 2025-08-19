@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:30:10.588725",
+    "crawler_type": "github",
+    "filename": "github_20250819_051837_335657.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_051837_335657",
+    "url": "https://github.com/noxz-dev/osm-cqrs",
+    "title": "GitHub Repository: osm-cqrs",
+    "description": "Example Architecture which applies the CQRS Pattern to geospatial data (Open Street Maps)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 4, Language: Jupyter Notebook",
+    "metadata": {
+      "author": "noxz-dev",
+      "stars": 4,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-02-28T14:08:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "noxz-dev",
+      "last_activity": "2023-02-28T14:08:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 4,
+        "forks": 0,
+        "watchers": 4,
+        "size_kb": 27939,
+        "language": "Jupyter Notebook",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-19T05:18:37.335669+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
