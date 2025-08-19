@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-18T22:41:36.289635",
+    "crawler_type": "github",
+    "filename": "github_20250819_054121_528217.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250819_054121_528217",
+    "url": "https://github.com/kestra-io/kestra",
+    "title": "GitHub Repository: kestra",
+    "description": ":zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 20321, Language: Java",
+    "metadata": {
+      "author": "kestra-io",
+      "stars": 20321,
+      "forks": 1710,
+      "language": "Java",
+      "topics": [
+        "automation",
+        "data-orchestration",
+        "devops",
+        "high-availability",
+        "infrastructure-as-code",
+        "java",
+        "low-code",
+        "lowcode",
+        "orchestration",
+        "pipeline",
+        "pipeline-as-code",
+        "workflow"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T05:37:04Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "kestra-io",
+      "last_activity": "2025-08-19T05:37:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 20321,
+        "forks": 1710,
+        "watchers": 20321,
+        "size_kb": 71915,
+        "language": "Java",
+        "topics": [
+          "automation",
+          "data-orchestration",
+          "devops",
+          "high-availability",
+          "infrastructure-as-code",
+          "java",
+          "low-code",
+          "lowcode",
+          "orchestration",
+          "pipeline",
+          "pipeline-as-code",
+          "workflow"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-19T05:41:21.528221+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
