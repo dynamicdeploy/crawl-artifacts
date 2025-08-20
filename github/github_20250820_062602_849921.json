@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:16.683952",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_849921.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_849921",
+    "url": "https://github.com/jdomenechb/rust-ddd-example",
+    "title": "GitHub Repository: rust-ddd-example",
+    "description": "A Domain Driven Design example application in Rust.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 270, Language: Rust",
+    "metadata": {
+      "author": "jdomenechb",
+      "stars": 270,
+      "forks": 23,
+      "language": "Rust",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T16:56:23Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jdomenechb",
+      "last_activity": "2025-08-13T16:56:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 270,
+        "forks": 23,
+        "watchers": 270,
+        "size_kb": 52,
+        "language": "Rust",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.849925+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
