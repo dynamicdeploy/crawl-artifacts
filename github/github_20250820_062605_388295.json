@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:08.985302",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_388295.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_388295",
+    "url": "https://github.com/metao1/microservice-online-store",
+    "title": "GitHub Repository: microservice-online-store",
+    "description": "Microservices online store is an e-commerce web application using microservice and event-driven architecture.  Techstack: Spring boot, React, Kafka",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 23, Language: Java",
+    "metadata": {
+      "author": "metao1",
+      "stars": 23,
+      "forks": 5,
+      "language": "Java",
+      "topics": [
+        "ecommerce",
+        "event-driven",
+        "java",
+        "kafka",
+        "microservice",
+        "reactjs",
+        "springboot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-28T22:12:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "metao1",
+      "last_activity": "2025-07-28T22:12:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 23,
+        "forks": 5,
+        "watchers": 23,
+        "size_kb": 17572,
+        "language": "Java",
+        "topics": [
+          "ecommerce",
+          "event-driven",
+          "java",
+          "kafka",
+          "microservice",
+          "reactjs",
+          "springboot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.388299+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
