@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:23.863195",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_869394.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_869394",
+    "url": "https://github.com/go-kratos/kratos",
+    "title": "GitHub Repository: kratos",
+    "description": "Your ultimate Go microservices framework for the cloud-native era.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 24739, Language: Go",
+    "metadata": {
+      "author": "go-kratos",
+      "stars": 24739,
+      "forks": 4101,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "architecture",
+        "cloud-native",
+        "framework",
+        "generate",
+        "go",
+        "golang",
+        "grpc",
+        "http",
+        "kratos",
+        "mcp",
+        "microservice",
+        "microservices",
+        "protobuf"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T00:40:40Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "go-kratos",
+      "last_activity": "2025-08-20T00:40:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 24739,
+        "forks": 4101,
+        "watchers": 24739,
+        "size_kb": 9356,
+        "language": "Go",
+        "topics": [
+          "ai",
+          "architecture",
+          "cloud-native",
+          "framework",
+          "generate",
+          "go",
+          "golang",
+          "grpc",
+          "http",
+          "kratos",
+          "mcp",
+          "microservice",
+          "microservices",
+          "protobuf"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.869398+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
