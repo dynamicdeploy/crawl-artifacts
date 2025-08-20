@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:31:47.659860",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_207950.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_207950",
+    "url": "https://github.com/stephanhoekstra/clean-architecture",
+    "title": "GitHub Repository: clean-architecture",
+    "description": "Implementation example of \"clean architecture\" in .Net",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 89, Language: C#",
+    "metadata": {
+      "author": "stephanhoekstra",
+      "stars": 89,
+      "forks": 25,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-12-29T03:14:56Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stephanhoekstra",
+      "last_activity": "2024-12-29T03:14:56Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 89,
+        "forks": 25,
+        "watchers": 89,
+        "size_kb": 5632,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.207954+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
