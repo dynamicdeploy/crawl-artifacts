@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:26.713221",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_841721.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_841721",
+    "url": "https://github.com/ddd-by-examples/library",
+    "title": "GitHub Repository: library",
+    "description": "A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5409, Language: Java",
+    "metadata": {
+      "author": "ddd-by-examples",
+      "stars": 5409,
+      "forks": 785,
+      "language": "Java",
+      "topics": [
+        "aggregate",
+        "aggregate-root",
+        "archunit",
+        "c4",
+        "crud",
+        "ddd",
+        "ddd-architecture",
+        "domain-driven-design",
+        "event-storming",
+        "events",
+        "functions",
+        "hexagonal-architecture",
+        "ports-and-adapters",
+        "spring",
+        "vavr"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T18:25:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ddd-by-examples",
+      "last_activity": "2025-08-18T18:25:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5409,
+        "forks": 785,
+        "watchers": 5409,
+        "size_kb": 48023,
+        "language": "Java",
+        "topics": [
+          "aggregate",
+          "aggregate-root",
+          "archunit",
+          "c4",
+          "crud",
+          "ddd",
+          "ddd-architecture",
+          "domain-driven-design",
+          "event-storming",
+          "events",
+          "functions",
+          "hexagonal-architecture",
+          "ports-and-adapters",
+          "spring",
+          "vavr"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.841725+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
