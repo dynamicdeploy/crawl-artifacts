@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:29:52.410653",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_873724.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_873724",
+    "url": "https://github.com/eventuate-local/eventuate-local",
+    "title": "GitHub Repository: eventuate-local",
+    "description": "The on premise, open source version of Eventuate, which is a platform for developing transactional business applications that use the microservice architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 812, Language: Java",
+    "metadata": {
+      "author": "eventuate-local",
+      "stars": 812,
+      "forks": 208,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-28T04:56:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "eventuate-local",
+      "last_activity": "2025-07-28T04:56:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 812,
+        "forks": 208,
+        "watchers": 812,
+        "size_kb": 3797,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.873729+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
