@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:22.022382",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_869198.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_869198",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "title": "GitHub Repository: system-design",
+    "description": "Learn how to design systems at scale and prepare for system design interviews",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 37507, Language: None",
+    "metadata": {
+      "author": "karanpratapsingh",
+      "stars": 37507,
+      "forks": 4513,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "distributed-systems",
+        "engineering",
+        "interview",
+        "interview-preparation",
+        "microservices",
+        "scalability",
+        "system-design",
+        "system-design-interview",
+        "tech"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T06:19:50Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "karanpratapsingh",
+      "last_activity": "2025-08-20T06:19:50Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 37507,
+        "forks": 4513,
+        "watchers": 37507,
+        "size_kb": 5672,
+        "language": null,
+        "topics": [
+          "architecture",
+          "distributed-systems",
+          "engineering",
+          "interview",
+          "interview-preparation",
+          "microservices",
+          "scalability",
+          "system-design",
+          "system-design-interview",
+          "tech"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.869204+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
