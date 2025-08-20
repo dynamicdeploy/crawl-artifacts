@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:44.869761",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_846657.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_846657",
+    "url": "https://github.com/dddshelf/last-wishes",
+    "title": "GitHub Repository: last-wishes",
+    "description": "Last Wishes is a PHP application written following Domain-Driven Design approach. It's one of the sample applications where you can check the concepts explained in the \"Domain-Driven Design in PHP\" book.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 660, Language: PHP",
+    "metadata": {
+      "author": "dddshelf",
+      "stars": 660,
+      "forks": 117,
+      "language": "PHP",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-27T14:40:10Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dddshelf",
+      "last_activity": "2025-07-27T14:40:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 660,
+        "forks": 117,
+        "watchers": 660,
+        "size_kb": 10997,
+        "language": "PHP",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.846660+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
