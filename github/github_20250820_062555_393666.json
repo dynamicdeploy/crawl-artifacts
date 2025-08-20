@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:47.405656",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_393666.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_393666",
+    "url": "https://github.com/arielsalminen/vue-design-system-example",
+    "title": "GitHub Repository: vue-design-system-example",
+    "description": "Simplified example project on how to use Vue Design System as an NPM Dependency",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13, Language: JavaScript",
+    "metadata": {
+      "author": "arielsalminen",
+      "stars": 13,
+      "forks": 7,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-02-09T03:31:08Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "arielsalminen",
+      "last_activity": "2022-02-09T03:31:08Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13,
+        "forks": 7,
+        "watchers": 13,
+        "size_kb": 286,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.393669+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
