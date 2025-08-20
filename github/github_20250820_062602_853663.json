@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:43.614102",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_853663.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_853663",
+    "url": "https://github.com/evgenirusev/.NET-Domain-Driven-Design-Template",
+    "title": "GitHub Repository: .NET-Domain-Driven-Design-Template",
+    "description": "ASP.NET domain driven design template based on the Clean Architecture project structure.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 140, Language: C#",
+    "metadata": {
+      "author": "evgenirusev",
+      "stars": 140,
+      "forks": 21,
+      "language": "C#",
+      "topics": [
+        "bounded-contexts",
+        "clean-architecture",
+        "csharp",
+        "ddd",
+        "ddd-architecture",
+        "dotnet",
+        "dotnet-core",
+        "event-sourcing",
+        "vertical-slice-architecture",
+        "vertical-slices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-23T12:28:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "evgenirusev",
+      "last_activity": "2025-07-23T12:28:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 140,
+        "forks": 21,
+        "watchers": 140,
+        "size_kb": 1001,
+        "language": "C#",
+        "topics": [
+          "bounded-contexts",
+          "clean-architecture",
+          "csharp",
+          "ddd",
+          "ddd-architecture",
+          "dotnet",
+          "dotnet-core",
+          "event-sourcing",
+          "vertical-slice-architecture",
+          "vertical-slices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.853666+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
