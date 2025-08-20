@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:26:44.019510",
+    "crawler_type": "github",
+    "filename": "github_20250820_062552_765328.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062552_765328",
+    "url": "https://github.com/drveillard/microservices-architecture",
+    "title": "GitHub Repository: microservices-architecture",
+    "description": "A collection of awesome software, libraries and frameworks, design and architecture principles, books and videos, important resources and best practices about Microservices Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: C#",
+    "metadata": {
+      "author": "drveillard",
+      "stars": 2,
+      "forks": 0,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-10-04T20:36:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "drveillard",
+      "last_activity": "2022-10-04T20:36:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 4891,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:52.765332+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
