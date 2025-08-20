@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:31:21.628354",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_203894.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_203894",
+    "url": "https://github.com/md-siam/getx_clean_architecture",
+    "title": "GitHub Repository: getx_clean_architecture",
+    "description": "This repo is an example of clean architecture using the GetX state-management solution. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 190, Language: Dart",
+    "metadata": {
+      "author": "md-siam",
+      "stars": 190,
+      "forks": 69,
+      "language": "Dart",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-03T06:48:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "md-siam",
+      "last_activity": "2025-08-03T06:48:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 190,
+        "forks": 69,
+        "watchers": 190,
+        "size_kb": 190,
+        "language": "Dart",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.203898+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
