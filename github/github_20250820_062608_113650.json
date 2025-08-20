@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:07.956585",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_113650.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_113650",
+    "url": "https://github.com/johnnncodes/ddd-python-django",
+    "title": "GitHub Repository: ddd-python-django",
+    "description": "An attempt to implement DDD and hexagonal architecture in Python using Django framework w/o replacing Django's core components.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 125, Language: Python",
+    "metadata": {
+      "author": "johnnncodes",
+      "stars": 125,
+      "forks": 16,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-03-27T05:17:49Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "johnnncodes",
+      "last_activity": "2025-03-27T05:17:49Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 125,
+        "forks": 16,
+        "watchers": 125,
+        "size_kb": 140,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.113654+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
