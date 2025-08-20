@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:18.921602",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_116527.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_116527",
+    "url": "https://github.com/Adnatull/.NET-Clean-Architecture",
+    "title": "GitHub Repository: .NET-Clean-Architecture",
+    "description": "Clean Architecture in ASP.Net 9.0. This contains  Onion/Hexagonal architecture, DDD, CQRS using mediaTr, Unit Testing, Functional Testing, ASP.NET Core Identity, Entity Framework Core - Code First, Linq2db, Repository Pattern - Generic, Swagger UI, Response Wrappers,  API Versioning, Automapper, Serilog, Exception handling, and so on.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 98, Language: C#",
+    "metadata": {
+      "author": "Adnatull",
+      "stars": 98,
+      "forks": 31,
+      "language": "C#",
+      "topics": [
+        "api-versioning",
+        "asp-net",
+        "asp-net-core",
+        "automapper",
+        "c-sharp",
+        "clean-architecture",
+        "clean-code",
+        "cqrs",
+        "csharp",
+        "ddd-architecture",
+        "ef-core",
+        "functional-testing",
+        "hexagonal-architecture",
+        "layered-architecture",
+        "mediatr-library",
+        "moq-framework",
+        "nunit-framework",
+        "onion-architecture",
+        "serilog",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-10T18:44:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Adnatull",
+      "last_activity": "2025-07-10T18:44:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 98,
+        "forks": 31,
+        "watchers": 98,
+        "size_kb": 17381,
+        "language": "C#",
+        "topics": [
+          "api-versioning",
+          "asp-net",
+          "asp-net-core",
+          "automapper",
+          "c-sharp",
+          "clean-architecture",
+          "clean-code",
+          "cqrs",
+          "csharp",
+          "ddd-architecture",
+          "ef-core",
+          "functional-testing",
+          "hexagonal-architecture",
+          "layered-architecture",
+          "mediatr-library",
+          "moq-framework",
+          "nunit-framework",
+          "onion-architecture",
+          "serilog",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.116531+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
