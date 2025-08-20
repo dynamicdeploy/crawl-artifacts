@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:50.058690",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_854299.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_854299",
+    "url": "https://github.com/hbendix/domain-driven-nest",
+    "title": "GitHub Repository: domain-driven-nest",
+    "description": "Applying domain-driven design principles to a Nest.js project.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 133, Language: TypeScript",
+    "metadata": {
+      "author": "hbendix",
+      "stars": 133,
+      "forks": 30,
+      "language": "TypeScript",
+      "topics": [
+        "domain-driven-design",
+        "nestjs",
+        "tyepscript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-16T06:24:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hbendix",
+      "last_activity": "2025-04-16T06:24:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 133,
+        "forks": 30,
+        "watchers": 133,
+        "size_kb": 122,
+        "language": "TypeScript",
+        "topics": [
+          "domain-driven-design",
+          "nestjs",
+          "tyepscript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.854302+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
