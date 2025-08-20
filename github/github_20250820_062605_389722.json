@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:19.398447",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_389722.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_389722",
+    "url": "https://github.com/aws-solutions-library-samples/guidance-for-iso20022-messaging-workflows-on-aws",
+    "title": "GitHub Repository: guidance-for-iso20022-messaging-workflows-on-aws",
+    "description": "This Guidance demonstrates how payment operators can deploy an event-driven architecture to receive, consume, and release ISO 20022 payment messages.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 20, Language: Python",
+    "metadata": {
+      "author": "aws-solutions-library-samples",
+      "stars": 20,
+      "forks": 4,
+      "language": "Python",
+      "topics": [
+        "python",
+        "serverless",
+        "terraform"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-11T18:50:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aws-solutions-library-samples",
+      "last_activity": "2025-08-11T18:50:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 20,
+        "forks": 4,
+        "watchers": 20,
+        "size_kb": 4856,
+        "language": "Python",
+        "topics": [
+          "python",
+          "serverless",
+          "terraform"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.389725+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
