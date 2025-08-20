@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:20.964121",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_214035.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_214035",
+    "url": "https://github.com/ahmetildirim/morgan",
+    "title": "GitHub Repository: morgan",
+    "description": "Morgan is an example golang clean architecture implementation.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 33, Language: Go",
+    "metadata": {
+      "author": "ahmetildirim",
+      "stars": 33,
+      "forks": 0,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-24T18:04:12Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ahmetildirim",
+      "last_activity": "2025-05-24T18:04:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 33,
+        "forks": 0,
+        "watchers": 33,
+        "size_kb": 57,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.214039+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
