@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:26:31.768510",
+    "crawler_type": "github",
+    "filename": "github_20250820_062552_763933.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062552_763933",
+    "url": "https://github.com/NaurisSadovskis/awesome-cloud-architect",
+    "title": "GitHub Repository: awesome-cloud-architect",
+    "description": "Selected resources for SRE/DevOps professionals covering various Computer Science areas: Software Engineering & Architecture, Operations, Distributed Systems etc. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 25, Language: None",
+    "metadata": {
+      "author": "NaurisSadovskis",
+      "stars": 25,
+      "forks": 6,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-10T19:09:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "NaurisSadovskis",
+      "last_activity": "2025-07-10T19:09:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 25,
+        "forks": 6,
+        "watchers": 25,
+        "size_kb": 8,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:52.763936+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
