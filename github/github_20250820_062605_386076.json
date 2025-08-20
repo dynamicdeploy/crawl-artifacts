@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:53.505624",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_386076.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_386076",
+    "url": "https://github.com/stackus/edat",
+    "title": "GitHub Repository: edat",
+    "description": "Event-driven architecture toolkit ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 43, Language: Go",
+    "metadata": {
+      "author": "stackus",
+      "stars": 43,
+      "forks": 7,
+      "language": "Go",
+      "topics": [
+        "asychronous-messaging",
+        "event-driven-architecture",
+        "event-sourcing",
+        "golang",
+        "sagas"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-12T20:55:53Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stackus",
+      "last_activity": "2025-05-12T20:55:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 43,
+        "forks": 7,
+        "watchers": 43,
+        "size_kb": 129,
+        "language": "Go",
+        "topics": [
+          "asychronous-messaging",
+          "event-driven-architecture",
+          "event-sourcing",
+          "golang",
+          "sagas"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.386080+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
