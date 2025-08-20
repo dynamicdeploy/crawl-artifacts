@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:36.688498",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_871411.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_871411",
+    "url": "https://github.com/asc-lab/dotnetcore-microservices-poc",
+    "title": "GitHub Repository: dotnetcore-microservices-poc",
+    "description": "Very simplified insurance sales system made in a microservices architecture using .NET Core",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1937, Language: CSS",
+    "metadata": {
+      "author": "asc-lab",
+      "stars": 1937,
+      "forks": 686,
+      "language": "CSS",
+      "topics": [
+        "cqrs",
+        "dapper",
+        "ddd",
+        "docker",
+        "docker-compose",
+        "dotnet-core",
+        "eureka",
+        "insurance",
+        "marten",
+        "mediatr",
+        "microservices",
+        "microservices-architecture",
+        "netcore",
+        "nhibernate",
+        "rabbitmq",
+        "signalr",
+        "simplified-insurance-sales"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:21:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "asc-lab",
+      "last_activity": "2025-08-19T06:21:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1937,
+        "forks": 686,
+        "watchers": 1937,
+        "size_kb": 3039,
+        "language": "CSS",
+        "topics": [
+          "cqrs",
+          "dapper",
+          "ddd",
+          "docker",
+          "docker-compose",
+          "dotnet-core",
+          "eureka",
+          "insurance",
+          "marten",
+          "mediatr",
+          "microservices",
+          "microservices-architecture",
+          "netcore",
+          "nhibernate",
+          "rabbitmq",
+          "signalr",
+          "simplified-insurance-sales"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.871415+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
