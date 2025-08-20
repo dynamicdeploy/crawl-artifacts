@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:02.904257",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_111418.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_111418",
+    "url": "https://github.com/antoinechalifour/remix-hexagonal-architecture",
+    "title": "GitHub Repository: remix-hexagonal-architecture",
+    "description": "Using Remix SSR as an opportunity to explore hexagonal architecture for Web Apps",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 130, Language: TypeScript",
+    "metadata": {
+      "author": "antoinechalifour",
+      "stars": 130,
+      "forks": 18,
+      "language": "TypeScript",
+      "topics": [
+        "hexagonal-architecture",
+        "nestjs",
+        "prisma",
+        "react",
+        "remix",
+        "todolist",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-06T16:03:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "antoinechalifour",
+      "last_activity": "2025-05-06T16:03:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 130,
+        "forks": 18,
+        "watchers": 130,
+        "size_kb": 1025,
+        "language": "TypeScript",
+        "topics": [
+          "hexagonal-architecture",
+          "nestjs",
+          "prisma",
+          "react",
+          "remix",
+          "todolist",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.111424+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
