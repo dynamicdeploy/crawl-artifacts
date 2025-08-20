@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:00.047175",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_110065.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_110065",
+    "url": "https://github.com/javierlecca/nodejs-hexagonal-architecture-and-unit-test",
+    "title": "GitHub Repository: nodejs-hexagonal-architecture-and-unit-test",
+    "description": "This is a project to explain hexagonal architecture and unit tests in node.js",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 139, Language: JavaScript",
+    "metadata": {
+      "author": "javierlecca",
+      "stars": 139,
+      "forks": 34,
+      "language": "JavaScript",
+      "topics": [
+        "clean-architecture",
+        "ddd-architecture",
+        "ddd-patterns",
+        "express",
+        "expressjs",
+        "nodejs",
+        "nodejs-server"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-31T19:02:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "javierlecca",
+      "last_activity": "2025-07-31T19:02:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 139,
+        "forks": 34,
+        "watchers": 139,
+        "size_kb": 11,
+        "language": "JavaScript",
+        "topics": [
+          "clean-architecture",
+          "ddd-architecture",
+          "ddd-patterns",
+          "express",
+          "expressjs",
+          "nodejs",
+          "nodejs-server"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.110070+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
