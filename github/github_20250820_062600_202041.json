@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:31:02.799663",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_202041.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_202041",
+    "url": "https://github.com/aspnetrun/run-aspnetcore-realworld",
+    "title": "GitHub Repository: run-aspnetcore-realworld",
+    "description": "E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices. Download 100+ page eBook PDF from here ->",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 499, Language: SCSS",
+    "metadata": {
+      "author": "aspnetrun",
+      "stars": 499,
+      "forks": 211,
+      "language": "SCSS",
+      "topics": [
+        "aspnet-core",
+        "aspnet-core-template",
+        "aspnetcore",
+        "aspnetcore-basic-authentication",
+        "aspnetcore-httpcontext",
+        "aspnetcore-identity",
+        "authentication",
+        "authorization",
+        "bootstrap4",
+        "business-rules",
+        "clean-architecture",
+        "configuration",
+        "ddd-architecture",
+        "ecommerce",
+        "entity-framework-core",
+        "multipage-application",
+        "razor-pages",
+        "real-world-project",
+        "shopping-cart",
+        "validation"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-30T14:55:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aspnetrun",
+      "last_activity": "2025-06-30T14:55:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 499,
+        "forks": 211,
+        "watchers": 499,
+        "size_kb": 8105,
+        "language": "SCSS",
+        "topics": [
+          "aspnet-core",
+          "aspnet-core-template",
+          "aspnetcore",
+          "aspnetcore-basic-authentication",
+          "aspnetcore-httpcontext",
+          "aspnetcore-identity",
+          "authentication",
+          "authorization",
+          "bootstrap4",
+          "business-rules",
+          "clean-architecture",
+          "configuration",
+          "ddd-architecture",
+          "ecommerce",
+          "entity-framework-core",
+          "multipage-application",
+          "razor-pages",
+          "real-world-project",
+          "shopping-cart",
+          "validation"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.202045+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
