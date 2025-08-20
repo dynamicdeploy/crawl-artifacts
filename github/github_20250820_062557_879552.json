@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:37.849238",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_879552.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_879552",
+    "url": "https://github.com/begmaroman/go-micro-boilerplate",
+    "title": "GitHub Repository: go-micro-boilerplate",
+    "description": "The boilerplate of the GoLang application with a clear microservices architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 271, Language: Go",
+    "metadata": {
+      "author": "begmaroman",
+      "stars": 271,
+      "forks": 75,
+      "language": "Go",
+      "topics": [
+        "boilerplate",
+        "docker",
+        "docker-compose",
+        "example",
+        "go",
+        "go-micro",
+        "golang",
+        "golang-examples",
+        "golang-server",
+        "grpc",
+        "microservice",
+        "microservice-example",
+        "microservices",
+        "microservices-architecture",
+        "nats",
+        "protobuf",
+        "protocol-buffers",
+        "rpc",
+        "swagger"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T15:32:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "begmaroman",
+      "last_activity": "2025-08-13T15:32:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 271,
+        "forks": 75,
+        "watchers": 271,
+        "size_kb": 378,
+        "language": "Go",
+        "topics": [
+          "boilerplate",
+          "docker",
+          "docker-compose",
+          "example",
+          "go",
+          "go-micro",
+          "golang",
+          "golang-examples",
+          "golang-server",
+          "grpc",
+          "microservice",
+          "microservice-example",
+          "microservices",
+          "microservices-architecture",
+          "nats",
+          "protobuf",
+          "protocol-buffers",
+          "rpc",
+          "swagger"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.879557+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
