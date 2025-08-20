@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:19.142030",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_213787.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_213787",
+    "url": "https://github.com/peterkracik/nestjs-clean-architecture",
+    "title": "GitHub Repository: nestjs-clean-architecture",
+    "description": "Example repo of an Nest.JS app following the clean architecture principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 35, Language: TypeScript",
+    "metadata": {
+      "author": "peterkracik",
+      "stars": 35,
+      "forks": 13,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T18:41:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "peterkracik",
+      "last_activity": "2025-08-13T18:41:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 35,
+        "forks": 13,
+        "watchers": 35,
+        "size_kb": 367,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.213791+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
