@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:26:46.972489",
+    "crawler_type": "github",
+    "filename": "github_20250820_062552_765689.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062552_765689",
+    "url": "https://github.com/ahamdy3/awesome-software-architecture",
+    "title": "GitHub Repository: awesome-software-architecture",
+    "description": "A curated list of awesome Software Architecture resources",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: None",
+    "metadata": {
+      "author": "ahamdy3",
+      "stars": 1,
+      "forks": 0,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2018-12-23T15:13:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ahamdy3",
+      "last_activity": "2018-12-23T15:13:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 3,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:52.765692+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
