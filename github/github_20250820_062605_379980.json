@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:57.665455",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_379980.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_379980",
+    "url": "https://github.com/event-catalog/eventcatalog",
+    "title": "GitHub Repository: eventcatalog",
+    "description": "An open source documentation tool to bring discoverability to your event-driven architectures ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2320, Language: TypeScript",
+    "metadata": {
+      "author": "event-catalog",
+      "stars": 2320,
+      "forks": 192,
+      "language": "TypeScript",
+      "topics": [
+        "architecture",
+        "catalog",
+        "ddd",
+        "documentation",
+        "eda",
+        "event-driven",
+        "events",
+        "plugins"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T09:07:30Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "event-catalog",
+      "last_activity": "2025-08-19T09:07:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2320,
+        "forks": 192,
+        "watchers": 2320,
+        "size_kb": 47799,
+        "language": "TypeScript",
+        "topics": [
+          "architecture",
+          "catalog",
+          "ddd",
+          "documentation",
+          "eda",
+          "event-driven",
+          "events",
+          "plugins"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.379983+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
