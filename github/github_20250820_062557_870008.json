@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:29.224667",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_870008.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_870008",
+    "url": "https://github.com/neuland/micro-frontends",
+    "title": "GitHub Repository: micro-frontends",
+    "description": "extending the microservice paradigms to web development",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 4639, Language: JavaScript",
+    "metadata": {
+      "author": "neuland",
+      "stars": 4639,
+      "forks": 484,
+      "language": "JavaScript",
+      "topics": [
+        "architecture",
+        "micro-frontends",
+        "microservice-paradigms",
+        "microservices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T14:48:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "neuland",
+      "last_activity": "2025-08-19T14:48:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 4639,
+        "forks": 484,
+        "watchers": 4639,
+        "size_kb": 17360,
+        "language": "JavaScript",
+        "topics": [
+          "architecture",
+          "micro-frontends",
+          "microservice-paradigms",
+          "microservices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.870011+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
