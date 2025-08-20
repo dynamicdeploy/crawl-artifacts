@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:26.646090",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_869669.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_869669",
+    "url": "https://github.com/sqshq/piggymetrics",
+    "title": "GitHub Repository: piggymetrics",
+    "description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13649, Language: Java",
+    "metadata": {
+      "author": "sqshq",
+      "stars": 13649,
+      "forks": 6284,
+      "language": "Java",
+      "topics": [
+        "docker",
+        "microservice",
+        "microservices",
+        "spring-boot",
+        "spring-cloud"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T06:00:38Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sqshq",
+      "last_activity": "2025-08-20T06:00:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13649,
+        "forks": 6284,
+        "watchers": 13649,
+        "size_kb": 1512,
+        "language": "Java",
+        "topics": [
+          "docker",
+          "microservice",
+          "microservices",
+          "spring-boot",
+          "spring-cloud"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.869673+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
