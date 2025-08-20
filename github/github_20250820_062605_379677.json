@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:54.769009",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_379677.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_379677",
+    "url": "https://github.com/kurrent-io/KurrentDB",
+    "title": "GitHub Repository: KurrentDB",
+    "description": "KurrentDB is a database that's engineered for modern software applications and event-driven architectures. Its event-native design simplifies data modeling and preserves data integrity while the integrated streaming engine solves distributed messaging challenges and ensures data consistency.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 5599, Language: C#",
+    "metadata": {
+      "author": "kurrent-io",
+      "stars": 5599,
+      "forks": 666,
+      "language": "C#",
+      "topics": [
+        "cqrs",
+        "database",
+        "event-sourcing",
+        "event-store",
+        "eventsourcing",
+        "eventstore"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T10:14:36Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "kurrent-io",
+      "last_activity": "2025-08-18T10:14:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 5599,
+        "forks": 666,
+        "watchers": 5599,
+        "size_kb": 343667,
+        "language": "C#",
+        "topics": [
+          "cqrs",
+          "database",
+          "event-sourcing",
+          "event-store",
+          "eventsourcing",
+          "eventstore"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.379682+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
