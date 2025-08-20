@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:37.522487",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_871535.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_871535",
+    "url": "https://github.com/wso2/reference-architecture",
+    "title": "GitHub Repository: reference-architecture",
+    "description": "The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1863, Language: None",
+    "metadata": {
+      "author": "wso2",
+      "stars": 1863,
+      "forks": 343,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "cloud-native",
+        "decentralized",
+        "microservices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-11T13:41:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "wso2",
+      "last_activity": "2025-08-11T13:41:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1863,
+        "forks": 343,
+        "watchers": 1863,
+        "size_kb": 30710,
+        "language": null,
+        "topics": [
+          "architecture",
+          "cloud-native",
+          "decentralized",
+          "microservices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.871539+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
