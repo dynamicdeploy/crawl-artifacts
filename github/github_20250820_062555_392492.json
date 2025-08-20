@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:40.897540",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_392492.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_392492",
+    "url": "https://github.com/anuva04/SystemDesign",
+    "title": "GitHub Repository: SystemDesign",
+    "description": "This repo contains LLD of various systems and example implementation of Design Patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 16, Language: Java",
+    "metadata": {
+      "author": "anuva04",
+      "stars": 16,
+      "forks": 4,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T15:24:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "anuva04",
+      "last_activity": "2025-08-18T15:24:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 16,
+        "forks": 4,
+        "watchers": 16,
+        "size_kb": 604,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.392495+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
