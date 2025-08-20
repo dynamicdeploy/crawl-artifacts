@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:31:52.217646",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_208573.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_208573",
+    "url": "https://github.com/aantoniadis/clean-architecture-example",
+    "title": "GitHub Repository: clean-architecture-example",
+    "description": "A simple clean architecture example in Kotlin and Spring Boot 2.0",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 77, Language: Kotlin",
+    "metadata": {
+      "author": "aantoniadis",
+      "stars": 77,
+      "forks": 34,
+      "language": "Kotlin",
+      "topics": [
+        "clean-architecture",
+        "kotlin",
+        "maven",
+        "multi-modules",
+        "multimodule",
+        "spring",
+        "spring-boot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-17T05:57:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aantoniadis",
+      "last_activity": "2025-07-17T05:57:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 77,
+        "forks": 34,
+        "watchers": 77,
+        "size_kb": 71,
+        "language": "Kotlin",
+        "topics": [
+          "clean-architecture",
+          "kotlin",
+          "maven",
+          "multi-modules",
+          "multimodule",
+          "spring",
+          "spring-boot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.208577+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
