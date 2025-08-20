@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:38.432266",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_871659.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_871659",
+    "url": "https://github.com/rohitghatol/spring-boot-microservices",
+    "title": "GitHub Repository: spring-boot-microservices",
+    "description": "Spring Boot Template for Micro services Architecture - Show cases how to use Zuul for API Gateway, Spring OAuth 2.0 as Auth Server, Multiple Resource (Web Services) Servers, Angular Web App, Eureka dor registration and Discover and Hystrix for circuit breaker",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1814, Language: Java",
+    "metadata": {
+      "author": "rohitghatol",
+      "stars": 1814,
+      "forks": 921,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T22:47:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "rohitghatol",
+      "last_activity": "2025-08-14T22:47:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1814,
+        "forks": 921,
+        "watchers": 1814,
+        "size_kb": 5727,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.871663+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
