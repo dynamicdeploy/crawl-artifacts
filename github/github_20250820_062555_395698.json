@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:00.248300",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_395698.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_395698",
+    "url": "https://github.com/Shubh2-0/Coupling",
+    "title": "GitHub Repository: Coupling",
+    "description": "This repository offers practical examples to understand different types of software coupling. Improve code organization and maintainability. Ideal for beginners seeking to enhance their understanding of software design principles and best practices. Explore the various coupling types and gain insights into achieving loosely coupled, modular systems",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 10, Language: Java",
+    "metadata": {
+      "author": "Shubh2-0",
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "coupling",
+        "interface",
+        "loose-coupling",
+        "tight-coupling"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-09-02T10:18:09Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Shubh2-0",
+      "last_activity": "2023-09-02T10:18:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 10,
+        "forks": 0,
+        "watchers": 10,
+        "size_kb": 27,
+        "language": "Java",
+        "topics": [
+          "coupling",
+          "interface",
+          "loose-coupling",
+          "tight-coupling"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.395701+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
