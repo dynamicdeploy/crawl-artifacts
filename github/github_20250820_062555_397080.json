@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:14.576504",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_397080.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_397080",
+    "url": "https://github.com/MathWorks-Teaching-Resources/Engineering-Problem-Solving",
+    "title": "GitHub Repository: Engineering-Problem-Solving",
+    "description": "This curriculum module contains interactive examples that emphasize the general approach and methodologies of problem-solving within the field of engineering. The fundamental concepts of systems thinking/engineering will be used as the basis to solve problems.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: MATLAB",
+    "metadata": {
+      "author": "MathWorks-Teaching-Resources",
+      "stars": 8,
+      "forks": 1,
+      "language": "MATLAB",
+      "topics": [
+        "analysis",
+        "capstone",
+        "courseware",
+        "cwm",
+        "design",
+        "electrical-engineering",
+        "intro-to-engineering",
+        "matlab",
+        "mbd",
+        "mbse",
+        "mechanical-engineering",
+        "problem-solving",
+        "requirements",
+        "simscape",
+        "simulink",
+        "systems",
+        "systems-engineering",
+        "systems-thinking",
+        "validation",
+        "verification"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T15:47:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MathWorks-Teaching-Resources",
+      "last_activity": "2025-08-19T15:47:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 1,
+        "watchers": 8,
+        "size_kb": 33847,
+        "language": "MATLAB",
+        "topics": [
+          "analysis",
+          "capstone",
+          "courseware",
+          "cwm",
+          "design",
+          "electrical-engineering",
+          "intro-to-engineering",
+          "matlab",
+          "mbd",
+          "mbse",
+          "mechanical-engineering",
+          "problem-solving",
+          "requirements",
+          "simscape",
+          "simulink",
+          "systems",
+          "systems-engineering",
+          "systems-thinking",
+          "validation",
+          "verification"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.397083+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
