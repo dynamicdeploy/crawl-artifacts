@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:22.478787",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_390212.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_390212",
+    "url": "https://github.com/dhirendravsingh/Zync",
+    "title": "GitHub Repository: Zync",
+    "description": "Zap + Sync - An open-source automation platform that connects webhooks, triggers, and actions using an event-driven architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 20, Language: JavaScript",
+    "metadata": {
+      "author": "dhirendravsingh",
+      "stars": 20,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "kafkajs",
+        "nextjs",
+        "nodejs",
+        "postgresql",
+        "prisma-orm",
+        "queue",
+        "typescript",
+        "webhook-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:16:28Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dhirendravsingh",
+      "last_activity": "2025-08-19T06:16:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 20,
+        "forks": 0,
+        "watchers": 20,
+        "size_kb": 8806,
+        "language": "JavaScript",
+        "topics": [
+          "kafkajs",
+          "nextjs",
+          "nodejs",
+          "postgresql",
+          "prisma-orm",
+          "queue",
+          "typescript",
+          "webhook-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.390216+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
