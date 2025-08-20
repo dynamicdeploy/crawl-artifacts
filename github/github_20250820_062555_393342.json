@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:46.345322",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_393342.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_393342",
+    "url": "https://github.com/abhilash26/gohyper",
+    "title": "GitHub Repository: gohyper",
+    "description": "A new GoSH stack counter example using Go, HTMX, Sqlite with Chi router and Pollen CSS design system.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 15, Language: Go",
+    "metadata": {
+      "author": "abhilash26",
+      "stars": 15,
+      "forks": 0,
+      "language": "Go",
+      "topics": [
+        "chi-router",
+        "golang",
+        "htmx",
+        "sqlite",
+        "starter-kit",
+        "starter-project",
+        "starter-template"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-14T12:03:58Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "abhilash26",
+      "last_activity": "2025-04-14T12:03:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 15,
+        "forks": 0,
+        "watchers": 15,
+        "size_kb": 120,
+        "language": "Go",
+        "topics": [
+          "chi-router",
+          "golang",
+          "htmx",
+          "sqlite",
+          "starter-kit",
+          "starter-project",
+          "starter-template"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.393345+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
