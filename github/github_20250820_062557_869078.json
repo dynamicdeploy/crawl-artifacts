@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:21.118341",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_869078.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_869078",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "title": "GitHub Repository: awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 43780, Language: None",
+    "metadata": {
+      "author": "DovAmir",
+      "stars": 43780,
+      "forks": 3116,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "cloud-computing",
+        "design-patterns",
+        "gof-patterns",
+        "lists",
+        "microservices",
+        "resources"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T23:52:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "DovAmir",
+      "last_activity": "2025-08-19T23:52:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 43780,
+        "forks": 3116,
+        "watchers": 43780,
+        "size_kb": 98,
+        "language": null,
+        "topics": [
+          "architecture",
+          "awesome",
+          "awesome-list",
+          "cloud-computing",
+          "design-patterns",
+          "gof-patterns",
+          "lists",
+          "microservices",
+          "resources"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.869090+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
