@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:34.792480",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_101856.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_101856",
+    "url": "https://github.com/bagashiz/go-pos",
+    "title": "GitHub Repository: go-pos",
+    "description": "Simple RESTful Point of Sale (POS) Service API written in Go using Gin web framework, PostgreSQL database, and Redis cache. Proof of concept of implementing Hexagonal Architecture in Go.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 318, Language: Go",
+    "metadata": {
+      "author": "bagashiz",
+      "stars": 318,
+      "forks": 52,
+      "language": "Go",
+      "topics": [
+        "gin",
+        "go",
+        "golang",
+        "hexagonal-architecture",
+        "pgx",
+        "point-of-sales",
+        "postgresql",
+        "redis",
+        "rest-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T00:51:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bagashiz",
+      "last_activity": "2025-08-19T00:51:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 318,
+        "forks": 52,
+        "watchers": 318,
+        "size_kb": 517,
+        "language": "Go",
+        "topics": [
+          "gin",
+          "go",
+          "golang",
+          "hexagonal-architecture",
+          "pgx",
+          "point-of-sales",
+          "postgresql",
+          "redis",
+          "rest-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.101865+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
