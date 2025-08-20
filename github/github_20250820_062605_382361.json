@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:22.356430",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_382361.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_382361",
+    "url": "https://github.com/stackus/ftgogo",
+    "title": "GitHub Repository: ftgogo",
+    "description": "FTGOGO - event-driven architecture demonstration application using edat",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 139, Language: Go",
+    "metadata": {
+      "author": "stackus",
+      "stars": 139,
+      "forks": 19,
+      "language": "Go",
+      "topics": [
+        "asychronous-messaging",
+        "cqrs",
+        "ddd",
+        "event-driven",
+        "event-sourcing",
+        "golang",
+        "hexagonal-architecture",
+        "monorepo",
+        "ports-and-adapters",
+        "sagas"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-27T09:35:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stackus",
+      "last_activity": "2025-07-27T09:35:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 139,
+        "forks": 19,
+        "watchers": 139,
+        "size_kb": 853,
+        "language": "Go",
+        "topics": [
+          "asychronous-messaging",
+          "cqrs",
+          "ddd",
+          "event-driven",
+          "event-sourcing",
+          "golang",
+          "hexagonal-architecture",
+          "monorepo",
+          "ports-and-adapters",
+          "sagas"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.382365+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
