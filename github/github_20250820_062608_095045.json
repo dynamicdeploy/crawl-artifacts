@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:23.398743",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_095045.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_095045",
+    "url": "https://github.com/CodelyTV/php-ddd-example",
+    "title": "GitHub Repository: php-ddd-example",
+    "description": "🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3083, Language: PHP",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 3083,
+      "forks": 1094,
+      "language": "PHP",
+      "topics": [
+        "behat",
+        "bounded-context",
+        "codely",
+        "codelytv",
+        "cqrs",
+        "ddd",
+        "docker",
+        "doctrine",
+        "domain-driven-design",
+        "hexagonal-architecture",
+        "laravel",
+        "microservice",
+        "microservices-architecture",
+        "monorepo",
+        "php",
+        "php8",
+        "phpunit",
+        "symfony",
+        "symfony5",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T15:53:23Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-08-19T15:53:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3083,
+        "forks": 1094,
+        "watchers": 3083,
+        "size_kb": 2136,
+        "language": "PHP",
+        "topics": [
+          "behat",
+          "bounded-context",
+          "codely",
+          "codelytv",
+          "cqrs",
+          "ddd",
+          "docker",
+          "doctrine",
+          "domain-driven-design",
+          "hexagonal-architecture",
+          "laravel",
+          "microservice",
+          "microservices-architecture",
+          "monorepo",
+          "php",
+          "php8",
+          "phpunit",
+          "symfony",
+          "symfony5",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.095059+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
