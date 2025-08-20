@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:52.877007",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_854570.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_854570",
+    "url": "https://github.com/bringmeister/ddd-with-kotlin",
+    "title": "GitHub Repository: ddd-with-kotlin",
+    "description": "A demo project to show a Domain Driven Design with Kotlin.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 127, Language: Kotlin",
+    "metadata": {
+      "author": "bringmeister",
+      "stars": 127,
+      "forks": 27,
+      "language": "Kotlin",
+      "topics": [
+        "commands",
+        "ddd",
+        "event-driven",
+        "kotlin"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-18T11:14:16Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "bringmeister",
+      "last_activity": "2025-06-18T11:14:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 127,
+        "forks": 27,
+        "watchers": 127,
+        "size_kb": 107,
+        "language": "Kotlin",
+        "topics": [
+          "commands",
+          "ddd",
+          "event-driven",
+          "kotlin"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.854573+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
