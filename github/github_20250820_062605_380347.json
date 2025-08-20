@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:00.542830",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_380347.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_380347",
+    "url": "https://github.com/mehdihadeli/go-food-delivery-microservices",
+    "title": "GitHub Repository: go-food-delivery-microservices",
+    "description": "🍕 A practical food delivery microservices, built with Golang, Domain-Driven Design, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1000, Language: Go",
+    "metadata": {
+      "author": "mehdihadeli",
+      "stars": 1000,
+      "forks": 108,
+      "language": "Go",
+      "topics": [
+        "bdd",
+        "boilerplate",
+        "clean-architecture",
+        "cqrs",
+        "cqrs-pattern",
+        "ddd",
+        "distributed-systems",
+        "domain-driven-design",
+        "event-driven-architecture",
+        "event-sourcing",
+        "eventsourcing",
+        "go",
+        "golang",
+        "grpc",
+        "integration-test",
+        "integration-testing",
+        "microservice",
+        "microservices",
+        "microservices-architecture",
+        "vertical-slice-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T12:08:04Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "mehdihadeli",
+      "last_activity": "2025-08-18T12:08:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1000,
+        "forks": 108,
+        "watchers": 1000,
+        "size_kb": 4485,
+        "language": "Go",
+        "topics": [
+          "bdd",
+          "boilerplate",
+          "clean-architecture",
+          "cqrs",
+          "cqrs-pattern",
+          "ddd",
+          "distributed-systems",
+          "domain-driven-design",
+          "event-driven-architecture",
+          "event-sourcing",
+          "eventsourcing",
+          "go",
+          "golang",
+          "grpc",
+          "integration-test",
+          "integration-testing",
+          "microservice",
+          "microservices",
+          "microservices-architecture",
+          "vertical-slice-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.380350+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
