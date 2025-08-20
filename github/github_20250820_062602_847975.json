@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:56.980154",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_847975.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_847975",
+    "url": "https://github.com/thangchung/blog-core",
+    "title": "GitHub Repository: blog-core",
+    "description": "Modular blog using Blazor with clean domain-driven design patterns ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 408, Language: CSS",
+    "metadata": {
+      "author": "thangchung",
+      "stars": 408,
+      "forks": 123,
+      "language": "CSS",
+      "topics": [
+        "adminlte",
+        "blazor",
+        "blog",
+        "blog-engine",
+        "clean-architecture",
+        "csharp",
+        "ddd",
+        "dotnet-core",
+        "dotnet-standard",
+        "module",
+        "reactjs",
+        "redux",
+        "webassembly"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-21T08:24:11Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "thangchung",
+      "last_activity": "2025-07-21T08:24:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 408,
+        "forks": 123,
+        "watchers": 408,
+        "size_kb": 8961,
+        "language": "CSS",
+        "topics": [
+          "adminlte",
+          "blazor",
+          "blog",
+          "blog-engine",
+          "clean-architecture",
+          "csharp",
+          "ddd",
+          "dotnet-core",
+          "dotnet-standard",
+          "module",
+          "reactjs",
+          "redux",
+          "webassembly"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.847978+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
