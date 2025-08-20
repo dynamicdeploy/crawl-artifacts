@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:41.779841",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_119597.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_119597",
+    "url": "https://github.com/AlbertHernandez/nestjs-hexagonal-architecture-example",
+    "title": "GitHub Repository: nestjs-hexagonal-architecture-example",
+    "description": "Example of how to create a NestJS service using hexagonal architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 63, Language: TypeScript",
+    "metadata": {
+      "author": "AlbertHernandez",
+      "stars": 63,
+      "forks": 15,
+      "language": "TypeScript",
+      "topics": [
+        "nestjs",
+        "nestjs-template",
+        "nodejs",
+        "template",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T23:09:24Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "AlbertHernandez",
+      "last_activity": "2025-08-18T23:09:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 63,
+        "forks": 15,
+        "watchers": 63,
+        "size_kb": 256,
+        "language": "TypeScript",
+        "topics": [
+          "nestjs",
+          "nestjs-template",
+          "nodejs",
+          "template",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.119600+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
