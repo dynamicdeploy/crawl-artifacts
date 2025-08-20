@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:45.900258",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_846837.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_846837",
+    "url": "https://github.com/dayatang/dddlib",
+    "title": "GitHub Repository: dddlib",
+    "description": "A DDD (Domain Driven Design) Library, derived from the idea of Eric Evans' book:  'Domain-Driven Design: Tackling Complexity in the Heart of Software'",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 654, Language: Java",
+    "metadata": {
+      "author": "dayatang",
+      "stars": 654,
+      "forks": 280,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:10:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dayatang",
+      "last_activity": "2025-08-13T11:10:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 654,
+        "forks": 280,
+        "watchers": 654,
+        "size_kb": 52772,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.846841+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
