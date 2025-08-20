@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:28.248275",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_382967.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_382967",
+    "url": "https://github.com/HermesGermany/galapagos",
+    "title": "GitHub Repository: galapagos",
+    "description": "DevOps Self-Service Software for Apache Kafka, including an opinionated approach on how to use Kafka for event-driven enterprise architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 88, Language: Java",
+    "metadata": {
+      "author": "HermesGermany",
+      "stars": 88,
+      "forks": 21,
+      "language": "Java",
+      "topics": [
+        "confluent-cloud",
+        "devops",
+        "galapagos",
+        "kafka"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-02T09:34:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "HermesGermany",
+      "last_activity": "2025-07-02T09:34:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 88,
+        "forks": 21,
+        "watchers": 88,
+        "size_kb": 3843,
+        "language": "Java",
+        "topics": [
+          "confluent-cloud",
+          "devops",
+          "galapagos",
+          "kafka"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.382970+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
