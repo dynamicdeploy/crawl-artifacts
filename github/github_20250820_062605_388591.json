@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:11.688667",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_388591.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_388591",
+    "url": "https://github.com/amirjani/domain-driven-design-distilled",
+    "title": "GitHub Repository: domain-driven-design-distilled",
+    "description": "A distilled implementation of Domain-Driven Design (DDD) concepts from Fundamentals of Software Architecture by Neal Ford, showcasing key principles like bounded contexts, aggregates, domain events, and hexagonal architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22, Language: None",
+    "metadata": {
+      "author": "amirjani",
+      "stars": 22,
+      "forks": 4,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "domain-driven-design",
+        "patterns"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-02T05:38:22Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "amirjani",
+      "last_activity": "2025-06-02T05:38:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22,
+        "forks": 4,
+        "watchers": 22,
+        "size_kb": 6313,
+        "language": null,
+        "topics": [
+          "architecture",
+          "domain-driven-design",
+          "patterns"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.388595+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
