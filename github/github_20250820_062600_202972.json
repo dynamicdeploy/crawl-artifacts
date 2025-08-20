@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:31:12.468371",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_202972.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_202972",
+    "url": "https://github.com/spember/spring-shoestore",
+    "title": "GitHub Repository: spring-shoestore",
+    "description": "An example of Clean Architecture in Spring. Demo app for Spring 2023",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 253, Language: Kotlin",
+    "metadata": {
+      "author": "spember",
+      "stars": 253,
+      "forks": 61,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-11T07:58:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "spember",
+      "last_activity": "2025-08-11T07:58:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 253,
+        "forks": 61,
+        "watchers": 253,
+        "size_kb": 185,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.202975+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
