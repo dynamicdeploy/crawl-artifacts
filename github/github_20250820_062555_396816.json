@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:11.925174",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_396816.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_396816",
+    "url": "https://github.com/Software-Engineering-Assistantship/ess-base-project",
+    "title": "GitHub Repository: ess-base-project",
+    "description": "The ESS Base Project is a repository designed to kickstart new projects for the Software Engineering and Systems discipline at CIn-UFPE. It aims to simplify the project initiation process providing a solid base by offering an initial structure, architecture, configurations, and implementation examples.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: Python",
+    "metadata": {
+      "author": "Software-Engineering-Assistantship",
+      "stars": 8,
+      "forks": 190,
+      "language": "Python",
+      "topics": [
+        "angular",
+        "bdd",
+        "bdd-style",
+        "bdd-tests",
+        "clean-architecture",
+        "clean-code",
+        "fastapi",
+        "kickstart",
+        "nextjs",
+        "nodejs",
+        "project-management",
+        "python",
+        "reactjs",
+        "software-engineering",
+        "ufpe",
+        "version-control",
+        "vuejs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-26T17:21:59Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "Software-Engineering-Assistantship",
+      "last_activity": "2025-05-26T17:21:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 190,
+        "watchers": 8,
+        "size_kb": 11,
+        "language": "Python",
+        "topics": [
+          "angular",
+          "bdd",
+          "bdd-style",
+          "bdd-tests",
+          "clean-architecture",
+          "clean-code",
+          "fastapi",
+          "kickstart",
+          "nextjs",
+          "nodejs",
+          "project-management",
+          "python",
+          "reactjs",
+          "software-engineering",
+          "ufpe",
+          "version-control",
+          "vuejs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.396819+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
