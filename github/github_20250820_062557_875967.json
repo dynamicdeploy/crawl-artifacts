@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:09.796122",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_875967.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_875967",
+    "url": "https://github.com/Avanade/Liquid-Application-Framework",
+    "title": "GitHub Repository: Liquid-Application-Framework",
+    "description": "Liquid Application Framework documentation, useful links and sample project",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 483, Language: C#",
+    "metadata": {
+      "author": "Avanade",
+      "stars": 483,
+      "forks": 55,
+      "language": "C#",
+      "topics": [
+        "abstraction-layer",
+        "api",
+        "architecture",
+        "aws",
+        "azure",
+        "cosmosdb",
+        "dotnet",
+        "dotnet-core",
+        "entity-framework-core",
+        "framework",
+        "gcp",
+        "grpc",
+        "hexagonal-architecture",
+        "microservices",
+        "mongodb",
+        "multicloud",
+        "rabbitmq",
+        "restful-api",
+        "servicebus",
+        "sqs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-28T23:41:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Avanade",
+      "last_activity": "2025-07-28T23:41:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 483,
+        "forks": 55,
+        "watchers": 483,
+        "size_kb": 6977,
+        "language": "C#",
+        "topics": [
+          "abstraction-layer",
+          "api",
+          "architecture",
+          "aws",
+          "azure",
+          "cosmosdb",
+          "dotnet",
+          "dotnet-core",
+          "entity-framework-core",
+          "framework",
+          "gcp",
+          "grpc",
+          "hexagonal-architecture",
+          "microservices",
+          "mongodb",
+          "multicloud",
+          "rabbitmq",
+          "restful-api",
+          "servicebus",
+          "sqs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.875971+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
