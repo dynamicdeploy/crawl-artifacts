@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:12.760477",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_396902.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_396902",
+    "url": "https://github.com/BenjaminWFox/example-app-atomic-design",
+    "title": "GitHub Repository: example-app-atomic-design",
+    "description": "Example application applying the principles of Atomic Design to development in a component based system",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: JavaScript",
+    "metadata": {
+      "author": "BenjaminWFox",
+      "stars": 8,
+      "forks": 3,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-05-04T05:34:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "BenjaminWFox",
+      "last_activity": "2023-05-04T05:34:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 3,
+        "watchers": 8,
+        "size_kb": 3433,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.396905+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
