@@ -1,0 +1,55 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:57.142940",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_109166.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_109166",
+    "url": "https://github.com/JonathanM2ndoza/Hexagonal-Architecture-DDD",
+    "title": "GitHub Repository: Hexagonal-Architecture-DDD",
+    "description": "Example of Hexagonal Architecture and DDD",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 143, Language: Java",
+    "metadata": {
+      "author": "JonathanM2ndoza",
+      "stars": 143,
+      "forks": 30,
+      "language": "Java",
+      "topics": [
+        "hexagonal-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T12:08:10Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "JonathanM2ndoza",
+      "last_activity": "2025-08-18T12:08:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 143,
+        "forks": 30,
+        "watchers": 143,
+        "size_kb": 2353,
+        "language": "Java",
+        "topics": [
+          "hexagonal-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.109175+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
