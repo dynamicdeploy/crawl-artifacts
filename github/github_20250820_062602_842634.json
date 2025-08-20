@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:34.008537",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_842634.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_842634",
+    "url": "https://github.com/ddd-by-examples/factory",
+    "title": "GitHub Repository: factory",
+    "description": "The missing, complete example of Domain-Driven Design enterprise application backed by Spring stack",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1367, Language: Java",
+    "metadata": {
+      "author": "ddd-by-examples",
+      "stars": 1367,
+      "forks": 272,
+      "language": "Java",
+      "topics": [
+        "aggregate",
+        "cqrs",
+        "crud",
+        "domain-driven-design",
+        "domain-events",
+        "domain-knowledge",
+        "domain-model",
+        "enterprise-applications",
+        "event-storming",
+        "hexagon",
+        "invariants",
+        "ports-and-adapters"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T07:09:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ddd-by-examples",
+      "last_activity": "2025-08-19T07:09:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1367,
+        "forks": 272,
+        "watchers": 1367,
+        "size_kb": 9782,
+        "language": "Java",
+        "topics": [
+          "aggregate",
+          "cqrs",
+          "crud",
+          "domain-driven-design",
+          "domain-events",
+          "domain-knowledge",
+          "domain-model",
+          "enterprise-applications",
+          "event-storming",
+          "hexagon",
+          "invariants",
+          "ports-and-adapters"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.842637+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
