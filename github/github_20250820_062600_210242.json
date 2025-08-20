@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:03.058781",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_210242.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_210242",
+    "url": "https://github.com/lukas-andre/bun-elysia-clean-architecture-example",
+    "title": "GitHub Repository: bun-elysia-clean-architecture-example",
+    "description": "Bun-Powered Clean Architecture API: Elysia & PostgresJS Notes API Example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 54, Language: TypeScript",
+    "metadata": {
+      "author": "lukas-andre",
+      "stars": 54,
+      "forks": 3,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-08T01:35:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "lukas-andre",
+      "last_activity": "2025-08-08T01:35:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 54,
+        "forks": 3,
+        "watchers": 54,
+        "size_kb": 281,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.210247+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
