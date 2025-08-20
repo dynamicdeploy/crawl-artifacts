@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:31:40.054101",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_206818.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_206818",
+    "url": "https://github.com/Tillman32/CleanArchitecture",
+    "title": "GitHub Repository: CleanArchitecture",
+    "description": "An example of how to implement various clean coding & architecture techniques.  Technologies used: .Net Core, Razor Pages, EF Core, Bootstrap 4",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 112, Language: JavaScript",
+    "metadata": {
+      "author": "Tillman32",
+      "stars": 112,
+      "forks": 11,
+      "language": "JavaScript",
+      "topics": [
+        "architecture",
+        "csharp",
+        "domain-driven-design",
+        "ntier-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-24T16:09:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Tillman32",
+      "last_activity": "2025-07-24T16:09:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 112,
+        "forks": 11,
+        "watchers": 112,
+        "size_kb": 2004,
+        "language": "JavaScript",
+        "topics": [
+          "architecture",
+          "csharp",
+          "domain-driven-design",
+          "ntier-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.206822+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
