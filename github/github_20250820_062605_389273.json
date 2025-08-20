@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:35:15.564468",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_389273.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_389273",
+    "url": "https://github.com/deanrad/rx-helper",
+    "title": "GitHub Repository: rx-helper",
+    "description": "Use events to drive state management, UI updates, etc in a decoupled, event-driven architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21, Language: TypeScript",
+    "metadata": {
+      "author": "deanrad",
+      "stars": 21,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-09-27T22:52:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "deanrad",
+      "last_activity": "2023-09-27T22:52:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21,
+        "forks": 1,
+        "watchers": 21,
+        "size_kb": 3418,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.389280+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
