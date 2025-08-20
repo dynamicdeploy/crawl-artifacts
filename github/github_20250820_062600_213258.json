@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:15.553305",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_213258.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_213258",
+    "url": "https://github.com/tducret/python-clean-architecture-example",
+    "title": "GitHub Repository: python-clean-architecture-example",
+    "description": "Clean architecture example with Python",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 38, Language: None",
+    "metadata": {
+      "author": "tducret",
+      "stars": 38,
+      "forks": 7,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-04-11T12:56:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "tducret",
+      "last_activity": "2024-04-11T12:56:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 38,
+        "forks": 7,
+        "watchers": 38,
+        "size_kb": 95,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.213264+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
