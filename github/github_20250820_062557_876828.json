@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:17.676558",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_876828.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_876828",
+    "url": "https://github.com/meysamhadeli/shop-golang-microservices",
+    "title": "GitHub Repository: shop-golang-microservices",
+    "description": "Practical microservices based on different software architecture and technologies like Golang, CQRS, Vertical Slice Architecture, Docker, RabbitMQ, OpenTelemetry and Postgresql.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 376, Language: Go",
+    "metadata": {
+      "author": "meysamhadeli",
+      "stars": 376,
+      "forks": 55,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "cqrs",
+        "ddd",
+        "echo",
+        "event-driven-architecture",
+        "event-driven-architectures",
+        "go",
+        "golang",
+        "gorm",
+        "grpc",
+        "messaging",
+        "microservice",
+        "microservices",
+        "oauth2",
+        "opentelemetry",
+        "postgresql",
+        "rabbitmq",
+        "testing",
+        "uber-fx",
+        "vertical-slice-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T16:10:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "meysamhadeli",
+      "last_activity": "2025-08-19T16:10:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 376,
+        "forks": 55,
+        "watchers": 376,
+        "size_kb": 2150,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "cqrs",
+          "ddd",
+          "echo",
+          "event-driven-architecture",
+          "event-driven-architectures",
+          "go",
+          "golang",
+          "gorm",
+          "grpc",
+          "messaging",
+          "microservice",
+          "microservices",
+          "oauth2",
+          "opentelemetry",
+          "postgresql",
+          "rabbitmq",
+          "testing",
+          "uber-fx",
+          "vertical-slice-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.876831+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
