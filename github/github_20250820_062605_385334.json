@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:47.581495",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_385334.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_385334",
+    "url": "https://github.com/ecomplus/cloud-commerce",
+    "title": "GitHub Repository: cloud-commerce",
+    "description": "Complete platform on top of headless commerce APIs. High performant Astro + Vue storefront with built-in CMS. Integrations for payments, shipping, ERPs, CRMs and others. Truly extensible event-driven and serverless architecture. Easy and cheap deploy to Firebase.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 51, Language: TypeScript",
+    "metadata": {
+      "author": "ecomplus",
+      "stars": 51,
+      "forks": 8,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T17:11:21Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ecomplus",
+      "last_activity": "2025-08-19T17:11:21Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 51,
+        "forks": 8,
+        "watchers": 51,
+        "size_kb": 14931,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.385338+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
