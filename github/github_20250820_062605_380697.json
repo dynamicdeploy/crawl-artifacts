@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:03.360855",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_380697.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_380697",
+    "url": "https://github.com/WeBankBlockchain/WeEvent",
+    "title": "GitHub Repository: WeEvent",
+    "description": "Event-Driven Architecture Based on Blockchain.基于区块链的事件驱动架构",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 644, Language: Java",
+    "metadata": {
+      "author": "WeBankBlockchain",
+      "stars": 644,
+      "forks": 116,
+      "language": "Java",
+      "topics": [
+        "blockchain",
+        "event-driven",
+        "iot-hub",
+        "message-queue",
+        "mqtt",
+        "stomp",
+        "websocket"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:20:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "WeBankBlockchain",
+      "last_activity": "2025-08-13T11:20:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 644,
+        "forks": 116,
+        "watchers": 644,
+        "size_kb": 39437,
+        "language": "Java",
+        "topics": [
+          "blockchain",
+          "event-driven",
+          "iot-hub",
+          "message-queue",
+          "mqtt",
+          "stomp",
+          "websocket"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.380700+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
