@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:13.165896",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_876260.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_876260",
+    "url": "https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles",
+    "title": "GitHub Repository: Design-Microservices-Architecture-with-Patterns-Principles",
+    "description": "Design Microservices Architecture with Patterns & Principles. Design Microservices Architecture with Design Patterns, Principles and the Best Practices.  How to handle millions of request with designing system for high availability, high scalability, low latency, and resilience to network failures on distributed microservices.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 427, Language: C#",
+    "metadata": {
+      "author": "mehmetozkaya",
+      "stars": 427,
+      "forks": 326,
+      "language": "C#",
+      "topics": [
+        "architecture-diagram",
+        "design-patterns",
+        "design-system",
+        "microservices",
+        "microservices-architecture",
+        "patterns-design",
+        "software-architecture-and-design",
+        "software-architecture-patterns",
+        "system-design"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T16:33:48Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mehmetozkaya",
+      "last_activity": "2025-08-19T16:33:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 427,
+        "forks": 326,
+        "watchers": 427,
+        "size_kb": 10676,
+        "language": "C#",
+        "topics": [
+          "architecture-diagram",
+          "design-patterns",
+          "design-system",
+          "microservices",
+          "microservices-architecture",
+          "patterns-design",
+          "software-architecture-and-design",
+          "software-architecture-patterns",
+          "system-design"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.876264+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
