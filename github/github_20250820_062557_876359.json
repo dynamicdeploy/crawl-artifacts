@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:14.020101",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_876359.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_876359",
+    "url": "https://github.com/minghsu0107/go-random-chat",
+    "title": "GitHub Repository: go-random-chat",
+    "description": "Modern real-time chat in scalable architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 413, Language: Go",
+    "metadata": {
+      "author": "minghsu0107",
+      "stars": 413,
+      "forks": 50,
+      "language": "Go",
+      "topics": [
+        "cassandra",
+        "chat",
+        "go",
+        "kafka",
+        "messaging",
+        "microservices",
+        "random-chat",
+        "real-time",
+        "redis"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-06T23:41:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "minghsu0107",
+      "last_activity": "2025-08-06T23:41:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 413,
+        "forks": 50,
+        "watchers": 413,
+        "size_kb": 690,
+        "language": "Go",
+        "topics": [
+          "cassandra",
+          "chat",
+          "go",
+          "kafka",
+          "messaging",
+          "microservices",
+          "random-chat",
+          "real-time",
+          "redis"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.876362+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
