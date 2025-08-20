@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:29.324217",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_391037.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_391037",
+    "url": "https://github.com/analogdevicesinc/sharc-reusable-components",
+    "title": "GitHub Repository: sharc-reusable-components",
+    "description": "A collection of embedded C code packaged into a library of reusable components and starter examples designed to facilitate customers’ easy deployment into demo or production systems using a SHARC DSP",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 25, Language: C",
+    "metadata": {
+      "author": "analogdevicesinc",
+      "stars": 25,
+      "forks": 6,
+      "language": "C",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-26T15:58:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "analogdevicesinc",
+      "last_activity": "2025-06-26T15:58:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 25,
+        "forks": 6,
+        "watchers": 25,
+        "size_kb": 16166,
+        "language": "C",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.391040+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
