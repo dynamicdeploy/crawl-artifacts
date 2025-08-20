@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:06.536093",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_848901.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_848901",
+    "url": "https://github.com/mploed/ddd-strategic-design-spring-boot",
+    "title": "GitHub Repository: ddd-strategic-design-spring-boot",
+    "description": "Application to demonstrate Domain Driven Design Context Mapping patterns based on Spring Boot",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 345, Language: Java",
+    "metadata": {
+      "author": "mploed",
+      "stars": 345,
+      "forks": 134,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-26T09:04:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mploed",
+      "last_activity": "2025-02-26T09:04:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 345,
+        "forks": 134,
+        "watchers": 345,
+        "size_kb": 370,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.848906+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
