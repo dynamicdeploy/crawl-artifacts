@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:30.264614",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_878384.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_878384",
+    "url": "https://github.com/venkataravuri/e-commerce-microservices-sample",
+    "title": "GitHub Repository: e-commerce-microservices-sample",
+    "description": "A fictitious cloud-native e-commerce application using microservices architecture powered by polyglot languages & databases, deployable to Kubernetes & AWS",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 298, Language: TypeScript",
+    "metadata": {
+      "author": "venkataravuri",
+      "stars": 298,
+      "forks": 206,
+      "language": "TypeScript",
+      "topics": [
+        "cloudnative-services",
+        "docker",
+        "elasticsearch",
+        "kubernetes",
+        "microservices",
+        "mongodb",
+        "nodejs",
+        "python",
+        "redis",
+        "spring-boot",
+        "terraform"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-16T01:57:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "venkataravuri",
+      "last_activity": "2025-08-16T01:57:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 298,
+        "forks": 206,
+        "watchers": 298,
+        "size_kb": 1822,
+        "language": "TypeScript",
+        "topics": [
+          "cloudnative-services",
+          "docker",
+          "elasticsearch",
+          "kubernetes",
+          "microservices",
+          "mongodb",
+          "nodejs",
+          "python",
+          "redis",
+          "spring-boot",
+          "terraform"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.878387+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
