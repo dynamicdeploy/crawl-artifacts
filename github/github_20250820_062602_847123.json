@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:48.674084",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_847123.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_847123",
+    "url": "https://github.com/ardalis/DDD-NoDuplicates",
+    "title": "GitHub Repository: DDD-NoDuplicates",
+    "description": "Some design approaches to enforcing a business rule requiring no duplicates. Domain driven design.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 577, Language: C#",
+    "metadata": {
+      "author": "ardalis",
+      "stars": 577,
+      "forks": 56,
+      "language": "C#",
+      "topics": [
+        "business-rules",
+        "ddd",
+        "design",
+        "domain",
+        "domain-driven",
+        "entity",
+        "mediatr",
+        "rules"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T13:42:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ardalis",
+      "last_activity": "2025-08-13T13:42:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 577,
+        "forks": 56,
+        "watchers": 577,
+        "size_kb": 65,
+        "language": "C#",
+        "topics": [
+          "business-rules",
+          "ddd",
+          "design",
+          "domain",
+          "domain-driven",
+          "entity",
+          "mediatr",
+          "rules"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.847126+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
