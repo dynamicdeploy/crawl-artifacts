@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:42.685873",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_853574.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_853574",
+    "url": "https://github.com/ivaylokenov/Domain-Driven-Design-with-ASP.NET-Core-Microservices",
+    "title": "GitHub Repository: Domain-Driven-Design-with-ASP.NET-Core-Microservices",
+    "description": "Domain-Driven Design with ASP.NET Core Microservices",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 141, Language: C#",
+    "metadata": {
+      "author": "ivaylokenov",
+      "stars": 141,
+      "forks": 27,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-03-28T13:56:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ivaylokenov",
+      "last_activity": "2025-03-28T13:56:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 141,
+        "forks": 27,
+        "watchers": 141,
+        "size_kb": 256,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.853577+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
