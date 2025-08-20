@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:02.089633",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_875240.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_875240",
+    "url": "https://github.com/gbrayhan/microservices-go",
+    "title": "GitHub Repository: microservices-go",
+    "description": "Golang Microservice Boilerplate using PSQL, Docker and  Cucumber, API REST. Gin Go and GORM with pagination and implementation of a Clean Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 641, Language: Go",
+    "metadata": {
+      "author": "gbrayhan",
+      "stars": 641,
+      "forks": 75,
+      "language": "Go",
+      "topics": [
+        "boilerplate",
+        "boilerplate-go",
+        "boilerplate-golang",
+        "boilerplate-microservice",
+        "clean-architecture",
+        "cucumber",
+        "cucumber-go",
+        "docker",
+        "gin",
+        "go",
+        "golang",
+        "golang-examples",
+        "gorm",
+        "hexagonal-architecture",
+        "ia-golang",
+        "jwt",
+        "microservices-architecture",
+        "pagination",
+        "rest-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-16T11:43:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "gbrayhan",
+      "last_activity": "2025-08-16T11:43:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 641,
+        "forks": 75,
+        "watchers": 641,
+        "size_kb": 10323,
+        "language": "Go",
+        "topics": [
+          "boilerplate",
+          "boilerplate-go",
+          "boilerplate-golang",
+          "boilerplate-microservice",
+          "clean-architecture",
+          "cucumber",
+          "cucumber-go",
+          "docker",
+          "gin",
+          "go",
+          "golang",
+          "golang-examples",
+          "gorm",
+          "hexagonal-architecture",
+          "ia-golang",
+          "jwt",
+          "microservices-architecture",
+          "pagination",
+          "rest-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.875244+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
