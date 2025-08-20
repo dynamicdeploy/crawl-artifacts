@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:16.760543",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_876717.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_876717",
+    "url": "https://github.com/DivanteLtd/microservices-book",
+    "title": "GitHub Repository: microservices-book",
+    "description": "\"Microservices Architecture for eCommerce\" is an Open Source Book on Microservices and Headless eCommerce. Feel invited to contribute! Read online or download a PDF",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 383, Language: JavaScript",
+    "metadata": {
+      "author": "DivanteLtd",
+      "stars": 383,
+      "forks": 76,
+      "language": "JavaScript",
+      "topics": [
+        "architecture",
+        "best-practices",
+        "case-study",
+        "cto",
+        "ecommerce",
+        "engineering",
+        "magento",
+        "microservice",
+        "microservices-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-03T13:35:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "DivanteLtd",
+      "last_activity": "2025-07-03T13:35:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 383,
+        "forks": 76,
+        "watchers": 383,
+        "size_kb": 7478,
+        "language": "JavaScript",
+        "topics": [
+          "architecture",
+          "best-practices",
+          "case-study",
+          "cto",
+          "ecommerce",
+          "engineering",
+          "magento",
+          "microservice",
+          "microservices-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.876721+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
