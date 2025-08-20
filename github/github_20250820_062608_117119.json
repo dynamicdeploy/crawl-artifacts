@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:23.441033",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_117119.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_117119",
+    "url": "https://github.com/mguinea/laravel-ddd-example",
+    "title": "GitHub Repository: laravel-ddd-example",
+    "description": "Hexagonal Architecture + DDD + CQRS in PHP using Laravel 8",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 93, Language: PHP",
+    "metadata": {
+      "author": "mguinea",
+      "stars": 93,
+      "forks": 18,
+      "language": "PHP",
+      "topics": [
+        "best-practices",
+        "bounded-context",
+        "cqrs",
+        "ddd",
+        "docker",
+        "domain-driven-design",
+        "eloquent",
+        "hexagonal-architecture",
+        "laravel",
+        "microservice",
+        "modular",
+        "monorepo",
+        "php",
+        "phpunit",
+        "scalability",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-19T08:22:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mguinea",
+      "last_activity": "2025-06-19T08:22:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 93,
+        "forks": 18,
+        "watchers": 93,
+        "size_kb": 274037,
+        "language": "PHP",
+        "topics": [
+          "best-practices",
+          "bounded-context",
+          "cqrs",
+          "ddd",
+          "docker",
+          "domain-driven-design",
+          "eloquent",
+          "hexagonal-architecture",
+          "laravel",
+          "microservice",
+          "modular",
+          "monorepo",
+          "php",
+          "phpunit",
+          "scalability",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.117123+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
