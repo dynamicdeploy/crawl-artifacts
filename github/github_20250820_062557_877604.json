@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:23.522518",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_877604.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_877604",
+    "url": "https://github.com/ujjavaldesai07/spring-boot-react-ecommerce-app",
+    "title": "GitHub Repository: spring-boot-react-ecommerce-app",
+    "description": "eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 342, Language: JavaScript",
+    "metadata": {
+      "author": "ujjavaldesai07",
+      "stars": 342,
+      "forks": 176,
+      "language": "JavaScript",
+      "topics": [
+        "cloudinary",
+        "heroku",
+        "java",
+        "microservices",
+        "mysql",
+        "oauth2",
+        "react-redux",
+        "react-router",
+        "reactjs",
+        "redis",
+        "redux-form",
+        "redux-thunk",
+        "spring-jpa",
+        "spring-rest",
+        "springboot2-x",
+        "stripe-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-06T12:17:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ujjavaldesai07",
+      "last_activity": "2025-08-06T12:17:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 342,
+        "forks": 176,
+        "watchers": 342,
+        "size_kb": 22090,
+        "language": "JavaScript",
+        "topics": [
+          "cloudinary",
+          "heroku",
+          "java",
+          "microservices",
+          "mysql",
+          "oauth2",
+          "react-redux",
+          "react-router",
+          "reactjs",
+          "redis",
+          "redux-form",
+          "redux-thunk",
+          "spring-jpa",
+          "spring-rest",
+          "springboot2-x",
+          "stripe-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.877608+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
