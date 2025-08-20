@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:07.039468",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_210644.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_210644",
+    "url": "https://github.com/sslr/laravel-clean-architecture-example",
+    "title": "GitHub Repository: laravel-clean-architecture-example",
+    "description": "my personal example of Laravel clean architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 48, Language: PHP",
+    "metadata": {
+      "author": "sslr",
+      "stars": 48,
+      "forks": 13,
+      "language": "PHP",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-17T14:32:18Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sslr",
+      "last_activity": "2025-02-17T14:32:18Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 48,
+        "forks": 13,
+        "watchers": 48,
+        "size_kb": 96,
+        "language": "PHP",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.210647+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
