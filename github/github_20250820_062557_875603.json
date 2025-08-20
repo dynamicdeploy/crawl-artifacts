@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:06.050081",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_875603.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_875603",
+    "url": "https://github.com/codergogoi/nodejs_microservice",
+    "title": "GitHub Repository: nodejs_microservice",
+    "description": "NodeJS Microservice Architecture Example with the real-time project. This is a practical source code of the NodeJS Microservice tutorial series. Where we have split up a monolithic application into Microservices Architecture. The main goal of this repository is to provide an overview of how the microservices architecture is working with nodejs and what is the complexity we need to resolve to achieve the outcome from a Monolithic architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 530, Language: JavaScript",
+    "metadata": {
+      "author": "codergogoi",
+      "stars": 530,
+      "forks": 291,
+      "language": "JavaScript",
+      "topics": [
+        "architecture",
+        "microservice",
+        "microservices",
+        "microservices-architecture",
+        "nodejs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T06:59:10Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "codergogoi",
+      "last_activity": "2025-08-17T06:59:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 530,
+        "forks": 291,
+        "watchers": 530,
+        "size_kb": 1764,
+        "language": "JavaScript",
+        "topics": [
+          "architecture",
+          "microservice",
+          "microservices",
+          "microservices-architecture",
+          "nodejs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.875606+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
