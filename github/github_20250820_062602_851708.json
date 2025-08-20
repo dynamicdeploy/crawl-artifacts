@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:25.131033",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_851708.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_851708",
+    "url": "https://github.com/knucklesuganda/py_assimilator",
+    "title": "GitHub Repository: py_assimilator",
+    "description": "Python Domain-Driven Design, Event-Based Systems, CRUD patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 215, Language: Python",
+    "metadata": {
+      "author": "knucklesuganda",
+      "stars": 215,
+      "forks": 7,
+      "language": "Python",
+      "topics": [
+        "architecture",
+        "ddd",
+        "domain-driven-design",
+        "good-practices",
+        "goodcode",
+        "module",
+        "patterns",
+        "python",
+        "python3",
+        "pythonmodule",
+        "web"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T13:25:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "knucklesuganda",
+      "last_activity": "2025-08-14T13:25:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 215,
+        "forks": 7,
+        "watchers": 215,
+        "size_kb": 3146,
+        "language": "Python",
+        "topics": [
+          "architecture",
+          "ddd",
+          "domain-driven-design",
+          "good-practices",
+          "goodcode",
+          "module",
+          "patterns",
+          "python",
+          "python3",
+          "pythonmodule",
+          "web"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.851711+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
