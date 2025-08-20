@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:41.827781",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_392579.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_392579",
+    "url": "https://github.com/marccasian/KaryML-Framework",
+    "title": "GitHub Repository: KaryML-Framework",
+    "description": "Machine Learning (ML) research within medicine and healthcare represents one of the most challenging domains for both engineers and medical specialists. One of the most desired tasks to be accomplished using ML applications is represented by disease detection. A good example of such a task is the detection of genetic abnormalities like Down syndrome, Klinefelter syndrome or Hemophilia. Usually, clinicians are doing chromosome analysis using the karyotype to detect such disorders. The main contribution of the current article consists of introducing a new approach called KaryML Framework, which is extending our previous research: KarySOM: An Unsupervised Learning based Approach for Human Karyotyping using Self-Organizing Maps . Our major goal is to provide a new method for an automated karyotyping system using unsupervised techniques. Additionally, we provide computational methods for chromosome feature extraction and to develop an intelligent system designed to aid clinicians during the karyotyping process.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 16, Language: Python",
+    "metadata": {
+      "author": "marccasian",
+      "stars": 16,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "chromosomal-disorder",
+        "chromosomes",
+        "fuzzy-self-organizing-map",
+        "karyotype",
+        "self-organizing-map",
+        "unsupervised-learning"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-27T17:14:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "marccasian",
+      "last_activity": "2025-05-27T17:14:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 16,
+        "forks": 0,
+        "watchers": 16,
+        "size_kb": 10733,
+        "language": "Python",
+        "topics": [
+          "chromosomal-disorder",
+          "chromosomes",
+          "fuzzy-self-organizing-map",
+          "karyotype",
+          "self-organizing-map",
+          "unsupervised-learning"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.392582+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
