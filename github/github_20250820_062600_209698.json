@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:00.270434",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_209698.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_209698",
+    "url": "https://github.com/suzukalight/clean-architecture-nodejs-graphql-codegen",
+    "title": "GitHub Repository: clean-architecture-nodejs-graphql-codegen",
+    "description": "Implementation example of clean architecture by Node.js and Next.js",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 59, Language: TypeScript",
+    "metadata": {
+      "author": "suzukalight",
+      "stars": 59,
+      "forks": 8,
+      "language": "TypeScript",
+      "topics": [
+        "apollo-server",
+        "clean-architecture",
+        "graphql-codegen",
+        "mysql",
+        "nextjs",
+        "nodejs",
+        "reactjs",
+        "typeorm",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-07-13T13:53:23Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "suzukalight",
+      "last_activity": "2024-07-13T13:53:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 59,
+        "forks": 8,
+        "watchers": 59,
+        "size_kb": 4046,
+        "language": "TypeScript",
+        "topics": [
+          "apollo-server",
+          "clean-architecture",
+          "graphql-codegen",
+          "mysql",
+          "nextjs",
+          "nodejs",
+          "reactjs",
+          "typeorm",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.209702+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
