@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:33.854622",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_391501.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_391501",
+    "url": "https://github.com/vijayksingh/Frontend-System-Design",
+    "title": "GitHub Repository: Frontend-System-Design",
+    "description": "A collection of notes and examples related to Frontend system design. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 21, Language: None",
+    "metadata": {
+      "author": "vijayksingh",
+      "stars": 21,
+      "forks": 3,
+      "language": "en",
+      "topics": [
+        "frontend-interview",
+        "frontend-system-design",
+        "frontendmentor-challenge",
+        "system-design"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T09:27:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "vijayksingh",
+      "last_activity": "2025-08-18T09:27:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 21,
+        "forks": 3,
+        "watchers": 21,
+        "size_kb": 34,
+        "language": null,
+        "topics": [
+          "frontend-interview",
+          "frontend-system-design",
+          "frontendmentor-challenge",
+          "system-design"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.391504+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
