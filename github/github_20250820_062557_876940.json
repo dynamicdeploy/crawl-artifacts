@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:30:18.625254",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_876940.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_876940",
+    "url": "https://github.com/merikbest/twitter-spring-reactjs",
+    "title": "GitHub Repository: twitter-spring-reactjs",
+    "description": ":bird: Twitter Clone with Microservice Architecture using Java 17, Spring Boot, Spring Cloud, PostgreSQL, S3 bucket, JWT, TypeScript, React.js, Redux-Saga, Material-UI",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 374, Language: TypeScript",
+    "metadata": {
+      "author": "merikbest",
+      "stars": 374,
+      "forks": 121,
+      "language": "TypeScript",
+      "topics": [
+        "fullstack",
+        "java",
+        "javascript",
+        "jwt",
+        "material-ui",
+        "material-ui-react",
+        "microservice",
+        "postgresql",
+        "reactjs",
+        "redux-saga",
+        "s3-bucket",
+        "social-network",
+        "spring",
+        "spring-boot",
+        "spring-cloud",
+        "twitter",
+        "twitter-clone",
+        "typescript",
+        "websocket"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T19:28:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "merikbest",
+      "last_activity": "2025-08-18T19:28:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 374,
+        "forks": 121,
+        "watchers": 374,
+        "size_kb": 21282,
+        "language": "TypeScript",
+        "topics": [
+          "fullstack",
+          "java",
+          "javascript",
+          "jwt",
+          "material-ui",
+          "material-ui-react",
+          "microservice",
+          "postgresql",
+          "reactjs",
+          "redux-saga",
+          "s3-bucket",
+          "social-network",
+          "spring",
+          "spring-boot",
+          "spring-cloud",
+          "twitter",
+          "twitter-clone",
+          "typescript",
+          "websocket"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.876943+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
