@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:36:34.982406",
+    "crawler_type": "github",
+    "filename": "github_20250820_062608_118777.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062608_118777",
+    "url": "https://github.com/gsvaldevieso/go-dream-architecture",
+    "title": "GitHub Repository: go-dream-architecture",
+    "description": "An attempt to build a maintainable architecture in go projects, based on Hexagonal Architecture, The Clean Architecture, Onion Architecture, DDD, etc.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 72, Language: Go",
+    "metadata": {
+      "author": "gsvaldevieso",
+      "stars": 72,
+      "forks": 9,
+      "language": "Go",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "clean-code",
+        "ddd",
+        "ddd-architecture",
+        "design",
+        "design-pattern",
+        "golang",
+        "hexagonal",
+        "hexagonal-architecture",
+        "maintenance",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-10-10T17:23:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "gsvaldevieso",
+      "last_activity": "2024-10-10T17:23:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 72,
+        "forks": 9,
+        "watchers": 72,
+        "size_kb": 16,
+        "language": "Go",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "clean-code",
+          "ddd",
+          "ddd-architecture",
+          "design",
+          "design-pattern",
+          "golang",
+          "hexagonal",
+          "hexagonal-architecture",
+          "maintenance",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:08.118780+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
