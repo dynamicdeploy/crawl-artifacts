@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:40.347074",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_853406.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_853406",
+    "url": "https://github.com/thejano/laravel-domain-driven-design",
+    "title": "GitHub Repository: laravel-domain-driven-design",
+    "description": "Helps to use domain driven design within Laravel",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 151, Language: PHP",
+    "metadata": {
+      "author": "thejano",
+      "stars": 151,
+      "forks": 18,
+      "language": "PHP",
+      "topics": [
+        "ddd",
+        "ddd-architecture",
+        "ddd-patterns",
+        "design",
+        "design-patterns",
+        "domain-driven-design",
+        "laravel",
+        "php"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-13T19:57:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "thejano",
+      "last_activity": "2025-07-13T19:57:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 151,
+        "forks": 18,
+        "watchers": 151,
+        "size_kb": 134,
+        "language": "PHP",
+        "topics": [
+          "ddd",
+          "ddd-architecture",
+          "ddd-patterns",
+          "design",
+          "design-patterns",
+          "domain-driven-design",
+          "laravel",
+          "php"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.853409+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
