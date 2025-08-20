@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:32:16.417498",
+    "crawler_type": "github",
+    "filename": "github_20250820_062600_213400.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062600_213400",
+    "url": "https://github.com/andrzejchm/flutter-app-showcase",
+    "title": "GitHub Repository: flutter-app-showcase",
+    "description": " This repository showcases a Flutter project that implements Clean Architecture, Clean Code, and MVP pattern. It serves as a starting point for developers to learn about these concepts in Flutter, and provides a clear example of their implementation in a real-world scenario.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 36, Language: Dart",
+    "metadata": {
+      "author": "andrzejchm",
+      "stars": 36,
+      "forks": 35,
+      "language": "Dart",
+      "topics": [
+        "architecture",
+        "dart",
+        "flutter"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-12-24T08:01:26Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "andrzejchm",
+      "last_activity": "2024-12-24T08:01:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 36,
+        "forks": 35,
+        "watchers": 36,
+        "size_kb": 1122,
+        "language": "Dart",
+        "topics": [
+          "architecture",
+          "dart",
+          "flutter"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:00.213405+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
