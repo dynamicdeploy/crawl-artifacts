@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:29:50.274161",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_873483.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_873483",
+    "url": "https://github.com/Denrox/nestjs-microservices-example",
+    "title": "GitHub Repository: nestjs-microservices-example",
+    "description": "A working example of microservice architecture implementation using nestjs framework. I you are interested in self hosting apps and implementing self-sufficient/airgapped software setups, check out my project https://github.com/Denrox/ui-apt-mirror",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 963, Language: TypeScript",
+    "metadata": {
+      "author": "Denrox",
+      "stars": 963,
+      "forks": 271,
+      "language": "TypeScript",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "microservice-architecture",
+        "microservices",
+        "mongoose",
+        "nestjs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T11:39:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Denrox",
+      "last_activity": "2025-08-18T11:39:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 963,
+        "forks": 271,
+        "watchers": 963,
+        "size_kb": 71,
+        "language": "TypeScript",
+        "topics": [
+          "docker",
+          "docker-compose",
+          "microservice-architecture",
+          "microservices",
+          "mongoose",
+          "nestjs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.873487+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
