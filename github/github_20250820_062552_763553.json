@@ -1,0 +1,55 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:26:28.102908",
+    "crawler_type": "github",
+    "filename": "github_20250820_062552_763553.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062552_763553",
+    "url": "https://github.com/i5ar/awesome-architecture",
+    "title": "GitHub Repository: awesome-architecture",
+    "description": "A curated list of awesome software, libraries, resources and shiny things used in the architecture industry",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 41, Language: Python",
+    "metadata": {
+      "author": "i5ar",
+      "stars": 41,
+      "forks": 8,
+      "language": "Python",
+      "topics": [
+        "architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-02-20T08:12:50Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "i5ar",
+      "last_activity": "2025-02-20T08:12:50Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 41,
+        "forks": 8,
+        "watchers": 41,
+        "size_kb": 31,
+        "language": "Python",
+        "topics": [
+          "architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:52.763560+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
