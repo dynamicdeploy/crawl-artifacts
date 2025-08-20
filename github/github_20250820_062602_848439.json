@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:01.870911",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_848439.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_848439",
+    "url": "https://github.com/mehdihadeli/food-delivery-modular-monolith",
+    "title": "GitHub Repository: food-delivery-modular-monolith",
+    "description": "🌭 A practical and imaginary food and grocery delivery modular monolith, built with .Net 8, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 379, Language: C#",
+    "metadata": {
+      "author": "mehdihadeli",
+      "stars": 379,
+      "forks": 56,
+      "language": "C#",
+      "topics": [
+        "clean-architechture",
+        "cqrs",
+        "ddd",
+        "ddd-example",
+        "domain-driven-design",
+        "dotnet",
+        "dotnetcore",
+        "event-driven-architecture",
+        "event-driven-architectures",
+        "integration-testing",
+        "message-broker",
+        "message-bus",
+        "modular",
+        "modular-monolith",
+        "monolith",
+        "netcore",
+        "vertical-slice-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T20:56:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mehdihadeli",
+      "last_activity": "2025-08-19T20:56:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 379,
+        "forks": 56,
+        "watchers": 379,
+        "size_kb": 4232,
+        "language": "C#",
+        "topics": [
+          "clean-architechture",
+          "cqrs",
+          "ddd",
+          "ddd-example",
+          "domain-driven-design",
+          "dotnet",
+          "dotnetcore",
+          "event-driven-architecture",
+          "event-driven-architectures",
+          "integration-testing",
+          "message-broker",
+          "message-bus",
+          "modular",
+          "modular-monolith",
+          "monolith",
+          "netcore",
+          "vertical-slice-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.848442+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
