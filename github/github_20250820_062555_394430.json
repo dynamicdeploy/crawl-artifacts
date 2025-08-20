@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:27:51.854509",
+    "crawler_type": "github",
+    "filename": "github_20250820_062555_394430.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062555_394430",
+    "url": "https://github.com/max9159/system-design",
+    "title": "GitHub Repository: system-design",
+    "description": "Provide a comprehensive collection of system design concepts and examples using `Mermaid diagrams` and `draw.io`.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: HTML",
+    "metadata": {
+      "author": "max9159",
+      "stars": 11,
+      "forks": 0,
+      "language": "HTML",
+      "topics": [
+        "diagram",
+        "drawio",
+        "mermaid",
+        "mermaid-diagrams",
+        "system-design",
+        "uml"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-21T09:30:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "max9159",
+      "last_activity": "2025-07-21T09:30:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 0,
+        "watchers": 11,
+        "size_kb": 542,
+        "language": "HTML",
+        "topics": [
+          "diagram",
+          "drawio",
+          "mermaid",
+          "mermaid-diagrams",
+          "system-design",
+          "uml"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:55.394434+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
