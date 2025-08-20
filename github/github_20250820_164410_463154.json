@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T09:44:12.898569",
+    "crawler_type": "github",
+    "filename": "github_20250820_164410_463154.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_164410_463154",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "title": "GitHub Repository: awesome-software-architecture",
+    "description": "📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9613, Language: None",
+    "metadata": {
+      "author": "mehdihadeli",
+      "stars": 9613,
+      "forks": 802,
+      "language": "en",
+      "topics": [
+        "architectural-patterns",
+        "architectural-styles",
+        "architecture",
+        "awesome-list",
+        "clean-architecture",
+        "ddd",
+        "ddd-architecture",
+        "design-pattern",
+        "design-patterns",
+        "design-systems",
+        "event-driven-architecture",
+        "microservice",
+        "microservices",
+        "microservices-architecture",
+        "modular-monoliths",
+        "onion-architecture",
+        "oop",
+        "software-architecture",
+        "system-design",
+        "vertical-slice-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T11:58:59Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mehdihadeli",
+      "last_activity": "2025-08-20T11:58:59Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9613,
+        "forks": 802,
+        "watchers": 9613,
+        "size_kb": 3201,
+        "language": null,
+        "topics": [
+          "architectural-patterns",
+          "architectural-styles",
+          "architecture",
+          "awesome-list",
+          "clean-architecture",
+          "ddd",
+          "ddd-architecture",
+          "design-pattern",
+          "design-patterns",
+          "design-systems",
+          "event-driven-architecture",
+          "microservice",
+          "microservices",
+          "microservices-architecture",
+          "modular-monoliths",
+          "onion-architecture",
+          "oop",
+          "software-architecture",
+          "system-design",
+          "vertical-slice-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T16:44:10.463159+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
