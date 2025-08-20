@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:33:18.420545",
+    "crawler_type": "github",
+    "filename": "github_20250820_062602_850103.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062602_850103",
+    "url": "https://github.com/SamHatoum/typescript-event-sourcing",
+    "title": "GitHub Repository: typescript-event-sourcing",
+    "description": "Domain Driven Design, Event Sourcing & Command Query Responsibility Segregation with Typescript",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 262, Language: TypeScript",
+    "metadata": {
+      "author": "SamHatoum",
+      "stars": 262,
+      "forks": 32,
+      "language": "TypeScript",
+      "topics": [
+        "command-query-pattern",
+        "cqrs-es",
+        "ddd",
+        "domain-driven-design",
+        "event-sourcing",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-25T10:36:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "SamHatoum",
+      "last_activity": "2025-07-25T10:36:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 262,
+        "forks": 32,
+        "watchers": 262,
+        "size_kb": 2058,
+        "language": "TypeScript",
+        "topics": [
+          "command-query-pattern",
+          "cqrs-es",
+          "ddd",
+          "domain-driven-design",
+          "event-sourcing",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:02.850106+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
