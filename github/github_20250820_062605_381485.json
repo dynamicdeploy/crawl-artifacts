@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:34:12.316797",
+    "crawler_type": "github",
+    "filename": "github_20250820_062605_381485.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062605_381485",
+    "url": "https://github.com/circuits/circuits",
+    "title": "GitHub Repository: circuits",
+    "description": "circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 317, Language: Python",
+    "metadata": {
+      "author": "circuits",
+      "stars": 317,
+      "forks": 56,
+      "language": "Python",
+      "topics": [
+        "asynchronous",
+        "asyncio",
+        "component",
+        "coroutines",
+        "distributed",
+        "events",
+        "framework",
+        "http",
+        "http-client",
+        "http-sever",
+        "python",
+        "rest-api",
+        "sockets",
+        "web",
+        "websockets"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-05T09:56:39Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "circuits",
+      "last_activity": "2025-08-05T09:56:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 317,
+        "forks": 56,
+        "watchers": 317,
+        "size_kb": 29779,
+        "language": "Python",
+        "topics": [
+          "asynchronous",
+          "asyncio",
+          "component",
+          "coroutines",
+          "distributed",
+          "events",
+          "framework",
+          "http",
+          "http-client",
+          "http-sever",
+          "python",
+          "rest-api",
+          "sockets",
+          "web",
+          "websockets"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:26:05.381489+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
