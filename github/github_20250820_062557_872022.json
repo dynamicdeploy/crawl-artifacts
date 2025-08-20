@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-19T23:28:40.258582",
+    "crawler_type": "github",
+    "filename": "github_20250820_062557_872022.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250820_062557_872022",
+    "url": "https://github.com/honzaap/Systemizer",
+    "title": "GitHub Repository: Systemizer",
+    "description": "A system design tool that allows you to simulate data flow of distributed systems.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1420, Language: TypeScript",
+    "metadata": {
+      "author": "honzaap",
+      "stars": 1420,
+      "forks": 88,
+      "language": "TypeScript",
+      "topics": [
+        "architecture",
+        "backend",
+        "data-flow",
+        "database",
+        "design-tool",
+        "distributed-systems",
+        "microservices",
+        "microservices-architecture",
+        "scalability",
+        "server",
+        "system-design",
+        "visualization",
+        "web-development"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T06:16:19Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "honzaap",
+      "last_activity": "2025-08-15T06:16:19Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1420,
+        "forks": 88,
+        "watchers": 1420,
+        "size_kb": 10745,
+        "language": "TypeScript",
+        "topics": [
+          "architecture",
+          "backend",
+          "data-flow",
+          "database",
+          "design-tool",
+          "distributed-systems",
+          "microservices",
+          "microservices-architecture",
+          "scalability",
+          "server",
+          "system-design",
+          "visualization",
+          "web-development"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-20T06:25:57.872027+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
