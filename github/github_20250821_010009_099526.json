@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:06.125456",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_099526.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_099526",
+    "url": "https://github.com/meysamhadeli/booking-microservices-expressjs",
+    "title": "GitHub Repository: booking-microservices-expressjs",
+    "description": "Practical microservices, built with Node.Js, CQRS, Vertical Slice Architecture, Event-Driven Architecture, Postgres, RabbitMQ, Express and the latest technologies.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 249, Language: TypeScript",
+    "metadata": {
+      "author": "meysamhadeli",
+      "stars": 249,
+      "forks": 37,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T12:19:03Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "meysamhadeli",
+      "last_activity": "2025-08-20T12:19:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 249,
+        "forks": 37,
+        "watchers": 249,
+        "size_kb": 19001,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.099529+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
