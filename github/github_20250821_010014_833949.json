@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:55.209716",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_833949.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_833949",
+    "url": "https://github.com/baratgabor/MyWarehouse",
+    "title": "GitHub Repository: MyWarehouse",
+    "description": "Clean Architecture and Domain Driven Design sample project based on C# 10 / .NET 6 / ASP.NET Core 6 / EF Core 6 & Angular 11 with Bootstrap.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 262, Language: C#",
+    "metadata": {
+      "author": "baratgabor",
+      "stars": 262,
+      "forks": 69,
+      "language": "C#",
+      "topics": [
+        "angular11",
+        "asp-net-core",
+        "asp-net-core-6",
+        "bootstrap",
+        "clean-architecture",
+        "ddd",
+        "domain-driven-design",
+        "efcore",
+        "efcore6",
+        "vertical-slice-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-27T01:32:45Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "baratgabor",
+      "last_activity": "2025-07-27T01:32:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 262,
+        "forks": 69,
+        "watchers": 262,
+        "size_kb": 4012,
+        "language": "C#",
+        "topics": [
+          "angular11",
+          "asp-net-core",
+          "asp-net-core-6",
+          "bootstrap",
+          "clean-architecture",
+          "ddd",
+          "domain-driven-design",
+          "efcore",
+          "efcore6",
+          "vertical-slice-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.833952+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
