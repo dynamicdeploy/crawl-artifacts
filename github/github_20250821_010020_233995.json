@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:09:34.447553",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_233995.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_233995",
+    "url": "https://github.com/arhohuttunen/spring-boot-hexagonal-architecture",
+    "title": "GitHub Repository: spring-boot-hexagonal-architecture",
+    "description": "This is the repository containing an example application for my blog post about Hexagonal Architecture with Spring Boot.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 165, Language: Java",
+    "metadata": {
+      "author": "arhohuttunen",
+      "stars": 165,
+      "forks": 33,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:24:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "arhohuttunen",
+      "last_activity": "2025-08-13T11:24:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 165,
+        "forks": 33,
+        "watchers": 165,
+        "size_kb": 240,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.233997+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
