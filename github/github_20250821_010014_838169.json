@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:17.129931",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_838169.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_838169",
+    "url": "https://github.com/chensheng/ddd-boot",
+    "title": "GitHub Repository: ddd-boot",
+    "description": "DDD (Domain-Driven Design) 领域驱动设计工程化落地框架，基于spring-boot的DDD开发框架。",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 143, Language: Java",
+    "metadata": {
+      "author": "chensheng",
+      "stars": 143,
+      "forks": 2,
+      "language": "Java",
+      "topics": [
+        "ddd",
+        "framework",
+        "java",
+        "microservice",
+        "spring-boot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:28:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "chensheng",
+      "last_activity": "2025-08-19T03:28:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 143,
+        "forks": 2,
+        "watchers": 143,
+        "size_kb": 435,
+        "language": "Java",
+        "topics": [
+          "ddd",
+          "framework",
+          "java",
+          "microservice",
+          "spring-boot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.838172+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
