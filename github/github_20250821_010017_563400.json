@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:19.441258",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_563400.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_563400",
+    "url": "https://github.com/pablothedolphin/Scriptable-Framework",
+    "title": "GitHub Repository: Scriptable-Framework",
+    "description": "A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 65, Language: C#",
+    "metadata": {
+      "author": "pablothedolphin",
+      "stars": 65,
+      "forks": 3,
+      "language": "C#",
+      "topics": [
+        "dependency-injection",
+        "framework",
+        "modularity",
+        "unity"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-07-15T09:22:45Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "pablothedolphin",
+      "last_activity": "2024-07-15T09:22:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 65,
+        "forks": 3,
+        "watchers": 65,
+        "size_kb": 3489,
+        "language": "C#",
+        "topics": [
+          "dependency-injection",
+          "framework",
+          "modularity",
+          "unity"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.563403+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
