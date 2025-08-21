@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:22.098092",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_681833.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_681833",
+    "url": "https://github.com/irahardianto/service-pattern-go",
+    "title": "GitHub Repository: service-pattern-go",
+    "description": "Simple clean Go REST API architecture with dependency injection and mocking example, following SOLID principles.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 885, Language: Go",
+    "metadata": {
+      "author": "irahardianto",
+      "stars": 885,
+      "forks": 120,
+      "language": "Go",
+      "topics": [
+        "api",
+        "circuit-breaker",
+        "clean-architecture",
+        "dependency-injection",
+        "design-patterns",
+        "go",
+        "golang",
+        "mock",
+        "rest-api",
+        "solid",
+        "solid-principles",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-31T15:42:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "irahardianto",
+      "last_activity": "2025-07-31T15:42:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 885,
+        "forks": 120,
+        "watchers": 885,
+        "size_kb": 8007,
+        "language": "Go",
+        "topics": [
+          "api",
+          "circuit-breaker",
+          "clean-architecture",
+          "dependency-injection",
+          "design-patterns",
+          "go",
+          "golang",
+          "mock",
+          "rest-api",
+          "solid",
+          "solid-principles",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.681837+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
