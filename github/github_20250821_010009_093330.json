@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:25.946379",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_093330.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_093330",
+    "url": "https://github.com/scalecube/scalecube-services",
+    "title": "GitHub Repository: scalecube-services",
+    "description": "Microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. It features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 629, Language: Java",
+    "metadata": {
+      "author": "scalecube",
+      "stars": 629,
+      "forks": 109,
+      "language": "Java",
+      "topics": [
+        "actor-model",
+        "aeron",
+        "api-gateway",
+        "backpressure",
+        "cluster",
+        "cluster-membership",
+        "distributed-systems",
+        "gossip-protocol",
+        "ipc",
+        "k8s",
+        "low-latency",
+        "microservices",
+        "multicast-streams",
+        "reactive-microservices",
+        "reactive-streams",
+        "reactor-aeron",
+        "reactor-netty",
+        "service-discovery",
+        "service-mesh",
+        "swim-protocol"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T13:38:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "scalecube",
+      "last_activity": "2025-08-20T13:38:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 629,
+        "forks": 109,
+        "watchers": 629,
+        "size_kb": 7188,
+        "language": "Java",
+        "topics": [
+          "actor-model",
+          "aeron",
+          "api-gateway",
+          "backpressure",
+          "cluster",
+          "cluster-membership",
+          "distributed-systems",
+          "gossip-protocol",
+          "ipc",
+          "k8s",
+          "low-latency",
+          "microservices",
+          "multicast-streams",
+          "reactive-microservices",
+          "reactive-streams",
+          "reactor-aeron",
+          "reactor-netty",
+          "service-discovery",
+          "service-mesh",
+          "swim-protocol"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.093387+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
