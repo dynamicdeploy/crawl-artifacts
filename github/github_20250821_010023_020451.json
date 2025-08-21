@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:58.659472",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_020451.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_020451",
+    "url": "https://github.com/matteobaglini/onion-with-functional-programming",
+    "title": "GitHub Repository: onion-with-functional-programming",
+    "description": "Slides of my \"Onion Architecture with Functional Programming sauce\" talk",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: CSS",
+    "metadata": {
+      "author": "matteobaglini",
+      "stars": 8,
+      "forks": 1,
+      "language": "CSS",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2019-12-12T12:30:33Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "matteobaglini",
+      "last_activity": "2019-12-12T12:30:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 1,
+        "watchers": 8,
+        "size_kb": 12483,
+        "language": "CSS",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.020454+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
