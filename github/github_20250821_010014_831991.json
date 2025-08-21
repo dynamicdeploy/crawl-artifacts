@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:37.280882",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_831991.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_831991",
+    "url": "https://github.com/sklinkert/go-ddd",
+    "title": "GitHub Repository: go-ddd",
+    "description": "Opinionated Domain Driven Design Template for Go",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 369, Language: Go",
+    "metadata": {
+      "author": "sklinkert",
+      "stars": 369,
+      "forks": 43,
+      "language": "Go",
+      "topics": [
+        "architecture",
+        "command-query",
+        "cqrs",
+        "cqrs-pattern",
+        "ddd",
+        "ddd-architecture",
+        "domain",
+        "domain-driven-design",
+        "go",
+        "golang",
+        "gorm-orm",
+        "idempotency",
+        "reference",
+        "rest-api",
+        "template",
+        "web"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T11:44:23Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sklinkert",
+      "last_activity": "2025-08-17T11:44:23Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 369,
+        "forks": 43,
+        "watchers": 369,
+        "size_kb": 6739,
+        "language": "Go",
+        "topics": [
+          "architecture",
+          "command-query",
+          "cqrs",
+          "cqrs-pattern",
+          "ddd",
+          "ddd-architecture",
+          "domain",
+          "domain-driven-design",
+          "go",
+          "golang",
+          "gorm-orm",
+          "idempotency",
+          "reference",
+          "rest-api",
+          "template",
+          "web"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.831998+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
