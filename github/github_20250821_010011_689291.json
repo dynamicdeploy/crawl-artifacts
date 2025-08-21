@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:25.352403",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_689291.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_689291",
+    "url": "https://github.com/codemountains/axum-ddd-explicit-architecture",
+    "title": "GitHub Repository: axum-ddd-explicit-architecture",
+    "description": "An example of web application (REST API) by using Rust and Axum with DDD, Clean Architecture, Explicit Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 69, Language: Rust",
+    "metadata": {
+      "author": "codemountains",
+      "stars": 69,
+      "forks": 8,
+      "language": "Rust",
+      "topics": [
+        "axum",
+        "clean-architecture",
+        "explicit-architecture",
+        "postgresql",
+        "rust-lang"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-06T10:17:35Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "codemountains",
+      "last_activity": "2025-07-06T10:17:35Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 69,
+        "forks": 8,
+        "watchers": 69,
+        "size_kb": 82,
+        "language": "Rust",
+        "topics": [
+          "axum",
+          "clean-architecture",
+          "explicit-architecture",
+          "postgresql",
+          "rust-lang"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.689294+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
