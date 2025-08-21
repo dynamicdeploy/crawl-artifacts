@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:05.646819",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_746554.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_746554",
+    "url": "https://github.com/KucherenkoIhor/Android-Architecture-Components",
+    "title": "GitHub Repository: Android-Architecture-Components",
+    "description": "The template project that uses Android Architecture Components with Repository pattern. The simple app that uses awesome Fuel library instead of Retrofit for perfoming HTTP request. The app also persists data using the Room library and display data in RecyclerView.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 333, Language: Kotlin",
+    "metadata": {
+      "author": "KucherenkoIhor",
+      "stars": 333,
+      "forks": 42,
+      "language": "Kotlin",
+      "topics": [
+        "aac",
+        "android",
+        "android-architecture",
+        "android-architecture-components",
+        "boilerplate",
+        "google-io-2017",
+        "java",
+        "kotlin",
+        "lifecycle",
+        "livedata",
+        "repository",
+        "repository-pattern",
+        "view-model"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-30T12:30:11Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "KucherenkoIhor",
+      "last_activity": "2025-05-30T12:30:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 333,
+        "forks": 42,
+        "watchers": 333,
+        "size_kb": 158,
+        "language": "Kotlin",
+        "topics": [
+          "aac",
+          "android",
+          "android-architecture",
+          "android-architecture-components",
+          "boilerplate",
+          "google-io-2017",
+          "java",
+          "kotlin",
+          "lifecycle",
+          "livedata",
+          "repository",
+          "repository-pattern",
+          "view-model"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.746557+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
