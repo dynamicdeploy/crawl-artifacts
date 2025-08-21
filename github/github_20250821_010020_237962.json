@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:10.136521",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_237962.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_237962",
+    "url": "https://github.com/alesimoes/hexagonal-clean-architecture",
+    "title": "GitHub Repository: hexagonal-clean-architecture",
+    "description": "Clean architecture focused on microservices with .NET Core 3.1 and C# 8",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 88, Language: C#",
+    "metadata": {
+      "author": "alesimoes",
+      "stars": 88,
+      "forks": 18,
+      "language": "C#",
+      "topics": [
+        "domain-driven-design",
+        "dotnet-core",
+        "entity-framework-core",
+        "event-sourcing",
+        "hexagonal-architectures",
+        "mongodb"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-17T11:48:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alesimoes",
+      "last_activity": "2025-07-17T11:48:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 88,
+        "forks": 18,
+        "watchers": 88,
+        "size_kb": 589,
+        "language": "C#",
+        "topics": [
+          "domain-driven-design",
+          "dotnet-core",
+          "entity-framework-core",
+          "event-sourcing",
+          "hexagonal-architectures",
+          "mongodb"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.237965+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
