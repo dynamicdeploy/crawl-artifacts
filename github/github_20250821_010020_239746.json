@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:28.536459",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_239746.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_239746",
+    "url": "https://github.com/ShahriyarR/hexagonal-fastapi-jobboard",
+    "title": "GitHub Repository: hexagonal-fastapi-jobboard",
+    "description": "JobBoard project with FastAPI using Hexagonal Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 62, Language: Python",
+    "metadata": {
+      "author": "ShahriyarR",
+      "stars": 62,
+      "forks": 13,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T17:53:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ShahriyarR",
+      "last_activity": "2025-08-07T17:53:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 62,
+        "forks": 13,
+        "watchers": 62,
+        "size_kb": 10168,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.239749+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
