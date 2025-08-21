@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:15.140053",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_688258.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_688258",
+    "url": "https://github.com/yusufceylan/MVI-Clean-Architecture",
+    "title": "GitHub Repository: MVI-Clean-Architecture",
+    "description": "MVI + Clean Architecture + Best Practices | Example of Clean Architecture of Android app using MVI design pattern with Jetpack and popular libraries",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 93, Language: Kotlin",
+    "metadata": {
+      "author": "yusufceylan",
+      "stars": 93,
+      "forks": 21,
+      "language": "Kotlin",
+      "topics": [
+        "clean-architecture",
+        "coroutines",
+        "coroutines-android",
+        "dagger-hilt",
+        "kotlin",
+        "kotlin-flows",
+        "kotlinx-serialization",
+        "mockito",
+        "modular",
+        "modularization",
+        "mvi-android",
+        "mvi-architecture",
+        "mvi-clean-architecture",
+        "mvvm",
+        "mvvm-android",
+        "mvvm-architecture",
+        "navigation-component",
+        "room",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-22T08:07:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "yusufceylan",
+      "last_activity": "2025-07-22T08:07:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 93,
+        "forks": 21,
+        "watchers": 93,
+        "size_kb": 267,
+        "language": "Kotlin",
+        "topics": [
+          "clean-architecture",
+          "coroutines",
+          "coroutines-android",
+          "dagger-hilt",
+          "kotlin",
+          "kotlin-flows",
+          "kotlinx-serialization",
+          "mockito",
+          "modular",
+          "modularization",
+          "mvi-android",
+          "mvi-architecture",
+          "mvi-clean-architecture",
+          "mvvm",
+          "mvvm-android",
+          "mvvm-architecture",
+          "navigation-component",
+          "room",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.688262+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
