@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:18.371965",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_563309.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_563309",
+    "url": "https://github.com/luizcarlosfaria/eshop-cloudnative",
+    "title": "GitHub Repository: eshop-cloudnative",
+    "description": "Loja Virtual feita com .NET seguindo Cloud Native (Containers, Microservice, DevOps, Continuous Delivery), Cloud Agnostic, Hexagonal Architecture, Event Driven Architecture. Desenvolvido com .NET 6, usando Visual Studio e Docker, pronto para ser executado no kubernetes em produção.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 66, Language: Shell",
+    "metadata": {
+      "author": "luizcarlosfaria",
+      "stars": 66,
+      "forks": 9,
+      "language": "Shell",
+      "topics": [
+        "cloudnative",
+        "continuous-delivery",
+        "devops",
+        "microservices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-05T14:37:15Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "luizcarlosfaria",
+      "last_activity": "2025-06-05T14:37:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 66,
+        "forks": 9,
+        "watchers": 66,
+        "size_kb": 4906,
+        "language": "Shell",
+        "topics": [
+          "cloudnative",
+          "continuous-delivery",
+          "devops",
+          "microservices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.563312+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
