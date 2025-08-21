@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:48.796437",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_005793.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_005793",
+    "url": "https://github.com/alex289/CleanArchitecture",
+    "title": "GitHub Repository: CleanArchitecture",
+    "description": "Sample .NET 9 API project including Clean Architecture principles, Onion Architecture, MediatR, and Entity Framework with unit and integration tests using xUnit",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 209, Language: C#",
+    "metadata": {
+      "author": "alex289",
+      "stars": 209,
+      "forks": 24,
+      "language": "C#",
+      "topics": [
+        "clean-architecture",
+        "dotnet",
+        "entity-framework-core",
+        "mediatr",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T06:49:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alex289",
+      "last_activity": "2025-08-20T06:49:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 209,
+        "forks": 24,
+        "watchers": 209,
+        "size_kb": 763,
+        "language": "C#",
+        "topics": [
+          "clean-architecture",
+          "dotnet",
+          "entity-framework-core",
+          "mediatr",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.005796+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
