@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:28.862861",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_748767.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_748767",
+    "url": "https://github.com/saksham24/Android-Firebase-Kotlin-java-Mvp-Mvc-Mvvm-chat",
+    "title": "GitHub Repository: Android-Firebase-Kotlin-java-Mvp-Mvc-Mvvm-chat",
+    "description": "Simple chat Application with one to one connectivity using Firebase Real time Database written in MVC,MVP and MVVM  architecture to better understand the android coding patterns. Purpose of writing same application functionality with 3 different pattern is to show how single application can be developed using 3 different patterns(Mvc, Mvp, Mvvm).",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 219, Language: Java",
+    "metadata": {
+      "author": "saksham24",
+      "stars": 219,
+      "forks": 72,
+      "language": "Java",
+      "topics": [
+        "android",
+        "chat",
+        "firebase-database",
+        "java",
+        "kotlin",
+        "kotlin-android",
+        "kotlinmvc",
+        "kotlinmvp",
+        "kotlinmvvm",
+        "mvc",
+        "mvc-architecture",
+        "mvp",
+        "mvp-architecture",
+        "mvvm",
+        "mvvm-architecture",
+        "realtime-messaging"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-08T00:21:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "saksham24",
+      "last_activity": "2025-08-08T00:21:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 219,
+        "forks": 72,
+        "watchers": 219,
+        "size_kb": 1017,
+        "language": "Java",
+        "topics": [
+          "android",
+          "chat",
+          "firebase-database",
+          "java",
+          "kotlin",
+          "kotlin-android",
+          "kotlinmvc",
+          "kotlinmvp",
+          "kotlinmvvm",
+          "mvc",
+          "mvc-architecture",
+          "mvp",
+          "mvp-architecture",
+          "mvvm",
+          "mvvm-architecture",
+          "realtime-messaging"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.748769+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
