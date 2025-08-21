@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:29.037348",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_689674.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_689674",
+    "url": "https://github.com/truanguyenvan/go-clean-architecture-example",
+    "title": "GitHub Repository: go-clean-architecture-example",
+    "description": "Golang Clean Architecture Example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 62, Language: Go",
+    "metadata": {
+      "author": "truanguyenvan",
+      "stars": 62,
+      "forks": 9,
+      "language": "Go",
+      "topics": [
+        "backend",
+        "clean-architecture",
+        "clean-code",
+        "cqrs",
+        "ddd",
+        "docker",
+        "fiber",
+        "go",
+        "go-boilerplate",
+        "golang",
+        "grpc",
+        "grpc-go",
+        "kafka",
+        "mongo",
+        "nats",
+        "postgresql",
+        "redis",
+        "rest-api",
+        "solid",
+        "swagger"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-12T08:30:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "truanguyenvan",
+      "last_activity": "2025-08-12T08:30:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 62,
+        "forks": 9,
+        "watchers": 62,
+        "size_kb": 28972,
+        "language": "Go",
+        "topics": [
+          "backend",
+          "clean-architecture",
+          "clean-code",
+          "cqrs",
+          "ddd",
+          "docker",
+          "fiber",
+          "go",
+          "go-boilerplate",
+          "golang",
+          "grpc",
+          "grpc-go",
+          "kafka",
+          "mongo",
+          "nats",
+          "postgresql",
+          "redis",
+          "rest-api",
+          "solid",
+          "swagger"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.689678+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
