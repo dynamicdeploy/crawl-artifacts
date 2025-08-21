@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:09.966549",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_574550.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_574550",
+    "url": "https://github.com/domagojk/beenion",
+    "title": "GitHub Repository: beenion",
+    "description": "Example project using Event Sorucing and CQRS patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 265, Language: TypeScript",
+    "metadata": {
+      "author": "domagojk",
+      "stars": 265,
+      "forks": 56,
+      "language": "TypeScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-09T15:58:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "domagojk",
+      "last_activity": "2025-06-09T15:58:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 265,
+        "forks": 56,
+        "watchers": 265,
+        "size_kb": 6825,
+        "language": "TypeScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.574555+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
