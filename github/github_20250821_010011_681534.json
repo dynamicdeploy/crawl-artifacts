@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:19.378006",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_681534.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_681534",
+    "url": "https://github.com/thombergs/buckpal",
+    "title": "GitHub Repository: buckpal",
+    "description": "An example approach for implementing a Clean/Hexagonal Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2383, Language: Java",
+    "metadata": {
+      "author": "thombergs",
+      "stars": 2383,
+      "forks": 707,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T13:13:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "thombergs",
+      "last_activity": "2025-08-20T13:13:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2383,
+        "forks": 707,
+        "watchers": 2383,
+        "size_kb": 528,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.681539+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
