@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:22.338936",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_741324.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_741324",
+    "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example",
+    "title": "GitHub Repository: evolutionary-architecture-by-example",
+    "description": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2569, Language: C#",
+    "metadata": {
+      "author": "evolutionary-architecture",
+      "stars": 2569,
+      "forks": 365,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "architecture-components",
+        "architecture-decision-records",
+        "architecture-guidelines",
+        "clean-architecture",
+        "clean-code",
+        "ddd",
+        "ddd-architecture",
+        "ddd-example",
+        "ddd-patterns",
+        "domain-driven-design",
+        "microservices",
+        "modular-monolith",
+        "modular-monolith-architecture",
+        "modular-monolith-design",
+        "net9",
+        "software-architecture",
+        "software-design",
+        "software-development",
+        "software-engineering"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T23:58:58Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "evolutionary-architecture",
+      "last_activity": "2025-08-20T23:58:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2569,
+        "forks": 365,
+        "watchers": 2569,
+        "size_kb": 8759,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "architecture-components",
+          "architecture-decision-records",
+          "architecture-guidelines",
+          "clean-architecture",
+          "clean-code",
+          "ddd",
+          "ddd-architecture",
+          "ddd-example",
+          "ddd-patterns",
+          "domain-driven-design",
+          "microservices",
+          "modular-monolith",
+          "modular-monolith-architecture",
+          "modular-monolith-design",
+          "net9",
+          "software-architecture",
+          "software-design",
+          "software-development",
+          "software-engineering"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.741327+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
