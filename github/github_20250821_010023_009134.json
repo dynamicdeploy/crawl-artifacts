@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:12.220422",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_009134.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_009134",
+    "url": "https://github.com/zcomert/asp-dotnet-core-webapi",
+    "title": "GitHub Repository: asp-dotnet-core-webapi",
+    "description": "ASP.NET Core Web Api Course ile Youtube videoları ile desteklenen Controller tabanlı API geliştirmesi gerçekleştiriyoruz. Geliştirdiğimiz API için Onion Architecture kullanıyoruz. Logging service, global error handling, content negotiation, asynchronous code, action filters gibi teknikler konularda yine eğitim kapsamında inceleniyor.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 31, Language: C#",
+    "metadata": {
+      "author": "zcomert",
+      "stars": 31,
+      "forks": 6,
+      "language": "C#",
+      "topics": [
+        "action-filter",
+        "api",
+        "aspnetcore",
+        "aspnetcoreapi",
+        "async-await",
+        "asynchronous-programming",
+        "configuration",
+        "content-negotiation",
+        "globalerror",
+        "httprequest",
+        "logging",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-03-26T17:18:36Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "zcomert",
+      "last_activity": "2025-03-26T17:18:36Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 31,
+        "forks": 6,
+        "watchers": 31,
+        "size_kb": 113,
+        "language": "C#",
+        "topics": [
+          "action-filter",
+          "api",
+          "aspnetcore",
+          "aspnetcoreapi",
+          "async-await",
+          "asynchronous-programming",
+          "configuration",
+          "content-negotiation",
+          "globalerror",
+          "httprequest",
+          "logging",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.009163+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
