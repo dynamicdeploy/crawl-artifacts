@@ -1,0 +1,55 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:27.952329",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_682429.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_682429",
+    "url": "https://github.com/carlphilipp/clean-architecture-example",
+    "title": "GitHub Repository: clean-architecture-example",
+    "description": "An example to create a clean architecture with Java 11",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 538, Language: Java",
+    "metadata": {
+      "author": "carlphilipp",
+      "stars": 538,
+      "forks": 163,
+      "language": "Java",
+      "topics": [
+        "clean-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T02:57:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "carlphilipp",
+      "last_activity": "2025-08-14T02:57:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 538,
+        "forks": 163,
+        "watchers": 538,
+        "size_kb": 179,
+        "language": "Java",
+        "topics": [
+          "clean-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.682432+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
