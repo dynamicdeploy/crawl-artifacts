@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:49.976539",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_694597.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_694597",
+    "url": "https://github.com/nazmulkp/Clean-Architecture-Swiftui-MVVM",
+    "title": "GitHub Repository: Clean-Architecture-Swiftui-MVVM",
+    "description": "SwiftUI sample app using Clean Architecture. Examples of working with local and remote data, dependency injection, unit testing, and more.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 33, Language: Swift",
+    "metadata": {
+      "author": "nazmulkp",
+      "stars": 33,
+      "forks": 6,
+      "language": "Swift",
+      "topics": [
+        "clean-architecture",
+        "dependency-injection",
+        "ios",
+        "modularity",
+        "mvvm",
+        "mvvm-architecture",
+        "swift",
+        "swiftui"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-12T09:32:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nazmulkp",
+      "last_activity": "2025-08-12T09:32:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 33,
+        "forks": 6,
+        "watchers": 33,
+        "size_kb": 89,
+        "language": "Swift",
+        "topics": [
+          "clean-architecture",
+          "dependency-injection",
+          "ios",
+          "modularity",
+          "mvvm",
+          "mvvm-architecture",
+          "swift",
+          "swiftui"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.694601+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
