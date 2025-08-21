@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:17.078105",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_092409.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_092409",
+    "url": "https://github.com/chayxana/Restaurant-App",
+    "title": "GitHub Repository: Restaurant-App",
+    "description": "Restaurant App 🍔   is a sample open-source e-Commerce 🛒   application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 758, Language: C#",
+    "metadata": {
+      "author": "chayxana",
+      "stars": 758,
+      "forks": 274,
+      "language": "C#",
+      "topics": [
+        "angular",
+        "design-patterns",
+        "docker",
+        "golang",
+        "identityserver4",
+        "kubernetes",
+        "lgtm-stack",
+        "microservices",
+        "microservices-architecture",
+        "mvvm",
+        "netcore",
+        "nextjs",
+        "open-telemetry",
+        "polyglot-microservices",
+        "react",
+        "solid-principles",
+        "spring-boot",
+        "typescript",
+        "xamarin"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T13:02:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "chayxana",
+      "last_activity": "2025-08-20T13:02:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 758,
+        "forks": 274,
+        "watchers": 758,
+        "size_kb": 69804,
+        "language": "C#",
+        "topics": [
+          "angular",
+          "design-patterns",
+          "docker",
+          "golang",
+          "identityserver4",
+          "kubernetes",
+          "lgtm-stack",
+          "microservices",
+          "microservices-architecture",
+          "mvvm",
+          "netcore",
+          "nextjs",
+          "open-telemetry",
+          "polyglot-microservices",
+          "react",
+          "solid-principles",
+          "spring-boot",
+          "typescript",
+          "xamarin"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.092419+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
