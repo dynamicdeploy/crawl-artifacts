@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:02:36.899267",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_262905.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_262905",
+    "url": "https://github.com/crakesh27/Low-level-system-design",
+    "title": "GitHub Repository: Low-level-system-design",
+    "description": "Low level implementation of few examples in C++ asked for LLD/machine coding interviews",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7, Language: C++",
+    "metadata": {
+      "author": "crakesh27",
+      "stars": 7,
+      "forks": 0,
+      "language": "C++",
+      "topics": [
+        "interview",
+        "low-level-design",
+        "machine-coding"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-06T14:50:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "crakesh27",
+      "last_activity": "2025-06-06T14:50:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7,
+        "forks": 0,
+        "watchers": 7,
+        "size_kb": 27,
+        "language": "C++",
+        "topics": [
+          "interview",
+          "low-level-design",
+          "machine-coding"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.262955+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
