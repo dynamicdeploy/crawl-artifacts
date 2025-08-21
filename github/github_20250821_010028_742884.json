@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:35.195285",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742884.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742884",
+    "url": "https://github.com/aws-samples/aws-security-reference-architecture-examples",
+    "title": "GitHub Repository: aws-security-reference-architecture-examples",
+    "description": "Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1082, Language: Python",
+    "metadata": {
+      "author": "aws-samples",
+      "stars": 1082,
+      "forks": 281,
+      "language": "Python",
+      "topics": [
+        "aws",
+        "aws-cloudformation",
+        "aws-control-tower",
+        "aws-security",
+        "aws-security-automation"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T20:39:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aws-samples",
+      "last_activity": "2025-08-18T20:39:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1082,
+        "forks": 281,
+        "watchers": 1082,
+        "size_kb": 26468,
+        "language": "Python",
+        "topics": [
+          "aws",
+          "aws-cloudformation",
+          "aws-control-tower",
+          "aws-security",
+          "aws-security-automation"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742887+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
