@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:52.246536",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_694927.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_694927",
+    "url": "https://github.com/basilhe/clean-architecture-go-example",
+    "title": "GitHub Repository: clean-architecture-go-example",
+    "description": "Clean Architecture Example (Go): Example of what clean architecture would look like (in Go)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 32, Language: Go",
+    "metadata": {
+      "author": "basilhe",
+      "stars": 32,
+      "forks": 4,
+      "language": "Go",
+      "topics": [
+        "architecture",
+        "bdd-sample",
+        "cleanarchitecture",
+        "golang",
+        "golang-examples",
+        "gomock",
+        "tdd-sample"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-15T11:58:53Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "basilhe",
+      "last_activity": "2025-07-15T11:58:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 32,
+        "forks": 4,
+        "watchers": 32,
+        "size_kb": 614,
+        "language": "Go",
+        "topics": [
+          "architecture",
+          "bdd-sample",
+          "cleanarchitecture",
+          "golang",
+          "golang-examples",
+          "gomock",
+          "tdd-sample"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.694938+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
