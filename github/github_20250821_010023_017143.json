@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:37.631938",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_017143.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_017143",
+    "url": "https://github.com/SardarMudassarAliKhan/OnionArchitectureInAspNetCore6WebAPI",
+    "title": "GitHub Repository: OnionArchitectureInAspNetCore6WebAPI",
+    "description": "Onion Architecture In Asp.net Core Web API",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: C#",
+    "metadata": {
+      "author": "SardarMudassarAliKhan",
+      "stars": 11,
+      "forks": 5,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-03-11T15:41:15Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "SardarMudassarAliKhan",
+      "last_activity": "2025-03-11T15:41:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 5,
+        "watchers": 11,
+        "size_kb": 19,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.017147+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
