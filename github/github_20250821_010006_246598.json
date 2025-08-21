@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:02:07.853169",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_246598.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_246598",
+    "url": "https://github.com/AvinashDogiparthi/LowLevelDesign",
+    "title": "GitHub Repository: LowLevelDesign",
+    "description": "This repository provides comprehensive coverage of all major object-oriented design patterns with practical, real-world Java examples. In addition, it features detailed low-level design implementations of popular real-life systems, including ATM machines, Vending Machines, Splitwise, Cricbuzz, BookMyShow, Uber, Swiggy, and more. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: Java",
+    "metadata": {
+      "author": "AvinashDogiparthi",
+      "stars": 11,
+      "forks": 6,
+      "language": "Java",
+      "topics": [
+        "atmmachine",
+        "bookmyshow",
+        "cultfit",
+        "design-patterns",
+        "logger",
+        "parkinglotdesign",
+        "solid-principles",
+        "swiggy",
+        "twitter",
+        "uberdesign",
+        "vendingmachine",
+        "zepto"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T04:16:05Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AvinashDogiparthi",
+      "last_activity": "2025-08-20T04:16:05Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 6,
+        "watchers": 11,
+        "size_kb": 393,
+        "language": "Java",
+        "topics": [
+          "atmmachine",
+          "bookmyshow",
+          "cultfit",
+          "design-patterns",
+          "logger",
+          "parkinglotdesign",
+          "solid-principles",
+          "swiggy",
+          "twitter",
+          "uberdesign",
+          "vendingmachine",
+          "zepto"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.246602+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
