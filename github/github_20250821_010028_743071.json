@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:37.310003",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_743071.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_743071",
+    "url": "https://github.com/phodal/coca",
+    "title": "GitHub Repository: coca",
+    "description": "Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的工具箱。它可以分析代码中的测试坏味道、模块化分析、行数统计、分析调用与依赖、Git 分析以及自动化重构等。",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 972, Language: Go",
+    "metadata": {
+      "author": "phodal",
+      "stars": 972,
+      "forks": 113,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "architecture",
+        "automation",
+        "git",
+        "refactor",
+        "refactoring",
+        "tools"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T16:21:58Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "phodal",
+      "last_activity": "2025-08-13T16:21:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 972,
+        "forks": 113,
+        "watchers": 972,
+        "size_kb": 5351,
+        "language": "Go",
+        "topics": [
+          "ai",
+          "architecture",
+          "automation",
+          "git",
+          "refactor",
+          "refactoring",
+          "tools"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.743075+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
