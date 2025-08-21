@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:23.136679",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_575745.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_575745",
+    "url": "https://github.com/albertllousas/simple-cqrs-with-es",
+    "title": "GitHub Repository: simple-cqrs-with-es",
+    "description": "\"Simple\" CQRS, ES, DDD and hexagonal implementation by example in order to understand the pattern. With kotlin with ktor.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 13, Language: Kotlin",
+    "metadata": {
+      "author": "albertllousas",
+      "stars": 13,
+      "forks": 1,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-04-14T09:57:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "albertllousas",
+      "last_activity": "2025-04-14T09:57:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 13,
+        "forks": 1,
+        "watchers": 13,
+        "size_kb": 2240,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.575748+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
