@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:08.858270",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_574435.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_574435",
+    "url": "https://github.com/slashdotdash/conduit",
+    "title": "GitHub Repository: conduit",
+    "description": "RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 359, Language: Elixir",
+    "metadata": {
+      "author": "slashdotdash",
+      "stars": 359,
+      "forks": 69,
+      "language": "Elixir",
+      "topics": [
+        "conduit",
+        "cqrs",
+        "cqrs-es",
+        "elixir",
+        "event-sourcing",
+        "phoenix"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-28T09:10:48Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "slashdotdash",
+      "last_activity": "2025-04-28T09:10:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 359,
+        "forks": 69,
+        "watchers": 359,
+        "size_kb": 268,
+        "language": "Elixir",
+        "topics": [
+          "conduit",
+          "cqrs",
+          "cqrs-es",
+          "elixir",
+          "event-sourcing",
+          "phoenix"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.574442+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
