@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:32.058826",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_690461.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_690461",
+    "url": "https://github.com/alexmarqs/nestjs-clean-architecture-example",
+    "title": "GitHub Repository: nestjs-clean-architecture-example",
+    "description": "Example of a node microservice with NestJS + Prisma + Clean Architecture (notifications API)",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 57, Language: TypeScript",
+    "metadata": {
+      "author": "alexmarqs",
+      "stars": 57,
+      "forks": 9,
+      "language": "TypeScript",
+      "topics": [
+        "clean-architecture",
+        "kafka",
+        "nestjs",
+        "node",
+        "openapi",
+        "prisma",
+        "solid",
+        "swagger"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-11T03:42:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alexmarqs",
+      "last_activity": "2025-07-11T03:42:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 57,
+        "forks": 9,
+        "watchers": 57,
+        "size_kb": 116,
+        "language": "TypeScript",
+        "topics": [
+          "clean-architecture",
+          "kafka",
+          "nestjs",
+          "node",
+          "openapi",
+          "prisma",
+          "solid",
+          "swagger"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.690469+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
