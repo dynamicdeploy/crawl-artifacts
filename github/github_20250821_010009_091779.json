@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:10.348382",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_091779.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_091779",
+    "url": "https://github.com/lucperkins/colossus",
+    "title": "GitHub Repository: colossus",
+    "description": "Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1043, Language: Starlark",
+    "metadata": {
+      "author": "lucperkins",
+      "stars": 1043,
+      "forks": 68,
+      "language": "Starlark",
+      "topics": [
+        "bazel",
+        "docker",
+        "go",
+        "golang",
+        "grpc",
+        "grpc-go",
+        "grpc-java",
+        "java",
+        "kubectl",
+        "kubernetes",
+        "minikube"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-05T20:32:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "lucperkins",
+      "last_activity": "2025-08-05T20:32:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1043,
+        "forks": 68,
+        "watchers": 1043,
+        "size_kb": 2544,
+        "language": "Starlark",
+        "topics": [
+          "bazel",
+          "docker",
+          "go",
+          "golang",
+          "grpc",
+          "grpc-go",
+          "grpc-java",
+          "java",
+          "kubectl",
+          "kubernetes",
+          "minikube"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.091783+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
