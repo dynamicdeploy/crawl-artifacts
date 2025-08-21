@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:04.659723",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_580442.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_580442",
+    "url": "https://github.com/mhartsuiker/ExampleDotNetCoreAPI",
+    "title": "GitHub Repository: ExampleDotNetCoreAPI",
+    "description": "Example .Net Core 2.0 API using CQS, Decorator pattern, Entity Framework Core and .Net Core Dependency Injection",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "mhartsuiker",
+      "stars": 1,
+      "forks": 1,
+      "language": "C#",
+      "topics": [
+        "api-rest",
+        "cqrs",
+        "decorator-pattern",
+        "dependency-injection",
+        "dotnetcore2",
+        "entity-framework"
+      ],
+      "repository_type": "github",
+      "last_updated": "2019-12-24T06:10:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mhartsuiker",
+      "last_activity": "2019-12-24T06:10:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 1,
+        "watchers": 1,
+        "size_kb": 15,
+        "language": "C#",
+        "topics": [
+          "api-rest",
+          "cqrs",
+          "decorator-pattern",
+          "dependency-injection",
+          "dotnetcore2",
+          "entity-framework"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.580450+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
