@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:10.827068",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_740250.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_740250",
+    "url": "https://github.com/android/architecture-samples",
+    "title": "GitHub Repository: architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 45250, Language: Kotlin",
+    "metadata": {
+      "author": "android",
+      "stars": 45250,
+      "forks": 11793,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-architecture",
+        "samples"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T19:40:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "android",
+      "last_activity": "2025-08-20T19:40:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 45250,
+        "forks": 11793,
+        "watchers": 45250,
+        "size_kb": 13367,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-architecture",
+          "samples"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.740256+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
