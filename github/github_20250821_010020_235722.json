@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:09:48.476899",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_235722.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_235722",
+    "url": "https://github.com/jbreckmckye/node-typescript-architecture",
+    "title": "GitHub Repository: node-typescript-architecture",
+    "description": "Hexagonal architecture / ports-and-adapters for Node.js using simple functional programming",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 128, Language: TypeScript",
+    "metadata": {
+      "author": "jbreckmckye",
+      "stars": 128,
+      "forks": 4,
+      "language": "TypeScript",
+      "topics": [
+        "architectural-patterns",
+        "architecture",
+        "io-ts",
+        "ioc",
+        "nodejs",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-09T10:12:10Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jbreckmckye",
+      "last_activity": "2025-06-09T10:12:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 128,
+        "forks": 4,
+        "watchers": 128,
+        "size_kb": 313,
+        "language": "TypeScript",
+        "topics": [
+          "architectural-patterns",
+          "architecture",
+          "io-ts",
+          "ioc",
+          "nodejs",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.235728+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
