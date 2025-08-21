@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:41.723879",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_577379.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_577379",
+    "url": "https://github.com/aws-samples/aws-athena-cqrs-pattern",
+    "title": "GitHub Repository: aws-athena-cqrs-pattern",
+    "description": "Example of CQRS(Command and Query Responsibility Segregation) Pattern using Amazon Athena",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: Python",
+    "metadata": {
+      "author": "aws-samples",
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "amazon-athena",
+        "amazon-dynamodb",
+        "amazon-lambda",
+        "amazon-ses",
+        "cqrs-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-08-12T16:44:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "aws-samples",
+      "last_activity": "2023-08-12T16:44:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 262,
+        "language": "Python",
+        "topics": [
+          "amazon-athena",
+          "amazon-dynamodb",
+          "amazon-lambda",
+          "amazon-ses",
+          "cqrs-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.577382+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
