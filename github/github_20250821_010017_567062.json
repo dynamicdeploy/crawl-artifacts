@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:43.229123",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_567062.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_567062",
+    "url": "https://github.com/trovit/reffects",
+    "title": "GitHub Repository: reffects",
+    "description": "Reffects is a Javascript framework for developing SPAs using an event-driven unidirectional flow architecture with a synchronous event bus with effects and coeffects.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 30, Language: JavaScript",
+    "metadata": {
+      "author": "trovit",
+      "stars": 30,
+      "forks": 15,
+      "language": "JavaScript",
+      "topics": [
+        "coeffects",
+        "effects",
+        "event-bus",
+        "javascript",
+        "reffects"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-05-02T11:19:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "trovit",
+      "last_activity": "2024-05-02T11:19:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 30,
+        "forks": 15,
+        "watchers": 30,
+        "size_kb": 9457,
+        "language": "JavaScript",
+        "topics": [
+          "coeffects",
+          "effects",
+          "event-bus",
+          "javascript",
+          "reffects"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.567068+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
