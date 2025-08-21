@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:04.212073",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_826616.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_826616",
+    "url": "https://github.com/valignatev/ddd-dynamic",
+    "title": "GitHub Repository: ddd-dynamic",
+    "description": "Domain Driven Design in Python, Ruby and other dynamic languages resources",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1374, Language: None",
+    "metadata": {
+      "author": "valignatev",
+      "stars": 1374,
+      "forks": 127,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "cleanarchitecture",
+        "ddd",
+        "domain-driven-design",
+        "php",
+        "python",
+        "ruby"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T08:12:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "valignatev",
+      "last_activity": "2025-08-19T08:12:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1374,
+        "forks": 127,
+        "watchers": 1374,
+        "size_kb": 111,
+        "language": null,
+        "topics": [
+          "architecture",
+          "cleanarchitecture",
+          "ddd",
+          "domain-driven-design",
+          "php",
+          "python",
+          "ruby"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.826620+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
