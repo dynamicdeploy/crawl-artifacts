@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:42.746514",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_241465.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_241465",
+    "url": "https://github.com/hoangsonww/Digital-Design-Labs",
+    "title": "GitHub Repository: Digital-Design-Labs",
+    "description": "🖥️ A collection of SystemVerilog modules and Assembly programs. This repo includes examples of decoders, encoders, binary adders, and interactive games such as Guessing Game implemented in hardware description and assembly languages, illustrating practical applications in digital systems and microprocessor interfacing.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 27, Language: Assembly",
+    "metadata": {
+      "author": "hoangsonww",
+      "stars": 27,
+      "forks": 14,
+      "language": "Assembly",
+      "topics": [
+        "3to8decoder",
+        "alu",
+        "arithmetic-logic-unit",
+        "assembly",
+        "carry-look-ahead-adder",
+        "carry-select-adder",
+        "counter",
+        "decoder",
+        "encoder",
+        "finite-state-machine",
+        "guessing-game",
+        "microcontroller",
+        "microcontroller-programming",
+        "pic16f84a",
+        "system-design",
+        "systemverilog",
+        "verilog"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-23T19:50:06Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hoangsonww",
+      "last_activity": "2025-06-23T19:50:06Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 27,
+        "forks": 14,
+        "watchers": 27,
+        "size_kb": 729,
+        "language": "Assembly",
+        "topics": [
+          "3to8decoder",
+          "alu",
+          "arithmetic-logic-unit",
+          "assembly",
+          "carry-look-ahead-adder",
+          "carry-select-adder",
+          "counter",
+          "decoder",
+          "encoder",
+          "finite-state-machine",
+          "guessing-game",
+          "microcontroller",
+          "microcontroller-programming",
+          "pic16f84a",
+          "system-design",
+          "systemverilog",
+          "verilog"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.241470+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
