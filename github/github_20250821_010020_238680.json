@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:17.537555",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_238680.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_238680",
+    "url": "https://github.com/dahromy/symfony-hexagonal-architecture",
+    "title": "GitHub Repository: symfony-hexagonal-architecture",
+    "description": "Example of a Symfony application using Domain-Driven Design (DDD) and Test Driver Development (TDD) principes keeping the code as simple as possible.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 74, Language: PHP",
+    "metadata": {
+      "author": "dahromy",
+      "stars": 74,
+      "forks": 18,
+      "language": "PHP",
+      "topics": [
+        "architecture",
+        "ci",
+        "cqrs",
+        "ddd",
+        "doctrine",
+        "domain-driven-design",
+        "hexagonal",
+        "hexagonal-architecture",
+        "php",
+        "php7",
+        "phpstan",
+        "phpunit",
+        "symfony",
+        "tdd",
+        "test"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T21:25:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dahromy",
+      "last_activity": "2025-08-18T21:25:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 74,
+        "forks": 18,
+        "watchers": 74,
+        "size_kb": 970,
+        "language": "PHP",
+        "topics": [
+          "architecture",
+          "ci",
+          "cqrs",
+          "ddd",
+          "doctrine",
+          "domain-driven-design",
+          "hexagonal",
+          "hexagonal-architecture",
+          "php",
+          "php7",
+          "phpstan",
+          "phpunit",
+          "symfony",
+          "tdd",
+          "test"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.238683+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
