@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:58.250365",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_685219.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_685219",
+    "url": "https://github.com/flosse/clean-architecture-with-rust",
+    "title": "GitHub Repository: clean-architecture-with-rust",
+    "description": "Full-Stack Clean Architecture implementation example written in Rust",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 144, Language: Rust",
+    "metadata": {
+      "author": "flosse",
+      "stars": 144,
+      "forks": 9,
+      "language": "Rust",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "full-stack",
+        "rust"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-14T18:10:51Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "flosse",
+      "last_activity": "2025-06-14T18:10:51Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 144,
+        "forks": 9,
+        "watchers": 144,
+        "size_kb": 631,
+        "language": "Rust",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "full-stack",
+          "rust"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.685223+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
