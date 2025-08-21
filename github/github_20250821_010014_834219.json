@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:57.260066",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_834219.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_834219",
+    "url": "https://github.com/ddd-espanol/asombroso-ddd",
+    "title": "GitHub Repository: asombroso-ddd",
+    "description": "Una lista cuidadosamente curada de recursos sobre Domain Driven Design, Eventos, Event Sourcing, Command Query Responsibility Segregation (CQRS).",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 223, Language: None",
+    "metadata": {
+      "author": "ddd-espanol",
+      "stars": 223,
+      "forks": 34,
+      "language": "en",
+      "topics": [
+        "command-bus",
+        "cqrs",
+        "cqrs-es",
+        "domain-driven-design",
+        "event-driven",
+        "event-sourcing",
+        "eventbus",
+        "hexagonal-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T23:20:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ddd-espanol",
+      "last_activity": "2025-08-20T23:20:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 223,
+        "forks": 34,
+        "watchers": 223,
+        "size_kb": 36,
+        "language": null,
+        "topics": [
+          "command-bus",
+          "cqrs",
+          "cqrs-es",
+          "domain-driven-design",
+          "event-driven",
+          "event-sourcing",
+          "eventbus",
+          "hexagonal-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.834222+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
