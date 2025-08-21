@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:35.690167",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_016951.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_016951",
+    "url": "https://github.com/PayamDarabi/Onion-Architecture-In-ASP.NET-Core",
+    "title": "GitHub Repository: Onion-Architecture-In-ASP.NET-Core",
+    "description": "With WebApi And Blazor UI",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12, Language: C#",
+    "metadata": {
+      "author": "PayamDarabi",
+      "stars": 12,
+      "forks": 3,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "blazor",
+        "dependency-injection",
+        "entity-framework-core",
+        "onion-architecture",
+        "unitofwork",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-01-21T06:09:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "PayamDarabi",
+      "last_activity": "2025-01-21T06:09:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12,
+        "forks": 3,
+        "watchers": 12,
+        "size_kb": 713,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "blazor",
+          "dependency-injection",
+          "entity-framework-core",
+          "onion-architecture",
+          "unitofwork",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.016954+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
