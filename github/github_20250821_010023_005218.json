@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:42.583185",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_005218.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_005218",
+    "url": "https://github.com/iammukeshm/OnionArchitecture",
+    "title": "GitHub Repository: OnionArchitecture",
+    "description": "The onion architecture, introduced by Jeffrey Palermo, overcomes the issues of the layered architecture with great ease. With Onion Architecture, the game-changer is that the Domain Layer (Entities and Validation Rules that are common to the business case ) is at the Core of the Entire Application. This means higher flexibility and lesser coupling. In this approach, we can see that all the Layers are dependent only on the Core Layers.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 529, Language: C#",
+    "metadata": {
+      "author": "iammukeshm",
+      "stars": 529,
+      "forks": 126,
+      "language": "C#",
+      "topics": [
+        "asp-net-core",
+        "clean-architecture",
+        "cqrs-pattern",
+        "onion-architecture",
+        "webapi"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T10:33:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "iammukeshm",
+      "last_activity": "2025-08-19T10:33:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 529,
+        "forks": 126,
+        "watchers": 529,
+        "size_kb": 31,
+        "language": "C#",
+        "topics": [
+          "asp-net-core",
+          "clean-architecture",
+          "cqrs-pattern",
+          "onion-architecture",
+          "webapi"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.005222+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
