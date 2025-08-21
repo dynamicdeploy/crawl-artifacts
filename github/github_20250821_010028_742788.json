@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:34.170586",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742788.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742788",
+    "url": "https://github.com/matthewrenze/clean-architecture-demo",
+    "title": "GitHub Repository: clean-architecture-demo",
+    "description": "A sample app for my online course \"Clean Architecture: Patterns, Practices, and Principles\"",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1155, Language: C#",
+    "metadata": {
+      "author": "matthewrenze",
+      "stars": 1155,
+      "forks": 496,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T18:31:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "matthewrenze",
+      "last_activity": "2025-08-19T18:31:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1155,
+        "forks": 496,
+        "watchers": 1155,
+        "size_kb": 1371,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742791+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
