@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:10.215797",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_562181.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_562181",
+    "url": "https://github.com/jedld/resugan",
+    "title": "GitHub Repository: resugan",
+    "description": "simple, powerful and unobstrusive event driven architecture framework for ruby",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 82, Language: Ruby",
+    "metadata": {
+      "author": "jedld",
+      "stars": 82,
+      "forks": 0,
+      "language": "Ruby",
+      "topics": [
+        "event-driven",
+        "eventbus"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-24T10:15:58Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jedld",
+      "last_activity": "2025-04-24T10:15:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 82,
+        "forks": 0,
+        "watchers": 82,
+        "size_kb": 41,
+        "language": "Ruby",
+        "topics": [
+          "event-driven",
+          "eventbus"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.562184+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
