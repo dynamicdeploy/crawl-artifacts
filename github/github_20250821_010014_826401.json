@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:02.244526",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_826401.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_826401",
+    "url": "https://github.com/stemmlerjs/white-label",
+    "title": "GitHub Repository: white-label",
+    "description": "A Vinyl-Trading enterprise app built with Node.js + TypeScript using Domain-Driven Design",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1487, Language: TypeScript",
+    "metadata": {
+      "author": "stemmlerjs",
+      "stars": 1487,
+      "forks": 268,
+      "language": "TypeScript",
+      "topics": [
+        "domain-driven-design",
+        "enterprise-software",
+        "nodejs",
+        "trading",
+        "typescript",
+        "vinyl-records"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:38:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "stemmlerjs",
+      "last_activity": "2025-08-19T03:38:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1487,
+        "forks": 268,
+        "watchers": 1487,
+        "size_kb": 606,
+        "language": "TypeScript",
+        "topics": [
+          "domain-driven-design",
+          "enterprise-software",
+          "nodejs",
+          "trading",
+          "typescript",
+          "vinyl-records"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.826404+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
