@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:59.875438",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_097990.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_097990",
+    "url": "https://github.com/alugili/ModernArchitectureShop",
+    "title": "GitHub Repository: ModernArchitectureShop",
+    "description": "The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure for building highly decoupled Microservices; for this reason, I am using  Dapr to achieve the noble goal of building a highly scalable application with clean architecture and clean code. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 277, Language: C#",
+    "metadata": {
+      "author": "alugili",
+      "stars": 277,
+      "forks": 61,
+      "language": "C#",
+      "topics": [
+        "actor-model",
+        "blazor",
+        "clean-architecture",
+        "dapr",
+        "docker",
+        "dotnet-core",
+        "entity-framework-core",
+        "grpc",
+        "identityserver4",
+        "kubernetes",
+        "microservices",
+        "microservices-architecture",
+        "redis",
+        "serilog",
+        "sqlite",
+        "sqlserver",
+        "zipkin"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T14:07:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "alugili",
+      "last_activity": "2025-08-18T14:07:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 277,
+        "forks": 61,
+        "watchers": 277,
+        "size_kb": 10774,
+        "language": "C#",
+        "topics": [
+          "actor-model",
+          "blazor",
+          "clean-architecture",
+          "dapr",
+          "docker",
+          "dotnet-core",
+          "entity-framework-core",
+          "grpc",
+          "identityserver4",
+          "kubernetes",
+          "microservices",
+          "microservices-architecture",
+          "redis",
+          "serilog",
+          "sqlite",
+          "sqlserver",
+          "zipkin"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.097993+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
