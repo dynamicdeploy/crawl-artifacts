@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:20.414237",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_741136.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_741136",
+    "url": "https://github.com/ivacf/archi",
+    "title": "GitHub Repository: archi",
+    "description": "Repository that showcases 3 Android app architectures: \"Standard Android\", MVP and MVVM. The exact same app is built 3 times following the different patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3318, Language: Java",
+    "metadata": {
+      "author": "ivacf",
+      "stars": 3318,
+      "forks": 492,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-09T15:52:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ivacf",
+      "last_activity": "2025-08-09T15:52:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3318,
+        "forks": 492,
+        "watchers": 3318,
+        "size_kb": 1454,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.741139+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
