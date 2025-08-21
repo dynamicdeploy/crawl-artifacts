@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:44.034210",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_096360.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_096360",
+    "url": "https://github.com/aws-samples/amazon-ecs-java-microservices",
+    "title": "GitHub Repository: amazon-ecs-java-microservices",
+    "description": "This is a reference architecture for java microservice on Amazon ECS",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 368, Language: Java",
+    "metadata": {
+      "author": "aws-samples",
+      "stars": 368,
+      "forks": 300,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T19:36:40Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "aws-samples",
+      "last_activity": "2025-08-15T19:36:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 368,
+        "forks": 300,
+        "watchers": 368,
+        "size_kb": 31918,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.096364+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
