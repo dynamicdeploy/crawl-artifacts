@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:27.138020",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_689490.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_689490",
+    "url": "https://github.com/annysmolyan/symfony-ddd-clean-architecture-blog",
+    "title": "GitHub Repository: symfony-ddd-clean-architecture-blog",
+    "description": "Symfony: DDD, Clean Architecture Example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 63, Language: PHP",
+    "metadata": {
+      "author": "annysmolyan",
+      "stars": 63,
+      "forks": 12,
+      "language": "PHP",
+      "topics": [
+        "clean-architecture",
+        "ddd",
+        "ddd-architecture",
+        "php",
+        "symfony"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T07:05:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "annysmolyan",
+      "last_activity": "2025-08-20T07:05:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 63,
+        "forks": 12,
+        "watchers": 63,
+        "size_kb": 104,
+        "language": "PHP",
+        "topics": [
+          "clean-architecture",
+          "ddd",
+          "ddd-architecture",
+          "php",
+          "symfony"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.689494+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
