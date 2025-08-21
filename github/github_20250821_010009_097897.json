@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:58.867506",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_097897.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_097897",
+    "url": "https://github.com/liuhll/silky",
+    "title": "GitHub Repository: silky",
+    "description": "The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 281, Language: C#",
+    "metadata": {
+      "author": "liuhll",
+      "stars": 281,
+      "forks": 68,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "aspnetcore",
+        "distributed-transactions",
+        "dotnet",
+        "dotnet-core",
+        "dotnetcore",
+        "micro-service",
+        "microservice-architecture",
+        "microservices",
+        "rpc",
+        "saas",
+        "silky",
+        "swagger",
+        "tcc-transaction"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-19T02:45:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "liuhll",
+      "last_activity": "2025-06-19T02:45:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 281,
+        "forks": 68,
+        "watchers": 281,
+        "size_kb": 9293,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "aspnetcore",
+          "distributed-transactions",
+          "dotnet",
+          "dotnet-core",
+          "dotnetcore",
+          "micro-service",
+          "microservice-architecture",
+          "microservices",
+          "rpc",
+          "saas",
+          "silky",
+          "swagger",
+          "tcc-transaction"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.097900+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
