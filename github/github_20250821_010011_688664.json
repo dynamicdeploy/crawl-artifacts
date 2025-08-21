@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:18.836400",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_688664.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_688664",
+    "url": "https://github.com/brianium/clean-todos",
+    "title": "GitHub Repository: clean-todos",
+    "description": ":clipboard: A todo example leveraging clean architecture in Clojure",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 89, Language: Clojure",
+    "metadata": {
+      "author": "brianium",
+      "stars": 89,
+      "forks": 10,
+      "language": "Clojure",
+      "topics": [
+        "clean-architecture",
+        "cli",
+        "clojure",
+        "clojurescript",
+        "re-frame",
+        "rest-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-28T20:43:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "brianium",
+      "last_activity": "2025-07-28T20:43:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 89,
+        "forks": 10,
+        "watchers": 89,
+        "size_kb": 95,
+        "language": "Clojure",
+        "topics": [
+          "clean-architecture",
+          "cli",
+          "clojure",
+          "clojurescript",
+          "re-frame",
+          "rest-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.688667+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
