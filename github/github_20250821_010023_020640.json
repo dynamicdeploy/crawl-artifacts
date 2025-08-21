@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:00.672706",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_020640.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_020640",
+    "url": "https://github.com/vlad-boyarsky/DDD-laravel",
+    "title": "GitHub Repository: DDD-laravel",
+    "description": "DDD (Domain-Driven Design) for Laravel project & Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: PHP",
+    "metadata": {
+      "author": "vlad-boyarsky",
+      "stars": 8,
+      "forks": 0,
+      "language": "PHP",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-05-21T23:44:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "vlad-boyarsky",
+      "last_activity": "2023-05-21T23:44:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 0,
+        "watchers": 8,
+        "size_kb": 104,
+        "language": "PHP",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.020643+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
