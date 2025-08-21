@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:36.090678",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_558173.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_558173",
+    "url": "https://github.com/EdwinVW/pitstop",
+    "title": "GitHub Repository: pitstop",
+    "description": "This repo contains a sample application based on a Garage Management System for Pitstop - a fictitious garage. The primary goal of this sample is to demonstrate several software-architecture concepts like: Microservices, CQRS, Event Sourcing, Domain Driven Design (DDD), Eventual Consistency.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1136, Language: JavaScript",
+    "metadata": {
+      "author": "EdwinVW",
+      "stars": 1136,
+      "forks": 484,
+      "language": "JavaScript",
+      "topics": [
+        "asp-net-core-mvc",
+        "cqrs",
+        "ddd",
+        "docker",
+        "docker-compose",
+        "event-driven",
+        "event-sourcing",
+        "eventual-consistency",
+        "istio",
+        "kubernetes",
+        "linkerd",
+        "message-broker",
+        "microservices",
+        "microservices-architecture",
+        "netcore",
+        "rabbitmq",
+        "sample-app",
+        "service-mesh",
+        "web-api"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:16:04Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "EdwinVW",
+      "last_activity": "2025-08-19T06:16:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1136,
+        "forks": 484,
+        "watchers": 1136,
+        "size_kb": 10685,
+        "language": "JavaScript",
+        "topics": [
+          "asp-net-core-mvc",
+          "cqrs",
+          "ddd",
+          "docker",
+          "docker-compose",
+          "event-driven",
+          "event-sourcing",
+          "eventual-consistency",
+          "istio",
+          "kubernetes",
+          "linkerd",
+          "message-broker",
+          "microservices",
+          "microservices-architecture",
+          "netcore",
+          "rabbitmq",
+          "sample-app",
+          "service-mesh",
+          "web-api"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.558181+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
