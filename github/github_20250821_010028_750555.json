@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:40.731418",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_750555.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_750555",
+    "url": "https://github.com/CodelyTV/csharp-ddd-skeleton",
+    "title": "GitHub Repository: csharp-ddd-skeleton",
+    "description": "🦈✨ C# DDD Skeleton: Bootstrap your new C# projects applying Hexagonal Architecture and Domain-Driven Design patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 175, Language: C#",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 175,
+      "forks": 36,
+      "language": "C#",
+      "topics": [
+        "codely",
+        "codelytv",
+        "cqrs",
+        "csharp",
+        "ddd",
+        "ddd-architecture",
+        "ddd-cqrs",
+        "ddd-example",
+        "entity-framework",
+        "example-project",
+        "hexagonal-architecture",
+        "netcore",
+        "netcore3",
+        "netcore31",
+        "rabbitmq",
+        "skeleton"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-26T01:24:54Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-06-26T01:24:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 175,
+        "forks": 36,
+        "watchers": 175,
+        "size_kb": 318,
+        "language": "C#",
+        "topics": [
+          "codely",
+          "codelytv",
+          "cqrs",
+          "csharp",
+          "ddd",
+          "ddd-architecture",
+          "ddd-cqrs",
+          "ddd-example",
+          "entity-framework",
+          "example-project",
+          "hexagonal-architecture",
+          "netcore",
+          "netcore3",
+          "netcore31",
+          "rabbitmq",
+          "skeleton"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.750559+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
