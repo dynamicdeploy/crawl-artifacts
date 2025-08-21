@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:09:20.416341",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_232618.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_232618",
+    "url": "https://github.com/wkrzywiec/library-hexagonal",
+    "title": "GitHub Repository: library-hexagonal",
+    "description": "An example application written in Hexagonal (Ports and Adapter) architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 271, Language: Java",
+    "metadata": {
+      "author": "wkrzywiec",
+      "stars": 271,
+      "forks": 57,
+      "language": "Java",
+      "topics": [
+        "cqrs",
+        "ddd",
+        "docker",
+        "docker-compose",
+        "domain-driven-design",
+        "hexagonal-architecture",
+        "java-11",
+        "ports-and-adapters",
+        "postgres",
+        "spring-boot",
+        "tdd"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:21:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "wkrzywiec",
+      "last_activity": "2025-08-13T11:21:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 271,
+        "forks": 57,
+        "watchers": 271,
+        "size_kb": 10380,
+        "language": "Java",
+        "topics": [
+          "cqrs",
+          "ddd",
+          "docker",
+          "docker-compose",
+          "domain-driven-design",
+          "hexagonal-architecture",
+          "java-11",
+          "ports-and-adapters",
+          "postgres",
+          "spring-boot",
+          "tdd"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.232621+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
