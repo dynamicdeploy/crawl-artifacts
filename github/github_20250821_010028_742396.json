@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:30.324124",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742396.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742396",
+    "url": "https://github.com/rmanguinho/clean-react",
+    "title": "GitHub Repository: clean-react",
+    "description": "Sistema em ReactJs usando Hooks, Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1464, Language: TypeScript",
+    "metadata": {
+      "author": "rmanguinho",
+      "stars": 1464,
+      "forks": 306,
+      "language": "TypeScript",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "design-pattern",
+        "hooks",
+        "javascript",
+        "react",
+        "reactjs",
+        "recoil",
+        "tdd",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-02T20:53:10Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "rmanguinho",
+      "last_activity": "2025-08-02T20:53:10Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1464,
+        "forks": 306,
+        "watchers": 1464,
+        "size_kb": 4947,
+        "language": "TypeScript",
+        "topics": [
+          "clean-architecture",
+          "clean-code",
+          "design-pattern",
+          "hooks",
+          "javascript",
+          "react",
+          "reactjs",
+          "recoil",
+          "tdd",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742400+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
