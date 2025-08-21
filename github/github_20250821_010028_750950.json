@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:44.813669",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_750950.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_750950",
+    "url": "https://github.com/Devinterview-io/databases-interview-questions",
+    "title": "GitHub Repository: databases-interview-questions",
+    "description": "🟣 Databases interview questions and answers to help you prepare for your next software architecture and design patterns interview in 2025.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 169, Language: None",
+    "metadata": {
+      "author": "Devinterview-io",
+      "stars": 169,
+      "forks": 28,
+      "language": "en",
+      "topics": [
+        "coding-interview-questions",
+        "coding-interviews",
+        "databases",
+        "databases-interview-questions",
+        "databases-questions",
+        "databases-tech-interview",
+        "design-patterns",
+        "programming-interview-questions",
+        "senior-developer-interview",
+        "software-architect-interview",
+        "software-architecture",
+        "software-architecture-interview",
+        "software-architecture-interview-questions",
+        "software-developer-interview",
+        "software-engineer-interview",
+        "software-engineering",
+        "system-architecture",
+        "system-design",
+        "technical-interview-questions"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T01:24:53Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Devinterview-io",
+      "last_activity": "2025-08-20T01:24:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 169,
+        "forks": 28,
+        "watchers": 169,
+        "size_kb": 32,
+        "language": null,
+        "topics": [
+          "coding-interview-questions",
+          "coding-interviews",
+          "databases",
+          "databases-interview-questions",
+          "databases-questions",
+          "databases-tech-interview",
+          "design-patterns",
+          "programming-interview-questions",
+          "senior-developer-interview",
+          "software-architect-interview",
+          "software-architecture",
+          "software-architecture-interview",
+          "software-architecture-interview-questions",
+          "software-developer-interview",
+          "software-engineer-interview",
+          "software-engineering",
+          "system-architecture",
+          "system-design",
+          "technical-interview-questions"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.750953+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
