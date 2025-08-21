@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:04.290339",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_685785.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_685785",
+    "url": "https://github.com/coi-gov-pl/spring-clean-architecture",
+    "title": "GitHub Repository: spring-clean-architecture",
+    "description": "An example web app structured using Clean Architecture, implemented using Spring Framework.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 130, Language: Java",
+    "metadata": {
+      "author": "coi-gov-pl",
+      "stars": 130,
+      "forks": 30,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-11-23T04:17:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "coi-gov-pl",
+      "last_activity": "2024-11-23T04:17:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 130,
+        "forks": 30,
+        "watchers": 130,
+        "size_kb": 415,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.685788+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
