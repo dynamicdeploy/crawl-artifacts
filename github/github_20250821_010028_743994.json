@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:46.304722",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_743994.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_743994",
+    "url": "https://github.com/nuhkoca/kotlin-modular-tdd-coroutines-mvvm",
+    "title": "GitHub Repository: kotlin-modular-tdd-coroutines-mvvm",
+    "description": "A sample Kotlin app which was built with modular structure, Kotlin DSL, Kotlin Coroutines, TDD and MVVM patterns.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 518, Language: Kotlin",
+    "metadata": {
+      "author": "nuhkoca",
+      "stars": 518,
+      "forks": 76,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "architecture",
+        "circleci",
+        "clean-architecture",
+        "coroutines",
+        "dagger2",
+        "databinding",
+        "detekt",
+        "glide",
+        "kotlin-dsl",
+        "ktlint",
+        "lint",
+        "mockk",
+        "modularization",
+        "mvvm-architecture",
+        "mvvm-pattern",
+        "retrofit2",
+        "solid-principles",
+        "staticcodeanalysis",
+        "tdd"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T03:07:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nuhkoca",
+      "last_activity": "2025-08-18T03:07:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 518,
+        "forks": 76,
+        "watchers": 518,
+        "size_kb": 4451,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "architecture",
+          "circleci",
+          "clean-architecture",
+          "coroutines",
+          "dagger2",
+          "databinding",
+          "detekt",
+          "glide",
+          "kotlin-dsl",
+          "ktlint",
+          "lint",
+          "mockk",
+          "modularization",
+          "mvvm-architecture",
+          "mvvm-pattern",
+          "retrofit2",
+          "solid-principles",
+          "staticcodeanalysis",
+          "tdd"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.743996+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
