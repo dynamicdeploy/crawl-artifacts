@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:43.422242",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_743631.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_743631",
+    "url": "https://github.com/kudos-dude/react-best-practices",
+    "title": "GitHub Repository: react-best-practices",
+    "description": "A comprehensive reference guide to kickstart your React architecting career!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 679, Language: None",
+    "metadata": {
+      "author": "kudos-dude",
+      "stars": 679,
+      "forks": 66,
+      "language": "en",
+      "topics": [
+        "advanced",
+        "architecture",
+        "articles",
+        "beginner",
+        "best-practices",
+        "functional-programming",
+        "javascirpt",
+        "libraries",
+        "patterns",
+        "react",
+        "reactjs",
+        "redux",
+        "starter-project"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T18:19:46Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "kudos-dude",
+      "last_activity": "2025-08-20T18:19:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 679,
+        "forks": 66,
+        "watchers": 679,
+        "size_kb": 1,
+        "language": null,
+        "topics": [
+          "advanced",
+          "architecture",
+          "articles",
+          "beginner",
+          "best-practices",
+          "functional-programming",
+          "javascirpt",
+          "libraries",
+          "patterns",
+          "react",
+          "reactjs",
+          "redux",
+          "starter-project"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.743634+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
