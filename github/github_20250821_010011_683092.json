@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:34.978253",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_683092.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_683092",
+    "url": "https://github.com/soyjuanmalopez/clean-architecture",
+    "title": "GitHub Repository: clean-architecture",
+    "description": "A example of clean architecture in Java 8 and Spring Boot 2.0",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 308, Language: Java",
+    "metadata": {
+      "author": "soyjuanmalopez",
+      "stars": 308,
+      "forks": 94,
+      "language": "Java",
+      "topics": [
+        "actors",
+        "arquitecture",
+        "clean",
+        "clean-arch",
+        "clean-architecture",
+        "clean-code",
+        "hibernate",
+        "java-8",
+        "lombok",
+        "maven",
+        "multiproject",
+        "spring",
+        "spring-boot",
+        "template",
+        "video"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:21:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "soyjuanmalopez",
+      "last_activity": "2025-08-13T11:21:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 308,
+        "forks": 94,
+        "watchers": 308,
+        "size_kb": 145,
+        "language": "Java",
+        "topics": [
+          "actors",
+          "arquitecture",
+          "clean",
+          "clean-arch",
+          "clean-architecture",
+          "clean-code",
+          "hibernate",
+          "java-8",
+          "lombok",
+          "maven",
+          "multiproject",
+          "spring",
+          "spring-boot",
+          "template",
+          "video"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.683096+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
