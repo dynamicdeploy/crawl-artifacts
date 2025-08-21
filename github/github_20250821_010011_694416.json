@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:48.246127",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_694416.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_694416",
+    "url": "https://github.com/ahmedadeltito/github-repos",
+    "title": "GitHub Repository: github-repos",
+    "description": "It is a real life example that is using the most updated tools and technologies to develop and implement a robust android application by using the new Android Jetpack implemented by some of S.O.L.I.D Principles and Clean Code Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 36, Language: Kotlin",
+    "metadata": {
+      "author": "ahmedadeltito",
+      "stars": 36,
+      "forks": 10,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-01-08T11:49:11Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ahmedadeltito",
+      "last_activity": "2025-01-08T11:49:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 36,
+        "forks": 10,
+        "watchers": 36,
+        "size_kb": 4300,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.694419+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
