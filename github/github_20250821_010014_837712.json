@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:13.330668",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_837712.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_837712",
+    "url": "https://github.com/Apress/practical-ddd-in-enterprise-java",
+    "title": "GitHub Repository: practical-ddd-in-enterprise-java",
+    "description": "Source Code for 'Practical Domain-Driven Design in Enterprise Java' by Vijay Nair",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 156, Language: Java",
+    "metadata": {
+      "author": "Apress",
+      "stars": 156,
+      "forks": 105,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:20:46Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Apress",
+      "last_activity": "2025-08-13T11:20:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 156,
+        "forks": 105,
+        "watchers": 156,
+        "size_kb": 35523,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.837716+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
