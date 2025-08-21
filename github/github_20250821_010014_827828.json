@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:14.194801",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_827828.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_827828",
+    "url": "https://github.com/victorsteven/food-app-server",
+    "title": "GitHub Repository: food-app-server",
+    "description": "Exploring Domain-Driven Design in Golang",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 672, Language: Go",
+    "metadata": {
+      "author": "victorsteven",
+      "stars": 672,
+      "forks": 115,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T04:50:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "victorsteven",
+      "last_activity": "2025-08-20T04:50:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 672,
+        "forks": 115,
+        "watchers": 672,
+        "size_kb": 214,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.827833+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
