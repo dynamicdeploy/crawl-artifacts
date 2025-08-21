@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:40.599356",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_017423.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_017423",
+    "url": "https://github.com/sadegh1998/MasterBlogger",
+    "title": "GitHub Repository: MasterBlogger",
+    "description": "Blog Management with Asp,net core razor pages and Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 11, Language: JavaScript",
+    "metadata": {
+      "author": "sadegh1998",
+      "stars": 11,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "asp-net-core",
+        "blogging",
+        "bootstrap",
+        "csharp",
+        "css",
+        "entity-framework-core",
+        "html",
+        "javascript",
+        "master-blogger",
+        "onion-architecture",
+        "razor-pages",
+        "sql-server"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-11-22T14:15:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sadegh1998",
+      "last_activity": "2024-11-22T14:15:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 11,
+        "forks": 0,
+        "watchers": 11,
+        "size_kb": 7699,
+        "language": "JavaScript",
+        "topics": [
+          "asp-net-core",
+          "blogging",
+          "bootstrap",
+          "csharp",
+          "css",
+          "entity-framework-core",
+          "html",
+          "javascript",
+          "master-blogger",
+          "onion-architecture",
+          "razor-pages",
+          "sql-server"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.017426+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
