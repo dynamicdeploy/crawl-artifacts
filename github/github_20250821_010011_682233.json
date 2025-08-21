@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:26.179284",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_682233.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_682233",
+    "url": "https://github.com/manuelkiessling/go-cleanarchitecture",
+    "title": "GitHub Repository: go-cleanarchitecture",
+    "description": "An example Go application demonstrating The Clean Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 613, Language: Go",
+    "metadata": {
+      "author": "manuelkiessling",
+      "stars": 613,
+      "forks": 104,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-26T14:54:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "manuelkiessling",
+      "last_activity": "2025-07-26T14:54:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 613,
+        "forks": 104,
+        "watchers": 613,
+        "size_kb": 2689,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.682236+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
