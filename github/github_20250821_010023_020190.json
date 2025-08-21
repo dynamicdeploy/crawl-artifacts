@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:56.657413",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_020190.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_020190",
+    "url": "https://github.com/javigs82/ddd-spring-startwars-api",
+    "title": "GitHub Repository: ddd-spring-startwars-api",
+    "description": "Restful API sample designed by Domain Driven Design & Onion architecture, and written in spring boot and java 8 future based",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: Java",
+    "metadata": {
+      "author": "javigs82",
+      "stars": 8,
+      "forks": 4,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2022-09-06T07:08:09Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "javigs82",
+      "last_activity": "2022-09-06T07:08:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 4,
+        "watchers": 8,
+        "size_kb": 31,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.020193+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
