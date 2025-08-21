@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:00.584432",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_579146.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_579146",
+    "url": "https://github.com/KishorNaik/Sol_Modular_Architecture_Node",
+    "title": "GitHub Repository: Sol_Modular_Architecture_Node",
+    "description": "A simple example of Modular Architecture in Node.js(express.js) using SOLID principle & CQRS Pattern. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: TypeScript",
+    "metadata": {
+      "author": "KishorNaik",
+      "stars": 1,
+      "forks": 0,
+      "language": "TypeScript",
+      "topics": [
+        "architecture",
+        "cqrs",
+        "expressjs",
+        "modular",
+        "nodejs",
+        "solid"
+      ],
+      "repository_type": "github",
+      "last_updated": "2021-10-24T10:41:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "KishorNaik",
+      "last_activity": "2021-10-24T10:41:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 101,
+        "language": "TypeScript",
+        "topics": [
+          "architecture",
+          "cqrs",
+          "expressjs",
+          "modular",
+          "nodejs",
+          "solid"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.579149+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
