@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:17.296503",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_740863.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_740863",
+    "url": "https://github.com/cosmicpython/book",
+    "title": "GitHub Repository: book",
+    "description": "A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it \"Cosmic Python\" tho.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3609, Language: Python",
+    "metadata": {
+      "author": "cosmicpython",
+      "stars": 3609,
+      "forks": 541,
+      "language": "Python",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T20:43:33Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "cosmicpython",
+      "last_activity": "2025-08-18T20:43:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3609,
+        "forks": 541,
+        "watchers": 3609,
+        "size_kb": 40959,
+        "language": "Python",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.740866+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
