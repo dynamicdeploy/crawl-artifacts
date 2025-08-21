@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:40.733075",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_005014.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_005014",
+    "url": "https://github.com/iktakahiro/dddpy",
+    "title": "GitHub Repository: dddpy",
+    "description": "Python DDD & Onion Architecture Example and Techniques",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 653, Language: Python",
+    "metadata": {
+      "author": "iktakahiro",
+      "stars": 653,
+      "forks": 73,
+      "language": "Python",
+      "topics": [
+        "ddd-architecture",
+        "ddd-example",
+        "fastapi",
+        "onion-architecture",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T18:31:00Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "iktakahiro",
+      "last_activity": "2025-08-20T18:31:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 653,
+        "forks": 73,
+        "watchers": 653,
+        "size_kb": 595,
+        "language": "Python",
+        "topics": [
+          "ddd-architecture",
+          "ddd-example",
+          "fastapi",
+          "onion-architecture",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.005018+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
