@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:02:29.052494",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_259192.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_259192",
+    "url": "https://github.com/nnishimura/design-system-boilerplate",
+    "title": "GitHub Repository: design-system-boilerplate",
+    "description": ":family: Frontend design-system monorepo example. Powered by lerna / yarn workspace / storybook / typescript and some love.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: Vue",
+    "metadata": {
+      "author": "nnishimura",
+      "stars": 8,
+      "forks": 4,
+      "language": "Vue",
+      "topics": [
+        "boilterplate",
+        "design-system",
+        "lerna",
+        "vue"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-04-26T20:58:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nnishimura",
+      "last_activity": "2024-04-26T20:58:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 4,
+        "watchers": 8,
+        "size_kb": 1617,
+        "language": "Vue",
+        "topics": [
+          "boilterplate",
+          "design-system",
+          "lerna",
+          "vue"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.259198+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
