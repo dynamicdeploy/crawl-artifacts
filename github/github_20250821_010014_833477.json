@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:50.273361",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_833477.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_833477",
+    "url": "https://github.com/SAP/curated-resources-for-domain-driven-design",
+    "title": "GitHub Repository: curated-resources-for-domain-driven-design",
+    "description": "You want to get started with Domain-Driven Design or are looking for advanced learning resources in this topic? Then this collection of curated learning resources is a good place to check out. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 289, Language: None",
+    "metadata": {
+      "author": "SAP",
+      "stars": 289,
+      "forks": 38,
+      "language": "en",
+      "topics": [
+        "ddd",
+        "ddd-learning",
+        "domain-driven-design"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T06:59:28Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "SAP",
+      "last_activity": "2025-08-18T06:59:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 289,
+        "forks": 38,
+        "watchers": 289,
+        "size_kb": 22182,
+        "language": null,
+        "topics": [
+          "ddd",
+          "ddd-learning",
+          "domain-driven-design"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.833481+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
