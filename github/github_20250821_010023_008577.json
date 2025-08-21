@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:11.224295",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_008577.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_008577",
+    "url": "https://github.com/adamsiemion/springboot-with-spring_data-and-onion_architecture",
+    "title": "GitHub Repository: springboot-with-spring_data-and-onion_architecture",
+    "description": "Sample Spring boot project using Spring Data and Onion architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 35, Language: Java",
+    "metadata": {
+      "author": "adamsiemion",
+      "stars": 35,
+      "forks": 8,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-23T09:10:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "adamsiemion",
+      "last_activity": "2025-07-23T09:10:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 35,
+        "forks": 8,
+        "watchers": 35,
+        "size_kb": 79,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.008580+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
