@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:38.278286",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_095652.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_095652",
+    "url": "https://github.com/AntonioFalcaoJr/EventualShop",
+    "title": "GitHub Repository: EventualShop",
+    "description": "A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Projections, Microservices for individual deployable units, Event-driven Architecture for efficient integration, and Clean Architecture as domain-centric design",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 401, Language: C#",
+    "metadata": {
+      "author": "AntonioFalcaoJr",
+      "stars": 401,
+      "forks": 76,
+      "language": "C#",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "cqrs",
+        "ddd",
+        "ddd-architecture",
+        "domain-driven-design",
+        "dotnet",
+        "dotnet6",
+        "dotnet7",
+        "eda",
+        "event-driven",
+        "event-sourcing",
+        "event-store",
+        "eventsourcing",
+        "eventstore",
+        "masstransit",
+        "microservices",
+        "reactive",
+        "reactive-programming",
+        "uncertainty"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T00:45:24Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AntonioFalcaoJr",
+      "last_activity": "2025-08-14T00:45:24Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 401,
+        "forks": 76,
+        "watchers": 401,
+        "size_kb": 16504,
+        "language": "C#",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "cqrs",
+          "ddd",
+          "ddd-architecture",
+          "domain-driven-design",
+          "dotnet",
+          "dotnet6",
+          "dotnet7",
+          "eda",
+          "event-driven",
+          "event-sourcing",
+          "event-store",
+          "eventsourcing",
+          "eventstore",
+          "masstransit",
+          "microservices",
+          "reactive",
+          "reactive-programming",
+          "uncertainty"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.095662+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
