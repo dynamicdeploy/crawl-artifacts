@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:34.088819",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_690698.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_690698",
+    "url": "https://github.com/flipper83/protohipster",
+    "title": "GitHub Repository: protohipster",
+    "description": "This is an small example about use clean architecture on Android development. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 54, Language: Java",
+    "metadata": {
+      "author": "flipper83",
+      "stars": 54,
+      "forks": 8,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-09-08T16:44:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "flipper83",
+      "last_activity": "2023-09-08T16:44:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 54,
+        "forks": 8,
+        "watchers": 54,
+        "size_kb": 1183,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.690724+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
