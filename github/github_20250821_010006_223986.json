@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:20.673443",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_223986.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_223986",
+    "url": "https://github.com/jadlimcaco/design-systems-repo",
+    "title": "GitHub Repository: design-systems-repo",
+    "description": "A collection of Design System examples, resources, tools, articles and videos.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 124, Language: Vue",
+    "metadata": {
+      "author": "jadlimcaco",
+      "stars": 124,
+      "forks": 20,
+      "language": "Vue",
+      "topics": [
+        "design-patterns",
+        "design-systems",
+        "pattern-library",
+        "style-guide"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-23T13:39:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jadlimcaco",
+      "last_activity": "2025-07-23T13:39:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 124,
+        "forks": 20,
+        "watchers": 124,
+        "size_kb": 71262,
+        "language": "Vue",
+        "topics": [
+          "design-patterns",
+          "design-systems",
+          "pattern-library",
+          "style-guide"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.224003+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
