@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:35.576032",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_241106.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_241106",
+    "url": "https://github.com/albertllousas/implementing-hexagonal-architecture",
+    "title": "GitHub Repository: implementing-hexagonal-architecture",
+    "description": "Hexagonal architecture implementation with kotlin and ktor",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 56, Language: Kotlin",
+    "metadata": {
+      "author": "albertllousas",
+      "stars": 56,
+      "forks": 6,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-19T07:28:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "albertllousas",
+      "last_activity": "2025-07-19T07:28:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 56,
+        "forks": 6,
+        "watchers": 56,
+        "size_kb": 1350,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.241111+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
