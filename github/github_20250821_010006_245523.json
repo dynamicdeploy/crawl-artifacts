@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:02:00.987125",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_245523.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_245523",
+    "url": "https://github.com/Cyb3rG0dzilla/Smart-Security-System-for-Homes",
+    "title": "GitHub Repository: Smart-Security-System-for-Homes",
+    "description": "The Smart Security System For Homes using Internet of Things has been experimentally proven to work satisfactorily by connecting simple appliances to it and the appliances were successfully controlled remotely through Internet. The designed system not only monitors the sensor data, like temperature, humidity, gas, flame, but also actuates a process according to the requirement, for example switching on the light when pressed in the app. It also stores the sensor parameters in the cloud (IBM Cloud) in a timely manner. This will help the user to analyze the condition of various parameters in the home anytime anywhere.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 15, Language: Python",
+    "metadata": {
+      "author": "Cyb3rG0dzilla",
+      "stars": 15,
+      "forks": 18,
+      "language": "Python",
+      "topics": [
+        "hacktoberfest",
+        "hacktoberfest2022",
+        "iot",
+        "iot-platform",
+        "node-red"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-11T09:51:11Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Cyb3rG0dzilla",
+      "last_activity": "2025-07-11T09:51:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 15,
+        "forks": 18,
+        "watchers": 15,
+        "size_kb": 6705,
+        "language": "Python",
+        "topics": [
+          "hacktoberfest",
+          "hacktoberfest2022",
+          "iot",
+          "iot-platform",
+          "node-red"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.245526+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
