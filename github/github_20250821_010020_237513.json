@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:06.079544",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_237513.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_237513",
+    "url": "https://github.com/slimovich/Realworld-fastapi-gino-template",
+    "title": "GitHub Repository: Realworld-fastapi-gino-template",
+    "description": "Real world Fast-API application template using gino(Async ORM) based on hexagonal architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 94, Language: Python",
+    "metadata": {
+      "author": "slimovich",
+      "stars": 94,
+      "forks": 15,
+      "language": "Python",
+      "topics": [
+        "async",
+        "async-orm",
+        "dependency-injection",
+        "docker",
+        "fastapi",
+        "fastapi-template",
+        "flake8",
+        "gino",
+        "hexagonal-architecture",
+        "jenkins",
+        "pgadmin4",
+        "postgresql",
+        "python3",
+        "python38",
+        "realworld",
+        "realworld-application",
+        "sonarqube",
+        "swagger",
+        "tutorial"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-25T11:50:17Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "slimovich",
+      "last_activity": "2025-07-25T11:50:17Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 94,
+        "forks": 15,
+        "watchers": 94,
+        "size_kb": 289,
+        "language": "Python",
+        "topics": [
+          "async",
+          "async-orm",
+          "dependency-injection",
+          "docker",
+          "fastapi",
+          "fastapi-template",
+          "flake8",
+          "gino",
+          "hexagonal-architecture",
+          "jenkins",
+          "pgadmin4",
+          "postgresql",
+          "python3",
+          "python38",
+          "realworld",
+          "realworld-application",
+          "sonarqube",
+          "swagger",
+          "tutorial"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.237516+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
