@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:32.313492",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742597.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742597",
+    "url": "https://github.com/thangchung/clean-architecture-dotnet",
+    "title": "GitHub Repository: clean-architecture-dotnet",
+    "description": "🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1316, Language: C#",
+    "metadata": {
+      "author": "thangchung",
+      "stars": 1316,
+      "forks": 276,
+      "language": "C#",
+      "topics": [
+        "aspnetcore",
+        "blazor-webassembly",
+        "clean-architecture",
+        "clean-architecture-boilerplate",
+        "cleanarchitecture",
+        "containers",
+        "cqrs",
+        "crud",
+        "dapr",
+        "ddd",
+        "ddd-architecture",
+        "ddd-patterns",
+        "dotnet6",
+        "kubernetes",
+        "mediatr",
+        "microservice",
+        "microservices",
+        "microservices-architecture",
+        "outbox",
+        "tye"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T20:57:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "thangchung",
+      "last_activity": "2025-08-19T20:57:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1316,
+        "forks": 276,
+        "watchers": 1316,
+        "size_kb": 4919,
+        "language": "C#",
+        "topics": [
+          "aspnetcore",
+          "blazor-webassembly",
+          "clean-architecture",
+          "clean-architecture-boilerplate",
+          "cleanarchitecture",
+          "containers",
+          "cqrs",
+          "crud",
+          "dapr",
+          "ddd",
+          "ddd-architecture",
+          "ddd-patterns",
+          "dotnet6",
+          "kubernetes",
+          "mediatr",
+          "microservice",
+          "microservices",
+          "microservices-architecture",
+          "outbox",
+          "tye"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742600+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
