@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:27.935892",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_839758.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_839758",
+    "url": "https://github.com/bencagri/symfony-ddd",
+    "title": "GitHub Repository: symfony-ddd",
+    "description": "Bootstrap Application for Symfony with Domain Driven Design ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 131, Language: PHP",
+    "metadata": {
+      "author": "bencagri",
+      "stars": 131,
+      "forks": 30,
+      "language": "PHP",
+      "topics": [
+        "doctrine",
+        "domain-driven-design",
+        "oauth2-server",
+        "symfony",
+        "symfony-ddd",
+        "symfony4"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-19T06:29:28Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bencagri",
+      "last_activity": "2025-04-19T06:29:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 131,
+        "forks": 30,
+        "watchers": 131,
+        "size_kb": 317,
+        "language": "PHP",
+        "topics": [
+          "doctrine",
+          "domain-driven-design",
+          "oauth2-server",
+          "symfony",
+          "symfony-ddd",
+          "symfony4"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.839763+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
