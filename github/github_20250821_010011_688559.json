@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:17.911607",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_688559.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_688559",
+    "url": "https://github.com/lievendoclo/cleanarch",
+    "title": "GitHub Repository: cleanarch",
+    "description": "Java example of the Clean Architecture ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 89, Language: Java",
+    "metadata": {
+      "author": "lievendoclo",
+      "stars": 89,
+      "forks": 30,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-10-23T04:12:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "lievendoclo",
+      "last_activity": "2024-10-23T04:12:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 89,
+        "forks": 30,
+        "watchers": 89,
+        "size_kb": 248,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.688563+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
