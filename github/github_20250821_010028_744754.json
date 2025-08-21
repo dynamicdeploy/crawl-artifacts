@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:51.437937",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_744754.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_744754",
+    "url": "https://github.com/Azure/reliable-web-app-pattern-dotnet",
+    "title": "GitHub Repository: reliable-web-app-pattern-dotnet",
+    "description": "The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 437, Language: Bicep",
+    "metadata": {
+      "author": "Azure",
+      "stars": 437,
+      "forks": 139,
+      "language": "Bicep",
+      "topics": [
+        "architecture",
+        "azd-templates",
+        "azure",
+        "azure-app-configuration",
+        "azure-app-service",
+        "azure-cache-redis",
+        "azure-frontdoor",
+        "azure-keyvault",
+        "azure-private-endpoints",
+        "azure-sql-database",
+        "bicep-templates",
+        "dotnet",
+        "microsoft",
+        "reference-implementation"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T09:40:02Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "Azure",
+      "last_activity": "2025-08-14T09:40:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 437,
+        "forks": 139,
+        "watchers": 437,
+        "size_kb": 11097,
+        "language": "Bicep",
+        "topics": [
+          "architecture",
+          "azd-templates",
+          "azure",
+          "azure-app-configuration",
+          "azure-app-service",
+          "azure-cache-redis",
+          "azure-frontdoor",
+          "azure-keyvault",
+          "azure-private-endpoints",
+          "azure-sql-database",
+          "bicep-templates",
+          "dotnet",
+          "microsoft",
+          "reference-implementation"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.744757+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
