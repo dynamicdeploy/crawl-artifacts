@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:27.339574",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742100.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742100",
+    "url": "https://github.com/MicrosoftDocs/architecture-center",
+    "title": "GitHub Repository: architecture-center",
+    "description": "Open source documentation for the Azure Architecture Center on Microsoft Learn.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1927, Language: Shell",
+    "metadata": {
+      "author": "MicrosoftDocs",
+      "stars": 1927,
+      "forks": 1797,
+      "language": "Shell",
+      "topics": [
+        "architecture",
+        "azure",
+        "best-practices",
+        "cloud",
+        "documentation",
+        "guidance",
+        "microsoft",
+        "patterns",
+        "practices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T17:34:19Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "MicrosoftDocs",
+      "last_activity": "2025-08-20T17:34:19Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1927,
+        "forks": 1797,
+        "watchers": 1927,
+        "size_kb": 1516379,
+        "language": "Shell",
+        "topics": [
+          "architecture",
+          "azure",
+          "best-practices",
+          "cloud",
+          "documentation",
+          "guidance",
+          "microsoft",
+          "patterns",
+          "practices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742104+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
