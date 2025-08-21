@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:00:46.899367",
+    "crawler_type": "github",
+    "filename": "github_20250821_010002_365628.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010002_365628",
+    "url": "https://github.com/nellaivijay/awesome-my-notes",
+    "title": "GitHub Repository: awesome-my-notes",
+    "description": "A comprehensive repository for generative AI research, platform engineering, updates, data and software engineering, system design and architecture, interview resources, notebooks, and much more!",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 20, Language: None",
+    "metadata": {
+      "author": "nellaivijay",
+      "stars": 20,
+      "forks": 3,
+      "language": "en",
+      "topics": [
+        "ai",
+        "aiops",
+        "awesome",
+        "dataops",
+        "mlops"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-03-02T03:28:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nellaivijay",
+      "last_activity": "2025-03-02T03:28:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 20,
+        "forks": 3,
+        "watchers": 20,
+        "size_kb": 447,
+        "language": null,
+        "topics": [
+          "ai",
+          "aiops",
+          "awesome",
+          "dataops",
+          "mlops"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:02.365632+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
