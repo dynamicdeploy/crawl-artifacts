@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:31.639999",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_240006.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_240006",
+    "url": "https://github.com/samverrall/microservice-example",
+    "title": "GitHub Repository: microservice-example",
+    "description": "An example microservice in Golang following hexagonal architecture and DDD.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 61, Language: Go",
+    "metadata": {
+      "author": "samverrall",
+      "stars": 61,
+      "forks": 10,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T06:30:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "samverrall",
+      "last_activity": "2025-08-13T06:30:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 61,
+        "forks": 10,
+        "watchers": 61,
+        "size_kb": 35,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.240008+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
