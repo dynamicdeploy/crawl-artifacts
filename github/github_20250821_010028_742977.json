@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:36.290269",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742977.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742977",
+    "url": "https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate",
+    "title": "GitHub Repository: android-clean-architecture-mvi-boilerplate",
+    "description": "A fork of our clean architecture boilerplate using the Model-View-Intent pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 982, Language: Kotlin",
+    "metadata": {
+      "author": "bufferapp",
+      "stars": 982,
+      "forks": 128,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-29T16:18:09Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "bufferapp",
+      "last_activity": "2025-06-29T16:18:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 982,
+        "forks": 128,
+        "watchers": 982,
+        "size_kb": 6214,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742979+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
