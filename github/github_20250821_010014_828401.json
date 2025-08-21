@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:19.126764",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_828401.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_828401",
+    "url": "https://github.com/jorge07/ddd-playground",
+    "title": "GitHub Repository: ddd-playground",
+    "description": "Domain-Driven Design in a PHP project using Symfony",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 599, Language: PHP",
+    "metadata": {
+      "author": "jorge07",
+      "stars": 599,
+      "forks": 85,
+      "language": "PHP",
+      "topics": [
+        "ddd",
+        "docker",
+        "learning-ddd",
+        "php",
+        "php-ddd",
+        "rest-api",
+        "symfony"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-27T14:40:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jorge07",
+      "last_activity": "2025-07-27T14:40:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 599,
+        "forks": 85,
+        "watchers": 599,
+        "size_kb": 704,
+        "language": "PHP",
+        "topics": [
+          "ddd",
+          "docker",
+          "learning-ddd",
+          "php",
+          "php-ddd",
+          "rest-api",
+          "symfony"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.828404+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
