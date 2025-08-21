@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:31.056173",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_682719.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_682719",
+    "url": "https://github.com/eliostvs/clean-architecture-delivery-example",
+    "title": "GitHub Repository: clean-architecture-delivery-example",
+    "description": "A example of clean architecture in Java 8 and Spring Boot 2.0",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 448, Language: Java",
+    "metadata": {
+      "author": "eliostvs",
+      "stars": 448,
+      "forks": 108,
+      "language": "Java",
+      "topics": [
+        "clean-architecture",
+        "java",
+        "java-8",
+        "jwt-authentication",
+        "spring-boot",
+        "spring-security"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T14:53:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "eliostvs",
+      "last_activity": "2025-08-13T14:53:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 448,
+        "forks": 108,
+        "watchers": 448,
+        "size_kb": 525,
+        "language": "Java",
+        "topics": [
+          "clean-architecture",
+          "java",
+          "java-8",
+          "jwt-authentication",
+          "spring-boot",
+          "spring-security"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.682723+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
