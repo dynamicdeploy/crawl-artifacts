@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:04.243004",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_099335.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_099335",
+    "url": "https://github.com/daxnet/we-text",
+    "title": "GitHub Repository: we-text",
+    "description": "WeText is a sample application that demonstrates the implementation of DDD/CQRS and microservice architectural patterns in C#.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 259, Language: C#",
+    "metadata": {
+      "author": "daxnet",
+      "stars": 259,
+      "forks": 92,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-23T02:34:00Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "daxnet",
+      "last_activity": "2025-06-23T02:34:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 259,
+        "forks": 92,
+        "watchers": 259,
+        "size_kb": 816,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.099339+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
