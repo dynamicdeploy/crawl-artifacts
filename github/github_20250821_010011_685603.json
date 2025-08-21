@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:02.327078",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_685603.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_685603",
+    "url": "https://github.com/mmacneil/CleanArchitecture",
+    "title": "GitHub Repository: CleanArchitecture",
+    "description": "Example from a post exploring CleanArchitecture: https://fullstackmark.com/post/11/better-software-design-with-clean-architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 135, Language: C#",
+    "metadata": {
+      "author": "mmacneil",
+      "stars": 135,
+      "forks": 54,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-12-28T15:47:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mmacneil",
+      "last_activity": "2024-12-28T15:47:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 135,
+        "forks": 54,
+        "watchers": 135,
+        "size_kb": 16,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.685606+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
