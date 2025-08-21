@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:25.674441",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_748398.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_748398",
+    "url": "https://github.com/ImangazalievM/Bubbble",
+    "title": "GitHub Repository: Bubbble",
+    "description": "Sample app showcases the MVP pattern and Robert Martin's Clean Architecture approach.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 221, Language: HTML",
+    "metadata": {
+      "author": "ImangazalievM",
+      "stars": 221,
+      "forks": 25,
+      "language": "HTML",
+      "topics": [
+        "android-architecture",
+        "android-development",
+        "clean-architecture",
+        "dagger2",
+        "mvp-android",
+        "rxjava"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-11-27T23:52:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ImangazalievM",
+      "last_activity": "2024-11-27T23:52:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 221,
+        "forks": 25,
+        "watchers": 221,
+        "size_kb": 2635,
+        "language": "HTML",
+        "topics": [
+          "android-architecture",
+          "android-development",
+          "clean-architecture",
+          "dagger2",
+          "mvp-android",
+          "rxjava"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.748401+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
