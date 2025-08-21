@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:52.662174",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_019594.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_019594",
+    "url": "https://github.com/vialeda/onion-architecture-with-generic-unit-of-work-and-repositories",
+    "title": "GitHub Repository: onion-architecture-with-generic-unit-of-work-and-repositories",
+    "description": "Onion architecture with Generic Unit of Work and Repositories",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9, Language: C#",
+    "metadata": {
+      "author": "vialeda",
+      "stars": 9,
+      "forks": 2,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-10-04T16:44:04Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "vialeda",
+      "last_activity": "2024-10-04T16:44:04Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9,
+        "forks": 2,
+        "watchers": 9,
+        "size_kb": 1320,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.019599+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
