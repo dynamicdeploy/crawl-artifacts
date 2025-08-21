@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:31.428140",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_576473.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_576473",
+    "url": "https://github.com/sergiovlvitorino/hexagonal-architecture-example",
+    "title": "GitHub Repository: hexagonal-architecture-example",
+    "description": "This example shows how to implement the hexagonal architecture design pattern with REST and GraphQL.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 6, Language: Java",
+    "metadata": {
+      "author": "sergiovlvitorino",
+      "stars": 6,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "cqrs",
+        "ddd-architecture",
+        "ddd-patterns",
+        "domain-driven-design",
+        "example",
+        "graphql",
+        "hexagonal-architecture",
+        "java",
+        "spring"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-03-21T03:32:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sergiovlvitorino",
+      "last_activity": "2024-03-21T03:32:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 6,
+        "forks": 0,
+        "watchers": 6,
+        "size_kb": 60,
+        "language": "Java",
+        "topics": [
+          "cqrs",
+          "ddd-architecture",
+          "ddd-patterns",
+          "domain-driven-design",
+          "example",
+          "graphql",
+          "hexagonal-architecture",
+          "java",
+          "spring"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.576475+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
