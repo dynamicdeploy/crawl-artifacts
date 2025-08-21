@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:05.608365",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_580681.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_580681",
+    "url": "https://github.com/GemberPHP/example-event-sourcing-dcb",
+    "title": "GitHub Repository: example-event-sourcing-dcb",
+    "description": "Example project (Proof of Concept) with Event Sourcing in PHP using the Dynamic Consistency Boundary (DCB) pattern. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: PHP",
+    "metadata": {
+      "author": "GemberPHP",
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "topics": [
+        "cqrs",
+        "dcb",
+        "ddd",
+        "domain-driven-design",
+        "dynamic-consistency-boundary",
+        "event-sourcing",
+        "gember"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T18:54:09Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "GemberPHP",
+      "last_activity": "2025-08-18T18:54:09Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 59,
+        "language": "PHP",
+        "topics": [
+          "cqrs",
+          "dcb",
+          "ddd",
+          "domain-driven-design",
+          "dynamic-consistency-boundary",
+          "event-sourcing",
+          "gember"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.580691+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
