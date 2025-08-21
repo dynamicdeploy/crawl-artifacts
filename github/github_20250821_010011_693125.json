@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:40.159689",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_693125.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_693125",
+    "url": "https://github.com/CleanCocoa/mac-appdev-code",
+    "title": "GitHub Repository: mac-appdev-code",
+    "description": "Example project code for the book \"Develop Mac Apps With a Clean Architecture and Swift\"",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 43, Language: Swift",
+    "metadata": {
+      "author": "CleanCocoa",
+      "stars": 43,
+      "forks": 1,
+      "language": "Swift",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-08-16T17:02:15Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CleanCocoa",
+      "last_activity": "2024-08-16T17:02:15Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 43,
+        "forks": 1,
+        "watchers": 43,
+        "size_kb": 190,
+        "language": "Swift",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.693142+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
