@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:55.270324",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_560281.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_560281",
+    "url": "https://github.com/meysamhadeli/booking-microservices-nestjs",
+    "title": "GitHub Repository: booking-microservices-nestjs",
+    "description": "Practical microservices, built with Nestjs, CQRS, Vertical Slice Architecture, Event-Driven Architecture, Postgres, RabbitMQ and the latest technologies.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 217, Language: TypeScript",
+    "metadata": {
+      "author": "meysamhadeli",
+      "stars": 217,
+      "forks": 43,
+      "language": "TypeScript",
+      "topics": [
+        "clean-architecture",
+        "cqrs",
+        "docker",
+        "event-driven-architecture",
+        "javascript",
+        "jwt",
+        "messaging",
+        "microservice",
+        "microservices",
+        "monitoring",
+        "nestjs",
+        "node",
+        "node-js",
+        "nodejs",
+        "opentelemetry",
+        "rabbitmq",
+        "testing",
+        "typeorm",
+        "typescript",
+        "vertical-slice-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T12:51:57Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "meysamhadeli",
+      "last_activity": "2025-08-17T12:51:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 217,
+        "forks": 43,
+        "watchers": 217,
+        "size_kb": 2111,
+        "language": "TypeScript",
+        "topics": [
+          "clean-architecture",
+          "cqrs",
+          "docker",
+          "event-driven-architecture",
+          "javascript",
+          "jwt",
+          "messaging",
+          "microservice",
+          "microservices",
+          "monitoring",
+          "nestjs",
+          "node",
+          "node-js",
+          "nodejs",
+          "opentelemetry",
+          "rabbitmq",
+          "testing",
+          "typeorm",
+          "typescript",
+          "vertical-slice-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.560284+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
