@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:43.134508",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_096260.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_096260",
+    "url": "https://github.com/SatoshiPortal/cyphernode",
+    "title": "GitHub Repository: cyphernode",
+    "description": "Modular Bitcoin full-node microservices API server architecture and utilities toolkit to build scalable, secure and featureful apps and services without trusted third parties ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 373, Language: Shell",
+    "metadata": {
+      "author": "SatoshiPortal",
+      "stars": 373,
+      "forks": 72,
+      "language": "Shell",
+      "topics": [
+        "architecture",
+        "bitcoin",
+        "bitcoin-services",
+        "cyphernode",
+        "docker-containers",
+        "lightning-network"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-06T11:22:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "SatoshiPortal",
+      "last_activity": "2025-08-06T11:22:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 373,
+        "forks": 72,
+        "watchers": 373,
+        "size_kb": 14835,
+        "language": "Shell",
+        "topics": [
+          "architecture",
+          "bitcoin",
+          "bitcoin-services",
+          "cyphernode",
+          "docker-containers",
+          "lightning-network"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.096270+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
