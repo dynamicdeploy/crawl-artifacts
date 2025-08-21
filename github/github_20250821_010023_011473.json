@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:19.119268",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_011473.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_011473",
+    "url": "https://github.com/andistoev/onion-architecture-with-spring-boot",
+    "title": "GitHub Repository: onion-architecture-with-spring-boot",
+    "description": "Example of how you can apply onion architecture with Spring Boot",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22, Language: Java",
+    "metadata": {
+      "author": "andistoev",
+      "stars": 22,
+      "forks": 10,
+      "language": "Java",
+      "topics": [
+        "onion-architecture",
+        "spring-boot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-10-16T11:11:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "andistoev",
+      "last_activity": "2024-10-16T11:11:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22,
+        "forks": 10,
+        "watchers": 22,
+        "size_kb": 115,
+        "language": "Java",
+        "topics": [
+          "onion-architecture",
+          "spring-boot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.011477+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
