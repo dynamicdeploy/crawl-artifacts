@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:22.568235",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_689025.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_689025",
+    "url": "https://github.com/cyruzin/hexagony",
+    "title": "GitHub Repository: hexagony",
+    "description": "Clean architecture example in Golang. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 75, Language: Go",
+    "metadata": {
+      "author": "cyruzin",
+      "stars": 75,
+      "forks": 12,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "ddd-architecture",
+        "go",
+        "golang",
+        "hexagonal-architecture",
+        "metal",
+        "records"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-04T14:27:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "cyruzin",
+      "last_activity": "2025-07-04T14:27:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 75,
+        "forks": 12,
+        "watchers": 75,
+        "size_kb": 460,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "ddd-architecture",
+          "go",
+          "golang",
+          "hexagonal-architecture",
+          "metal",
+          "records"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.689028+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
