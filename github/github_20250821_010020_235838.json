@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:09:49.391834",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_235838.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_235838",
+    "url": "https://github.com/szymon6927/hexagonal-architecture-python",
+    "title": "GitHub Repository: hexagonal-architecture-python",
+    "description": "An example project that uses FastAPI and follows the hexagonal architecture rules.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 125, Language: Python",
+    "metadata": {
+      "author": "szymon6927",
+      "stars": 125,
+      "forks": 14,
+      "language": "Python",
+      "topics": [
+        "architecture",
+        "clean-architecture",
+        "hexagonal-architecture",
+        "python"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:36:53Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "szymon6927",
+      "last_activity": "2025-08-19T03:36:53Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 125,
+        "forks": 14,
+        "watchers": 125,
+        "size_kb": 120,
+        "language": "Python",
+        "topics": [
+          "architecture",
+          "clean-architecture",
+          "hexagonal-architecture",
+          "python"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.235842+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
