@@ -1,0 +1,81 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:21.114702",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_838530.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_838530",
+    "url": "https://github.com/4lessandrodev/rich-domain",
+    "title": "GitHub Repository: rich-domain",
+    "description": "A lib to help you create a robust project based on domain driven-design (ddd) principles with typescript and zero dependencies.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 138, Language: TypeScript",
+    "metadata": {
+      "author": "4lessandrodev",
+      "stars": 138,
+      "forks": 9,
+      "language": "TypeScript",
+      "topics": [
+        "aggregate",
+        "auto-mapper",
+        "ddd",
+        "domain",
+        "domain-data",
+        "domain-driven-design",
+        "domain-entity",
+        "domain-events",
+        "domain-model",
+        "results",
+        "rich-domain",
+        "typescript",
+        "typescript-library",
+        "value-object"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T06:18:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "4lessandrodev",
+      "last_activity": "2025-08-19T06:18:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 138,
+        "forks": 9,
+        "watchers": 138,
+        "size_kb": 2054,
+        "language": "TypeScript",
+        "topics": [
+          "aggregate",
+          "auto-mapper",
+          "ddd",
+          "domain",
+          "domain-data",
+          "domain-driven-design",
+          "domain-entity",
+          "domain-events",
+          "domain-model",
+          "results",
+          "rich-domain",
+          "typescript",
+          "typescript-library",
+          "value-object"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.838533+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
