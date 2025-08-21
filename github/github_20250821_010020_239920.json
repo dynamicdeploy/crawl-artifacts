@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:30.462834",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_239920.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_239920",
+    "url": "https://github.com/jivimberg/hexagonal-architecture",
+    "title": "GitHub Repository: hexagonal-architecture",
+    "description": "Demo project for Hexagonal Architecture on Spring Boot",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 61, Language: Java",
+    "metadata": {
+      "author": "jivimberg",
+      "stars": 61,
+      "forks": 31,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-13T18:44:31Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jivimberg",
+      "last_activity": "2025-02-13T18:44:31Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 61,
+        "forks": 31,
+        "watchers": 61,
+        "size_kb": 13,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.239923+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
