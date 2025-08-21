@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:44.161807",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_567571.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_567571",
+    "url": "https://github.com/izharishaksa/ecommerce-system-example",
+    "title": "GitHub Repository: ecommerce-system-example",
+    "description": "Implementing Event Driven Architecture and use Domain Driven Design approach. Technology: Go, Kafka, Docker.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 28, Language: Go",
+    "metadata": {
+      "author": "izharishaksa",
+      "stars": 28,
+      "forks": 2,
+      "language": "Go",
+      "topics": [
+        "ddd-example",
+        "docker",
+        "domain-driven-design",
+        "e-commerce-project",
+        "event-driven-architecture",
+        "go",
+        "golang",
+        "kafka",
+        "monorepo",
+        "monorepo-example",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-01-29T04:40:22Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "izharishaksa",
+      "last_activity": "2025-01-29T04:40:22Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 28,
+        "forks": 2,
+        "watchers": 28,
+        "size_kb": 244,
+        "language": "Go",
+        "topics": [
+          "ddd-example",
+          "docker",
+          "domain-driven-design",
+          "e-commerce-project",
+          "event-driven-architecture",
+          "go",
+          "golang",
+          "kafka",
+          "monorepo",
+          "monorepo-example",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.567577+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
