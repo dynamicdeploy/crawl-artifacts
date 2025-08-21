@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:24.188172",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_575835.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_575835",
+    "url": "https://github.com/godoylucase/cqrs-pattern-impl",
+    "title": "GitHub Repository: cqrs-pattern-impl",
+    "description": "An example implementation for the CQRS architecture pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9, Language: Go",
+    "metadata": {
+      "author": "godoylucase",
+      "stars": 9,
+      "forks": 1,
+      "language": "Go",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-02-10T18:59:58Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "godoylucase",
+      "last_activity": "2024-02-10T18:59:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9,
+        "forks": 1,
+        "watchers": 9,
+        "size_kb": 11070,
+        "language": "Go",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.575837+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
