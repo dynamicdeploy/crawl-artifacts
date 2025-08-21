@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:46.459083",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_684205.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_684205",
+    "url": "https://github.com/ihorvitruk/buddysearch",
+    "title": "GitHub Repository: buddysearch",
+    "description": "Android Clean Architecture example using MVP, Rx: RxJava, RxAndroid, Dagger 2, Data Binding, Retrolambda, Firebase Database, Firebase Auth, Firebase Messaging (FCM), Realm",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 208, Language: Java",
+    "metadata": {
+      "author": "ihorvitruk",
+      "stars": 208,
+      "forks": 43,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-11-18T14:15:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ihorvitruk",
+      "last_activity": "2024-11-18T14:15:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 208,
+        "forks": 43,
+        "watchers": 208,
+        "size_kb": 15884,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.684208+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
