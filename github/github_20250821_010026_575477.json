@@ -1,0 +1,85 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:20.107794",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_575477.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_575477",
+    "url": "https://github.com/ehsomma/ddd-cqrs-microservices",
+    "title": "GitHub Repository: ddd-cqrs-microservices",
+    "description": "A working example of DDD with microservices, CQRS and Write and Read databases. This document contains comments about the decisions that we made to select architectures, guidelines, definitions, patterns and tools.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 16, Language: C#",
+    "metadata": {
+      "author": "ehsomma",
+      "stars": 16,
+      "forks": 3,
+      "language": "C#",
+      "topics": [
+        "api",
+        "clean-architecture",
+        "clean-code",
+        "codecoverage",
+        "cqrs",
+        "ddd",
+        "dotnet",
+        "healthcheck",
+        "idempotency",
+        "masstransit",
+        "microservices",
+        "netcore",
+        "outbox-pattern",
+        "projection",
+        "rabbitmq",
+        "restful"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T16:29:28Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "ehsomma",
+      "last_activity": "2025-08-07T16:29:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 16,
+        "forks": 3,
+        "watchers": 16,
+        "size_kb": 1624,
+        "language": "C#",
+        "topics": [
+          "api",
+          "clean-architecture",
+          "clean-code",
+          "codecoverage",
+          "cqrs",
+          "ddd",
+          "dotnet",
+          "healthcheck",
+          "idempotency",
+          "masstransit",
+          "microservices",
+          "netcore",
+          "outbox-pattern",
+          "projection",
+          "rabbitmq",
+          "restful"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.575480+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
