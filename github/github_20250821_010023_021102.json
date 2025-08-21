@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:03.549785",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_021102.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_021102",
+    "url": "https://github.com/tatsunori-iwaki/iwaki-onion-architecture-for-vuejs",
+    "title": "GitHub Repository: iwaki-onion-architecture-for-vuejs",
+    "description": "Vuejs implementation pattern using onion architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7, Language: TypeScript",
+    "metadata": {
+      "author": "tatsunori-iwaki",
+      "stars": 7,
+      "forks": 4,
+      "language": "TypeScript",
+      "topics": [
+        "axios",
+        "axios-mock-adapter",
+        "coverage",
+        "ddd",
+        "electron",
+        "javascript",
+        "jest",
+        "nedb",
+        "onion-architecture",
+        "typescript",
+        "vuejs"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-02-08T10:47:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "tatsunori-iwaki",
+      "last_activity": "2025-02-08T10:47:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7,
+        "forks": 4,
+        "watchers": 7,
+        "size_kb": 32013,
+        "language": "TypeScript",
+        "topics": [
+          "axios",
+          "axios-mock-adapter",
+          "coverage",
+          "ddd",
+          "electron",
+          "javascript",
+          "jest",
+          "nedb",
+          "onion-architecture",
+          "typescript",
+          "vuejs"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.021105+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
