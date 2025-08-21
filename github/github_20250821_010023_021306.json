@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:05.646168",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_021306.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_021306",
+    "url": "https://github.com/maldworth/ODataWithOnionCQRS",
+    "title": "GitHub Repository: ODataWithOnionCQRS",
+    "description": "Starter Kit for an OData Endpoint structured using Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 7, Language: C#",
+    "metadata": {
+      "author": "maldworth",
+      "stars": 7,
+      "forks": 4,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2019-10-17T22:26:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "maldworth",
+      "last_activity": "2019-10-17T22:26:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 7,
+        "forks": 4,
+        "watchers": 7,
+        "size_kb": 644,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.021309+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
