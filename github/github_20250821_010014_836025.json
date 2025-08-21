@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:03.306975",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_836025.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_836025",
+    "url": "https://github.com/jojoarianto/go-ddd-api",
+    "title": "GitHub Repository: go-ddd-api",
+    "description": "API with domain driven design approach using golang, gorm, and mysql",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 213, Language: Go",
+    "metadata": {
+      "author": "jojoarianto",
+      "stars": 213,
+      "forks": 33,
+      "language": "Go",
+      "topics": [
+        "api",
+        "ddd",
+        "golang",
+        "gorm",
+        "mysql"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-28T06:14:07Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "jojoarianto",
+      "last_activity": "2025-07-28T06:14:07Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 213,
+        "forks": 33,
+        "watchers": 213,
+        "size_kb": 32,
+        "language": "Go",
+        "topics": [
+          "api",
+          "ddd",
+          "golang",
+          "gorm",
+          "mysql"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.836029+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
