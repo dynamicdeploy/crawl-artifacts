@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:39.267940",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_095761.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_095761",
+    "url": "https://github.com/phodal/aofe.code",
+    "title": "GitHub Repository: aofe.code",
+    "description": "《前端架构：从入门到微前端》源码，code for Architecture of Frontend ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 386, Language: JavaScript",
+    "metadata": {
+      "author": "phodal",
+      "stars": 386,
+      "forks": 113,
+      "language": "JavaScript",
+      "topics": [
+        "architecture",
+        "book",
+        "frontend",
+        "microfrontends",
+        "microservices"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-14T09:34:40Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "phodal",
+      "last_activity": "2025-07-14T09:34:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 386,
+        "forks": 113,
+        "watchers": 386,
+        "size_kb": 3854,
+        "language": "JavaScript",
+        "topics": [
+          "architecture",
+          "book",
+          "frontend",
+          "microfrontends",
+          "microservices"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.095765+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
