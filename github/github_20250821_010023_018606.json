@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:47.625157",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_018606.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_018606",
+    "url": "https://github.com/JayKrishnareddy/OnionArchitecture_CQRS_Dapper",
+    "title": "GitHub Repository: OnionArchitecture_CQRS_Dapper",
+    "description": "Integrated CQRS (Command Query Responsible Segregation) Design Pattern with Dapper as ORM Tool(Object Relation mapping) followed by Onion Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9, Language: C#",
+    "metadata": {
+      "author": "JayKrishnareddy",
+      "stars": 9,
+      "forks": 4,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-10-04T16:40:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "JayKrishnareddy",
+      "last_activity": "2024-10-04T16:40:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9,
+        "forks": 4,
+        "watchers": 9,
+        "size_kb": 36,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.018610+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
