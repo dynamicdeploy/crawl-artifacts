@@ -1,0 +1,67 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:40.389778",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_566196.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_566196",
+    "url": "https://github.com/valentinradu/Trellis",
+    "title": "GitHub Repository: Trellis",
+    "description": "A lightweight, event-driven architectural framework",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 33, Language: Swift",
+    "metadata": {
+      "author": "valentinradu",
+      "stars": 33,
+      "forks": 1,
+      "language": "Swift",
+      "topics": [
+        "architectural-patterns",
+        "ios",
+        "macos",
+        "redux",
+        "swift",
+        "swiftui",
+        "watchos"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-09-29T19:09:12Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "valentinradu",
+      "last_activity": "2024-09-29T19:09:12Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 33,
+        "forks": 1,
+        "watchers": 33,
+        "size_kb": 348,
+        "language": "Swift",
+        "topics": [
+          "architectural-patterns",
+          "ios",
+          "macos",
+          "redux",
+          "swift",
+          "swiftui",
+          "watchos"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.566204+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
