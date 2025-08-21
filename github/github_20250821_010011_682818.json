@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:32.059594",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_682818.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_682818",
+    "url": "https://github.com/melihaksoy/Android-Kotlin-Modulerized-CleanArchitecture",
+    "title": "GitHub Repository: Android-Kotlin-Modulerized-CleanArchitecture",
+    "description": "🚀 Example modularized android application with single activity written in Kotlin",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 358, Language: Kotlin",
+    "metadata": {
+      "author": "melihaksoy",
+      "stars": 358,
+      "forks": 37,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-architecture",
+        "circleci",
+        "clean-architecture",
+        "coroutines-android",
+        "dagger2",
+        "databinding-android",
+        "fastlane",
+        "kotlin",
+        "kotlin-android",
+        "modularization",
+        "moshi",
+        "navigation-architecture-component",
+        "paging-library",
+        "room-persistence-library",
+        "single-activity-pattern",
+        "solid-principles"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-20T19:15:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "melihaksoy",
+      "last_activity": "2025-04-20T19:15:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 358,
+        "forks": 37,
+        "watchers": 358,
+        "size_kb": 572,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-architecture",
+          "circleci",
+          "clean-architecture",
+          "coroutines-android",
+          "dagger2",
+          "databinding-android",
+          "fastlane",
+          "kotlin",
+          "kotlin-android",
+          "modularization",
+          "moshi",
+          "navigation-architecture-component",
+          "paging-library",
+          "room-persistence-library",
+          "single-activity-pattern",
+          "solid-principles"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.682822+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
