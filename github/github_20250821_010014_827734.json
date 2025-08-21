@@ -1,0 +1,83 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:13.194734",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_827734.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_827734",
+    "url": "https://github.com/AhmedLSayed9/deliverzler",
+    "title": "GitHub Repository: deliverzler",
+    "description": "Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Riverpod Framework.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 688, Language: Dart",
+    "metadata": {
+      "author": "AhmedLSayed9",
+      "stars": 688,
+      "forks": 192,
+      "language": "Dart",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "dart",
+        "ddd",
+        "domain-driven-design",
+        "fcm",
+        "firebase",
+        "flutter",
+        "go-router",
+        "google-maps",
+        "layered-architecture",
+        "local-notifications",
+        "riverpod",
+        "tdd",
+        "unit-testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T09:47:14Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AhmedLSayed9",
+      "last_activity": "2025-08-20T09:47:14Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 688,
+        "forks": 192,
+        "watchers": 688,
+        "size_kb": 18998,
+        "language": "Dart",
+        "topics": [
+          "clean-architecture",
+          "clean-code",
+          "dart",
+          "ddd",
+          "domain-driven-design",
+          "fcm",
+          "firebase",
+          "flutter",
+          "go-router",
+          "google-maps",
+          "layered-architecture",
+          "local-notifications",
+          "riverpod",
+          "tdd",
+          "unit-testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.827737+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
