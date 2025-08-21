@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:00.587061",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_007412.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_007412",
+    "url": "https://github.com/notxcain/onion-architecure",
+    "title": "GitHub Repository: onion-architecure",
+    "description": "An onion architecture example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 69, Language: Scala",
+    "metadata": {
+      "author": "notxcain",
+      "stars": 69,
+      "forks": 7,
+      "language": "Scala",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-21T20:26:34Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "notxcain",
+      "last_activity": "2025-02-21T20:26:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 69,
+        "forks": 7,
+        "watchers": 69,
+        "size_kb": 9,
+        "language": "Scala",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.007426+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
