@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:43.566032",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_005314.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_005314",
+    "url": "https://github.com/mhadaily/flutter-architecture-ddd",
+    "title": "GitHub Repository: flutter-architecture-ddd",
+    "description": "Flutter Architecture inspired by Domain Driven Design, Onion and Clean Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 406, Language: Dart",
+    "metadata": {
+      "author": "mhadaily",
+      "stars": 406,
+      "forks": 98,
+      "language": "Dart",
+      "topics": [
+        "clean-architecture",
+        "domain-driven-design",
+        "flutter",
+        "flutter-app",
+        "flutter-apps",
+        "flutter-demo",
+        "flutter-examples",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-09T11:36:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "mhadaily",
+      "last_activity": "2025-08-09T11:36:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 406,
+        "forks": 98,
+        "watchers": 406,
+        "size_kb": 1772,
+        "language": "Dart",
+        "topics": [
+          "clean-architecture",
+          "domain-driven-design",
+          "flutter",
+          "flutter-app",
+          "flutter-apps",
+          "flutter-demo",
+          "flutter-examples",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.005318+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
