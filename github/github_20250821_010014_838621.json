@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:22.127733",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_838621.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_838621",
+    "url": "https://github.com/patrykwozinski/dev-stuff",
+    "title": "GitHub Repository: dev-stuff",
+    "description": "😎 Programming stuff for everyone. Collection of articles, videos about architecture, Domain Driven Design, microservices, testing etc.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 137, Language: None",
+    "metadata": {
+      "author": "patrykwozinski",
+      "stars": 137,
+      "forks": 13,
+      "language": "en",
+      "topics": [
+        "architecture",
+        "awesome-list",
+        "clean-architecture",
+        "clean-code",
+        "cqrs",
+        "ddd",
+        "ddd-architecture",
+        "lists",
+        "microservice",
+        "oop",
+        "oop-principles",
+        "php",
+        "testing"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T05:31:48Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "patrykwozinski",
+      "last_activity": "2025-08-13T05:31:48Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 137,
+        "forks": 13,
+        "watchers": 137,
+        "size_kb": 245,
+        "language": null,
+        "topics": [
+          "architecture",
+          "awesome-list",
+          "clean-architecture",
+          "clean-code",
+          "cqrs",
+          "ddd",
+          "ddd-architecture",
+          "lists",
+          "microservice",
+          "oop",
+          "oop-principles",
+          "php",
+          "testing"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.838624+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
