@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:03.243100",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_090988.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_090988",
+    "url": "https://github.com/cloudframeworks-springcloud/user-guide-springcloud",
+    "title": "GitHub Repository: user-guide-springcloud",
+    "description": "[Cloudframeworks]Microservices Architecture with Spring Cloud - user guide ／ [云框架]基于Spring Cloud的微服务架构-用户指南",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1386, Language: None",
+    "metadata": {
+      "author": "cloudframeworks-springcloud",
+      "stars": 1386,
+      "forks": 511,
+      "language": "en",
+      "topics": [
+        "microservices-architecture",
+        "spring-cloud"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-04T03:53:32Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "cloudframeworks-springcloud",
+      "last_activity": "2025-08-04T03:53:32Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1386,
+        "forks": 511,
+        "watchers": 1386,
+        "size_kb": 7718,
+        "language": null,
+        "topics": [
+          "microservices-architecture",
+          "spring-cloud"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.090991+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
