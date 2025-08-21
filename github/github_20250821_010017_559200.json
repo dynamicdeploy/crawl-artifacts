@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:43.137816",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_559200.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_559200",
+    "url": "https://github.com/saalikmubeen/microservices-architectured-app",
+    "title": "GitHub Repository: microservices-architectured-app",
+    "description": "Event-driven microservices architectured e-commerce app created using Express.js,  Typescript, NATS-Streaming and Next.js",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 559, Language: TypeScript",
+    "metadata": {
+      "author": "saalikmubeen",
+      "stars": 559,
+      "forks": 29,
+      "language": "TypeScript",
+      "topics": [
+        "distributed-systems",
+        "docker",
+        "eventbus",
+        "expressjs",
+        "jest",
+        "kubernetes",
+        "microservices",
+        "mongodb",
+        "nats-streaming",
+        "nextjs",
+        "nodejs",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-07T15:12:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "saalikmubeen",
+      "last_activity": "2025-08-07T15:12:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 559,
+        "forks": 29,
+        "watchers": 559,
+        "size_kb": 305,
+        "language": "TypeScript",
+        "topics": [
+          "distributed-systems",
+          "docker",
+          "eventbus",
+          "expressjs",
+          "jest",
+          "kubernetes",
+          "microservices",
+          "mongodb",
+          "nats-streaming",
+          "nextjs",
+          "nodejs",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.559204+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
