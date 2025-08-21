@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:19.198922",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_092588.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_092588",
+    "url": "https://github.com/suadev/turkish-microservice-architecture-book",
+    "title": "GitHub Repository: turkish-microservice-architecture-book",
+    "description": "Open Source Turkish Microservices eBook. Feel free to contribute.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 727, Language: None",
+    "metadata": {
+      "author": "suadev",
+      "stars": 727,
+      "forks": 64,
+      "language": "en",
+      "topics": [
+        "microservice",
+        "microservices",
+        "microservices-architecture",
+        "mikroservis",
+        "mikroservis-mimari",
+        "monolith"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T23:06:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "suadev",
+      "last_activity": "2025-08-18T23:06:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 727,
+        "forks": 64,
+        "watchers": 727,
+        "size_kb": 793,
+        "language": null,
+        "topics": [
+          "microservice",
+          "microservices",
+          "microservices-architecture",
+          "mikroservis",
+          "mikroservis-mimari",
+          "monolith"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.092599+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
