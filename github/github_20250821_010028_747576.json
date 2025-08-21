@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:16.761537",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_747576.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_747576",
+    "url": "https://github.com/ibrahimsn98/web-dev-tools-android",
+    "title": "GitHub Repository: web-dev-tools-android",
+    "description": "Sample Android Application - MVVM, Clean Architecture, Modularization, Repository Pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 256, Language: Kotlin",
+    "metadata": {
+      "author": "ibrahimsn98",
+      "stars": 256,
+      "forks": 33,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-architecture",
+        "clean-architecture",
+        "coroutines",
+        "koin",
+        "kotlin-dsl",
+        "modularization",
+        "mvvm",
+        "navigation-component",
+        "okhttp3",
+        "repository-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-04-20T19:15:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ibrahimsn98",
+      "last_activity": "2025-04-20T19:15:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 256,
+        "forks": 33,
+        "watchers": 256,
+        "size_kb": 822,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-architecture",
+          "clean-architecture",
+          "coroutines",
+          "koin",
+          "kotlin-dsl",
+          "modularization",
+          "mvvm",
+          "navigation-component",
+          "okhttp3",
+          "repository-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.747579+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
