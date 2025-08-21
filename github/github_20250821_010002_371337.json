@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:04.780247",
+    "crawler_type": "github",
+    "filename": "github_20250821_010002_371337.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010002_371337",
+    "url": "https://github.com/sugardraw/cocktail-app",
+    "title": "GitHub Repository: cocktail-app",
+    "description": "An awesome cocktail App using the MVC software architecture pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: CSS",
+    "metadata": {
+      "author": "sugardraw",
+      "stars": 1,
+      "forks": 0,
+      "language": "CSS",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2019-03-14T13:13:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sugardraw",
+      "last_activity": "2019-03-14T13:13:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 2115,
+        "language": "CSS",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:02.371340+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
