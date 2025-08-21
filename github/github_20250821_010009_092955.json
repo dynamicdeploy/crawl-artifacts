@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:23.129230",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_092955.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_092955",
+    "url": "https://github.com/abixen/abixen-platform",
+    "title": "GitHub Repository: abixen-platform",
+    "description": "Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 682, Language: Java",
+    "metadata": {
+      "author": "abixen",
+      "stars": 682,
+      "forks": 212,
+      "language": "Java",
+      "topics": [
+        "analytics",
+        "angularjs",
+        "architecture",
+        "aws",
+        "business-intelligence",
+        "businessintelligence",
+        "charts",
+        "cloud",
+        "dashboard",
+        "data-analysis",
+        "data-analytics",
+        "data-visualization",
+        "low-code",
+        "microservices",
+        "netflixoss",
+        "reporting",
+        "spring-boot",
+        "spring-cloud",
+        "sql-editor",
+        "visualization"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:15:54Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "abixen",
+      "last_activity": "2025-08-13T11:15:54Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 682,
+        "forks": 212,
+        "watchers": 682,
+        "size_kb": 85600,
+        "language": "Java",
+        "topics": [
+          "analytics",
+          "angularjs",
+          "architecture",
+          "aws",
+          "business-intelligence",
+          "businessintelligence",
+          "charts",
+          "cloud",
+          "dashboard",
+          "data-analysis",
+          "data-analytics",
+          "data-visualization",
+          "low-code",
+          "microservices",
+          "netflixoss",
+          "reporting",
+          "spring-boot",
+          "spring-cloud",
+          "sql-editor",
+          "visualization"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.092958+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
