@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:35.444580",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_565341.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_565341",
+    "url": "https://github.com/atulmy/fullstack-event-driven-architecture",
+    "title": "GitHub Repository: fullstack-event-driven-architecture",
+    "description": "Text-to-Speech and Speech-to-Text application built with a full-stack monorepo, featuring an event-driven, highly scalable architecture using Node.js, React, Redis, MongoDB, and Docker.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 37, Language: TypeScript",
+    "metadata": {
+      "author": "atulmy",
+      "stars": 37,
+      "forks": 11,
+      "language": "TypeScript",
+      "topics": [
+        "docker",
+        "event-driven",
+        "event-driven-architecture",
+        "example-project",
+        "microservice-architecture",
+        "microservices",
+        "mongodb",
+        "nodejs",
+        "react",
+        "redis",
+        "sample-project",
+        "scalability"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T12:20:20Z",
+      "has_issues": false,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "atulmy",
+      "last_activity": "2025-08-20T12:20:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 37,
+        "forks": 11,
+        "watchers": 37,
+        "size_kb": 355,
+        "language": "TypeScript",
+        "topics": [
+          "docker",
+          "event-driven",
+          "event-driven-architecture",
+          "example-project",
+          "microservice-architecture",
+          "microservices",
+          "mongodb",
+          "nodejs",
+          "react",
+          "redis",
+          "sample-project",
+          "scalability"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.565345+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
