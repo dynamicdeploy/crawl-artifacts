@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:33.345281",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_230996.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_230996",
+    "url": "https://github.com/Liu-Cheng/cycle-accurate-SystemC-simulator-over-ramulator",
+    "title": "GitHub Repository: cycle-accurate-SystemC-simulator-over-ramulator",
+    "description": "An example of using Ramulator as memory model in a cycle-accurate SystemC Design",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 51, Language: C++",
+    "metadata": {
+      "author": "Liu-Cheng",
+      "stars": 51,
+      "forks": 10,
+      "language": "C++",
+      "topics": [
+        "accelerator",
+        "cycle-accurate",
+        "ddr",
+        "ramulator",
+        "systemc"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-13T12:01:38Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Liu-Cheng",
+      "last_activity": "2025-07-13T12:01:38Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 51,
+        "forks": 10,
+        "watchers": 51,
+        "size_kb": 964,
+        "language": "C++",
+        "topics": [
+          "accelerator",
+          "cycle-accurate",
+          "ddr",
+          "ramulator",
+          "systemc"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.231020+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
