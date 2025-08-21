@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:47.419288",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_744080.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_744080",
+    "url": "https://github.com/johnpatrickmorgan/TCACoordinators",
+    "title": "GitHub Repository: TCACoordinators",
+    "description": "Powerful navigation in the Composable Architecture via the coordinator pattern",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 482, Language: Swift",
+    "metadata": {
+      "author": "johnpatrickmorgan",
+      "stars": 482,
+      "forks": 53,
+      "language": "Swift",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T04:51:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "johnpatrickmorgan",
+      "last_activity": "2025-08-17T04:51:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 482,
+        "forks": 53,
+        "watchers": 482,
+        "size_kb": 303,
+        "language": "Swift",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.744083+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
