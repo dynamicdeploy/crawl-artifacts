@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:19.687303",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_223604.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_223604",
+    "url": "https://github.com/luojia65/plugin-system-example",
+    "title": "GitHub Repository: plugin-system-example",
+    "description": "Example design of executable with `dylib`-based runtime plugin system in Rust, `libloading` used",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 129, Language: Rust",
+    "metadata": {
+      "author": "luojia65",
+      "stars": 129,
+      "forks": 6,
+      "language": "Rust",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-05T00:48:42Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "luojia65",
+      "last_activity": "2025-06-05T00:48:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 129,
+        "forks": 6,
+        "watchers": 129,
+        "size_kb": 4,
+        "language": "Rust",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.223611+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
