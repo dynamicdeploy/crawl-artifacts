@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:09:09.493271",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_231510.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_231510",
+    "url": "https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project",
+    "title": "GitHub Repository: Modular-Architecture-Hexagonal-Demo-Project",
+    "description": "Hexagonal Architecture Demo Project about Ticketing and Payment",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 590, Language: Java",
+    "metadata": {
+      "author": "AlicanAkkus",
+      "stars": 590,
+      "forks": 106,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T14:30:39Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AlicanAkkus",
+      "last_activity": "2025-08-15T14:30:39Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 590,
+        "forks": 106,
+        "watchers": 590,
+        "size_kb": 939,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.231513+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
