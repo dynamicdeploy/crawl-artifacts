@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:09.682828",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_216759.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_216759",
+    "url": "https://github.com/madhu-sagar/system-design-react-code-examples",
+    "title": "GitHub Repository: system-design-react-code-examples",
+    "description": "A curation of code examples and in depth technical implementation approaches to solve the common frontend system design issues in React.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 527, Language: None",
+    "metadata": {
+      "author": "madhu-sagar",
+      "stars": 527,
+      "forks": 44,
+      "language": "en",
+      "topics": [
+        "architectural-patterns",
+        "frontend",
+        "frontend-architecture",
+        "javascript",
+        "react",
+        "system-design"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T17:45:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "madhu-sagar",
+      "last_activity": "2025-08-19T17:45:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 527,
+        "forks": 44,
+        "watchers": 527,
+        "size_kb": 458,
+        "language": null,
+        "topics": [
+          "architectural-patterns",
+          "frontend",
+          "frontend-architecture",
+          "javascript",
+          "react",
+          "system-design"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.216788+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
