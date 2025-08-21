@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:26.536667",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_227815.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_227815",
+    "url": "https://github.com/AlexisTM/flyingros",
+    "title": "GitHub Repository: flyingros",
+    "description": "Flying Robot Operating System is designed to be the open source implementation example for your DIY drone.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 59, Language: Python",
+    "metadata": {
+      "author": "AlexisTM",
+      "stars": 59,
+      "forks": 17,
+      "language": "Python",
+      "topics": [
+        "mavlink",
+        "mavros",
+        "multicopter",
+        "px4",
+        "ros"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-02-22T20:48:52Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "AlexisTM",
+      "last_activity": "2025-02-22T20:48:52Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 59,
+        "forks": 17,
+        "watchers": 59,
+        "size_kb": 31157,
+        "language": "Python",
+        "topics": [
+          "mavlink",
+          "mavros",
+          "multicopter",
+          "px4",
+          "ros"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.227823+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
