@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:01.781769",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_007515.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_007515",
+    "url": "https://github.com/splaw88/onion-architecture",
+    "title": "GitHub Repository: onion-architecture",
+    "description": "My Java implementation example of onion architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 60, Language: Java",
+    "metadata": {
+      "author": "splaw88",
+      "stars": 60,
+      "forks": 16,
+      "language": "Java",
+      "topics": [
+        "clean-architecture",
+        "java",
+        "onion-architecture"
+      ],
+      "repository_type": "github",
+      "last_updated": "2024-02-20T16:33:29Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "splaw88",
+      "last_activity": "2024-02-20T16:33:29Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 60,
+        "forks": 16,
+        "watchers": 60,
+        "size_kb": 86,
+        "language": "Java",
+        "topics": [
+          "clean-architecture",
+          "java",
+          "onion-architecture"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.007519+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
