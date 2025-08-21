@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:01.716864",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_746110.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_746110",
+    "url": "https://github.com/hadilq/LiveEvent",
+    "title": "GitHub Repository: LiveEvent",
+    "description": "This library holds a class to handle single live events in Android MVVM architectural pattern. https://proandroiddev.com/livedata-with-single-events-2395dea972a8",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 353, Language: Kotlin",
+    "metadata": {
+      "author": "hadilq",
+      "stars": 353,
+      "forks": 27,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-04T19:05:42Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "hadilq",
+      "last_activity": "2025-02-04T19:05:42Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 353,
+        "forks": 27,
+        "watchers": 353,
+        "size_kb": 245,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.746114+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
