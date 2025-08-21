@@ -1,0 +1,91 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:24.055194",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_838812.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_838812",
+    "url": "https://github.com/CodelyTV/typescript-ddd-course",
+    "title": "GitHub Repository: typescript-ddd-course",
+    "description": "🔷🔖 TypeScript DDD Course: Learn Domain-Driven Design in TS lesson by lesson",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 135, Language: TypeScript",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 135,
+      "forks": 31,
+      "language": "TypeScript",
+      "topics": [
+        "codely",
+        "codelytv",
+        "course",
+        "cqrs",
+        "ddd",
+        "ddd-architecture",
+        "ddd-cqrs",
+        "ddd-example",
+        "domain-driven-design",
+        "hexagonal-architecture",
+        "mongodb",
+        "node",
+        "node-js",
+        "nodejs",
+        "postgresql",
+        "software-architecture",
+        "ts",
+        "typeorm",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-14T07:36:46Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-08-14T07:36:46Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 135,
+        "forks": 31,
+        "watchers": 135,
+        "size_kb": 926,
+        "language": "TypeScript",
+        "topics": [
+          "codely",
+          "codelytv",
+          "course",
+          "cqrs",
+          "ddd",
+          "ddd-architecture",
+          "ddd-cqrs",
+          "ddd-example",
+          "domain-driven-design",
+          "hexagonal-architecture",
+          "mongodb",
+          "node",
+          "node-js",
+          "nodejs",
+          "postgresql",
+          "software-architecture",
+          "ts",
+          "typeorm",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.838815+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
