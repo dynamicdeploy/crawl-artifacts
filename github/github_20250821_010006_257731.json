@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:02:24.082525",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_257731.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_257731",
+    "url": "https://github.com/MuwaffaqImam/SoftwareSystemDesignCourse",
+    "title": "GitHub Repository: SoftwareSystemDesignCourse",
+    "description": "this contain all the examples of labs inside the course, run by Muwaffaq imam at Innopolis university ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 9, Language: Java",
+    "metadata": {
+      "author": "MuwaffaqImam",
+      "stars": 9,
+      "forks": 1,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-01-11T15:22:50Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "MuwaffaqImam",
+      "last_activity": "2025-01-11T15:22:50Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 9,
+        "forks": 1,
+        "watchers": 9,
+        "size_kb": 170,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.257740+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
