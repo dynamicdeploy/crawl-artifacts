@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:08:11.379738",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_562366.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_562366",
+    "url": "https://github.com/koralium/flowtide",
+    "title": "GitHub Repository: flowtide",
+    "description": "High-performance streaming SQL query engine designed for real-time data processing. Use cases include event-driven architectures, ETL pipelines, and modern data-intensive applications.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 78, Language: C#",
+    "metadata": {
+      "author": "koralium",
+      "stars": 78,
+      "forks": 7,
+      "language": "C#",
+      "topics": [
+        "data-engineering",
+        "denormalize",
+        "engine",
+        "etl",
+        "etl-pipeline",
+        "integration",
+        "materialize",
+        "stream",
+        "stream-processing",
+        "streaming"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T18:31:26Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "koralium",
+      "last_activity": "2025-08-18T18:31:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 78,
+        "forks": 7,
+        "watchers": 78,
+        "size_kb": 77638,
+        "language": "C#",
+        "topics": [
+          "data-engineering",
+          "denormalize",
+          "engine",
+          "etl",
+          "etl-pipeline",
+          "integration",
+          "materialize",
+          "stream",
+          "stream-processing",
+          "streaming"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.562374+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
