@@ -1,0 +1,79 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:30.031916",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_094176.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_094176",
+    "url": "https://github.com/Azure-Samples/Serverless-microservices-reference-architecture",
+    "title": "GitHub Repository: Serverless-microservices-reference-architecture",
+    "description": "This reference architecture walks you through the decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on instructions for configuring and deploying all of the architecture's components along the way. The goal is to provide practical hands-on experience in working with several Azure services and the technologies that effectively use them in a cohesive and unified way to build a serverless-based microservices architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 512, Language: C#",
+    "metadata": {
+      "author": "Azure-Samples",
+      "stars": 512,
+      "forks": 261,
+      "language": "C#",
+      "topics": [
+        "azure-active-directory",
+        "azure-api-management",
+        "azure-app-service",
+        "azure-cosmos-db",
+        "azure-devops",
+        "azure-event-grid",
+        "azure-functions",
+        "azure-logic-apps",
+        "azure-storage",
+        "microservices",
+        "microservices-architecture",
+        "serverless",
+        "serverless-architectures"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-15T03:19:28Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "Azure-Samples",
+      "last_activity": "2025-08-15T03:19:28Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 512,
+        "forks": 261,
+        "watchers": 512,
+        "size_kb": 24798,
+        "language": "C#",
+        "topics": [
+          "azure-active-directory",
+          "azure-api-management",
+          "azure-app-service",
+          "azure-cosmos-db",
+          "azure-devops",
+          "azure-event-grid",
+          "azure-functions",
+          "azure-logic-apps",
+          "azure-storage",
+          "microservices",
+          "microservices-architecture",
+          "serverless",
+          "serverless-architectures"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.094193+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
