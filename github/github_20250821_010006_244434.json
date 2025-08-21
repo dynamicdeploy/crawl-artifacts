@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:54.006892",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_244434.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_244434",
+    "url": "https://github.com/billmeiss/mongodb-nextjs-appointments",
+    "title": "GitHub Repository: mongodb-nextjs-appointments",
+    "description": "An example project integrating a booking system with Next.js, mongoDB and tailwindCSS (UI Design). ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 17, Language: JavaScript",
+    "metadata": {
+      "author": "billmeiss",
+      "stars": 17,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-12-25T00:15:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "billmeiss",
+      "last_activity": "2024-12-25T00:15:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 17,
+        "forks": 5,
+        "watchers": 17,
+        "size_kb": 493,
+        "language": "JavaScript",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.244451+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
