@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:09.140219",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_237876.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_237876",
+    "url": "https://github.com/sofieneBK/hands-on-hexagonal-architecture-with-spring-boot",
+    "title": "GitHub Repository: hands-on-hexagonal-architecture-with-spring-boot",
+    "description": "Code for Hands-on Hexagonal Architecture With Spring Boot tutorial",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 88, Language: Java",
+    "metadata": {
+      "author": "sofieneBK",
+      "stars": 88,
+      "forks": 46,
+      "language": "Java",
+      "topics": [
+        "hexagonal-architecture",
+        "java",
+        "spring-boot"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-06T08:36:19Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "sofieneBK",
+      "last_activity": "2025-06-06T08:36:19Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 88,
+        "forks": 46,
+        "watchers": 88,
+        "size_kb": 35,
+        "language": "Java",
+        "topics": [
+          "hexagonal-architecture",
+          "java",
+          "spring-boot"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.237879+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
