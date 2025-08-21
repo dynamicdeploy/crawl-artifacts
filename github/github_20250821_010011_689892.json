@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:30.045487",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_689892.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_689892",
+    "url": "https://github.com/gushakov/cleanddd",
+    "title": "GitHub Repository: cleanddd",
+    "description": "Example of DDD with Clean Architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 59, Language: Java",
+    "metadata": {
+      "author": "gushakov",
+      "stars": 59,
+      "forks": 12,
+      "language": "Java",
+      "topics": [
+        "clean-architecture",
+        "ddd"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-21T00:50:16Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "gushakov",
+      "last_activity": "2025-08-21T00:50:16Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 59,
+        "forks": 12,
+        "watchers": 59,
+        "size_kb": 59,
+        "language": "Java",
+        "topics": [
+          "clean-architecture",
+          "ddd"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.689932+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
