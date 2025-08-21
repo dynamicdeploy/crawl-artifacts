@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:36.820047",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_749950.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_749950",
+    "url": "https://github.com/sameersyd/Skailer",
+    "title": "GitHub Repository: Skailer",
+    "description": "Beautiful Music Player app built using SwiftUI to demonstrate Neumorphic design pattern and MVVM architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 184, Language: Swift",
+    "metadata": {
+      "author": "sameersyd",
+      "stars": 184,
+      "forks": 19,
+      "language": "Swift",
+      "topics": [
+        "dark-theme",
+        "figma",
+        "ios",
+        "ios-app",
+        "material-design",
+        "mvvm",
+        "mvvm-architecture",
+        "neumorphic-ui",
+        "neumorphism",
+        "sameersyd",
+        "skailer",
+        "skeuomorphic",
+        "skeuomorphism",
+        "swift",
+        "swiftui",
+        "ui-design",
+        "xcode"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-06-26T01:53:58Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sameersyd",
+      "last_activity": "2025-06-26T01:53:58Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 184,
+        "forks": 19,
+        "watchers": 184,
+        "size_kb": 16878,
+        "language": "Swift",
+        "topics": [
+          "dark-theme",
+          "figma",
+          "ios",
+          "ios-app",
+          "material-design",
+          "mvvm",
+          "mvvm-architecture",
+          "neumorphic-ui",
+          "neumorphism",
+          "sameersyd",
+          "skailer",
+          "skeuomorphic",
+          "skeuomorphism",
+          "swift",
+          "swiftui",
+          "ui-design",
+          "xcode"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.749957+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
