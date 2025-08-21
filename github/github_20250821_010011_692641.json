@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:39.215635",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_692641.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_692641",
+    "url": "https://github.com/nlgtuankiet/todo-sample",
+    "title": "GitHub Repository: todo-sample",
+    "description": "Android Clean Architecture example",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 44, Language: Kotlin",
+    "metadata": {
+      "author": "nlgtuankiet",
+      "stars": 44,
+      "forks": 11,
+      "language": "Kotlin",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2024-02-11T10:38:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nlgtuankiet",
+      "last_activity": "2024-02-11T10:38:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 44,
+        "forks": 11,
+        "watchers": 44,
+        "size_kb": 2501,
+        "language": "Kotlin",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.692669+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
