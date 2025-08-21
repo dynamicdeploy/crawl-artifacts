@@ -1,0 +1,71 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:01.569965",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_020732.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_020732",
+    "url": "https://github.com/fabiojose/dipower-ex",
+    "title": "GitHub Repository: dipower-ex",
+    "description": "Dependency Injection empowering the Hexagonal, Onion and Clean Architectures",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 8, Language: Java",
+    "metadata": {
+      "author": "fabiojose",
+      "stars": 8,
+      "forks": 0,
+      "language": "Java",
+      "topics": [
+        "clean-architecture",
+        "dependency-injection",
+        "hexagonal-architecture",
+        "java",
+        "java-8",
+        "maven",
+        "onion-architecture",
+        "spring-boot",
+        "weld-se"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-02-02T06:49:33Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "fabiojose",
+      "last_activity": "2023-02-02T06:49:33Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 8,
+        "forks": 0,
+        "watchers": 8,
+        "size_kb": 84,
+        "language": "Java",
+        "topics": [
+          "clean-architecture",
+          "dependency-injection",
+          "hexagonal-architecture",
+          "java",
+          "java-8",
+          "maven",
+          "onion-architecture",
+          "spring-boot",
+          "weld-se"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.020735+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
