@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:12.391553",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_837612.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_837612",
+    "url": "https://github.com/paucls/my-ddd-journey",
+    "title": "GitHub Repository: my-ddd-journey",
+    "description": "A list of Domain-Driven Design and architecture resources",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 163, Language: None",
+    "metadata": {
+      "author": "paucls",
+      "stars": 163,
+      "forks": 12,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-06-17T10:29:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "paucls",
+      "last_activity": "2025-06-17T10:29:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 163,
+        "forks": 12,
+        "watchers": 163,
+        "size_kb": 108,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.837621+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
