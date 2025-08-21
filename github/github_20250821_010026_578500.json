@@ -1,0 +1,73 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:53.612258",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_578500.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_578500",
+    "url": "https://github.com/atreib/cqrs",
+    "title": "GitHub Repository: cqrs",
+    "description": "CQRS pattern example project using Node.js with Typescript, MongoDB (Mongoose), PostgreSQL (Prisma), RabbitMQ and Docker-Compose",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: TypeScript",
+    "metadata": {
+      "author": "atreib",
+      "stars": 1,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "cqrs",
+        "docker-compose",
+        "javascript",
+        "mongodb",
+        "mongoose",
+        "nodejs",
+        "postgresql",
+        "prisma",
+        "rabbitmq",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-03-13T13:00:26Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "atreib",
+      "last_activity": "2025-03-13T13:00:26Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 1,
+        "watchers": 1,
+        "size_kb": 453,
+        "language": "TypeScript",
+        "topics": [
+          "cqrs",
+          "docker-compose",
+          "javascript",
+          "mongodb",
+          "mongoose",
+          "nodejs",
+          "postgresql",
+          "prisma",
+          "rabbitmq",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.578503+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
