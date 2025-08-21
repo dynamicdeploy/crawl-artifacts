@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:15.256147",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_827923.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_827923",
+    "url": "https://github.com/dddshelf/ddd",
+    "title": "GitHub Repository: ddd",
+    "description": "Domain Driven Design PHP helper classes",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 662, Language: PHP",
+    "metadata": {
+      "author": "dddshelf",
+      "stars": 662,
+      "forks": 105,
+      "language": "PHP",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T17:49:37Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "dddshelf",
+      "last_activity": "2025-08-17T17:49:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 662,
+        "forks": 105,
+        "watchers": 662,
+        "size_kb": 51,
+        "language": "PHP",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.827927+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
