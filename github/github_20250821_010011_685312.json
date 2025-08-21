@@ -1,0 +1,57 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:04:59.172701",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_685312.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_685312",
+    "url": "https://github.com/hirotakan/go-cleanarchitecture-sample",
+    "title": "GitHub Repository: go-cleanarchitecture-sample",
+    "description": "Example of a Go application using a clean architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 143, Language: Go",
+    "metadata": {
+      "author": "hirotakan",
+      "stars": 143,
+      "forks": 19,
+      "language": "Go",
+      "topics": [
+        "clean-architecture",
+        "golang"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-23T15:08:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "hirotakan",
+      "last_activity": "2025-05-23T15:08:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 143,
+        "forks": 19,
+        "watchers": 143,
+        "size_kb": 5,
+        "language": "Go",
+        "topics": [
+          "clean-architecture",
+          "golang"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.685315+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
