@@ -1,0 +1,87 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:52.046140",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_097252.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_097252",
+    "url": "https://github.com/sderosiaux/every-single-day-i-tldr",
+    "title": "GitHub Repository: every-single-day-i-tldr",
+    "description": "A daily digest of the articles or videos I've found interesting, that I want to share with you.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 321, Language: None",
+    "metadata": {
+      "author": "sderosiaux",
+      "stars": 321,
+      "forks": 21,
+      "language": "en",
+      "topics": [
+        "akka",
+        "architecture",
+        "bigdata",
+        "category-theory",
+        "data-engineering",
+        "ddd",
+        "googlecloudplatform",
+        "java",
+        "javascript",
+        "kafka",
+        "kubernetes",
+        "microservices",
+        "reactjs",
+        "scala",
+        "spark",
+        "technology",
+        "watch"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-12T00:20:11Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "sderosiaux",
+      "last_activity": "2025-08-12T00:20:11Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 321,
+        "forks": 21,
+        "watchers": 321,
+        "size_kb": 6702,
+        "language": null,
+        "topics": [
+          "akka",
+          "architecture",
+          "bigdata",
+          "category-theory",
+          "data-engineering",
+          "ddd",
+          "googlecloudplatform",
+          "java",
+          "javascript",
+          "kafka",
+          "kubernetes",
+          "microservices",
+          "reactjs",
+          "scala",
+          "spark",
+          "technology",
+          "watch"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.097256+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
