@@ -1,0 +1,65 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:38.659052",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_577110.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_577110",
+    "url": "https://github.com/KishorNaik/Sol_Microservices_Node_Express",
+    "title": "GitHub Repository: Sol_Microservices_Node_Express",
+    "description": "An example of  Node.Js and Express.js Microservice (Typescript) using CQRS pattern with Clean Architecture.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3, Language: TypeScript",
+    "metadata": {
+      "author": "KishorNaik",
+      "stars": 3,
+      "forks": 1,
+      "language": "TypeScript",
+      "topics": [
+        "clean-architecture",
+        "cqrs",
+        "express",
+        "microservice",
+        "nodejs",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2023-08-15T02:37:43Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "KishorNaik",
+      "last_activity": "2023-08-15T02:37:43Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3,
+        "forks": 1,
+        "watchers": 3,
+        "size_kb": 139,
+        "language": "TypeScript",
+        "topics": [
+          "clean-architecture",
+          "cqrs",
+          "express",
+          "microservice",
+          "nodejs",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.577113+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
