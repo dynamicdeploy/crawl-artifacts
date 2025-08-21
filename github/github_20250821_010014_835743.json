@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:00.339071",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_835743.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_835743",
+    "url": "https://github.com/ddd-edm-online-course/ddd-edm-course-materials",
+    "title": "GitHub Repository: ddd-edm-course-materials",
+    "description": "Course Materials for Domain-Driven Design and Event-Driven Microservices Online Class",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 216, Language: None",
+    "metadata": {
+      "author": "ddd-edm-online-course",
+      "stars": 216,
+      "forks": 123,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-21T02:49:41Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ddd-edm-online-course",
+      "last_activity": "2025-07-21T02:49:41Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 216,
+        "forks": 123,
+        "watchers": 216,
+        "size_kb": 210415,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.835747+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
