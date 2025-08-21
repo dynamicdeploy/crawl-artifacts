@@ -1,0 +1,55 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:02:04.906191",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_246239.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_246239",
+    "url": "https://github.com/uq-its-ss/design-system",
+    "title": "GitHub Repository: design-system",
+    "description": "The Design System provides styles, layouts, components, patterns, and examples of common user interfaces at UQ.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 12, Language: JavaScript",
+    "metadata": {
+      "author": "uq-its-ss",
+      "stars": 12,
+      "forks": 5,
+      "language": "JavaScript",
+      "topics": [
+        "design-system"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T04:17:45Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "uq-its-ss",
+      "last_activity": "2025-08-19T04:17:45Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 12,
+        "forks": 5,
+        "watchers": 12,
+        "size_kb": 69085,
+        "language": "JavaScript",
+        "topics": [
+          "design-system"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.246242+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
