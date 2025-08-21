@@ -1,0 +1,63 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:11.150369",
+    "crawler_type": "github",
+    "filename": "github_20250821_010020_238051.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010020_238051",
+    "url": "https://github.com/CodelyTV/frontend-hexagonal_architecture-course",
+    "title": "GitHub Repository: frontend-hexagonal_architecture-course",
+    "description": "Hexagonal Architecture in frontend",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 87, Language: TypeScript",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 87,
+      "forks": 37,
+      "language": "TypeScript",
+      "topics": [
+        "frontend",
+        "hexagonal-architecture",
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-05-27T08:33:44Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-05-27T08:33:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 87,
+        "forks": 37,
+        "watchers": 87,
+        "size_kb": 831,
+        "language": "TypeScript",
+        "topics": [
+          "frontend",
+          "hexagonal-architecture",
+          "javascript",
+          "react",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:20.238053+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
