@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:01.576042",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_579866.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_579866",
+    "url": "https://github.com/ozgrrta/CQRS-Pattern-with-MediatR-in-.NET6-Web-Api",
+    "title": "GitHub Repository: CQRS-Pattern-with-MediatR-in-.NET6-Web-Api",
+    "description": ".net 6 Example of a Simple Web API with CQRS Pattern (MediatR), Code First Approach (Entity Framework) and swagger for documentation.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1, Language: C#",
+    "metadata": {
+      "author": "ozgrrta",
+      "stars": 1,
+      "forks": 0,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2023-02-20T19:26:02Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ozgrrta",
+      "last_activity": "2023-02-20T19:26:02Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1,
+        "forks": 0,
+        "watchers": 1,
+        "size_kb": 24,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.579878+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
