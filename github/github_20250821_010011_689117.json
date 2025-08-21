@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:23.521372",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_689117.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_689117",
+    "url": "https://github.com/thomasviana/clean_architecture_TDD",
+    "title": "GitHub Repository: clean_architecture_TDD",
+    "description": "(Null-safety) This is a Number Trivia app example using clean architecture TDD.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 73, Language: Dart",
+    "metadata": {
+      "author": "thomasviana",
+      "stars": 73,
+      "forks": 19,
+      "language": "Dart",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-19T08:37:27Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "thomasviana",
+      "last_activity": "2025-05-19T08:37:27Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 73,
+        "forks": 19,
+        "watchers": 73,
+        "size_kb": 121,
+        "language": "Dart",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.689120+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
