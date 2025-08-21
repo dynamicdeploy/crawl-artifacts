@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:00:38.655931",
+    "crawler_type": "github",
+    "filename": "github_20250821_010002_364491.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010002_364491",
+    "url": "https://github.com/yasir2000/awesome-software-architecture",
+    "title": "GitHub Repository: awesome-software-architecture",
+    "description": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 49, Language: None",
+    "metadata": {
+      "author": "yasir2000",
+      "stars": 49,
+      "forks": 339,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-25T12:01:34Z",
+      "has_issues": false,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "yasir2000",
+      "last_activity": "2025-05-25T12:01:34Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 49,
+        "forks": 339,
+        "watchers": 49,
+        "size_kb": 1428,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:02.364496+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
