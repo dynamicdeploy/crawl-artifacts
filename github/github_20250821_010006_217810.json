@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:01:12.554915",
+    "crawler_type": "github",
+    "filename": "github_20250821_010006_217810.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010006_217810",
+    "url": "https://github.com/tmolteno/necpp",
+    "title": "GitHub Repository: necpp",
+    "description": "NEC2++ is a C++ rewrite of the Numerical Electromagnetics Code (NEC-2) with many new features like automatic error detection when you specify the structure incorrectly and much faster execution. Nec2++ can analyse radiating as well as scattering properties of structures. The simulation engine in Nec2++ is compiled into a library for easy integration into automatic antenna design systems or GUI tools. Examples are included for using Nec2++ from C/C++, Ruby and Python.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 271, Language: C++",
+    "metadata": {
+      "author": "tmolteno",
+      "stars": 271,
+      "forks": 68,
+      "language": "C++",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-17T19:56:00Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "tmolteno",
+      "last_activity": "2025-08-17T19:56:00Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 271,
+        "forks": 68,
+        "watchers": 271,
+        "size_kb": 2900,
+        "language": "C++",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:06.217818+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
