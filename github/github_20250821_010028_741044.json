@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:19.342183",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_741044.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_741044",
+    "url": "https://github.com/KittyGiraudel/sass-boilerplate",
+    "title": "GitHub Repository: sass-boilerplate",
+    "description": "A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 3375, Language: SCSS",
+    "metadata": {
+      "author": "KittyGiraudel",
+      "stars": 3375,
+      "forks": 779,
+      "language": "SCSS",
+      "topics": [
+        "boilerplate",
+        "guidelines",
+        "sass"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T17:25:03Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "KittyGiraudel",
+      "last_activity": "2025-08-20T17:25:03Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 3375,
+        "forks": 779,
+        "watchers": 3375,
+        "size_kb": 45,
+        "language": "SCSS",
+        "topics": [
+          "boilerplate",
+          "guidelines",
+          "sass"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.741047+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
