@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:10.339193",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_837334.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_837334",
+    "url": "https://github.com/andras-nemes/DDDSkeletonNet",
+    "title": "GitHub Repository: DDDSkeletonNet",
+    "description": "This is a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers. You can use this solution as a starting point to build loosely coupled and composable applications where the Domain is at the heart of the project.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 180, Language: C#",
+    "metadata": {
+      "author": "andras-nemes",
+      "stars": 180,
+      "forks": 47,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-02-18T13:31:55Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "andras-nemes",
+      "last_activity": "2025-02-18T13:31:55Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 180,
+        "forks": 47,
+        "watchers": 180,
+        "size_kb": 15297,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.837337+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
