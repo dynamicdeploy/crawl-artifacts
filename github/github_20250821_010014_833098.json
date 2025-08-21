@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:06:46.140372",
+    "crawler_type": "github",
+    "filename": "github_20250821_010014_833098.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010014_833098",
+    "url": "https://github.com/ardalis/ddd-vet-sample",
+    "title": "GitHub Repository: ddd-vet-sample",
+    "description": "A sample meant to demonstrate domain driven design using a veterinary hospital management system.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 314, Language: C#",
+    "metadata": {
+      "author": "ardalis",
+      "stars": 314,
+      "forks": 85,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-07-02T22:40:01Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "ardalis",
+      "last_activity": "2025-07-02T22:40:01Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 314,
+        "forks": 85,
+        "watchers": 314,
+        "size_kb": 92094,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:14.833102+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
