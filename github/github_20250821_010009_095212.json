@@ -1,0 +1,61 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:03:34.205544",
+    "crawler_type": "github",
+    "filename": "github_20250821_010009_095212.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010009_095212",
+    "url": "https://github.com/apssouza22/java-microservice",
+    "title": "GitHub Repository: java-microservice",
+    "description": "A full microservice architecture with Java, Spring Cloud, Log management with ELK, Server load balancing with Nginx, Infrastructure management with Docker-compose, JMX application monitoring, JWT, Aspect OP, Distributed events with Kafka, Event Sourcing, CQRS, REST, Web Sockets, Continuous deploy with Jenkins and more",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 439, Language: Java",
+    "metadata": {
+      "author": "apssouza22",
+      "stars": 439,
+      "forks": 257,
+      "language": "Java",
+      "topics": [
+        "microservices",
+        "microservices-architecture",
+        "spring",
+        "spring-cloud"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T03:07:13Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "apssouza22",
+      "last_activity": "2025-08-19T03:07:13Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 439,
+        "forks": 257,
+        "watchers": 439,
+        "size_kb": 758,
+        "language": "Java",
+        "topics": [
+          "microservices",
+          "microservices-architecture",
+          "spring",
+          "spring-cloud"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:09.095216+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
