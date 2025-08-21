@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:19.198047",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_575387.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_575387",
+    "url": "https://github.com/nbarnwell/Regalo",
+    "title": "GitHub Repository: Regalo",
+    "description": "OBSOLETE - USE Inforigami.Regalo instead. A simple event sourcing \"framework\" packaged on Nuget.org at https://nuget.org/packages/Regalo/ and based entirely on my learnings from Greg Young's DDD, CQRS and Event Sourcing course. The implementation may differ from Greg's in places, but the goal is generally the same. Calling it a \"framework\" is overstating things somewhat given it's such a straightforward pattern. The code here is extracted from initial versions of my OrderManagementSystem example implementation (also on Github).",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 22, Language: C#",
+    "metadata": {
+      "author": "nbarnwell",
+      "stars": 22,
+      "forks": 4,
+      "language": "C#",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2016-03-31T14:02:51Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "nbarnwell",
+      "last_activity": "2016-03-31T14:02:51Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 22,
+        "forks": 4,
+        "watchers": 22,
+        "size_kb": 790,
+        "language": "C#",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.575390+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
