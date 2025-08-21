@@ -1,0 +1,93 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:06.669221",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_574113.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_574113",
+    "url": "https://github.com/CodelyTV/typescript-ddd-example",
+    "title": "GitHub Repository: typescript-ddd-example",
+    "description": "🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1380, Language: TypeScript",
+    "metadata": {
+      "author": "CodelyTV",
+      "stars": 1380,
+      "forks": 222,
+      "language": "TypeScript",
+      "topics": [
+        "codely",
+        "codelytv",
+        "cqrs",
+        "ddd",
+        "ddd-architecture",
+        "ddd-cqrs",
+        "ddd-example",
+        "ddd-sample",
+        "dddesign",
+        "domain-driven-design",
+        "eda",
+        "event-driven-architecture",
+        "hexagonal-architecture",
+        "javascript",
+        "mongodb",
+        "nodejs",
+        "rabbitmq",
+        "software-architecture",
+        "ts",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T20:52:37Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "CodelyTV",
+      "last_activity": "2025-08-20T20:52:37Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1380,
+        "forks": 222,
+        "watchers": 1380,
+        "size_kb": 2222,
+        "language": "TypeScript",
+        "topics": [
+          "codely",
+          "codelytv",
+          "cqrs",
+          "ddd",
+          "ddd-architecture",
+          "ddd-cqrs",
+          "ddd-example",
+          "ddd-sample",
+          "dddesign",
+          "domain-driven-design",
+          "eda",
+          "event-driven-architecture",
+          "hexagonal-architecture",
+          "javascript",
+          "mongodb",
+          "nodejs",
+          "rabbitmq",
+          "software-architecture",
+          "ts",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.574132+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
