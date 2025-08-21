@@ -1,0 +1,75 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:10:51.717916",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_006163.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_006163",
+    "url": "https://github.com/NilavPatel/dotnet-onion-architecture",
+    "title": "GitHub Repository: dotnet-onion-architecture",
+    "description": ".Net onion/clean architecture sample",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 113, Language: C#",
+    "metadata": {
+      "author": "NilavPatel",
+      "stars": 113,
+      "forks": 19,
+      "language": "C#",
+      "topics": [
+        "architectural-patterns",
+        "architecture",
+        "asp-net-core",
+        "clean",
+        "clean-architecture",
+        "csharp",
+        "entity-framework-core",
+        "moq",
+        "onion-architecture",
+        "webapi",
+        "xunit-tests"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-18T16:29:57Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "NilavPatel",
+      "last_activity": "2025-08-18T16:29:57Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 113,
+        "forks": 19,
+        "watchers": 113,
+        "size_kb": 267,
+        "language": "C#",
+        "topics": [
+          "architectural-patterns",
+          "architecture",
+          "asp-net-core",
+          "clean",
+          "clean-architecture",
+          "csharp",
+          "entity-framework-core",
+          "moq",
+          "onion-architecture",
+          "webapi",
+          "xunit-tests"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.006166+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
