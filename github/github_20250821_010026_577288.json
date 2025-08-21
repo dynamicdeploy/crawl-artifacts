@@ -1,0 +1,59 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:12:40.704798",
+    "crawler_type": "github",
+    "filename": "github_20250821_010026_577288.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010026_577288",
+    "url": "https://github.com/KishorNaik/Sol_CQRS_ES_Custom",
+    "title": "GitHub Repository: Sol_CQRS_ES_Custom",
+    "description": "Example of Custom CQRS and Event Sourcing pattern. ",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 2, Language: C#",
+    "metadata": {
+      "author": "KishorNaik",
+      "stars": 2,
+      "forks": 0,
+      "language": "C#",
+      "topics": [
+        "cqrs",
+        "cqrs-aspdotnetcore",
+        "cqrs-es"
+      ],
+      "repository_type": "github",
+      "last_updated": "2020-09-25T12:17:20Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "KishorNaik",
+      "last_activity": "2020-09-25T12:17:20Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 2,
+        "forks": 0,
+        "watchers": 2,
+        "size_kb": 36,
+        "language": "C#",
+        "topics": [
+          "cqrs",
+          "cqrs-aspdotnetcore",
+          "cqrs-es"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:26.577291+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
