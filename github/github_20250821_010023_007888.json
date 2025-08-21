@@ -1,0 +1,77 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:11:05.822920",
+    "crawler_type": "github",
+    "filename": "github_20250821_010023_007888.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010023_007888",
+    "url": "https://github.com/YALCINCAN/NET6_Clean-OnionArchitectureAPI",
+    "title": "GitHub Repository: NET6_Clean-OnionArchitectureAPI",
+    "description": "NET6,CQRS,Caching,Logging,Repository Pattern,UnitOfWork,JWT,Refresh Token,Email Confirmation,Forgot Password",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 56, Language: C#",
+    "metadata": {
+      "author": "YALCINCAN",
+      "stars": 56,
+      "forks": 17,
+      "language": "C#",
+      "topics": [
+        "cqrs-pattern",
+        "docker",
+        "fluentvalidation",
+        "inmemory-cache",
+        "jwt",
+        "mediatr",
+        "net6",
+        "redis-cache",
+        "refresh-token",
+        "repository-pattern",
+        "serilog",
+        "unitofwork-pattern"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-07-05T08:57:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "YALCINCAN",
+      "last_activity": "2025-07-05T08:57:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 56,
+        "forks": 17,
+        "watchers": 56,
+        "size_kb": 137,
+        "language": "C#",
+        "topics": [
+          "cqrs-pattern",
+          "docker",
+          "fluentvalidation",
+          "inmemory-cache",
+          "jwt",
+          "mediatr",
+          "net6",
+          "redis-cache",
+          "refresh-token",
+          "repository-pattern",
+          "serilog",
+          "unitofwork-pattern"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:23.007891+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
