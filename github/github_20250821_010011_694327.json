@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:05:47.262493",
+    "crawler_type": "github",
+    "filename": "github_20250821_010011_694327.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010011_694327",
+    "url": "https://github.com/lwluc/camunda-ddd-and-clean-architecture",
+    "title": "GitHub Repository: camunda-ddd-and-clean-architecture",
+    "description": "An example to show how you could use clean architecture and DDD elements with Camunda.",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 36, Language: Java",
+    "metadata": {
+      "author": "lwluc",
+      "stars": 36,
+      "forks": 6,
+      "language": "Java",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-10T14:44:47Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "lwluc",
+      "last_activity": "2025-05-10T14:44:47Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 36,
+        "forks": 6,
+        "watchers": 36,
+        "size_kb": 49247,
+        "language": "Java",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:11.694330+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
