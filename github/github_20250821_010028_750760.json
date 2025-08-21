@@ -1,0 +1,69 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:14:42.773377",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_750760.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_750760",
+    "url": "https://github.com/rodrigorodrigues/microservices-design-patterns",
+    "title": "GitHub Repository: microservices-design-patterns",
+    "description": "Microservice Architecture using multiple languages",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 171, Language: Java",
+    "metadata": {
+      "author": "rodrigorodrigues",
+      "stars": 171,
+      "forks": 62,
+      "language": "Java",
+      "topics": [
+        "google-cloud",
+        "java",
+        "microservice-architecture",
+        "microservice-patterns",
+        "node",
+        "react",
+        "spring-boot",
+        "webflux"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-13T11:19:30Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "rodrigorodrigues",
+      "last_activity": "2025-08-13T11:19:30Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 171,
+        "forks": 62,
+        "watchers": 171,
+        "size_kb": 23033,
+        "language": "Java",
+        "topics": [
+          "google-cloud",
+          "java",
+          "microservice-architecture",
+          "microservice-patterns",
+          "node",
+          "react",
+          "spring-boot",
+          "webflux"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.750763+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
