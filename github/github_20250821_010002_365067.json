@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:00:41.685568",
+    "crawler_type": "github",
+    "filename": "github_20250821_010002_365067.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010002_365067",
+    "url": "https://github.com/fabianmagrini/awesome-architecture",
+    "title": "GitHub Repository: awesome-architecture",
+    "description": "A curated list of resources on software architecture in the Agile and Cloud era",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 31, Language: None",
+    "metadata": {
+      "author": "fabianmagrini",
+      "stars": 31,
+      "forks": 2,
+      "language": "en",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-05-04T02:54:44Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "fabianmagrini",
+      "last_activity": "2025-05-04T02:54:44Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 31,
+        "forks": 2,
+        "watchers": 31,
+        "size_kb": 17,
+        "language": null,
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:02.365110+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
