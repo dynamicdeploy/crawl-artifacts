@@ -1,0 +1,51 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:07:59.159467",
+    "crawler_type": "github",
+    "filename": "github_20250821_010017_560664.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010017_560664",
+    "url": "https://github.com/gd-arnold/tiny-nginx",
+    "title": "GitHub Repository: tiny-nginx",
+    "description": "A lightweight, non-blocking HTTP server in C inspired by nginx's event-driven architecture",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 174, Language: C",
+    "metadata": {
+      "author": "gd-arnold",
+      "stars": 174,
+      "forks": 7,
+      "language": "C",
+      "topics": [],
+      "repository_type": "github",
+      "last_updated": "2025-08-20T19:15:40Z",
+      "has_issues": true,
+      "has_wiki": false,
+      "has_downloads": true,
+      "owner": "gd-arnold",
+      "last_activity": "2025-08-20T19:15:40Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 174,
+        "forks": 7,
+        "watchers": 174,
+        "size_kb": 85,
+        "language": "C",
+        "topics": []
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:17.560667+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
