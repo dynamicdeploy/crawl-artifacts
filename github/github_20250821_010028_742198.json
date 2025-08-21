@@ -1,0 +1,89 @@
+{
+  "upload_metadata": {
+    "upload_date": "2025-08-20T18:13:28.325096",
+    "crawler_type": "github",
+    "filename": "github_20250821_010028_742198.json",
+    "source": "github_crawler"
+  },
+  "artifact": {
+    "id": "github_20250821_010028_742198",
+    "url": "https://github.com/rmanguinho/clean-ts-api",
+    "title": "GitHub Repository: clean-ts-api",
+    "description": "API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles",
+    "artifact_type": "code_repository",
+    "source_category": "open_source",
+    "content": "GitHub repository containing software architecture examples and patterns. Stars: 1906, Language: TypeScript",
+    "metadata": {
+      "author": "rmanguinho",
+      "stars": 1906,
+      "forks": 493,
+      "language": "TypeScript",
+      "topics": [
+        "clean-architecture",
+        "clean-code",
+        "coveralls",
+        "design-patterns",
+        "docker",
+        "docker-compose",
+        "dockerfile",
+        "graphql",
+        "husky",
+        "jest",
+        "lint-staged",
+        "mongodb",
+        "nodejs",
+        "rest-api",
+        "solid",
+        "tdd",
+        "travis-ci",
+        "typescript"
+      ],
+      "repository_type": "github",
+      "last_updated": "2025-08-19T16:08:25Z",
+      "has_issues": true,
+      "has_wiki": true,
+      "has_downloads": true,
+      "owner": "rmanguinho",
+      "last_activity": "2025-08-19T16:08:25Z",
+      "type_of_artifacts_found": {
+        "diagrams": 0,
+        "documents": 0,
+        "code_files": 0,
+        "config_files": 0,
+        "architecture_files": 0,
+        "documentation_files": 0
+      },
+      "artifact_details": {},
+      "repository_stats": {
+        "stars": 1906,
+        "forks": 493,
+        "watchers": 1906,
+        "size_kb": 2936,
+        "language": "TypeScript",
+        "topics": [
+          "clean-architecture",
+          "clean-code",
+          "coveralls",
+          "design-patterns",
+          "docker",
+          "docker-compose",
+          "dockerfile",
+          "graphql",
+          "husky",
+          "jest",
+          "lint-staged",
+          "mongodb",
+          "nodejs",
+          "rest-api",
+          "solid",
+          "tdd",
+          "travis-ci",
+          "typescript"
+        ]
+      }
+    },
+    "crawled_at": "2025-08-21T01:00:28.742202+00:00",
+    "crawler_type": "github",
+    "validation_status": "pending"
+  }
+}
